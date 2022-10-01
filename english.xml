@@ -749,12 +749,12 @@ Basta parafusá-lo em uma {THING:StructureBench} usando a {THING:ItemWrench} par
     </RecordThing>
     <RecordThing>
       <Key>CartridgeMedicalAnalyser</Key>
-      <Value>Analisador Médico</Value>
+      <Value>Cartucho Analisador Médico</Value>
       <Description>Quando adicionado ao OreCore {THING:ItemTablet}, {LINK:Asura;Asura's}'s O analisador médico ReadyMed revela a saúde, dos vários órgãos dos usuários. Devido a uma falha de projeto, os modelos mais antigos eram notórios por produzir níveis de radiação de raios-x semelhantes a quasares. Avanços recentes na blindagem reduziram pela metade o risco para os usuários.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeNetworkAnalyser</Key>
-      <Value>Analisador de Redes</Value>
+      <Value>Cartucho Analisador de Redes</Value>
       <Description>Uma obra-prima menor da engenharia microeletrônica, o analisador de rede exibe a corrente, tensão e potência de uma rede de cabos, bem como de quaisquer dispositivos conectados a ela. Baseado em um amplamente copiado {LINK:Sinotai;Sinotai} design, é usado em conjunto com o OreCore {THING:ItemTablet}.</Description>
     </RecordThing>
     <RecordThing>
@@ -1145,7 +1145,7 @@ Cuidado para não pressurizar além de 10MPa ou pode fazer 'kabum'.</Description
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterOxygen</Key>
-      <Value>Cilindro (Oxigênion)</Value>
+      <Value>Cilindro (Oxigênio)</Value>
       <Description>O {SLOT:GasCanister} portátil branco de 64L é a unidade básica de entrega de {GAS:Oxygen} dos {LINK:Stationeers;Stationeer's}. Todos os recipientes de gás quando fabricados podem ser cheios até uma pressão de 8.000 kPa (80 atmosferas) e podem ser montados em um {THING:DynamicGasCanisterAir} ou {THING:StructureGasTankStorage} para reabastecimento.
 Cuidado para não pressurizar além de 10MPa ou pode fazer 'kabum'.</Description>
     </RecordThing>
@@ -1583,7 +1583,7 @@ Ele também incorpora um recurso de bloqueio/desbloqueio para evitar aberturas a
     <RecordThing>
       <Key>ItemSpacepack</Key>
       <Value>Mochila Espacial</Value>
-      <Description>A mochila espacial básica {LINK:CHAC;CHAC} não é 'tecnicamente' um jetpack, é um propulsor de gás. Ele pode ser alimentado por qualquer gás, desde que a pressão interna do {LINK:AtmosphericsPage;canister} seja maior que a pressão externa do ambiente. Se a pressão externa for maior, a mochila espacial não funcionará.
+      <Description>A mochila espacial básica {LINK:CHAC;CHAC} não é 'tecnicamente' um jetpack, é um propulsor de gás. Ele pode ser alimentado por qualquer gás, desde que a pressão interna do {LINK:AtmosphericsPage;canister} seja maior que a pressão externa do ambiente. Se a pressão externa for maior, o jetpack não funcionará.
 Indispensável para construção, mineração e movimentação geral, possui dez slots de armazenamento e permite que {LINK:Stationeers;Stationeers} voe a 3m/s, comparado ao mais poderoso {THING:ItemJetpackBasic} ou {THING:ItemHardJetpack}. Ajustar o valor do empuxo altera sua taxa de aceleração, enquanto a ativação do estabilizador faz com que a mochila espacial flutue quando uma determinada altura é atingida.
 USE: 'J' para ativar; 'espaço' para voar; 'left ctrl' para descer; e 'WASD' para mover.</Description>
     </RecordThing>
@@ -2533,7 +2533,7 @@ Ao contrário do mais avançado {THING:StructureFornace}, o forno a arco não po
     </RecordThing>
     <RecordThing>
       <Key>CartridgeElectronicReader</Key>
-      <Value>eReader</Value>
+      <Value>Cartucho eReader</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCableCoilHeavy</Key>
@@ -2745,7 +2745,7 @@ Altamente sensível à temperatura, o oxite começará a derreter assim que for 
     </RecordThing>
     <RecordThing>
       <Key>CartridgeTracker</Key>
-      <Value>Rastreador</Value>
+      <Value>Cartucho Rastreador</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasSensor</Key>
@@ -2951,7 +2951,7 @@ Insira um cartucho ou scanner colorido no tablet e pressione o botão de ativaç
     </RecordThing>
     <RecordThing>
       <Key>CartridgeOreScanner</Key>
-      <Value>Scanner de Minérios</Value>
+      <Value>Cartucho Scanner de Minérios</Value>
       <Description>Quando inserido em um {THING:ItemTablet} e usado em conjunto com um {THING:DynamicGPR}, o scanner exibirá minerais escondidos no subsolo do tablet.</Description>
     </RecordThing>
     <RecordThing>
@@ -2973,115 +2973,115 @@ Insira um cartucho ou scanner colorido no tablet e pressione o botão de ativaç
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH3</Key>
-      <Value>Heavy Cable (3-Way Corner)</Value>
+      <Value>Cabo Potente (Canto de 3 Vias)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCornerH4</Key>
-      <Value>Heavy Cable (4-Way Corner)</Value>
+      <Value>Cabo Potente (Canto de 4 Vias)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner4HBurnt</Key>
-      <Value>Burnt Heavy Cable (4-Way Corner)</Value>
+      <Value>Cabo Potente Queimado (Canto de 4 Vias)</Value>
     </RecordThing>
     <RecordThing>
       <Key>PortableSolarPanel</Key>
-      <Value>Portable Solar Panel</Value>
+      <Value>Painel Solar Portátil</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction5</Key>
-      <Value>Cable (5-Way Junction)</Value>
+      <Value>Cabo (Junção de 5 Vias)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner4</Key>
-      <Value>Cable (4-Way Corner)</Value>
+      <Value>Cabo (Canto de 4 Vias)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner4Burnt</Key>
-      <Value>Burnt Cable (4-Way Corner)</Value>
+      <Value>Cabo Queimado (Canto de 4 Vias)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction5Burnt</Key>
-      <Value>Burnt Cable (5-Way Junction)</Value>
+      <Value>Cabo Queimado (Junção de 5 Vias)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH5</Key>
-      <Value>Heavy Cable (5-Way Junction)</Value>
+      <Value>Cabo Potente (Junção de 5 Vias)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunctionH5Burnt</Key>
-      <Value>Burnt Heavy Cable (5-Way Junction)</Value>
+      <Value>Cabo Potente Queimado (Junção de 5 Vias)</Value>
     </RecordThing>
     <RecordThing>
       <Key>WallFrameCornerCut</Key>
-      <Value>Steel Frame (Corner Cut)</Value>
+      <Value>Estrutura de Aço (Canto Cortado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFlagSmall</Key>
-      <Value>Small Flag</Value>
+      <Value>Bandeira Pequena</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlagSmall</Key>
-      <Value>Kit (Small Flag)</Value>
+      <Value>Kit (Bandeira Pequena)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngled</Key>
-      <Value>Composite Cladding (Angled)</Value>
+      <Value>Revestimento Composto (Angular)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCorner</Key>
-      <Value>Composite Cladding (Angled Corner)</Value>
+      <Value>Revestimento Composto (Canto Angulado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerLong</Key>
-      <Value>Composite Cladding (Long Angled Corner)</Value>
+      <Value>Revestimento Composto (Canto Angular Longo)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledLong</Key>
-      <Value>Composite Cladding (Long Angled)</Value>
+      <Value>Revestimento Composto (Angular Longo)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingCylindrical</Key>
-      <Value>Composite Cladding (Cylindrical)</Value>
+      <Value>Revestimento Composto (Cilíndrico)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingCylindricalPanel</Key>
-      <Value>Composite Cladding (Cylindrical Panel)</Value>
+      <Value>Revestimento Composto (Painel Cilíndrico)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingSphericalCorner</Key>
-      <Value>Composite Cladding (Spherical Corner)</Value>
+      <Value>Revestimento Composto (Canto Esférico)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingSphericalCap</Key>
-      <Value>Composite Cladding (Spherical Cap)</Value>
+      <Value>Revestimento Composto (Tampa Esférica)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingSpherical</Key>
-      <Value>Composite Cladding (Spherical)</Value>
+      <Value>Revestimento Composto (Esférico)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingRoundedCorner</Key>
-      <Value>Composite Cladding (Rounded Corner)</Value>
+      <Value>Revestimento Composto (Canto Arredondado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingRounded</Key>
-      <Value>Composite Cladding (Rounded)</Value>
+      <Value>Revestimento Composto (Arredondado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingPanel</Key>
-      <Value>Composite Cladding (Panel)</Value>
+      <Value>Revestimento Composto (Painel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCompositeCladding</Key>
-      <Value>Kit (Cladding)</Value>
+      <Value>Kit (Revestimento Composto)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerLongR</Key>
-      <Value>Composite Cladding (Long Angled Mirrored Corner)</Value>
+      <Value>Revestimento Composto (Canto Espelhado Angular Longo)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureDockPortSide</Key>
-      <Value>Dock (Port Side)</Value>
+      <Value>Dock (Porta Lateral)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDockingPort</Key>
@@ -3089,883 +3089,883 @@ Insira um cartucho ou scanner colorido no tablet e pressione o botão de ativaç
     </RecordThing>
     <RecordThing>
       <Key>StructureDockShipSide</Key>
-      <Value>Dock Ship Side</Value>
+      <Value>Dock Lateral para Nave</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLightLong</Key>
-      <Value>Wall Light (Long)</Value>
+      <Value>Lâmpada de Parede (Longa)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLightLongAngled</Key>
-      <Value>Wall Light (Long Angled)</Value>
+      <Value>Lâmpada de Parede (Angular Longa)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLightLongWide</Key>
-      <Value>Wall Light (Long Wide)</Value>
+      <Value>Lâmpada de Parede(Longa e Larga)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAdvancedAirlockControl</Key>
-      <Value>Advanced Airlock</Value>
+      <Value>Airlock Avançado</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitOrganicsPrinter</Key>
-      <Value>Kit (Organics Printer)</Value>
+      <Value>Kit (Impressora de Ôrganicos)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureOrganicsPrinter</Key>
-      <Value>Organics Printer</Value>
-      <Description>Please note, the organics printer has been deprecated - it is now spawnable in Creative mode only.</Description>
+      <Value>Impressora de Ôrganicos</Value>
+      <Description>Observe que a impressora de orgânicos foi descontinuada - agora ela pode ser gerada apenas no modo Criativo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWindowIron</Key>
-      <Value>Iron Window</Value>
+      <Value>Janela de Ferro</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeFloorGrating1</Key>
-      <Value>Composite Floor Grating (Type 1)</Value>
+      <Value>Grade de Piso Composta (Tipo 1)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeFloorGrating2</Key>
-      <Value>Composite Floor Grating (Type 2)</Value>
+      <Value>Grade de Piso Composta(Tipo 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating2</Key>
-      <Value>Composite Floor Grating  (Type 2)</Value>
+      <Value>Grade de Piso Composta  (Tipo 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating3</Key>
-      <Value>Composite Floor Grating  (Type 3)</Value>
+      <Value>Grade de Piso Composta (Tipo 3)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeFloorGrating4</Key>
-      <Value>Composite Floor Grating  (Type 4)</Value>
+      <Value>Grade de Piso Composta (Tipo 4)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallPanels</Key>
-      <Value>Kit (Wall Panels)</Value>
+      <Value>Kit (Painéis de Parede)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallPanelling1</Key>
-      <Value>Composite Wall Panelling</Value>
+      <Value>Painel de Parede Composto</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCompositeFloorGrating</Key>
-      <Value>Kit (Floor Grating)</Value>
+      <Value>Kit (Grade de Piso Composta)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeRollCover</Key>
-      <Value>Composite Roll Cover</Value>
+      <Value>Cobertura de Rolo Composto</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLadder</Key>
-      <Value>Kit (Ladder)</Value>
+      <Value>Kit (Escada Vertical)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFrameCornerCut</Key>
-      <Value>Steel Frame (Corner Cut)</Value>
+      <Value>Estrutura de Aço (Corte de Canto)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling1</Key>
-      <Value>Composite Wall Panelling</Value>
+      <Value>Painel de Parede Composto 1</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling2</Key>
-      <Value>Composite Wall Panelling 2</Value>
+      <Value>Painel de Parede Composto 2</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling3</Key>
-      <Value>Composite Wall Panelling 3</Value>
+      <Value>Painel de Parede Composto 3</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling4</Key>
-      <Value>Composite Wall Panelling 4</Value>
+      <Value>Painel de Parede Composto 4</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling5</Key>
-      <Value>Composite Wall Panelling 5</Value>
+      <Value>Painel de Parede Composto 5</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling6</Key>
-      <Value>Composite Wall Panelling 6</Value>
+      <Value>Painel de Parede Composto 6</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling7</Key>
-      <Value>Composite Wall Panelling 7</Value>
+      <Value>Painel de Parede Composto 7</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling8</Key>
-      <Value>Composite Wall Panelling 8</Value>
+      <Value>Painel de Parede Composto 8</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling9</Key>
-      <Value>Composite Wall Panelling 9</Value>
+      <Value>Painel de Parede Composto 9</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling10</Key>
-      <Value>Composite Wall Panelling 10</Value>
+      <Value>Painel de Parede Composto 10</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling11</Key>
-      <Value>Composite Wall Panelling 11</Value>
+      <Value>Painel de Parede Composto 11</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling12</Key>
-      <Value>Composite Wall Panelling 12</Value>
+      <Value>Painel de Parede Composto 12</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling13</Key>
-      <Value>Composite Wall Panelling 13</Value>
+      <Value>Painel de Parede Composto 13</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling14</Key>
-      <Value>Composite Wall Panelling 14</Value>
+      <Value>Painel de Parede Composto 14</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling15</Key>
-      <Value>Composite Wall Panelling 15</Value>
+      <Value>Painel de Parede Composto 15</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling16</Key>
-      <Value>Composite Wall Panelling 16</Value>
+      <Value>Painel de Parede Composto 16</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling17</Key>
-      <Value>Composite Wall Panelling 17</Value>
+      <Value>Painel de Parede Composto 17</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling18</Key>
-      <Value>Composite Wall Panelling 18</Value>
+      <Value>Painel de Parede Composto 18</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling19</Key>
-      <Value>Composite Wall Panelling 19</Value>
+      <Value>Painel de Parede Composto 19</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling20</Key>
-      <Value>Composite Wall Panelling 20</Value>
+      <Value>Painel de Parede Composto 20</Value>
     </RecordThing>
     <RecordThing>
       <Key>CompositeWallPanelling21</Key>
-      <Value>Composite Wall Panelling 21</Value>
+      <Value>Painel de Parede Composto 21</Value>
     </RecordThing>
     <RecordThing>
       <Key>Corner1</Key>
-      <Value>Corner</Value>
+      <Value>Canto</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlat</Key>
-      <Value>Wall (Flat)</Value>
+      <Value>Parede (Plana)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArch</Key>
-      <Value>Wall (Arch)</Value>
+      <Value>Parede (Arqueada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchArrow</Key>
-      <Value>Wall (Arch Arrow)</Value>
+      <Value>Parede (Arqueada com Seta)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchPlating</Key>
-      <Value>Wall (Arch Plating)</Value>
+      <Value>Parede (Chapa Arqueada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchTwoTone</Key>
-      <Value>Wall (Arch Two Tone)</Value>
+      <Value>Parede (Arqueada Dois Tons)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallGeometryCorner</Key>
-      <Value>Wall (Geometry Corner)</Value>
+      <Value>Parede (Canto Geométrico)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallGeometryStreight</Key>
-      <Value>Wall (Geometry Straight)</Value>
+      <Value>Parede (Reta Geométrica)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallGeometryT</Key>
-      <Value>Wall (Geometry T)</Value>
+      <Value>Parede (T Geométrico)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallGeometryTMirrored</Key>
-      <Value>Wall (Geometry T Mirrored)</Value>
+      <Value>Parede (T Geométrico Espelhado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedArch</Key>
-      <Value>Wall (Padded Arch)</Value>
+      <Value>Parede (Arqueada Acolchoada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedArchLightsFittings</Key>
-      <Value>Wall (Padded Arch Lights Fittings)</Value>
+      <Value>Parede (Arqueada Acolchoada Encaixes de Luzes)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPadding</Key>
-      <Value>Wall (Padding)</Value>
+      <Value>Parede (Acolchoada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddingArchVent</Key>
-      <Value>Wall (Padding Arch Vent)</Value>
+      <Value>Parede (Arqueada Acolchoada com Ventilação)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddingLightFitting</Key>
-      <Value>Wall (Padding Light Fitting)</Value>
+      <Value>Parede (Acolchoada Encaixes de Luzes)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddingThin</Key>
-      <Value>Wall (Padding Thin)</Value>
+      <Value>Parede (Acolchoada Fina)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPlating</Key>
-      <Value>Wall (Plating)</Value>
+      <Value>Parede (Placas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallSimple</Key>
-      <Value>Wall (Simple)</Value>
+      <Value>Parede (Simples)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallSmallPanels</Key>
-      <Value>Wall (Small Panels)</Value>
+      <Value>Parede (Painéis Pequenos)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallLargePanel</Key>
-      <Value>Wall (Large Panel)</Value>
+      <Value>Parede (Painel Grande)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallSmallPanelsAndHatch</Key>
-      <Value>Wall (Small Panels And Hatch)</Value>
+      <Value>Parede (Painéis Pequenos e Escotilha)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallSmallPanelsArrow</Key>
-      <Value>Wall (Small Panels Arrow)</Value>
+      <Value>Wall (Painéis Pequenos com Seta)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallSmallPanelsMonoChrome</Key>
-      <Value>Wall (Small Panels Mono Chrome)</Value>
+      <Value>Wall (Painéis Pequenos Mono Cromados)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallSmallPanelsTwoTone</Key>
-      <Value>Wall (Small Panels Two Tone)</Value>
+      <Value>Wall (Painéis Pequenos Dois Tons)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallLargePanelArrow</Key>
-      <Value>Wall (Large Panel Arrow)</Value>
+      <Value>Wall (Painel Grande com Seta)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallArch</Key>
-      <Value>Kit (Arched Wall)</Value>
+      <Value>Kit (Parede Arqueada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallFlat</Key>
-      <Value>Kit (Flat Wall)</Value>
+      <Value>Kit (Parede Plana)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallGeometry</Key>
-      <Value>Kit (Geometric Wall)</Value>
+      <Value>Kit (Parede Geométrica)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWallPadded</Key>
-      <Value>Kit (Padded Wall)</Value>
+      <Value>Kit (Parede Acolchoada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLadder</Key>
-      <Value>Ladder</Value>
+      <Value>Escada Vertical</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeGuide</Key>
-      <Value>Guide</Value>
+      <Value>Cartucho Guia</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeCrossJunction4</Key>
-      <Value>Pipe (4-Way Corner)</Value>
+      <Value>Tubo (Canto de 4 Vias)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAuthoringTool</Key>
-      <Value>Item Authoring Tool</Value>
+      <Value>Ferramenta de Criação de Itens</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketEngineDestroyed</Key>
-      <Value>Rocket Engine (Destroyed)</Value>
+      <Value>Motor de Foguete (Destruído)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageConstructor</Key>
-      <Value>Debug Wreckage Constructor</Value>
+      <Value>Debug Construtor de Destroços</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckage1</Key>
-      <Value>Wreckage</Value>
+      <Value>Destroços</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckage2</Key>
-      <Value>Wreckage</Value>
+      <Value>Destroços</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckage3</Key>
-      <Value>Wreckage</Value>
+      <Value>Destroços</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckage4</Key>
-      <Value>Wreckage</Value>
+      <Value>Destroços</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeAccessController</Key>
-      <Value>Cartridge (Access Controller)</Value>
+      <Value>Cartucho (Controlador de Acesso)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardBlack</Key>
-      <Value>Access Card (Black)</Value>
+      <Value>Cartão de Acesso (Preto)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardBlue</Key>
-      <Value>Access Card (Blue)</Value>
+      <Value>Cartão de Acesso (Azul)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardBrown</Key>
-      <Value>Access Card (Brown)</Value>
+      <Value>Cartão de Acesso(Marrom)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardGray</Key>
-      <Value>Access Card (Gray)</Value>
+      <Value>Cartão de Acesso (Cinza)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardGreen</Key>
-      <Value>Access Card (Green)</Value>
+      <Value>Cartão de Acesso (Verde)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardKhaki</Key>
-      <Value>Access Card (Khaki)</Value>
+      <Value>Cartão de Acesso (Caqui)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardOrange</Key>
-      <Value>Access Card (Orange)</Value>
+      <Value>Cartão de Acesso(Laranja)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardPink</Key>
-      <Value>Access Card (Pink)</Value>
+      <Value>Cartão de Acesso (Rosa)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardPurple</Key>
-      <Value>Access Card (Purple)</Value>
+      <Value>Cartão de Acesso (Roxo)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardRed</Key>
-      <Value>Access Card (Red)</Value>
+      <Value>Cartão de Acesso (Vermelho)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardWhite</Key>
-      <Value>Access Card (White)</Value>
+      <Value>Cartão de Acesso (Branco)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AccessCardYellow</Key>
-      <Value>Access Card (Yellow)</Value>
+      <Value>Cartão de Acesso (Amarelo)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSecurityPrinter</Key>
-      <Value>Security Printer</Value>
-      <Description>Any {LINK:Stationeer;Stationeer} concerned about security needs the {LINK:Harkwell;Harkwell-designed} Vigilant-E security printer. Use the Vigilant-E to create a {THING:CartridgeAccessController}, in order to restrict access to different parts of your base via keycards like the {THING:AccessCardBlue}. The printer also makes a variety of weapons and ammunitions to defend your base against any hostile, aggressive or just slightly rude entites you encounter as you explore the Solar System.
+      <Value>Impressora Itens de Segurança</Value>
+      <Description>Qualquer {LINK:Stationeer;Stationeer} preocupado com a segurança precisa da impressora de segurança Vigilant-E {LINK:Harkwell;Harkwell-designed}. Use o Vigilant-E para criar um {THING:CartridgeAccessController}, para restringir o acesso a diferentes partes da sua base por meio de cartões-chave como o {THING:AccessCardBlue}. A impressora também faz uma variedade de armas e munições para defender sua base contra qualquer entidade hostil, agressiva ou apenas um pouco rude que você encontrar enquanto explora o Sistema Solar.
 </Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSecurityPrinter</Key>
-      <Value>Kit (Security Printer)</Value>
+      <Value>Kit (Impressora Itens de Segurança)</Value>
     </RecordThing>
     <RecordThing>
       <Key>Handgun</Key>
-      <Value>Handgun</Value>
+      <Value>Pistola</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAmmoBox</Key>
-      <Value>Ammo Box</Value>
+      <Value>Caixa de Munições</Value>
     </RecordThing>
     <RecordThing>
       <Key>HandgunMagazine</Key>
-      <Value>Handgun Magazine</Value>
+      <Value>Carregador de Pistola</Value>
     </RecordThing>
     <RecordThing>
       <Key>SMGMagazine</Key>
-      <Value>SMG Magazine</Value>
+      <Value>Carregador SMG</Value>
     </RecordThing>
     <RecordThing>
       <Key>FireArmSMG</Key>
-      <Value>Fire Arm SMG</Value>
+      <Value>Arma de Fogo SMG</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureElectrolyzer</Key>
-      <Value>Electrolyzer</Value>
-      <Description>The {LINK:Norsec;Norsec-designed} Electrolyzer splits water into hydrogen and {GAS:Oxygen}. Employing unknown proprietary technology, the device uses water's latent heat as the energy to drive the electrosis process. If there is a downside to this near-miraculous fission, it's that the device is limited by the quantity of power available, which is used to maintain the temperature output. In other words, the machine works best with hot gas.</Description>
+      <Value>Eletrolisador</Value>
+      <Description>O eletrolisador {LINK:Norsec;Norsec-designed} divide a água em hidrogênio e {GAS:Oxygen}. Empregando tecnologia proprietária desconhecida, o dispositivo usa o calor latente da água como energia para conduzir o processo de eletrose. Se há uma desvantagem nessa fissão quase milagrosa, é que o dispositivo é limitado pela quantidade de energia disponível, que é usada para manter a saída de temperatura. Em outras palavras, a máquina funciona melhor com gás quente.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureElevatorShaft</Key>
-      <Value>Elevator Shaft</Value>
+      <Value>Eixo de Elevador</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitElevator</Key>
-      <Value>Kit (Elevator)</Value>
+      <Value>Kit (Elevador)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ElevatorCarrage</Key>
-      <Value>Elevator</Value>
+      <Value>Elevador</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureElevatorLevelFront</Key>
-      <Value>Elevator Level</Value>
+      <Value>Nível do Elevador</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCrateMount</Key>
-      <Value>Container Mount</Value>
+      <Value>Suporte de Contêiner</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCrateMount</Key>
-      <Value>Kit (Container Mount)</Value>
+      <Value>Kit (Suporte de Contêiner)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicMirror</Key>
-      <Value>Logic Mirror</Value>
+      <Value>Espelho Lógico</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardHashDisplay</Key>
-      <Value>Hash Display</Value>
+      <Value>Display Hash</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureHydroponicsStation</Key>
-      <Value>Hydroponics Station</Value>
+      <Value>Estação de Hidroponia</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHydroponicStation</Key>
-      <Value>Kit (Hydroponic Station)</Value>
+      <Value>Kit (Estação de Hidroponia)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureDiodeSlide</Key>
-      <Value>Diode Slide</Value>
+      <Value>Diodo Deslizante</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterSmart</Key>
-      <Value>Gas Canister (Smart)</Value>
+      <Value>Cilindro de Gás (Smart)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeConfiguration</Key>
-      <Value>Configuration</Value>
+      <Value>Cartucho Configuração</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCrate</Key>
-      <Value>Kit (Crate)</Value>
+      <Value>Kit (Contêiner)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardGraphDisplay</Key>
-      <Value>Graph Display</Value>
+      <Value>Display Gráfico</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMotherShipCore</Key>
-      <Value>Kit (Mothership)</Value>
+      <Value>Kit (Nave Mãe)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDynamicScrubber</Key>
-      <Value>Kit (Portable Scrubber)</Value>
+      <Value>Kit (Purificador de Ar Portátil)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDynamicAirCon</Key>
-      <Value>Kit (Portable Air Conditioner)</Value>
+      <Value>Kit (Ar Condicionado Portátil)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeValve</Key>
-      <Value>Kit (Pipe Valve)</Value>
+      <Value>Kit (Válvula de Tubos)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicGenerator</Key>
-      <Value>Kit (Portable Generator)</Value>
+      <Value>Kit (Gerador Portátil)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureVendingMachine</Key>
-      <Value>Vending Machine</Value>
-      <Description>The {LINK:Xigo;Xigo-designed} 'Slot Mate' vending machine allows storage of almost any item, while also operating as a distribution point for working with {LINK:TradingPage;Traders}. You cannot trade without a vending machine, or its more advanced equivalent, the {THING:StructureRefrigeratedVendingMachine}. Each vending machine can hold up to 100 stacks.</Description>
+      <Value>Máquina de Vendas</Value>
+      <Description>A máquina de venda automática 'Slot Mate' {LINK:Xigo;Xigo-designed} permite o armazenamento de quase qualquer item, enquanto também funciona como um ponto de distribuição para trabalhar com {LINK:TradingPage;Traders}. Você não pode negociar sem uma máquina de venda automática ou seu equivalente mais avançado, a {THING:StructureRefrigeratedVendingMachine}. Cada máquina de venda automática pode conter até 100 pilhas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachine</Key>
-      <Value>Kit (Vending Machine)</Value>
+      <Value>Kit (Máquina de Vendas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicSlotReader</Key>
-      <Value>Slot Reader</Value>
+      <Value>Leitor de Slot</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicBatchReader</Key>
-      <Value>Batch Reader</Value>
+      <Value>Leitor de Lotes</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicReagentReader</Key>
-      <Value>Reagent Reader</Value>
+      <Value>Leitor de Reagentes</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardSuit</Key>
-      <Value>Hardsuit</Value>
+      <Value>Traje de Proteção (HARDSUIT)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardsuitHelmet</Key>
-      <Value>Hardsuit Helmet</Value>
-      <Description>The Hardsuit Helmet is similar to the {THING:ItemSpaceHelmet}, but can withstand higher temperatures and pressures. It's perfect for enduring harsh enviroments like Venus and Vulcan.</Description>
+      <Value>Capacete de Proteção (HARDSUIT)</Value>
+      <Description>O Capacete Hardsuit é semelhante ao {THING:ItemSpaceHelmet}, mas pode suportar temperaturas e pressões mais altas. É perfeito para suportar ambientes agressivos como Vênus e Vulcano.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWearLamp</Key>
-      <Value>Headlamp</Value>
+      <Value>Lâmpada de Cabeça</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTurbineGenerator</Key>
-      <Value>Turbine Generator</Value>
+      <Value>Gerador de Turbina</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurbineGenerator</Key>
-      <Value>Kit (Turbine Generator)</Value>
+      <Value>Kit (Gerador de Turbina)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentSilver</Key>
-      <Value>Silver Powder</Value>
+      <Value>Pó de Prata</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentPotassiumIodide</Key>
-      <Value>Potassium Iodide Powder</Value>
+      <Value>Pó de Iodeto de Potássio</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentInvar</Key>
-      <Value>Invar Powder</Value>
+      <Value>Pó de Invar</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentElectrum</Key>
-      <Value>Electrum Powder</Value>
+      <Value>Pó de Electrum</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentGold</Key>
-      <Value>Gold Powder</Value>
+      <Value>Pó de Ouro</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureUnloader</Key>
-      <Value>Unloader</Value>
-      <Description>The {LINK:Xigo;Xigo} Re:Gurge is a handy unit for unloading any items inserted into it, and feeding them into a chute network. For instance, if you add a full {THING:ItemMiningBelt}, the Re:Gurge will empty a mining belt of its contents, insert them into the chute network, then insert the mining belt itself. A {THING:StructureSorter} is recommended to reclaim the mining belt.
+      <Value>Descarregador</Value>
+      <Description>O {LINK:Xigo;Xigo} Re:Gurge é uma unidade útil para descarregar quaisquer itens inseridos nele e alimentá-los em uma rede de chutes. Por exemplo, se você adicionar um {THING:ItemMiningBelt} completo, o Re:Gurge esvaziará um cinturão de mineração de seu conteúdo, os inserirá na rede de chutes e, em seguida, inserirá o próprio cinturão de mineração. Um {THING:StructureSorter} é recomendado para recuperar o cinturão de mineração.
 
-Output = 0 exporting the main item
-Output = 1 exporting items inside and eventually the main item.</Description>
+Saída = 0 exporta o item principal
+Saída = 1 exporta outros itens dentro e, eventualmente, o item principal.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ReagentFenoxitone</Key>
-      <Value>Fenoxitone Powder</Value>
-      <Description>Effectively deprecated. Use {THING:ItemFern} directly.</Description>
+      <Value>Pó de Fenoxitona</Value>
+      <Description>Efetivamente obsoleto. Use {THING:ItemFern} diretamente.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePlatformLadderOpen</Key>
-      <Value>Ladder Platform</Value>
+      <Value>Plataforma Escada Vertical</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLadderEnd</Key>
-      <Value>Ladder End</Value>
+      <Value>Plataforma Escada Vertical (Final)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLockerSmall</Key>
-      <Value>Locker (Small)</Value>
+      <Value>Armário (Pequeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicBatchSlotReader</Key>
-      <Value>Batch Slot Reader</Value>
+      <Value>Leitor de Slot em Lotes</Value>
     </RecordThing>
     <RecordThing>
       <Key>CircuitboardAdvAirlockControl</Key>
-      <Value>Advanced Airlock</Value>
+      <Value>Circuito de Airlock Avançada</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPressurePlate</Key>
-      <Value>Kit (Trigger Plate)</Value>
+      <Value>Kit (Placa de Pressão)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePressurePlateLarge</Key>
-      <Value>Trigger Plate (Large)</Value>
+      <Value>Placa de Pressão (Grande)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePressurePlateMedium</Key>
-      <Value>Trigger Plate (Medium)</Value>
+      <Value>Placa de Pressão (Média)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePressurePlateSmall</Key>
-      <Value>Trigger Plate (Small)</Value>
+      <Value>Placa de Pressão (Pequena)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicCanister</Key>
-      <Value>Kit (Portable Gas Tank)</Value>
+      <Value>Kit (Tanque de Gás Portátil)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicLiquidCanister</Key>
-      <Value>Kit (Portable Liquid Tank)</Value>
-      <Description>This kit produces a {THING:DynamicLiquidCanisterEmpty}.</Description>
+      <Value>Kit (Tanque de Líquido Portátil)</Value>
+      <Description>Este kit produz um {THING:DynamicLiquidCanisterEmpty}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerBlue</Key>
-      <Value>Flower (Blue)</Value>
+      <Value>Flor (Azul)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerOrange</Key>
-      <Value>Flower (Orange)</Value>
+      <Value>Flor (Laranja)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerRed</Key>
-      <Value>Flower (Red)</Value>
+      <Value>Flor (Vermelha)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerYellow</Key>
-      <Value>Flower (Yellow)</Value>
+      <Value>Flor (Amarela)</Value>
     </RecordThing>
     <RecordThing>
       <Key>AppliancePaintMixer</Key>
-      <Value>Paint Mixer</Value>
+      <Value>Misturador de Tintas</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentColorBlue</Key>
-      <Value>Color Dye (Blue)</Value>
+      <Value>Corante (Azul)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentCarbon</Key>
-      <Value>Carbon Powder</Value>
+      <Value>Pó de Carbono</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentColorGreen</Key>
-      <Value>Color Dye (Green)</Value>
+      <Value>Corante (Verde)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentColorOrange</Key>
-      <Value>Color Dye (Orange)</Value>
+      <Value>Corante (Laranja)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentColorRed</Key>
-      <Value>Color Dye (Red)</Value>
+      <Value>Corante (Vermelho)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentColorYellow</Key>
-      <Value>Color Dye (Yellow)</Value>
+      <Value>Corante (Amarelo)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemFlowerGreen</Key>
-      <Value>Flower (Green)</Value>
+      <Value>Flor (Verde)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxideL</Key>
-      <Value>Heavy Filter (Carbon Dioxide)</Value>
+      <Value>Filtro Potente (Dióxido de Carbono)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterCarbonDioxideM</Key>
-      <Value>Medium Filter (Carbon Dioxide)</Value>
+      <Value>Filtro Médio (Dióxido de Carbono)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogenL</Key>
-      <Value>Heavy Filter (Nitrogen)</Value>
+      <Value>Filtro Potente (Nitrogênio)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrogenM</Key>
-      <Value>Medium Filter (Nitrogen)</Value>
+      <Value>Filtro Médio (Nitrogênio)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterOxygenL</Key>
-      <Value>Heavy Filter (Oxygen)</Value>
+      <Value>Filtro Potente (Oxigênio)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterOxygenM</Key>
-      <Value>Medium Filter (Oxygen)</Value>
+      <Value>Filtro Médio (Oxigênio)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutantsL</Key>
-      <Value>Heavy Filter (Pollutants)</Value>
+      <Value>Filtro Potente (Poluentes)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterPollutantsM</Key>
-      <Value>Medium Filter (Pollutants)</Value>
+      <Value>Filtro Médio (Poluentes)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatilesL</Key>
-      <Value>Heavy Filter (Volatiles)</Value>
+      <Value>Filtro Potente (Voláteis)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterVolatilesM</Key>
-      <Value>Medium Filter (Volatiles)</Value>
+      <Value>Filtro Médio (Voláteis)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWaterL</Key>
-      <Value>Heavy Filter (Water)</Value>
+      <Value>Filtro Potente (Água)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterWaterM</Key>
-      <Value>Medium Filter (Water)</Value>
+      <Value>Filtro Médio (Água)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMushroom</Key>
-      <Value>Mushroom</Value>
-      <Description>A tasty food item. Unlike normal plants, it consumes {GAS:Oxygen} and outputs {GAS:CarbonDioxide} and will only grow when not in sunlight.</Description>
+      <Value>Cogumelo</Value>
+      <Description>Um alimento saboroso. Ao contrário das plantas normais, consome {GAS:Oxygen} e produz {GAS:CarbonDioxide} e só crescerá quando não estiver sob a luz do sol.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPumpkin</Key>
-      <Value>Pumpkin</Value>
+      <Value>Abóbora</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemRice</Key>
-      <Value>Rice</Value>
+      <Value>Arroz</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPumpkinPie</Key>
-      <Value>Pumpkin Pie</Value>
+      <Value>Torta de Abóbora</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardBackpack</Key>
-      <Value>Hardsuit Backpack</Value>
-      <Description>This backpack can be useful when you are working inside and don't need to fly around.</Description>
+      <Value>Mochila (HARDSUIT)</Value>
+      <Description>Esta mochila pode ser útil quando você está trabalhando dentro de casa e não precisa voar.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemHardJetpack</Key>
-      <Value>Hardsuit Jetpack</Value>
-      <Description>The {LINK:Norsec;Norsec} jetpack isn't 'technically' a jetpack at all, it's a gas thruster. It can be powered by any gas, so long as the internal pressure of the {LINK:AtmosphericsPage;canister} is higher than the ambient external pressure. If the external pressure is greater, the spacepack will not function. Adjusting the thrust value alters your rate of acceleration, while activating the stablizer causes the spacepack to hover when a given height is reached.
-The hardsuit jetpack is capable of much higher speeds than the {THING:ItemJetpackBasic} - up to 15m/s. Indispensible for building, mining and general movement, it has fourteen storage slots.
-USE: 'J' to activate; 'space' to fly up; 'left ctrl' to descend; and 'WASD' to move.</Description>
+      <Value>Jetpack (Hardsuit)</Value>
+      <Description>O jetpack {LINK:Norsec;Norsec} não é 'tecnicamente' um jetpack, é um propulsor de gás. Ele pode ser alimentado por qualquer gás, desde que a pressão interna do {LINK:AtmosphericsPage;canister} seja maior que a pressão externa do ambiente. Se a pressão externa for maior, o pacote de espaço não funcionará. Ajustar o valor do empuxo altera sua taxa de aceleração, enquanto a ativação do estabilizador faz com que o jetpack flutue quando uma determinada altura é atingida.
+O jetpack hardsuit é capaz de velocidades muito mais altas do que o {THING:ItemJetpackBasic} - até 15m/s. Indispensável para construção, mineração e movimentação geral, possui quatorze compartimentos de armazenamento.
+USE: 'J' para ativar; 'espaço' para subir; 'left ctrl' para descer; e 'WASD' para mover.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicHydroponics</Key>
-      <Value>Portable Hydroponics</Value>
+      <Value>Hidroponia Portátil</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicHydroponics</Key>
-      <Value>Kit (Portable Hydroponics)</Value>
+      <Value>Kit (Hidroponia Portátil)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureKlaxon</Key>
-      <Value>Klaxon Speaker</Value>
-      <Description>Klaxons allow you to play over 50 announcemets and sounds, depending on your {LINK:LogicPage;Logic} set-up. Set the mode to select the output.</Description>
+      <Value>Alto-falante Klaxon</Value>
+      <Description>O Klaxons permite que você toque mais de 50 anúncios e sons, dependendo da configuração do seu {LINK:LogicPage;Logic}. Defina o modo para selecionar a saída.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSpeaker</Key>
-      <Value>Kit (Speaker)</Value>
+      <Value>Kit (Alto-falante)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeOreScannerColor</Key>
-      <Value>Ore Scanner (Color)</Value>
-      <Description>When inserted into a {THING:ItemTablet} and used in conjunction with a {THING:DynamicGPR}, the scanner will display minerals hidden underground in different colors on the tablet.
+      <Value>Cartucho Scanner de Minérios (Colorido)</Value>
+      <Description>Quando inserido em um {THING:ItemTablet} e usado em conjunto com um {THING:DynamicGPR}, o scanner exibirá minerais escondidos no subsolo em cores diferentes no tablet.
 
-Iron and Nickle = red 
-Ice, Lead, Cobalt = cyan
-Gold and Silver = green
-Coal and Silicon = magenta
-Copper and Oxite = yellow
-Volatiles and Uranium = white</Description>
+Ferro e Níquel = Vermelho
+Gelo, Chumbo, Cobalto = Ciano
+Ouro e Prata = Verde
+Carvão e Silício = Magenta
+Cobre e Oxite = Amarelo
+Voláteis e Urânio = Branco</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicWriterSwitch</Key>
-      <Value>Logic Writer Switch</Value>
+      <Value>Escritor Lógico (Interruptor)</Value>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardProgrammableChip</Key>
-      <Value>IC Editor Motherboard</Value>
-      <Description>When placed in a {THING:StructureComputer}, the IC Editor allows players to write and edit IC code, which can then be uploaded to a {THING:ItemIntegratedCircuit10} if housed in an {THING:StructureCircuitHousing}.</Description>
+      <Value>Placa Mãe Programadora de C.I</Value>
+      <Description>Quando colocado em um {THING:StructureComputer}, o IC Editor permite que os jogadores escrevam e editem o código IC, que pode ser enviado para um {THING:ItemIntegratedCircuit10} se colocado em um {THING:StructureCircuitHousing}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLogicCircuit</Key>
-      <Value>Kit (IC Housing)</Value>
+      <Value>Kit (Conector de C.I)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCircuitHousing</Key>
-      <Value>IC Housing</Value>
+      <Value>Conector de C.I</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemIntegratedCircuit10</Key>
-      <Value>Integrated Circuit (IC10)</Value>
+      <Value>Circuito Integrado (IC10)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureHydroponicsAutomated</Key>
-      <Value>Automated Hydroponics</Value>
+      <Value>Hidroponia Automatizada</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHydroponicAutomated</Key>
-      <Value>Kit (Automated Hydroponics)</Value>
+      <Value>Kit (Hidroponia Automatizada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBasketBall</Key>
-      <Value>Basket Ball</Value>
+      <Value>Bola de Basquete</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBasket</Key>
-      <Value>Kit (Basket)</Value>
+      <Value>Kit (Basquete)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureBasketHoop</Key>
-      <Value>Basket Hoop</Value>
+      <Value>Cesta de Basquete</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrousOxide</Key>
-      <Value>Filter (Nitrous Oxide)</Value>
+      <Value>Filtro (Óxido Nitroso)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrousOxideL</Key>
-      <Value>Heavy Filter (Nitrous Oxide)</Value>
+      <Value>Filtro Potente (Óxido Nitroso)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasFilterNitrousOxideM</Key>
-      <Value>Medium Filter (Nitrous Oxide)</Value>
+      <Value>Filtro Médio (Óxido Nitroso)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGasCanisterNitrousOxide</Key>
-      <Value>Gas Canister (Sleeping)</Value>
+      <Value>Cilindro (Gás do Sono - N2O)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemNVG</Key>
-      <Value>Night Vision Goggles</Value>
+      <Value>Óculos de Visão Noturna</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemGlasses</Key>
-      <Value>Glasses</Value>
+      <Value>Óculos</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicHashGen</Key>
-      <Value>Logic Hash Generator</Value>
+      <Value>Gerador Lógico de Hash's</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureShuttleLandingPad</Key>
-      <Value>Landing Pad</Value>
-      <Description>Landing pad capable of handling a small trade shuttle. When connected to a {THING:StructureComputer} containing a {THING:MotherboardComms}, a {THING:StructureSatelliteDish}, and a {THING:StructureVendingMachine} enables the ability to trade with suppliers. You need a communications signal of 95% or above to establish reliable communications with a trader.</Description>
+      <Value>Plataforma de Pouso</Value>
+      <Description>Plataforma de pouso capaz de lidar com um pequeno ônibus comercial. Quando conectado a um {THING:StructureComputer} contendo um {THING:MotherboardComms}, um {THING:StructureSatelliteDish} e um {THING:StructureVendingMachine} habilita a capacidade de negociar com fornecedores. Você precisa de um sinal de comunicação de 95% ou mais para estabelecer comunicações confiáveis ​​com um trader.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLandingPad</Key>
-      <Value>Kit (Landing Pad)</Value>
+      <Value>Kit (Plataforma de Pouso)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSatelliteDish</Key>
-      <Value>Satellite Dish</Value>
-      <Description>This large communications unit can be used to communicate with nearby trade vessels.
+      <Value>Antena Parabólica</Value>
+      <Description>Esta grande unidade de comunicação pode ser usada para se comunicar com embarcações comerciais próximas.
       
-When connected to a {THING:StructureComputer} containing a {THING:MotherboardComms} motherboard, a {THING:StructureShuttleLandingPad}, and a {THING:StructureVendingMachine}, this allows Stationeers to trade with suppliers. Adjust its horizontal and vertical attributes either directly or through logic. You need a communications signal of 95% or above to establish reliable communications with a trader.</Description>
+Quando conectado a um {THING:StructureComputer} contendo uma placa-mãe {THING:MotherboardComms}, um {THING:StructureShuttleLandingPad} e um {THING:StructureVendingMachine}, isso permite que os Stationeers negociem com fornecedores. Ajuste seus atributos horizontais e verticais diretamente ou por meio da lógica. Você precisa de um sinal de comunicação de 95% ou mais para estabelecer comunicações confiáveis ​​com um trader.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSatelliteDish</Key>
-      <Value>Kit (Satellite Dish)</Value>
+      <Value>Kit (Antena Parabólica)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlasticSheets</Key>
-      <Value>Plastic Sheets</Value>
+      <Value>Chapas de Plástico</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAlienMushroom</Key>
-      <Value>Alien Mushroom</Value>
+      <Value>Cogumelo Alienígena</Value>
     </RecordThing>
     <RecordThing>
       <Key>MotherboardComms</Key>
-      <Value>Communications Motherboard</Value>
-      <Description>When placed in a {THING:StructureComputer} and connected to a {THING:StructureShuttleLandingPad}, a {THING:StructureSatelliteDish}, and a {THING:StructureVendingMachine} allows Stationeers to trade with suppliers. Adjust the horizontal and vertical attributes of the {THING:StructureSatelliteDish} either directly or through logic. You need a communications signal of 95% or above to establish reliable communications with a trader.</Description>
+      <Value>Placa-Mãe de Comunicações</Value>
+      <Description>Quando colocado em um {THING:StructureComputer} e conectado a um {THING:StructureShuttleLandingPad}, um {THING:StructureSatelliteDish} e um {THING:StructureVendingMachine} permite que os Stationeers negociem com fornecedores. Ajuste os atributos horizontais e verticais do {THING:StructureSatelliteDish} diretamente ou por meio da lógica. Você precisa de um sinal de comunicação de 95% ou mais para estabelecer comunicações confiáveis ​​com um trader.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMarineBodyArmor</Key>
-      <Value>Marine Armor</Value>
+      <Value>Armadura de Fuzileiro</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMarineHelmet</Key>
-      <Value>Marine Helmet</Value>
+      <Value>Capacete de Fuzileiro</Value>
     </RecordThing>
     <RecordThing>
       <Key>UniformMarine</Key>
-      <Value>Marine Uniform</Value>
+      <Value>Uniforme de Fuzileiro</Value>
     </RecordThing>
     <RecordThing>
       <Key>CardboardBox</Key>
-      <Value>Cardboard Box</Value>
+      <Value>Caixa de Papelão</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallLightBattery</Key>
-      <Value>Wall Light (Battery)</Value>
+      <Value>Lâmpada de Parede (Bateria)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicPortal</Key>
@@ -3973,41 +3973,41 @@ When connected to a {THING:StructureComputer} containing a {THING:MotherboardCom
     </RecordThing>
     <RecordThing>
       <Key>ItemArcWelder</Key>
-      <Value>Arc Welder</Value>
+      <Value>Solda Elétrica</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningDrillHeavy</Key>
-      <Value>Mining Drill (Heavy)</Value>
-      <Description>Sometimes mining trips require something a little bigger to bring home the goods. This scaled up version of the {LINK:Recurso;Recurso} 'Topo' design {THING:ItemMiningDrill} can literally move mountains. The heavy mining drill will remove more ground and mine {LINK:OrePage;ore} more quickly than the standard mining drill. The heavy mining drill is also resilient to temperature and pressure. So no matter what planet or extreme weather conditions may be present, the Recurso heavy mining drill will get the job done.</Description>
+      <Value>Broca de Mineração (Potente)</Value>
+      <Description>Às vezes, as viagens de mineração exigem algo um pouco maior para trazer as mercadorias para casa. Esta versão ampliada do design 'Topo' {LINK:Recurso;Recurso} {THING:ItemMiningDrill} pode literalmente mover montanhas. A broca de mineração potente removerá mais solo e minerará {LINK:OrePage;ore} mais rapidamente do que a broca de mineração padrão. A broca de mineração potente também é resiliente à temperatura e pressão. Portanto, independentemente do planeta ou condições climáticas extremas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>RoverCargo</Key>
-      <Value>Rover (Cargo)</Value>
+      <Value>Rover (Carga)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemCreditCard</Key>
-      <Value>Credit Card</Value>
+      <Value>Cartão de Crédito</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRover</Key>
-      <Value>Rover Frame</Value>
+      <Value>Estrutura do Rover</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRoverFrame</Key>
-      <Value>Kit (Rover Frame)</Value>
-      <Description>Not spawnable.</Description>
+      <Value>Kit (Estrutura do Rover)</Value>
+      <Description>Não spawna.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureStairs4x2Rails</Key>
-      <Value>Stairs with Rails</Value>
+      <Value>Escadas com Corrimão</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStairs4x2RailL</Key>
-      <Value>Stairs with Rail (Left)</Value>
+      <Value>Escada com Corrimão (Esquerda)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureStairs4x2RailR</Key>
-      <Value>Stairs with Rail (Right)</Value>
+      <Value>Escada com Corrimão (Direita)</Value>
     </RecordThing>
     <RecordThing>
       <Key>Phobos</Key>
@@ -4015,19 +4015,19 @@ When connected to a {THING:StructureComputer} containing a {THING:MotherboardCom
     </RecordThing>
     <RecordThing>
       <Key>Meteorite</Key>
-      <Value>Meteorite</Value>
+      <Value>Meteorito</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutoMiner</Key>
-      <Value>Kit (Auto Miner)</Value>
+      <Value>Kit (Mineradora Automática)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterNitrousOxide</Key>
-      <Value>Portable Gas Tank (Nitrous Oxide)</Value>
+      <Value>Tanque de Gás Portátil (Óxido Nitroso)</Value>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterPollutants</Key>
-      <Value>Portable Gas Tank (Pollutants)</Value>
+      <Value>Tanque de Gás Portátil (Poluentes)</Value>
     </RecordThing>
     <RecordThing>
       <Key>Lander</Key>
@@ -4035,217 +4035,217 @@ When connected to a {THING:StructureComputer} containing a {THING:MotherboardCom
     </RecordThing>
     <RecordThing>
       <Key>ItemRemoteDetonator</Key>
-      <Value>Remote Detonator</Value>
+      <Value>Detonador Remoto</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemExplosive</Key>
-      <Value>Remote Explosive</Value>
+      <Value>Explosivo Remoto</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelFused</Key>
-      <Value>Solar Panel</Value>
-      <Description>Used for generating power from sunlight. Efficiency is reduced during storms and when damaged. You can repair it using some trusty {THING:ItemDuctTape}.</Description>
+      <Value>Painel Solar</Value>
+      <Description>Usado para gerar energia a partir da luz solar. A eficiência é reduzida durante tempestades e quando danificado. Você pode repará-lo usando alguma {THING:ItemDuctTape} confiável.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCoffeeMug</Key>
-      <Value>Coffee Mug</Value>
+      <Value>Caneca de Café</Value>
     </RecordThing>
     <RecordThing>
-      <Key>Robot</Key>
-      <Value>AIMeE Bot</Value>
-      <Description>Designed by - presumably drunk - {LINK:Norsec;Norsec} roboticists, AIMeE (or Automated Independent Mechanical Entity) can be a {LINK:Stationeers;Stationeer's} best friend, or tiresome nemesis, or both several times in the same day. 
+      <Key>Robô</Key>
+      <Value>Robô - AIMeE</Value>
+      <Description>Projetado por - presumivelmente bêbado - roboticistas {LINK:Norsec;Norsec}, o AIMeE (ou Automated Independent Mechanical Entity) pode ser um melhor amigo de {LINK:Stationeers;Stationeer's}, ou um inimigo cansativo, ou ambos várias vezes no mesmo dia. 
       
-Intended to unearth and retrieve ores automatically, the unit requires basic programming knowledge to operate, and {THING:MotherboardProgrammableChip}.
+Destinado a desenterrar e recuperar minérios automaticamente, a unidade requer conhecimentos básicos de programação para operar e {THING:MotherboardProgrammableChip}.
 
-AIMEe has 7 modes:
+AIMEe tem 7 modos:
 
-RobotMode.None = 0 = Do nothing
-RobotMode.None = 1 = Follow nearest player
-RobotMode.None = 2 = Move to target in straight line
-RobotMode.None = 3 = Wander around looking for ores in 15 co-ords radius
-RobotMode.None = 4 = Unload in chute input or chute bin within 3 meters / 1.5 large grids
-RobotMode.None = 5 = Path(find) to target
-RobotMode.None = 6 = Automatic assigned state, shows when storage slots are full</Description>
+RobotMode.None = 0 = Não fazer nada
+RobotMode.None = 1 = Siga o jogador mais próximo
+RobotMode.None = 2 = Mover para o alvo em linha reta
+RobotMode.None = 3 = Vagueie procurando minérios em um raio de 15 coordenadas
+RobotMode.None = 4 = Descarregue na entrada do chute ou no compartimento do chute dentro de 3 metros / 1,5 grades grandes
+RobotMode.None = 5 = Caminho (localizar) para o destino
+RobotMode.None = 6 = Estado atribuído automático, mostra quando os slots de armazenamento estão cheios</Description>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeGPS</Key>
-      <Value>GPS</Value>
+      <Value>Cartucho GPS</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicTransmitter</Key>
-      <Value>Logic Transmitter</Value>
+      <Value>Transmissor Lógico</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLogicTransmitter</Key>
-      <Value>Kit (Logic Transmitter)</Value>
+      <Value>Kit (Transmissor Lógico)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAdvancedFurnace</Key>
-      <Value>Advanced Furnace</Value>
-      <Description>The advanced furnace comes with integrated inlet and outlet pumps for controlling the unit's internal pressure.</Description>
+      <Value>Fornalha Avançada</Value>
+      <Description>A fornalha avançada vem com bombas de entrada e saída integradas para controlar a pressão interna da unidade.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedFurnace</Key>
-      <Value>Kit (Advanced Furnace)</Value>
+      <Value>Kit (Fornalha Avançada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemStelliteIngot</Key>
-      <Value>Ingot (Stellite)</Value>
+      <Value>Lingote (Stellite)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWaspaloyIngot</Key>
-      <Value>Ingot (Waspaloy)</Value>
+      <Value>Lingote (Waspaloy)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemHastelloyIngot</Key>
-      <Value>Ingot (Hastelloy)</Value>
+      <Value>Lingote (Hastelloy)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemInconelIngot</Key>
-      <Value>Ingot (Inconel)</Value>
+      <Value>Lingote (Inconel)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemAstroloyIngot</Key>
-      <Value>Ingot (Astroloy)</Value>
-      <Description>Due to the original Stationeer manual collapsing into a singularity, Astroloy recipes have been warped by spacetime contortions. The correct Astroloy recipe, as memorialized for all time in a series of charming plastic icons, is 1.0 Copper, 1.0 Cobalt, and 2.0 Steel.</Description>
+      <Value>Lingote (Astroloy)</Value>
+      <Description>Devido ao manual original do Stationeer se transformar em uma singularidade, as receitas do Astroloy foram distorcidas por contorções do espaço-tempo. A receita correta do Astroloy, lembrada para sempre em uma série de encantadores ícones de plástico, é 1.0 Cobre, 1.0 Cobalto e 2.0 Aço.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCobaltOre</Key>
-      <Value>Ore (Cobalt)</Value>
-      <Description>Cobalt is a chemical element with the symbol "Co" and is typically found in only small deposits. Cobalt is a rare substance, but used create the {THING:ItemHealPill} and several  {LINK:IngotPage;alloys}.</Description>
+      <Value>Minério (Cobalto)</Value>
+      <Description>O cobalto é um elemento químico com o símbolo "Co" e normalmente é encontrado apenas em pequenos depósitos. O cobalto é uma substância rara, mas usada para criar o {THING:ItemHealPill} e vários {LINK:IngotPage;alloys}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCobaltIngot</Key>
-      <Value>Ingot (Cobalt)</Value>
+      <Value>Lingote (Cobalto)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentCobalt</Key>
-      <Value>Cobalt Powder</Value>
+      <Value>Pó de Cobalto</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingRoundedCornerInner</Key>
-      <Value>Composite Cladding (Rounded Corner Inner)</Value>
+      <Value>Revestimento Composto (Canto Arredondado Interno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerInnerLongR</Key>
-      <Value>Composite Cladding (Angled Corner Inner Long R)</Value>
+      <Value>Revestimento Composto (Canto Angulado Interior Longo Direito)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerInnerLongL</Key>
-      <Value>Composite Cladding (Angled Corner Inner Long L)</Value>
+      <Value>Revestimento Composto (Canto Angulado Interno Longo Esquerdo)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerInnerLong</Key>
-      <Value>Composite Cladding (Angled Corner Inner Long)</Value>
+      <Value>Revestimento Composto (Canto Angulado Interno Longo)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeCladdingAngledCornerInner</Key>
-      <Value>Composite Cladding (Angled Corner Inner)</Value>
+      <Value>Revestimento Composto (Canto Angulado Interno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ElectronicPrinterMod</Key>
-      <Value>Electronic Printer Mod</Value>
-      <Description>Apply to an {THING:StructureElectronicsPrinter} with a {THING:ItemWeldingTorch} or {THING:ItemArcWelder} to upgrade for increased processing speed and more recipe options.</Description>
+      <Value>MOD - Impressora de Eletrônicos</Value>
+      <Description>Aplique a uma {THING:StructureElectronicsPrinter} com uma {THING:ItemWeldingTorch} ou {THING:ItemArcWelder} para fazer upgrade para aumentar a velocidade de processamento e mais opções de receita.</Description>
     </RecordThing>
     <RecordThing>
       <Key>AutolathePrinterMod</Key>
-      <Value>Autolathe Printer Mod</Value>
-      <Description>Apply to an {THING:StructureAutolathe} with a {THING:ItemWeldingTorch} or {THING:ItemArcWelder} to upgrade for increased processing speed and more recipe options.</Description>
+      <Value>MOD - Torno Automático</Value>
+      <Description>Aplique a um {THING:StructureAutolathe} com um {THING:ItemWeldingTorch} ou {THING:ItemArcWelder} para fazer upgrade para aumentar a velocidade de processamento e mais opções de receita.</Description>
     </RecordThing>
     <RecordThing>
       <Key>PipeBenderMod</Key>
-      <Value>Pipe Bender Mod</Value>
-      <Description>Apply to an {THING:StructureHydraulicPipeBender} with a {THING:ItemWeldingTorch} or {THING:ItemArcWelder} to upgrade for increased processing speed and more recipe options.</Description>
+      <Value>MOD - Dobrador de Canos</Value>
+      <Description>Aplique a um {THING:StructureHydraulicPipeBender} com um {THING:ItemWeldingTorch} ou {THING:ItemArcWelder} para fazer upgrade para aumentar a velocidade de processamento e mais opções de receita.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ToolPrinterMod</Key>
-      <Value>Tool Printer Mod</Value>
-      <Description>Apply to an {THING:StructureToolManufactory} with a {THING:ItemWeldingTorch} or {THING:ItemArcWelder} to upgrade for increased processing speed and more recipe options.</Description>
+      <Value>MOD - Impressora de Ferramentas</Value>
+      <Description>Aplique a um {THING:StructureToolManufactory} com um {THING:ItemWeldingTorch} ou {THING:ItemArcWelder} para atualizar para aumentar a velocidade de processamento e mais opções de receita.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerMedium</Key>
-      <Value>Transformer (Medium)</Value>
-      <Description>Transformers control the maximum power that will flow down a sub-network of cables, to prevent overloading {LINK:ElectronicPage;electrical} systems. 
-Medium transformers are used in larger setups where more than 5000W is required, with output that can be set to a maximum of 25000W.
-Note that transformers also operate as data isolators, preventing data flowing into any network beyond it.</Description>
+      <Value>Transformador (Médio)</Value>
+      <Description>Os transformadores controlam a potência máxima que fluirá por uma sub-rede de cabos, para evitar a sobrecarga dos sistemas {LINK:ElectronicPage;electric}. 
+Os transformadores médios são usados ​​em configurações maiores onde são necessários mais de 5.000W, com saída que pode ser ajustada para um máximo de 25.000W.
+Observe que os transformadores também operam como isoladores de dados, impedindo que os dados fluam para qualquer rede além dele.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerMediumReversed</Key>
-      <Value>Transformer Reversed (Medium)</Value>
-      <Description>Transformers control the maximum power that will flow down a sub-network of cables, to prevent overloading {LINK:ElectronicPage;electrical} systems. 
-Medium transformers are used in larger setups where more than 5000W is required, with output that can be set to a maximum of 25000W.
-Note that transformers also operate as data isolators, preventing data flowing into any network beyond it.</Description>
+      <Value>Transformador Invertido (Médio)</Value>
+      <Description>Os transformadores controlam a potência máxima que fluirá por uma sub-rede de cabos, para evitar a sobrecarga dos sistemas {LINK:ElectronicPage;electric}. 
+Os transformadores médios são usados ​​em configurações maiores onde são necessários mais de 5.000W, com saída que pode ser ajustada para um máximo de 25.000W.
+Observe que os transformadores também operam como isoladores de dados, impedindo que os dados fluam para qualquer rede além dele.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureTransformerMedium(Reversed)</Key>
-      <Value>Transformer Reversed (Medium)</Value>
+      <Value>Transformador Invertido (Médio)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemJetpackBasic</Key>
-      <Value>Jetpack Basic</Value>
-      <Description>The basic {LINK:CHAC;CHAC} jetpack isn't 'technically' a jetpack, it's a gas thruster. It can be powered by any gas, so long as the internal pressure of the {LINK:AtmosphericsPage;canister} is higher than the ambient external pressure. If the external pressure is greater, the spacepack will not function.
-Indispensible for building, mining and general movement, it has ten storage slots and lets {LINK:Stationeers;Stationeers} fly at 3m/s, compared to the more powerful {THING:ItemHardJetpack}. Adjusting the thrust value alters your rate of acceleration, while activating the stablizer causes the spacepack to hover when a given height is reached.
-USE: 'J' to activate; 'space' to fly up; 'left ctrl' to descend; and 'WASD' to move.</Description>
+      <Value>Jetpack Básico</Value>
+      <Description>O jetpack básico {LINK:CHAC;CHAC} não é 'tecnicamente' um jetpack, é um propulsor de gás. Ele pode ser alimentado por qualquer gás, desde que a pressão interna do {LINK:AtmosphericsPage;canister} seja maior que a pressão externa do ambiente. Se a pressão externa for maior, o pacote de espaço não funcionará.
+Indispensável para construção, mineração e movimentação geral, possui dez slots de armazenamento e permite que {LINK:Stationeers;Stationeers} voe a 3m/s, comparado ao mais poderoso {THING:ItemHardJetpack}. Ajustar o valor do empuxo altera sua taxa de aceleração, enquanto a ativação do estabilizador faz com que o jetpack flutue quando uma determinada altura é atingida.
+USE: 'J' para ativar; 'espaço' para subir; 'left ctrl' para descer; e 'WASD' para mover.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRTGSurvival</Key>
-      <Value>RTG</Value>
+      <Value>Gerador Termoelétrico de Radioisótopo</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyHelmet</Key>
-      <Value>Emergency Helmet</Value>
+      <Value>Capacete de Emergência</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyArcWelder</Key>
-      <Value>Emergency Arc Welder</Value>
+      <Value>Soldador Elétrico de Emergência</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyDrill</Key>
-      <Value>Emergency Drill</Value>
+      <Value>Furadeira de Emergência</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyAngleGrinder</Key>
-      <Value>Emergency Angle Grinder</Value>
+      <Value>Serra Circular de Emergência</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyCrowbar</Key>
-      <Value>Emergency Crowbar</Value>
+      <Value>Pé de Cabra de emergência</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyPickaxe</Key>
-      <Value>Emergency Pickaxe</Value>
+      <Value>Picareta de Emergência</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyWrench</Key>
-      <Value>Emergency Wrench</Value>
+      <Value>Chave Inglesa de Emergência</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyWireCutters</Key>
-      <Value>Emergency Wire Cutters</Value>
+      <Value>Cortador de Fios de Emergência</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyScrewdriver</Key>
-      <Value>Emergency Screwdriver</Value>
+      <Value>Chave de Fenda de Emergência</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyEvaSuit</Key>
-      <Value>Emergency Eva Suit</Value>
+      <Value>Traje EVA de Emergência</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencySpaceHelmet</Key>
-      <Value>Emergency Space Helmet</Value>
+      <Value>Capacete Espacial de Emergência</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmergencyToolBelt</Key>
-      <Value>Emergency Tool Belt</Value>
+      <Value>Cinto de Ferramentas de Emergência</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemElectronicParts</Key>
-      <Value>Electronic Parts</Value>
+      <Value>Partes Eletrônicas</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitResearchMachine</Key>
-      <Value>Kit Research Machine</Value>
+      <Value>Kit Máquina de Pesquisa</Value>
     </RecordThing>
     <RecordThing>
       <Key>ManualGetResearchPodsRequired</Key>
@@ -4253,47 +4253,47 @@ USE: 'J' to activate; 'space' to fly up; 'left ctrl' to descend; and 'WASD' to m
     </RecordThing>
     <RecordThing>
       <Key>StructureResearchMachine</Key>
-      <Value>Research Machine</Value>
+      <Value>Máquina de Pesquisa</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureShelf</Key>
-      <Value>Shelf</Value>
+      <Value>Prateleira</Value>
     </RecordThing>
     <RecordThing>
       <Key>HumanSkull</Key>
-      <Value>Human Skull</Value>
+      <Value>Crânio Humano</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinMountLandscapeLarge</Key>
-      <Value>Picture Frame Thin Landscape Large</Value>
+      <Value>Porta-retrato Fino Paisagem (Grande)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinMountLandscapeSmall</Key>
-      <Value>Picture Frame Thin Landscape Small</Value>
+      <Value>Porta-retrato Paisagem Fina (Pequeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinMountPortraitLarge</Key>
-      <Value>Picture Frame Thin Portrait Large</Value>
+      <Value>Porta-retrato Fino (Retrato Grande)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinMountPortraitSmall</Key>
-      <Value>Picture Frame Thin Portrait Small</Value>
+      <Value>Porta-retrato Fino (Retrato Pequeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinPortraitSmall</Key>
-      <Value>Picture Frame Thin Portrait Small</Value>
+      <Value>Porta-retrato Fino (Retrato Pequeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinLandscapeSmall</Key>
-      <Value>Picture Frame Thin Landscape Small</Value>
+      <Value>Porta-retrato Fina Paisagem (Pequeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinLandscapeLarge</Key>
-      <Value>Picture Frame Thin Landscape Large</Value>
+      <Value>Porta-retrato Fino Paisagem (Grande)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThickPortraitSmall</Key>
-      <Value>Picture Frame Thick Portrait Small</Value>
+      <Value>Porta-retrato Espesso (Retrato Pequeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThickMountPortraitSmall</Key>
@@ -4313,27 +4313,27 @@ USE: 'J' to activate; 'space' to fly up; 'left ctrl' to descend; and 'WASD' to m
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThickLandscapeSmall</Key>
-      <Value>Picture Frame Thick Landscape Small</Value>
+      <Value>Porta-retrato Espesso Paisagem (Pequeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThickLandscapeLarge</Key>
-      <Value>Picture Frame Thick Landscape Large</Value>
+      <Value>Porta-retrato Espesso Paisagem (Grande)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThickPortraitLarge</Key>
-      <Value>Picture Frame Thick Portrait Large</Value>
+      <Value>Porta-retrato Espesso (Retrato Grande)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePictureFrameThinPortraitLarge</Key>
-      <Value>Picture Frame Thin Portrait Large</Value>
+      <Value>Porta-retrato Fino (Retrato Grande)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ApplianceDeskLampLeft</Key>
-      <Value>Appliance Desk Lamp Left</Value>
+      <Value>Lâmpada de Mesa (Esquerda)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ApplianceDeskLampRight</Key>
-      <Value>Appliance Desk Lamp Right</Value>
+      <Value>Lâmpada de Mesa (Direita)</Value>
     </RecordThing>
     <RecordThing>
       <Key>QuarryDrillBitBasic</Key>
@@ -4341,379 +4341,379 @@ USE: 'J' to activate; 'space' to fly up; 'left ctrl' to descend; and 'WASD' to m
     </RecordThing>
     <RecordThing>
       <Key>ItemResearchCapsuleRed</Key>
-      <Value>Research Capsule Red</Value>
+      <Value>Cápsula de Pesquisa Vermelha</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemResearchCapsuleYellow</Key>
-      <Value>Research Capsule Yellow</Value>
+      <Value>Cápsula de Pesquisa Amarela</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemResearchCapsuleGreen</Key>
-      <Value>Research Capsule Green</Value>
+      <Value>Cápsula de Pesquisa Verde</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemResearchCapsule</Key>
-      <Value>Research Capsule Blue</Value>
+      <Value>Cápsula de Pesquisa Azul</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPictureFrame</Key>
-      <Value>Kit Picture Frame</Value>
+      <Value>Kit Porta-Retratos</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemVoxelTool</Key>
-      <Value>Voxel Tool</Value>
+      <Value>Ferramenta Voxel</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAIMeE</Key>
-      <Value>Kit (AIMeE)</Value>
+      <Value>Kit Robô (AIMeE)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureAutoMinerSmall</Key>
-      <Value>Autominer (Small)</Value>
-      <Description>The {LINK:Recurso;Recurso} SquareDig autominer is a structure that when built will mine a vertical 2x2 shaft until it hits bedrock. The autominer can be connected to a chute system, and is controllable by a logic network. Note that the autominer outputs more {LINK:OrePage;ore} than a conventional {THING:ItemMiningDrill} over the same area.</Description>
+      <Value>Auto Mineradora (Pequena)</Value>
+      <Description>O autominer SquareDig {LINK:Recurso;Recurso} é uma estrutura que, quando construída, minera um poço vertical 2x2 até atingir o leito rochoso. O autominerador pode ser conectado a um sistema de chute e é controlável por uma rede lógica. Observe que o autominer gera mais {LINK:OrePage;ore} do que um {THING:ItemMiningDrill} convencional na mesma área.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutoMinerSmall</Key>
-      <Value>Kit (Autominer Small)</Value>
+      <Value>Kit (Auto Mineradora Pequena)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDirtCannister</Key>
-      <Value>Dirt Cannister</Value>
+      <Value>Recipiente de Terra</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemDirtCanister</Key>
-      <Value>Dirt Canister</Value>
-      <Description>A container the will fill with Dirt when using a {THING:ItemMiningDrill} when placed inside a {THING:ItemMiningBelt}. You can then use this {SLOT:DirtCanister} with the {THING:ItemTerrainManipulator} to adjust the terrain to suit your needs.</Description>
+      <Value>Recipiente de Terra</Value>
+      <Description>Um contêiner que será preenchido com sujeira ao usar um {THING:ItemMiningDrill} quando colocado dentro de um {THING:ItemMiningBelt}. Você pode usar este {SLOT:DirtCanister} com o {THING:ItemTerrainManipulator} para ajustar o terreno para atender às suas necessidades.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemTerrainManipulator</Key>
-      <Value>Terrain Manipulator</Value>
+      <Value>Manipulador de Terreno</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLaunchPad</Key>
-      <Value>Modular Rocket Launch Pad</Value>
+      <Value>Plataforma de Lançamento de Foguete Modular</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketCargo01</Key>
-      <Value>Modular Rocket Cargo</Value>
-      <Description>The cargo module has capacity for two ten-slot crates. You can have multiple cargo modules on your rocket. The rocket can lift up to seven modules in total. This cargo will be released in orbit and descend the surface of your destination. Unless that happens to be the asteroid belt, in which case it will be left floating serenely in the void.</Description>
+      <Value>Módulo Carga de Foguete</Value>
+      <Description>O módulo de carga tem capacidade para dois engradados de dez slots. Você pode ter vários módulos de carga em seu foguete. O foguete pode levantar até sete módulos no total. Esta carga será lançada em órbita e descerá a superfície do seu destino. A menos que seja o cinturão de asteróides, caso em que será deixado flutuando serenamente no vazio.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketCommand01</Key>
-      <Value>Modular Rocket Command</Value>
-      <Description>The command module must be placed on top of the rocket, and will assess the rocket’s readiness for flight. Once all conditions are met, the rocket can be launched when all players are seated in the module by pressing ‘IGNITION’ on the console.
+      <Value>Módulo Comando de Foguete</Value>
+      <Description>O módulo de comando deve ser colocado em cima do foguete e avaliará a prontidão do foguete para o voo. Quando todas as condições forem atendidas, o foguete poderá ser lançado quando todos os jogadores estiverem sentados no módulo pressionando 'IGNITION' no console.
 
-The following conditions must be met for launch:
+As seguintes condições devem ser atendidas para o lançamento:
 
-- Fuel full
-- Fuel mix ratio correct - a 2:1 mixture of {GAS:Volatiles} and {GAS:Oxygen}.
-- All players seated
-- Power supplied to the {THING:StructureLaunchPad}
-- Fully built rocket
+- Combustível cheio
+- Relação de mistura de combustível correta - uma mistura 2:1 de {GAS:Volatiles} e {GAS:Oxygen}.
+- Todos os jogadores sentados
+- Energia fornecida ao {THING:StructureLaunchPad}
+- Foguete totalmente construído
 
 The {THING:StructureModularRocketCommand01} console displays the current state of these conditions. It does not require an atmosphere for lift off - your suit’s atmosphere is sufficient.
-When landing, the rocket will deploy a lander, and any cargo contained in the {THING:StructureModularRocketCargo01} module.</Description>
+Ao pousar, o foguete implantará um módulo de pouso e qualquer carga contida no módulo {THING:StructureModularRocketCargo01}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicModularRocketCommand01</Key>
-      <Value>Modular Rocket Command</Value>
+      <Value>Módulo Comando de Foguete</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureReverseElectrolyzer</Key>
-      <Value>Reverse Electrolyzer</Value>
+      <Value>Eletrolisador Reverso</Value>
     </RecordThing>
     <RecordThing>
       <Key>H2Combustor</Key>
-      <Value>H2 Combustor</Value>
-      <Description>Adapted slightly from its original {LINK:Recurso;Recurso} design, the {GAS:Volatiles} Combustor does exactly what its name suggests - it burns a mixture of volatiles and {GAS:Oxygen} to create water. Extremely useful in hot or arid environments, users need to be aware that the combustor outputs considerable waste heat. The device is also less than perfectly efficient, resulting in the autoignition of volatiles in the chamber, and the production of waste gases which must be dealt with.</Description>
+      <Value>Combustor H2</Value>
+      <Description>Um pouco adaptado de seu design original {LINK:Recurso;Recurso}, o Combustor {GAS:Volatiles} faz exatamente o que seu nome sugere - ele queima uma mistura de voláteis e {GAS:Oxygen} para criar água. Extremamente útil em ambientes quentes ou áridos, os usuários precisam estar cientes de que o combustor produz calor residual considerável. O dispositivo também não é perfeitamente eficiente, resultando na autoignição de voláteis na câmara e na produção de gases residuais que devem ser tratados.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeStraight</Key>
-      <Value>Insulated Pipe Straight</Value>
-      <Description>Insulated pipes greatly reduce heat loss from gases stored in them.</Description>
+      <Value>Tubo Adiabático Reto</Value>
+      <Description>Os tubos adiabáticos reduzem muito a perda de calor dos gases armazenados neles.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCorner</Key>
-      <Value>Insulated Pipe Corner</Value>
-      <Description>Insulated pipes greatly reduce heat loss from gases stored in them.</Description>
+      <Value>Tubo Adiabático Canto</Value>
+      <Description>Os tubos adiabáticos reduzem muito a perda de calor dos gases armazenados neles.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction</Key>
-      <Value>Insulated Pipe Cross Junction</Value>
-      <Description>Insulated pipes greatly reduce heat loss from gases stored in them.</Description>
+      <Value>Tubo Adiabático Junção</Value>
+      <Description>Os tubos adiabáticos reduzem muito a perda de calor dos gases armazenados neles.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction3</Key>
-      <Value>Insulated Pipe Cross (3-Way Corner)</Value>
-      <Description>Insulated pipes greatly reduce heat loss from gases stored in them.</Description>
+      <Value>Tubo Adiabático (Canto de 3 Vias)</Value>
+      <Description>Os tubos adiabáticos reduzem muito a perda de calor dos gases armazenados neles.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction4</Key>
-      <Value>Insulated Pipe Cross (4-Way Corner)</Value>
-      <Description>Insulated pipes greatly reduce heat loss from gases stored in them.</Description>
+      <Value>Tubo Adiabático (Canto de 4 Vias)</Value>
+      <Description>Os tubos adiabáticos reduzem muito a perda de calor dos gases armazenados neles.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction5</Key>
-      <Value>Insulated Pipe Cross (5-Way Junction)</Value>
-      <Description>Insulated pipes greatly reduce heat loss from gases stored in them.</Description>
+      <Value>Tubo Adiabático (Junção de 5 Vias)</Value>
+      <Description>Os tubos adiabáticos reduzem muito a perda de calor dos gases armazenados neles.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction6</Key>
-      <Value>Insulated Pipe Cross (6-Way Junction)</Value>
-      <Description>Insulated pipes greatly reduce heat loss from gases stored in them.</Description>
+      <Value>Tubo Adiabático (Junção de 6 Vias)</Value>
+      <Description>Os tubos adiabáticos reduzem muito a perda de calor dos gases armazenados neles.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeTJunction</Key>
-      <Value>Insulated Pipe T Junction</Value>
-      <Description>Insulated pipes greatly reduce heat loss from gases stored in them.</Description>
+      <Value>Tubo Adiabático (Junção T)</Value>
+      <Description>Os tubos adiabáticos reduzem muito a perda de calor dos gases armazenados neles.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemAdvancedTablet</Key>
-      <Value>Advanced Tablet</Value>
-      <Description>The advanced {LINK:Xigo;Xigo} Padi 2 tablet is an improved version of the basic {THING:ItemTablet}, boasting two {LINK:CartridgePage;cartridge} slots. The Padi 2 accepts {THING:CartridgeAtmosAnalyser}, {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader}, and various other cartridges.</Description>
+      <Value>Tablet Avançado</Value>
+      <Description>O tablet {LINK:Xigo;Xigo} Padi 2 avançado é uma versão aprimorada do {THING:ItemTablet} básico, com dois slots {LINK:CartridgePage;cartridge}. O Padi 2 aceita {THING:CartridgeAtmosAnalyser}, {THING:CartridgeTracker}, {THING:CartridgeMedicalAnalyser}, {THING:CartridgeOreScanner}, {THING:CartridgeElectronicReader} e vários outros cartuchos.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedPipe</Key>
-      <Value>Kit (Insulated Pipe)</Value>
-      <Description>This kit produces varieties of {THING:StructureInsulatedPipeStraight}, which greatly reduce heat loss from gases stored in them.</Description>
+      <Value>Kit (Tubo Adiabático)</Value>
+      <Description>Este kit produz variedades de {THING:StructureInsulatedPipeStraight}, que reduzem bastante a perda de calor dos gases armazenados neles.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketEngine01</Key>
-      <Value>Modular Rocket Engine</Value>
-      <Description>The modular rocket engine is capable of lifting up to seven modules, including itself. It must be fueled by at least one {THING:StructureModularRocketFueltank01}.</Description>
+      <Value>Módulo Motor de Foguete</Value>
+      <Description>O motor de foguete modular é capaz de levantar até sete módulos, incluindo ele mesmo. Ele deve ser alimentado por pelo menos um {THING:StructureModularRocketFueltank01}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketFueltank01</Key>
-      <Value>Modular Rocket Fueltank</Value>
-      <Description>The rocket fueltank requires a 2:1 mixture of {GAS:Volatiles} and {GAS:Oxygen}. If the mixture exceeds these proportions, or you place other {LINK:GasPage;gases} in the tank, the {THING:StructureModularRocketCommand01} console will display an ‘Invalid’ error.
+      <Value>Módulo Tanque de Combustível de Foguete</Value>
+      <Description>O tanque de combustível do foguete requer uma mistura 2:1 de {GAS:Volatiles} e {GAS:Oxygen}. Se a mistura exceder essas proporções ou você colocar outros {LINK:GasPage;gases} no tanque, o console {THING:StructureModularRocketCommand01} exibirá um erro "Invalid".
       
-      Note that the rocket fueltank can also be used to collect gas mined by the {THING:StructureModularRocketGasMining}, when connected to that unit by a {THING:StructureModularRocketCouplingUp} or {THING:StructureModularRocketCouplingDown}.</Description>
+      Observe que o tanque de combustível do foguete também pode ser usado para coletar gás extraído pelo {THING:StructureModularRocketGasMining}, quando conectado a essa unidade por um {THING:StructureModularRocketCouplingUp} ou {THING:StructureModularRocketCouplingDown}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureModularRocketCommand01</Key>
-      <Value>Kit (Modular Rocket Command)</Value>
-      <Description>This kit creates a {THING:StructureModularRocketCommand01}.</Description>
+      <Value>Kit (Módulo Comando de Foguete)</Value>
+      <Description>Este kit produz um {THING:StructureModularRocketCommand01}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureModularRocketCargo01</Key>
-      <Value>Kit (Modular Rocket Cargo)</Value>
-      <Description>This kit creates a {THING:StructureModularRocketCargo01}.</Description>
+      <Value>Kit (Módulo Carga de Foguete)</Value>
+      <Description>Este kit produz um {THING:StructureModularRocketCargo01}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureLaunchPad</Key>
-      <Value>Kit (Launch Pad)</Value>
-      <Description>This kit creates a {THING:StructureLaunchPad}.</Description>
+      <Value>Kit (Plataforma de Lançamento)</Value>
+      <Description>Este kit produz um {THING:StructureLaunchPad}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureModularRocketEngine01</Key>
-      <Value>Kit (Modular Rocket Engine)</Value>
-      <Description>This kit creates a {THING:StructureModularRocketEngine01}.</Description>
+      <Value>Kit (Módulo Motor de Foguete)</Value>
+      <Description>Este kit produz um {THING:StructureModularRocketEngine01}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStructureModularRocketFueltank01</Key>
-      <Value>Kit (Modular Rocket Fueltank)</Value>
-      <Description>This kit creates a {THING:StructureModularRocketFueltank01}.</Description>
+      <Value>Kit (Módulo Tanque de Combustível de Foguete)</Value>
+      <Description>Este kit produz um {THING:StructureModularRocketFueltank01}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallIron02</Key>
-      <Value>Iron Wall (Type 2)</Value>
+      <Value>Parede de Ferro (Tipo 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallIron03</Key>
-      <Value>Iron Wall (Type 3)</Value>
+      <Value>Parede de Ferro (Tipo 3)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallIron04</Key>
-      <Value>Iron Wall (Type 4)</Value>
+      <Value>Parede de Ferro (Tipo 4)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall02</Key>
-      <Value>Composite Wall (Type 2)</Value>
+      <Value>Parede Composta (Tipo 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall03</Key>
-      <Value>Composite Wall (Type 3)</Value>
+      <Value>Parede Composta (Tipo 3)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWall04</Key>
-      <Value>Composite Wall (Type 4)</Value>
+      <Value>Parede Composta (Tipo 4)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeWallWindow</Key>
-      <Value>Composite Window</Value>
+      <Value>Janela Composta</Value>
     </RecordThing>
     <RecordThing>
       <Key>RailingElegant01</Key>
-      <Value>Railing Elegant (Type 1)</Value>
+      <Value>Grade de Proteção Elegante (Tipo 1)</Value>
     </RecordThing>
     <RecordThing>
       <Key>RailingElegant02</Key>
-      <Value>Railing Elegant (Type 2)</Value>
+      <Value>Grade de Proteção Elegante (Tipo 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>RailingIndustrial02</Key>
-      <Value>Railing Industrial (Type 2)</Value>
+      <Value>Grade de Proteção Industrial (Tipo 2)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRailing</Key>
-      <Value>Kit (Railing)</Value>
+      <Value>Kit (Grade de Proteção)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchCornerRound</Key>
-      <Value>Wall (Arch Corner Round)</Value>
+      <Value>Parede (Arqueada de Canto Redondo)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchCornerSquare</Key>
-      <Value>Wall (Arch Corner Square)</Value>
+      <Value>Parede (Arqueada de Canto Quadrado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallArchCornerTriangle</Key>
-      <Value>Wall (Arch Corner Triangle)</Value>
+      <Value>Parede (Arqueada de Canto Triangular)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlatCornerRound</Key>
-      <Value>Wall (Flat Corner Round)</Value>
+      <Value>Parede (Canto Plano Redondo)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlatCornerSquare</Key>
-      <Value>Wall (Flat Corner Square)</Value>
+      <Value>Parede (Canto Plano Quadrado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlatCornerTriangle</Key>
-      <Value>Wall (Flat Corner Triangle)</Value>
+      <Value>Parede (Canto Plano Triangular)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallFlatCornerTriangleFlat</Key>
-      <Value>Wall (Flat Corner Triangle Flat)</Value>
+      <Value>Parede (Canto Plano Triagular Liso)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedArchLightFittingTop</Key>
-      <Value>Wall (Padded Arch Light Fitting Top)</Value>
+      <Value>Parede (Acolchoada Arqueada Encaixe de Luzes Superior)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedNoBorder</Key>
-      <Value>Wall (Padded No Border)</Value>
+      <Value>Parede (Acolchoada sem Borda)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedThinNoBorder</Key>
-      <Value>Wall (Padded Thin No Border)</Value>
+      <Value>Parede (Acolchoada Fina sem Borda)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedWindowThin</Key>
-      <Value>Wall (Padded Window Thin)</Value>
+      <Value>Parede (Janela Acolchoada Fina)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedThinNoBorderCorner</Key>
-      <Value>Wall (Padded Thin No Border Corner)</Value>
+      <Value>Parede (Canto Acolchoado Fino sem Borda)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedNoBorderCorner</Key>
-      <Value>Wall (Padded No Border Corner)</Value>
+      <Value>Parede (Canto Acolchoado sem Borda)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedCorner</Key>
-      <Value>Wall (Padded Corner)</Value>
+      <Value>Parede (Canto Acolchoado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedCornerThin</Key>
-      <Value>Wall (Padded Corner Thin)</Value>
+      <Value>Parede (Canto Acolchoado Fino)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedArchCorner</Key>
-      <Value>Wall (Padded Arch Corner)</Value>
+      <Value>Parede (Canto Acolchoado Arqueado)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureWallPaddedWindow</Key>
-      <Value>Wall (Padded Window)</Value>
+      <Value>Parede (Janela Acolchoada)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeOrgan</Key>
-      <Value>Pipe Organ</Value>
-      <Description>The pipe organ can be attached to one end of a {THING:ItemPipeValve}. The length of the pipe after the pipe organ changes the pitch of the note it will play when the valve is opened. Use {LINK:LogicPage;Logic} to open and close the valves to create some custom tunes for your base or an audible warning.</Description>
+      <Value>Órgão de Tubo</Value>
+      <Description>O órgão de tubo pode ser anexado a uma extremidade de um {THING:ItemPipeValve}. O comprimento do tubo após o órgão de tubos muda o tom da nota que ele tocará quando a válvula for aberta. Use {LINK:LogicPage;Logic} para abrir e fechar as válvulas para criar algumas músicas personalizadas para sua base ou um aviso sonoro.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeOrgan</Key>
-      <Value>Kit (Pipe Organ)</Value>
-      <Description>Creates a {THING:StructurePipeOrgan}.</Description>
+      <Value>Kit (Órgão de Tubo)</Value>
+      <Description>Este kit produz um {THING:StructurePipeOrgan}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasCanisterRocketFuel</Key>
-      <Value>Dynamic Gas Canister Rocket Fuel</Value>
+      <Value>Tanque de Gás Portátil (Combustível de Foguete)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ModularRocketCommand01Lander</Key>
-      <Value>Rocket Command Lander</Value>
+      <Value>Módulo de comando de Aterrissagem</Value>
     </RecordThing>
     <RecordThing>
       <Key>ModularRocketCargo01</Key>
-      <Value>Rocket Cargo</Value>
+      <Value>Módulo de Carga</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSensorProcessingUnitOreScanner</Key>
-      <Value>Sensor Processing Unit (Ore Scanner)</Value>
-      <Description>The Sensor Processing unit can be inserted into {THING:ItemSensorLenses} to reveal underground minerals in a HUD.</Description>
+      <Value>Unidade de Processamento (Sensor de Scanner de Minérios)</Value>
+      <Description>A unidade de processamento do sensor pode ser inserida em {THING:ItemSensorLenses} para revelar minerais subterrâneos em um HUD.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemSensorLenses</Key>
-      <Value>Sensor Lenses</Value>
-      <Description>These {LINK:Norsec;Norsec} glasses might not be the most fashionable thing, but when a {THING:ItemSensorProcessingUnitOreScanner} is inserted, Stationeers can use these handy glasses to x-ray the ground and find ores that are hidden beneath the surface.</Description>
+      <Value>Lentes de Sensores</Value>
+      <Description>Esses óculos {LINK:Norsec;Norsec} podem não ser a coisa mais elegante, mas quando um {THING:ItemSensorProcessingUnitOreScanner} é inserido, os Stationeers podem usar esses óculos úteis para radiografar o solo e encontrar minérios escondidos sob a superfície.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryChargerSmall</Key>
-      <Value>Battery Charger Small</Value>
+      <Value>Carregador de Baterias Pequeno</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemBatteryChargerSmall</Key>
-      <Value>Battery Charger Small</Value>
+      <Value>Carregador de Baterias (Pequeno)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelFlat</Key>
-      <Value>Solar Panel (Flat)</Value>
-      <Description>{LINK:Sinotai;Sinotai} basic solar panels generate power from sunlight. They lie flat to the ground, and their efficiency is reduced during storms and when damaged. You can repair these using some trusty {THING:ItemDuctTape}.</Description>
+      <Value>Painel Solar (Reto)</Value>
+      <Description>{LINK:Sinotai;Sinotai} painéis solares básicos geram energia a partir da luz solar. Eles ficam planos no chão e sua eficiência é reduzida durante tempestades e quando danificadas. Você pode repará-los usando algumas {THING:ItemDuctTape} confiáveis.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanel45</Key>
-      <Value>Solar Panel (Angled)</Value>
-      <Description>{LINK:Sinotai;Sinotai} basic solar panels generate power from sunlight, sitting at 45 degrees to the ground. Their efficiency is reduced during storms and when damaged. You can repair these using some trusty {THING:ItemDuctTape}.</Description>
+      <Value>Painel Solar (Angulado)</Value>
+      <Description>{LINK:Sinotai;Sinotai} painéis solares básicos geram energia a partir da luz solar, a 45 graus do solo. Sua eficiência é reduzida durante tempestades e quando danificada. Você pode repará-los usando algumas {THING:ItemDuctTape} confiáveis.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelBasic</Key>
-      <Value>Kit (Solar Panel Basic)</Value>
-      <Description>This kit creates a standing solar panel.</Description>
+      <Value>Kit (Painel Solar Básico)</Value>
+      <Description>Este kit cria um painel solar fixo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSDBHopperAdvanced</Key>
-      <Value>SDB Hopper Advanced</Value>
+      <Value>Funil de Carga Avançado</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSDBHopper</Key>
-      <Value>SDB Hopper</Value>
+      <Value>Funil de Carga</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSDBHopper</Key>
-      <Value>Kit (SDB Hopper)</Value>
+      <Value>Kit (Funil de Carga)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSDBSilo</Key>
-      <Value>SDB Silo</Value>
-      <Description>The majestic silo holds large quantities of almost anything. While it is doing that, it cannot be deconstructed. Note also, that any food you put into a silo is likely to {LINK:DecayPage;decay} extremely rapidly. The silo can hold up to 600 stacks.</Description>
+      <Value>Silo</Value>
+      <Description>O majestoso silo contém grandes quantidades de quase tudo. Enquanto está fazendo isso, não pode ser desconstruído. Observe também que qualquer alimento que você colocar em um silo provavelmente {LINK:DecayPage;decay} muito rapidamente. O silo pode conter até 600 pilhas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>KitSDBSilo</Key>
-      <Value>Kit (SDB Silo)</Value>
-      <Description>This kit creates a {THING:StructureSDBSilo}.</Description>
+      <Value>Kit (Silo)</Value>
+      <Description>Este kit produz um {THING:StructureSDBSilo}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmallInsulated</Key>
-      <Value>Tank Small (Insulated)</Value>
+      <Value>Tanque Pequeno (Abiabático)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankBigInsulated</Key>
-      <Value>Tank Big (Insulated)</Value>
+      <Value>Tanque Grande (Abiabático)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTankInsulated</Key>
-      <Value>Kit (Tank Insulated)</Value>
+      <Value>Kit (Tanque Abiabático)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDebug</Key>
