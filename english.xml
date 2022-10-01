@@ -4705,15 +4705,15 @@ Ao pousar, o foguete implantará um módulo de pouso e qualquer carga contida no
     </RecordThing>
     <RecordThing>
       <Key>StructureTankSmallInsulated</Key>
-      <Value>Tanque Pequeno (Abiabático)</Value>
+      <Value>Tanque Pequeno (Adiabático)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureTankBigInsulated</Key>
-      <Value>Tanque Grande (Abiabático)</Value>
+      <Value>Tanque Grande (Adiabático)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTankInsulated</Key>
-      <Value>Kit (Tanque Abiabático)</Value>
+      <Value>Kit (Tanque Adiabático)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDebug</Key>
