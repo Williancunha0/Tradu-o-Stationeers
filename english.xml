@@ -1356,7 +1356,7 @@ Cuidado para não pressurizar além de 10MPa ou pode fazer 'kabum'.</Description
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSleeper</Key>
-      <Value>Kit (Cápsulas de Sono Profundo)</Value>
+      <Value>Kit (Câmara de Estase)</Value>
       <Description>Este kit produz uma variedade de cápsulas que manterão os jogadores hidratados e alimentados enquanto estiverem desconectados - desde que seja fornecida uma atmosfera respirável.</Description>
     </RecordThing>
     <RecordThing>
@@ -1898,41 +1898,41 @@ Esteja lá, mesmo quando não estiver.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteBin</Key>
-      <Value>Chute Bin</Value>
-      <Description>The {LINK:Stationeers;Stationeer's} goal is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
-Like most {LINK:Recurso;Recurso}-designed systems, chute bins are simple and robust powered items, allowing items to be manually passed into chute networks by pulling a lever. They can also be programmed with {LINK:LogicUnitPage;logic} to operate automatically, although full automation requires the use items such as a {THING:StructureSDBHopper}.</Description>
+      <Value>Chute (Lixeira)</Value>
+      <Description>O objetivo do {LINK:Stationeers;Stationeer's} é tornar a sobrevivência fora do mundo menos difícil para eles e para aqueles que seguirão seus passos.
+Como a maioria dos sistemas projetados pelo {LINK:Recurso;Recurso}, as caixas de chute são itens simples e robustos, permitindo que os itens sejam passados ​​manualmente para as redes de chute, puxando uma alavanca. Eles também podem ser programados com {LINK:LogicUnitPage;logic} para operar automaticamente, embora a automação completa exija o uso de itens como um {THING:StructureSDBHopper}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteCorner</Key>
-      <Value>Chute (Corner)</Value>
-      <Description>Chutes act as pipes for items. Use them to connect various {LINK:ImportExportPage;import/export} equipment together such as the {THING:StructureVendingMachine} and printers like the {THING:StructureAutolathe}.
-The aim for any {LINK:Stationeers;Stationeer} is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
-Chute corners are fundamental components of chute networks, which allow the transport of items between machines with {LINK:ImportExportPage;import/export} slots, such as the {THING:StructureFurnace} and other automatable structures.</Description>
+      <Value>Chute (Canto)</Value>
+      <Description>Chutes agem como tubos para itens. Use-os para conectar vários equipamentos {LINK:ImportExportPage;import/export} juntos, como o {THING:StructureVendingMachine} e impressoras como o {THING:StructureAutolathe}.
+O objetivo de qualquer {LINK:Stationeers;Stationeer} é tornar a sobrevivência fora do mundo menos difícil para si e para aqueles que seguirão seus passos.
+Cantos de chutes são componentes fundamentais das redes de calha, que permitem o transporte de itens entre máquinas com slots {LINK:ImportExportPage;import/export}, como o {THING:StructureFornace} e outras estruturas automatizáveis.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteInlet</Key>
-      <Value>Chute Inlet</Value>
-      <Description>The aim for any {LINK:Stationeers;Stationeer} is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
-The chute inlet is an aperture by which items can be introduced to {LINK:ImportExportPage;import/export} networks. Note that its origins in zero-gravity mining means chute inlets are unpowered and permanently open, rather than interactable, allowing objects to be thrown in. They can be connected to {LINK:LogicUnitPage;logic} systems to monitor throughput.</Description>
+      <Value>Chute (Entrada)</Value>
+      <Description>O objetivo de qualquer {LINK:Stationeers;Stationeer} é tornar a sobrevivência fora do mundo menos difícil para si e para aqueles que seguirão seus passos.
+A entrada do chute é uma abertura pela qual os itens podem ser introduzidos nas redes {LINK:ImportExportPage;import/export}. Observe que suas origens na mineração de gravidade zero significam que as entradas do chute não têm energia e estão permanentemente abertas, em vez de interagir, permitindo que objetos sejam lançados. Eles podem ser conectados a sistemas {LINK:LogicUnitPage;logic} para monitorar a taxa de transferência.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteJunction</Key>
-      <Value>Chute (Junction)</Value>
-      <Description>The aim for any {LINK:Stationeers;Stationeer} is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
-Chute junctions are fundamental components of chute networks, allowing merging or splitting of these networks. When combined with a programmed {THING:StructureSorter}, items can be sent down different paths to various machines with {LINK:ImportExportPage;import/export} slots.</Description>
+      <Value>Chute (Junção)</Value>
+      <Description>O objetivo de qualquer {LINK:Stationeers;Stationeer} é tornar a sobrevivência fora do mundo menos difícil para si e para aqueles que seguirão seus passos.
+As junções de chute são componentes fundamentais das redes de chute, permitindo a fusão ou divisão dessas redes. Quando combinado com um {THING:StructureSorter} programado, os itens podem ser enviados por caminhos diferentes para várias máquinas com slots {LINK:ImportExportPage;import/export}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteOutlet</Key>
-      <Value>Chute Outlet</Value>
-      <Description>The aim for any {LINK:Stationeers;Stationeer} is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
-The chute outlet is an aperture for exiting items from {LINK:ImportExportPage;import/export} networks. Note that the outlet's origins in zero-gravity mining means they are permanently open, rather than interactable, but can be connected to {LINK:LogicUnitPage;logic} systems to monitor throughput.</Description>
+      <Value>Chute (Saída</Value>
+      <Description>O objetivo de qualquer {LINK:Stationeers;Stationeer} é tornar a sobrevivência fora do mundo menos difícil para si e para aqueles que seguirão seus passos.
+A saída da calha é uma abertura para saída de itens das redes {LINK:ImportExportPage;import/export}. Observe que as origens da saída na mineração de gravidade zero significa que eles estão permanentemente abertos, em vez de interagir, mas podem ser conectados a sistemas {LINK:LogicUnitPage;logic} para monitorar a taxa de transferência.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteStraight</Key>
-      <Value>Chute (Straight)</Value>
-      <Description>Chutes act as pipes for items. Use them to connect various {LINK:ImportExportPage;import/export} equipment together such as the {THING:StructureVendingMachine} and printers like the {THING:StructureAutolathe}.
-The aim for any {LINK:Stationeers;Stationeer} is to make off-world survival less of a struggle for themselves, and those who will follow in their footsteps.
-Chutes are fundamental components of chute networks, which allow the transport of items between any machine or device with an {LINK:ImportExportPage;import/export} slot.</Description>
+      <Value>Chute (Reto)</Value>
+      <Description>Chutes agem como tubos para itens. Use-os para conectar vários equipamentos {LINK:ImportExportPage;import/export} juntos, como o {THING:StructureVendingMachine} e impressoras como o {THING:StructureAutolathe}.
+O objetivo de qualquer {LINK:Stationeers;Stationeer} é tornar a sobrevivência fora do mundo menos difícil para si e para aqueles que seguirão seus passos.
+Chutes são componentes fundamentais das redes de chute, que permitem o transporte de itens entre qualquer máquina ou dispositivo com um slot {LINK:ImportExportPage;import/export}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCompositeDoor</Key>
@@ -2262,7 +2262,7 @@ Os tubos espalham seu conteúdo uniformemente por toda a rede e podem ser conect
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeper</Key>
-      <Value>Cápsula de Sono Profundo</Value>
+      <Value>Câmara de Estase</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanel</Key>
@@ -7043,313 +7043,312 @@ Altamente sensível à temperatura, o nitrito começará a derreter assim que fo
     </RecordThing>
     <RecordThing>
       <Key>StructureH2Combustor</Key>
-      <Value>Structure H2 Combustor</Value>
-      <Description>Adapted slightly from its original {LINK:Recurso;Recurso} design, the {GAS:Volatiles} Combustor does exactly what its name suggests - it burns a mixture of volatiles and {GAS:Oxygen} to create water. Extremely useful in hot or arid environments, users need to be aware that the combustor outputs considerable waste heat. The device is also less than perfectly efficient, resulting in the autoignition of volatiles in the chamber, and the production of waste gases which must be dealt with.</Description>
+      <Value>Combustor H2</Value>
+      <Description>Um pouco adaptado de seu design original o Combustor faz exatamente o que seu nome sugere - ele queima uma mistura de voláteis e oxigênio para criar água. Extremamente útil em ambientes quentes ou áridos, os usuários precisam estar cientes de que o combustor produz calor residual considerável. O dispositivo também não é perfeitamente eficiente, resultando na autoignição de voláteis na câmara e na produção de gases residuais que devem ser tratados.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlat</Key>
-      <Value>Pipe Radiator</Value>
-      <Description>A pipe mounted radiator omptimised for radiating heat in vacuums and low pressure ebvironments.</Description>
+      <Value>Radiador de Tubos</Value>
+      <Description>Um radiador de tubos otimizado para irradiar calor em ambientes de vácuo e baixa pressão.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeRadiatorFlatLiquid</Key>
-      <Value>Pipe Radiator Liquid</Value>
-      <Description>A liquid pipe mounted radiator omptimised for radiating heat in vacuums and low pressure environments.</Description>
+      <Value>Radiador de Canos</Value>
+      <Description>Um radiador de canos otimizado para irradiar calor em ambientes de vácuo e baixa pressão.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumConvectionRadiator</Key>
-      <Value>Medium Convection Radiator</Value>
-      <Description>A stand-alone radiator unit omptimised for exchanging heat with its surrounding atmosphere.</Description>
+      <Value>Radiador de Convecção Médio (Gás)</Value>
+      <Description>Uma unidade de radiador autônoma otimizada para a troca de calor com a atmosfera circundante.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiator</Key>
-      <Value>Medium Radiator</Value>
-      <Description>A stand-alone radiator unit omptimised for radiating heat in vacuums and low pressure environments.</Description>
+      <Value>Radiador Médio (Gás)</Value>
+      <Description>Uma unidade de radiador autônoma otimizada para irradiar calor em ambientes de vácuo e baixa pressão.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumRadiatorLiquid</Key>
-      <Value>Medium Radiator Liquid</Value>
-      <Description>A stand-alone liquid radiator unit omptimised for radiating heat in vacuums and low pressure environments.</Description>
+      <Value>Radiador Médio (Líquido)</Value>
+      <Description>Uma unidade de radiador autônoma otimizada para irradiar calor em ambientes de vácuo e baixa pressão.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureMediumConvectionRadiatorLiquid</Key>
-      <Value>Medium Convection Radiator Liquid</Value>
-      <Description>A stand-alone liquid radiator unit omptimised for exchanging heat with its surrounding atmosphere.</Description>
+      <Value>Radiador de Convecção Médio (Líquido)</Value>
+      <Description>Uma unidade de radiador autônoma otimizada para a troca de calor com a atmosfera circundante.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiator</Key>
-      <Value>Kit (Pipe Radiator)</Value>
-      <Description>This kit creates a {THING:StructurePipeRadiatorFlat} and {THING:StructurePipeRadiator}.</Description>
+      <Value>Kit (Radiador de Tubos)</Value>
+      <Description>Este kit produz um {THING:StructurePipeRadiatorFlat} e {THING:StructurePipeRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeRadiatorLiquid</Key>
-      <Value>Kit (Pipe Radiator Liquid)</Value>
-      <Description>This kit creates a {THING:StructurePipeRadiatorFlatLiquid} and {THING:StructureLiquidPipeRadiator}.</Description>
+      <Value>Kit (Radiador de Canos)</Value>
+      <Description>Este kit produz um {THING:StructurePipeRadiatorFlatLiquid} e {THING:StructureLiquidPipeRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCryoTubeVertical</Key>
-      <Value>Cryo Tube Vertical</Value>
-      <Description>The vertical variant of the cryo tube. Will heal players and organs as well as revive dead players when provided with an atmosphere of NOS below -150C.</Description>
+      <Value>Tubo Cryo Vertical</Value>
+      <Description>A variante vertical do tubo criogênico. Curará jogadores e órgãos, bem como reviverá jogadores mortos quando fornecido com uma atmosfera de NOS abaixo de -150C.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCryoTubeHorizontal</Key>
-      <Value>Cryo Tube Horizontal</Value>
-      <Description>The horizontal variant of the cryo tube. Will heal players and organs as well as revive dead players when provided with an atmosphere of NOS below -150C.</Description>
+      <Value>Tubo Cryo Horizontal</Value>
+      <Description>A variante horizontal do tubo crio. Curará jogadores e órgãos, bem como reviverá jogadores mortos quando fornecido com uma atmosfera de NOS abaixo de -150C.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureDeepMiner</Key>
-      <Value>Deep Miner</Value>
-      <Description>Drills through terrain until it hits bedrock. Once inside bedrock {THING:ItemDirtyOre} is produced every roughly every 90s</Description>
+      <Value>Mineradora Profunda</Value>
+      <Description>Perfura o terreno até atingir o leito rochoso. Uma vez dentro do alicerce, {THING:ItemDirtyOre} é produzido aproximadamente a cada 90 segundos</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeperVertical</Key>
-      <Value>Sleeper Vertical</Value>
-      <Description>The vertical variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breatheable atmosphere is provided.</Description>
+      <Value>Câmara de Estase Vertical</Value>
+      <Description>A variante vertical do dormente. Manterá os jogadores hidratados e alimentados enquanto estiverem desconectados - desde que seja fornecida uma atmosfera respirável.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeperLeft</Key>
-      <Value>Sleeper Left</Value>
-      <Description>A horizontal variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breatheable atmosphere is provided.</Description>
+      <Value>Câmara de Estase Esquerda</Value>
+      <Description>Uma variante horizontal do dorminhoco. Manterá os jogadores hidratados e alimentados enquanto estiverem desconectados - desde que seja fornecida uma atmosfera respirável.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSleeperRight</Key>
-      <Value>Sleeper Right</Value>
-      <Description>A horizontal variant of the sleeper. Will keep players hydrated and fed while they are logged out - as long as a breatheable atmosphere is provided.</Description>
+      <Value>Câmara de Estase Direita</Value>
+      <Description>Uma variante horizontal do dorminhoco. Manterá os jogadores hidratados e alimentados enquanto estiverem desconectados - desde que seja fornecida uma atmosfera respirável.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureProximitySensor</Key>
-      <Value>Proximity Sensor</Value>
-      <Description>Will be triggered if there is a player in the range of the sensor (as defined by the setting dial). The quantity variable will show the number of players. You can configure the sensor to only detect players who hold the correct Access Card using a {THING:CartridgeAccessController} in a {THING:ItemTablet}.</Description>
+      <Value>Sensor de Proximidade</Value>
+      <Description>Será acionado se houver um jogador no alcance do sensor (conforme definido pelo botão de configuração). A variável quantidade mostrará o número de jogadores. Você pode configurar o sensor para detectar apenas jogadores que possuem o cartão de acesso correto usando um {THING:CartridgeAccessController} em um {THING:ItemTablet}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureOccupancySensor</Key>
-      <Value>Occupancy Sensor</Value>
-      <Description>Will be triggered if there is a player in the same room as the sensor. The quantity variable will show the number of players. You can use configure it to only detect players who hold the correct Access Card using a {THING:CartridgeAccessController} in a {THING:ItemTablet}. This sensor only works when placed in a room.</Description>
+      <Value>Sensor de Ocupação</Value>
+      <Description>Será acionado se houver um jogador na mesma sala que o sensor. A variável quantidade mostrará o número de jogadores. Você pode configurá-lo para detectar apenas jogadores que possuem o cartão de acesso correto usando um {THING:CartridgeAccessController} em um {THING:ItemTablet}. Este sensor só funciona quando colocado em uma sala.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDeepMiner</Key>
-      <Value>Kit (Deep Miner)</Value>
-      <Description>Creates {THING:StructureDeepMiner} which can drill through the terrain into bedrock to mine {THING:ItemDirtyOre}</Description>
+      <Value>Kit (Mineradora Profunda)</Value>
+      <Description>Produz uma {THING:StructureDeepMiner} que pode perfurar o terreno em rocha para minerar {THING:ItemDirtyOre}</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemDirtyOre</Key>
-      <Value>Item Dirty Ore</Value>
-      <Description>Ore mined from bedrock via the {THING:StructureDeepMiner} which then can be used in the {THING:StructureCentrifuge}, or {THING:StructureCombustionCentrifuge}. Once processed, it produces ore in a ratio similar to the average found on the planet's surface. </Description>
+      <Value>Minério Sujo</Value>
+      <Description>Minério extraído do leito rochoso por meio do {THING:StructureDeepMiner}, que pode ser usado no {THING:StructureCentrifuge} ou {THING:StructureCombustionCentrifuge}. Uma vez processado, produz minério em proporção semelhante à média encontrada na superfície do planeta. </Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteFlipFlopSplitter</Key>
-      <Value>Chute Flip Flop Splitter</Value>
-      <Description>A chute that toggles between two outputs</Description>
+      <Value>Chute (Divisor flip-flop)</Value>
+      <Description>Um chute que alterna entre duas saídas</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteValve</Key>
-      <Value>Chute Valve</Value>
-      <Description>The Chute Valve will stop the flow of materials when set to closed and when set to open, will act like a straight chute.</Description>
+      <Value>Chute (Válvula)</Value>
+      <Description>A Válvula de Chute interromperá o fluxo de materiais quando configurada para fechada e, quando configurada para abrir, atuará como um chute reto.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCombustionCentrifuge</Key>
-      <Value>Combustion Centrifuge</Value>
-      <Description>The Combustion Centrifuge is a gas powered version of the {THING:StructureCentrifuge}. A combustible fuel mix should be supplied to the gas input, and waste gasses should be vented from the output. The machine's RPMs must be controlled via the throttle and combustion limitor levers. If the Combustion Centrifuge gains, or looses, RPMs too fast it will experience stress, and eventually grind to a halt.  Higher RPMs directly result in faster processing speeds.
-The throttle lever controls the amount of fuel being pulled into the machine, increasing the temperature inside the engine, and leading to an increase in RPM. The limitor lever influences the speed of the combustion, and how much uncombusted gas is in the exhaust.	  
-Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result in additional stress build up.  If turned off while not stressed, the machine will automatically start to brake, and reduce RPMs in a controlled manner.
-	  </Description>
+      <Value>Centrifuga à Combustão</Value>
+      <Description>A Centrífuga de Combustão é uma versão movida a gás da {THING:StructureCentrifuge}. Uma mistura de combustível combustível deve ser fornecida à entrada de gás e os gases residuais devem ser expelidos da saída. As RPMs da máquina devem ser controladas através das alavancas do acelerador e do limitador de combustão. Se a Centrífuga de Combustão ganhar ou perder RPMs muito rápido, ela sofrerá estresse e, eventualmente, parará. RPMs mais altos resultam diretamente em velocidades de processamento mais rápidas.
+A alavanca do acelerador controla a quantidade de combustível que está sendo puxada para dentro da máquina, aumentando a temperatura dentro do motor e levando a um aumento nas RPM. A alavanca limitadora influencia a velocidade da combustão e a quantidade de gás não queimado no escapamento.
+A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas RPMs resultará em acúmulo de tensão adicional. Se desligado sem esforço, a máquina começará a frear automaticamente e reduzirá as RPMs de maneira controlada.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteOverflow</Key>
-      <Value>Chute Overflow</Value>
-      <Description>The overflow chute will direct materials to its overflow port when the thing connected to its default port is already occupied.</Description>
+      <Value>Chute (Transbordamento)</Value>
+      <Description>O chute de transbordamento direcionará os materiais para sua porta de transbordamento quando à sua porta padrão já estiver ocupada.</Description>
     </RecordThing>
     <RecordThing>
       <Key>KitStructureCombustionCentrifuge</Key>
-      <Value>Kit (Combustion Centrifuge)</Value>
+      <Value>Kit (Centrifuga à Combustão)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteDigitalValveLeft</Key>
-      <Value>Chute Digital Valve Left</Value>
-      <Description>The Digital Chute Valve will stop the flow of materials when set to closed and when set to open, will act like a straight chute. The valve will automatically close after a certain number of items have passed through. This threshold can be set using the dial.</Description>
+      <Value>Chute (Válvula Digial Esquerda)</Value>
+      <Description>A Válvula de Chute Digital interromperá o fluxo de materiais quando configurada para fechada e, quando configurada para aberta, atuará como uma calha reta. A válvula fechará automaticamente após a passagem de um certo número de itens. Este limite pode ser definido usando o dial.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteDigitalValveRight</Key>
-      <Value>Chute Digital Valve Right</Value>
-      <Description>The Digital Chute Valve will stop the flow of materials when set to closed and when set to open, will act like a straight chute. The valve will automatically close after a certain number of items have passed through. This threshold can be set using the dial.</Description>
+      <Value>Chute (Válvula Digial Direita)</Value>
+      <Description>A Válvula de Chute Digital interromperá o fluxo de materiais quando configurada para fechada e, quando configurada para aberta, atuará como uma calha reta. A válvula fechará automaticamente após a passagem de um certo número de itens. Este limite pode ser definido usando o dial.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteDigitalFlipFlopSplitterLeft</Key>
-      <Value>Chute Digital Flip Flop Splitter Left</Value>
-      <Description>The digital flip flop will toggle between two outputs using a specified ratio (n:1). For example, setting the dial to 2 would allow two items to pass through the primary output before flipping to the secondary output.</Description>
+      <Value>Chute (Divisor flip-flop Esquerdo Digital)</Value>
+      <Description>O flip-flop digital alternará entre duas saídas usando uma proporção especificada (n:1). Por exemplo, definir o dial para 2 permitiria que dois itens passassem pela saída primária antes de alternar para a saída secundária.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureChuteDigitalFlipFlopSplitterRight</Key>
-      <Value>Chute Digital Flip Flop Splitter Right</Value>
-      <Description>The digital flip flop will toggle between two outputs using a specified ratio (n:1). For example, setting the dial to 2 would allow two items to pass through the primary output before flipping to the secondary output.</Description>
+      <Value>Chute (Divisor flip-flop Direito Digital)</Value>
+      <Description>O flip-flop digital alternará entre duas saídas usando uma proporção especificada (n:1). Por exemplo, definir o dial para 2 permitiria que dois itens passassem pela saída primária antes de alternar para a saída secundária.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStandardChute</Key>
-      <Value>Kit (Powered Chutes)</Value>
-      <Description>This kit produces a variety of powered chutes</Description>
+      <Value>Kit (Chutes Energizados)</Value>
+      <Description>Este kit produz uma variedade de chutes energizados.</Description>
     </RecordThing>
   </Things>
   <Slots>
     <Record>
       <Key>Output</Key>
-      <Value>Output</Value>
+      <Value>Saída</Value>
     </Record>
     <Record>
       <Key>Input</Key>
-      <Value>Input</Value>
+      <Value>Entrada</Value>
     </Record>
     <Record>
       <Key>LeftHand</Key>
-      <Value>Left Hand</Value>
+      <Value>Mão Esquerda</Value>
     </Record>
     <Record>
       <Key>RightHand</Key>
-      <Value>Right Hand</Value>
+      <Value>Mão Direita</Value>
     </Record>
     <Record>
       <Key>Helmet</Key>
-      <Value>Helmet</Value>
+      <Value>Capacete</Value>
     </Record>
     <Record>
       <Key>Suit</Key>
-      <Value>Suit</Value>
+      <Value>Traje</Value>
     </Record>
     <Record>
       <Key>Back</Key>
-      <Value>Back</Value>
+      <Value>Costas</Value>
     </Record>
     <Record>
       <Key>Brain</Key>
-      <Value>Brain</Value>
+      <Value>Cérebro</Value>
     </Record>
     <Record>
       <Key>Uniform</Key>
-      <Value>Uniform</Value>
+      <Value>Uniforme</Value>
     </Record>
     <Record>
       <Key>Lungs</Key>
-      <Value>Lungs</Value>
+      <Value>Pulmões</Value>
     </Record>
     <Record>
       <Key>Glasses</Key>
-      <Value>Glasses</Value>
+      <Value>Óculos</Value>
     </Record>
     <Record>
       <Key>Belt</Key>
-      <Value>Belt</Value>
+      <Value>Cinto</Value>
     </Record>
     <Record>
       <Key>Battery</Key>
-      <Value>Battery</Value>
+      <Value>Batteria</Value>
     </Record>
     <Record>
       <Key>GasCanister</Key>
-      <Value>Gas Canister</Value>
+      <Value>Cilindro de Gás</Value>
     </Record>
     <Record>
       <Key>GasFilter</Key>
-      <Value>Gas Filter</Value>
+      <Value>Filtro de Gás</Value>
     </Record>
     <Record>
       <Key>AirTank</Key>
-      <Value>Air Tank</Value>
+      <Value>Tanque de Ar</Value>
     </Record>
     <Record>
       <Key>WasteTank</Key>
-      <Value>Waste Tank</Value>
+      <Value>Tanque de Resíduos</Value>
     </Record>
     <Record>
       <Key>LifeSupport</Key>
-      <Value>Life Support</Value>
+      <Value>Suporte a Vida</Value>
     </Record>
     <Record>
       <Key>Filter</Key>
-      <Value>Filter</Value>
+      <Value>Filtro</Value>
     </Record>
     <Record>
       <Key>Tool</Key>
-      <Value>Tool</Value>
+      <Value>Ferramenta</Value>
     </Record>
     <Record>
       <Key>Ore</Key>
-      <Value>Ore</Value>
+      <Value>Minério</Value>
     </Record>
     <Record>
       <Key>DirtCanister</Key>
-      <Value>Dirt Canister</Value>
+      <Value>Recipiente de Terra</Value>
     </Record>
     <Record>
       <Key>Propellent</Key>
-      <Value>Propellant</Value>
+      <Value>Propelente</Value>
     </Record>
     <Record>
       <Key>Cartridge</Key>
-      <Value>Cartridge</Value>
+      <Value>Cartucho</Value>
     </Record>
     <Record>
       <Key>CaptainsSeat</Key>
-      <Value>Captain's Seat</Value>
+      <Value>Assento do Capitão</Value>
     </Record>
     <Record>
       <Key>PassengerSeatLeft</Key>
-      <Value>Passenger Seat Left</Value>
+      <Value>Assento do Passageiro (Esquerdo)</Value>
     </Record>
     <Record>
       <Key>PassengerSeatRight</Key>
-      <Value>Passenger Seat Right</Value>
+      <Value>Assento do Passageiro (Direito)</Value>
     </Record>
     <Record>
       <Key>DataDisk</Key>
-      <Value>Data Disk</Value>
+      <Value>Disco de Dados</Value>
     </Record>
     <Record>
       <Key>Appliance1</Key>
-      <Value>Appliance 1</Value>
+      <Value>Aplicação 1</Value>
     </Record>
     <Record>
       <Key>Appliance2</Key>
-      <Value>Appliance 2</Value>
+      <Value>Aplicação 2</Value>
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>Import</Value>
+      <Value>Importar</Value>
     </Record>
     <Record>
       <Key>Export</Key>
-      <Value>Export</Value>
+      <Value>Exportar</Value>
     </Record>
     <Record>
       <Key>Seat</Key>
-      <Value>Seat</Value>
+      <Value>Assento</Value>
     </Record>
     <Record>
       <Key>TransportSlot</Key>
-      <Value>Transport Slot</Value>
+      <Value>Slot de Transporte</Value>
     </Record>
     <Record>
       <Key>Motherboard</Key>
-      <Value>Motherboard</Value>
+      <Value>Placa-Mãe</Value>
     </Record>
     <Record>
       <Key>Entity</Key>
-      <Value>Entity</Value>
+      <Value>Entidade</Value>
     </Record>
     <Record>
       <Key>Occupant</Key>
-      <Value>Occupant</Value>
+      <Value>Ocupante</Value>
     </Record>
     <Record>
       <Key>PortableSlot</Key>
-      <Value>Portable Slot</Value>
+      <Value>Slot Portátil</Value>
     </Record>
     <Record>
       <Key>Bed</Key>
-      <Value>Bed</Value>
+      <Value>Cama</Value>
     </Record>
     <Record>
       <Key>Processing</Key>
-      <Value>Processing</Value>
+      <Value>Processando</Value>
     </Record>
     <Record>
       <Key>Torpedo</Key>
@@ -7357,93 +7356,93 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>LoadingRail</Key>
-      <Value>Loading Rail</Value>
+      <Value>Trilho de Carregamento</Value>
     </Record>
     <Record>
       <Key>AccessCard</Key>
-      <Value>Access Card</Value>
+      <Value>Cartão de Acesso</Value>
     </Record>
     <Record>
       <Key>Magazine</Key>
-      <Value>Magazine</Value>
+      <Value>Carregador</Value>
     </Record>
     <Record>
       <Key>ContainerSlot</Key>
-      <Value>Container Slot</Value>
+      <Value>Slot de Contêiner</Value>
     </Record>
     <Record>
       <Key>Plant</Key>
-      <Value>Plant</Value>
+      <Value>Planta</Value>
     </Record>
     <Record>
       <Key>Storage</Key>
-      <Value>Storage</Value>
+      <Value>Armazenar</Value>
     </Record>
     <Record>
       <Key>Circuit</Key>
-      <Value>Circuit</Value>
+      <Value>Circuito</Value>
     </Record>
     <Record>
       <Key>CircuitBoard</Key>
-      <Value>Circuit Board</Value>
+      <Value>Placa de Circuito</Value>
     </Record>
     <Record>
       <Key>ProgrammableChip</Key>
-      <Value>Programmable Chip</Value>
+      <Value>Chip Programável</Value>
     </Record>
     <Record>
       <Key>CreditCard</Key>
-      <Value>Credit Card</Value>
+      <Value>Cartão de Crédito</Value>
     </Record>
     <Record>
       <Key>Cartridge2</Key>
-      <Value>Cartridge2</Value>
+      <Value>Cartucho 2</Value>
     </Record>
     <Record>
       <Key>Next</Key>
-      <Value>Next</Value>
+      <Value>Próximo</Value>
     </Record>
     <Record>
       <Key>Prev</Key>
-      <Value>Prev</Value>
+      <Value>Anterior</Value>
     </Record>
     <Record>
       <Key>Cartridge0</Key>
-      <Value>Cartridge0</Value>
+      <Value>Cartucho 0</Value>
     </Record>
     <Record>
       <Key>Cartridge1</Key>
-      <Value>Cartridge1</Value>
+      <Value>Cartucho 1</Value>
     </Record>
     <Record>
       <Key>Previous</Key>
-      <Value>Previous</Value>
+      <Value>Anterior</Value>
     </Record>
     <Record>
       <Key>SensorProcessingUnit</Key>
-      <Value>Sensor Processing Unit</Value>
+      <Value>Unidade de Processamento do Sensor</Value>
     </Record>
     <Record>
       <Key>LiquidCanister</Key>
-      <Value>Liquid Canister</Value>
+      <Value>Cilindro de Líquido</Value>
     </Record>
     <Record>
       <Key>HandSlot</Key>
-      <Value>Hand</Value>
+      <Value>Mão</Value>
     </Record>
     <Record>
       <Key>BottleSlot</Key>
-      <Value>Bottle Slot</Value>
+      <Value>Garrafa</Value>
     </Record>
   </Slots>
   <Interactables>
     <Record>
       <Key>Activate</Key>
-      <Value>Activate</Value>
+      <Value>Ativar</Value>
     </Record>
     <Record>
       <Key>Open</Key>
-      <Value>Open</Value>
+      <Value>Abrir</Value>
     </Record>
     <Record>
       <Key>OnOff</Key>
@@ -7451,15 +7450,15 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>Lock</Key>
-      <Value>Lock</Value>
+      <Value>Trancar</Value>
     </Record>
     <Record>
       <Key>Powered</Key>
-      <Value>Powered</Value>
+      <Value>Alimentado</Value>
     </Record>
     <Record>
       <Key>Error</Key>
-      <Value>Error</Value>
+      <Value>Erro</Value>
     </Record>
     <Record>
       <Key>Slot1</Key>
@@ -7471,55 +7470,55 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>GrabLeftHand</Key>
-      <Value>Grab Left Hand</Value>
+      <Value>Agarrar Mão Esquerda</Value>
     </Record>
     <Record>
       <Key>GrabRightHand</Key>
-      <Value>Grab Right Hand</Value>
+      <Value>Agarrar Mão Direita</Value>
     </Record>
     <Record>
       <Key>GrabLeftFoot</Key>
-      <Value>Grab Left Foot</Value>
+      <Value>Agarrar Pé Esquerdo</Value>
     </Record>
     <Record>
       <Key>GrabRightFoot</Key>
-      <Value>Grab Right Foot</Value>
+      <Value>Agarrar Pé Direito</Value>
     </Record>
     <Record>
       <Key>GrabHead</Key>
-      <Value>Grab Head</Value>
+      <Value>Agarrar Cabeça</Value>
     </Record>
     <Record>
       <Key>GrabUpperArmL</Key>
-      <Value>Grab Left Arm</Value>
+      <Value>Agarrar Braço Superior Esquerdo</Value>
     </Record>
     <Record>
       <Key>GrabUpperArmR</Key>
-      <Value>Grab Right Arm</Value>
+      <Value>Agarrar Braço Superior Direito</Value>
     </Record>
     <Record>
       <Key>GrabLowerArmL</Key>
-      <Value>Grab Left Arm</Value>
+      <Value>Agarrar Braço Esquerdo</Value>
     </Record>
     <Record>
       <Key>GrabLowerArmR</Key>
-      <Value>Grab Right Arm</Value>
+      <Value>Agarrar Braço Direito</Value>
     </Record>
     <Record>
       <Key>GrabThighR</Key>
-      <Value>Grab Right Thigh</Value>
+      <Value>Agarrar Coxa Direita</Value>
     </Record>
     <Record>
       <Key>GrabThighL</Key>
-      <Value>Grab Left Thigh</Value>
+      <Value>Agarrar Coxa Esquerda</Value>
     </Record>
     <Record>
       <Key>GrabCalfR</Key>
-      <Value>Grab Right Calf</Value>
+      <Value>Agarrar Panturrilha Direita</Value>
     </Record>
     <Record>
       <Key>GrabCalfL</Key>
-      <Value>Grab Left Calf</Value>
+      <Value>Agarrar Panturrilha Esquerda</Value>
     </Record>
     <Record>
       <Key>Drag</Key>
@@ -7527,139 +7526,139 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>Mode</Key>
-      <Value>Mode</Value>
+      <Value>Modo</Value>
     </Record>
     <Record>
       <Key>Button1</Key>
-      <Value>Button1</Value>
+      <Value>Botão 1</Value>
     </Record>
     <Record>
       <Key>Slot3</Key>
-      <Value>Slot3</Value>
+      <Value>Slot 3</Value>
     </Record>
     <Record>
       <Key>Slot4</Key>
-      <Value>Slot4</Value>
+      <Value>Slot 4</Value>
     </Record>
     <Record>
       <Key>Slot5</Key>
-      <Value>Slot5</Value>
+      <Value>Slot 5</Value>
     </Record>
     <Record>
       <Key>Slot6</Key>
-      <Value>Slot6</Value>
-    </Record>
+      <Value>Slot 6</Value>
+    </Record> 
     <Record>
       <Key>Slot7</Key>
-      <Value>Slot7</Value>
+      <Value>Slot 7</Value>
     </Record>
     <Record>
       <Key>Slot8</Key>
-      <Value>Slot8</Value>
+      <Value>Slot 8</Value>
     </Record>
     <Record>
       <Key>Slot9</Key>
-      <Value>Slot9</Value>
+      <Value>Slot 9</Value>
     </Record>
     <Record>
       <Key>Slot10</Key>
-      <Value>Slot10</Value>
+      <Value>Slot 10</Value>
     </Record>
     <Record>
       <Key>Button2</Key>
-      <Value>Button2</Value>
+      <Value>Botão 2</Value>
     </Record>
     <Record>
       <Key>SplitOne</Key>
-      <Value>Split One</Value>
+      <Value>Dividir Um</Value>
     </Record>
     <Record>
       <Key>SplitHalf</Key>
-      <Value>Split Half</Value>
+      <Value>Dividir Metade</Value>
     </Record>
     <Record>
       <Key>NextPage</Key>
-      <Value>Next Page</Value>
+      <Value>Próxima Pagina</Value>
     </Record>
     <Record>
       <Key>PreviousPage</Key>
-      <Value>Previous Page</Value>
+      <Value>Pagina Anterior</Value>
     </Record>
     <Record>
       <Key>Use</Key>
-      <Value>Use</Value>
+      <Value>Usar</Value>
     </Record>
     <Record>
       <Key>Export</Key>
-      <Value>Export</Value>
+      <Value>Exportar</Value>
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>Import</Value>
+      <Value>Importar</Value>
     </Record>
     <Record>
       <Key>PressureUp</Key>
-      <Value>Pressure Up</Value>
+      <Value>Aumentar Pressão</Value>
     </Record>
     <Record>
       <Key>PressureDown</Key>
-      <Value>Pressure Down</Value>
+      <Value>Diminuir Pressão</Value>
     </Record>
     <Record>
       <Key>Flush</Key>
-      <Value>Flush</Value>
+      <Value>Descarga</Value>
     </Record>
     <Record>
       <Key>Battery</Key>
-      <Value>Battery</Value>
+      <Value>Bateria</Value>
     </Record>
     <Record>
       <Key>Cartridge</Key>
-      <Value>Cartridge</Value>
+      <Value>Cartucho</Value>
     </Record>
     <Record>
       <Key>CaptainsChair</Key>
-      <Value>Captains Chair</Value>
+      <Value>Assento do Capitão</Value>
     </Record>
     <Record>
       <Key>PassengersChair</Key>
-      <Value>Passengers Chair</Value>
+      <Value>Assento do Passageiro</Value>
     </Record>
     <Record>
       <Key>Button3</Key>
-      <Value>Button3</Value>
+      <Value>Botão 3</Value>
     </Record>
     <Record>
       <Key>Slot11</Key>
-      <Value>Slot11</Value>
+      <Value>Slot 11</Value>
     </Record>
     <Record>
       <Key>Slot12</Key>
-      <Value>Slot12</Value>
+      <Value>Slot 12</Value>
     </Record>
     <Record>
       <Key>Slot13</Key>
-      <Value>Slot13</Value>
+      <Value>Slot 13</Value>
     </Record>
     <Record>
       <Key>Slot14</Key>
-      <Value>Slot14</Value>
+      <Value>Slot 14</Value>
     </Record>
     <Record>
       <Key>Slot15</Key>
-      <Value>Slot15</Value>
+      <Value>Slot 15</Value>
     </Record>
     <Record>
       <Key>Slot16</Key>
-      <Value>Slot16</Value>
+      <Value>Slot 16</Value>
     </Record>
     <Record>
       <Key>Slot17</Key>
-      <Value>Slot17</Value>
+      <Value>Slot 17</Value>
     </Record>
     <Record>
       <Key>Slot18</Key>
-      <Value>Slot18</Value>
+      <Value>Slot 18</Value>
     </Record>
     <Record>
       <Key>Slot19</Key>
@@ -7675,15 +7674,15 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>Slot22</Key>
-      <Value>Slot22</Value>
+      <Value>Slot 22</Value>
     </Record>
     <Record>
       <Key>Slot23</Key>
-      <Value>Slot23</Value>
+      <Value>Slot 23</Value>
     </Record>
     <Record>
       <Key>Slot24</Key>
-      <Value>Slot24</Value>
+      <Value>Slot 24</Value>
     </Record>
     <Record>
       <Key>Slot25</Key>
@@ -7699,229 +7698,229 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>Slot28</Key>
-      <Value>Slot28</Value>
+      <Value>Slot 28</Value>
     </Record>
     <Record>
       <Key>Slot29</Key>
-      <Value>Slot29</Value>
+      <Value>Slot 29</Value>
     </Record>
     <Record>
       <Key>Slot30</Key>
-      <Value>Slot30</Value>
+      <Value>Slot 30</Value>
     </Record>
     <Record>
       <Key>TiltUpwards</Key>
-      <Value>Tilt Upwards</Value>
+      <Value>Inclinar para Cima</Value>
     </Record>
     <Record>
       <Key>Rotate</Key>
-      <Value>Rotate</Value>
+      <Value>Girar</Value>
     </Record>
     <Record>
       <Key>RotateLeft</Key>
-      <Value>Rotate Left</Value>
+      <Value>Girar para Esquerda</Value>
     </Record>
     <Record>
       <Key>RotateRight</Key>
-      <Value>Rotate Right</Value>
+      <Value>Girar para Direita</Value>
     </Record>
     <Record>
       <Key>TiltDownwards</Key>
-      <Value>Tilt Downwards</Value>
+      <Value>Inclinar para Baixo</Value>
     </Record>
     <Record>
       <Key>Export2</Key>
-      <Value>Export2</Value>
+      <Value>Exportar2</Value>
     </Record>
     <Record>
       <Key>Launch</Key>
-      <Value>Launch</Value>
+      <Value>Lançar</Value>
     </Record>
     <Record>
       <Key>PreviousPlan</Key>
-      <Value>Previous Plan</Value>
+      <Value>Projeto Anterior</Value>
     </Record>
     <Record>
       <Key>NextPlan</Key>
-      <Value>Next Plan</Value>
+      <Value>Próximo Projeto</Value>
     </Record>
     <Record>
       <Key>CreatePlan</Key>
-      <Value>Create Plan</Value>
+      <Value>Criar Projeto</Value>
     </Record>
     <Record>
       <Key>Search</Key>
-      <Value>Search</Value>
+      <Value>Procurar</Value>
     </Record>
     <Record>
       <Key>Button4</Key>
-      <Value>Button4</Value>
+      <Value>Botão 4</Value>
     </Record>
     <Record>
       <Key>Output</Key>
-      <Value>Output</Value>
+      <Value>Saída</Value>
     </Record>
     <Record>
       <Key>Hatch</Key>
-      <Value>Hatch</Value>
+      <Value>Chocar</Value>
     </Record>
     <Record>
       <Key>Grow</Key>
-      <Value>Grow</Value>
+      <Value>Crescer</Value>
     </Record>
     <Record>
       <Key>LayEgg</Key>
-      <Value>Lay Egg</Value>
+      <Value>Colocar Ovo</Value>
     </Record>
     <Record>
       <Key>Eat</Key>
-      <Value>Eat</Value>
+      <Value>Comer</Value>
     </Record>
     <Record>
       <Key>Input</Key>
-      <Value>Input</Value>
+      <Value>Entrada</Value>
     </Record>
     <Record>
       <Key>Setting</Key>
-      <Value>Setting</Value>
+      <Value>Configuração</Value>
     </Record>
     <Record>
       <Key>Increase</Key>
-      <Value>Increase</Value>
+      <Value>Aumentar</Value>
     </Record>
     <Record>
       <Key>Decrease</Key>
-      <Value>Decrease</Value>
+      <Value>Diminuir</Value>
     </Record>
     <Record>
       <Key>Color</Key>
-      <Value>Color</Value>
+      <Value>Cor</Value>
     </Record>
     <Record>
       <Key>Access</Key>
-      <Value>Access</Value>
+      <Value>Acesso</Value>
     </Record>
     <Record>
       <Key>Magazine</Key>
-      <Value>Magazine</Value>
+      <Value>Carregador</Value>
     </Record>
     <Record>
       <Key>TemperatureUp</Key>
-      <Value>Temperature Up</Value>
+      <Value>Aumentar Temperatura</Value>
     </Record>
     <Record>
       <Key>TemperatureDown</Key>
-      <Value>Temperature Down</Value>
+      <Value>Diminuir Temperatura</Value>
     </Record>
     <Record>
       <Key>ThrustUp</Key>
-      <Value>Thrust Up</Value>
+      <Value>Aumentar Propulsor</Value>
     </Record>
     <Record>
       <Key>ThrustDown</Key>
-      <Value>Thrust Down</Value>
+      <Value>Diminuir Propulsor</Value>
     </Record>
     <Record>
       <Key>Button5</Key>
-      <Value>Button5</Value>
+      <Value>Botão5</Value>
     </Record>
     <Record>
       <Key>Button6</Key>
-      <Value>Button6</Value>
+      <Value>Botão6</Value>
     </Record>
     <Record>
       <Key>UnpackAll</Key>
-      <Value>Unpack All</Value>
+      <Value>Desempacotar tudo</Value>
     </Record>
     <Record>
       <Key>Unpack</Key>
-      <Value>Unpack</Value>
+      <Value>Desempacotar</Value>
     </Record>
     <Record>
       <Key>Cartridge2</Key>
-      <Value>Cartridge2</Value>
+      <Value>Cartucho2</Value>
     </Record>
     <Record>
       <Key>Cartridge1</Key>
-      <Value>Cartridge1</Value>
+      <Value>Cartucho1</Value>
     </Record>
     <Record>
       <Key>Next</Key>
-      <Value>Next</Value>
+      <Value>Próximo</Value>
     </Record>
     <Record>
       <Key>Prev</Key>
-      <Value>Prev</Value>
+      <Value>Anterior</Value>
     </Record>
     <Record>
       <Key>Previous</Key>
-      <Value>Previous</Value>
+      <Value>Anterior</Value>
     </Record>
     <Record>
       <Key>Button7</Key>
-      <Value>Button7</Value>
+      <Value>Botão 7</Value>
     </Record>
     <Record>
       <Key>Button8</Key>
-      <Value>Button8</Value>
+      <Value>Botão 8</Value>
     </Record>
     <Record>
       <Key>Button9</Key>
-      <Value>Button9</Value>
+      <Value>Botão 9</Value>
     </Record>
     <Record>
       <Key>Button10</Key>
-      <Value>Button10</Value>
+      <Value>Botão 10</Value>
     </Record>
     <Record>
       <Key>Button11</Key>
-      <Value>Button11</Value>
+      <Value>Botão 11</Value>
     </Record>
     <Record>
       <Key>Button12</Key>
-      <Value>Button12</Value>
+      <Value>Botão 12</Value>
     </Record>
     <Record>
       <Key>Button13</Key>
-      <Value>Button13</Value>
+      <Value>Botão 13</Value>
     </Record>
     <Record>
       <Key>Button14</Key>
-      <Value>Button14</Value>
+      <Value>Botão 14</Value>
     </Record>
     <Record>
       <Key>Button15</Key>
-      <Value>Button15</Value>
+      <Value>Botão 15</Value>
     </Record>
     <Record>
       <Key>Button16</Key>
-      <Value>Button16</Value>
+      <Value>Botão 16</Value>
     </Record>
     <Record>
       <Key>Button17</Key>
-      <Value>Button17</Value>
+      <Value>Botão 17</Value>
     </Record>
     <Record>
       <Key>ProgrammableChip</Key>
-      <Value>Programmable Chip</Value>
+      <Value>Chip Programável</Value>
     </Record>
     <Record>
       <Key>Motherboard</Key>
-      <Value>Motherboard</Value>
+      <Value>Placa-Mãe</Value>
     </Record>
   </Interactables>
   <Interface>
     <Record>
       <Key>Throttle</Key>
-      <Value>Throttle</Value>
+      <Value>Acelerador</Value>
     </Record>
     <Record>
       <Key>CombustionLimiter</Key>
-      <Value>Combustion Limiter</Value>
+      <Value>Limitador de Combustão</Value>
     </Record>
     <Record>
       <Key>RespawnConditionEasy</Key>
-      <Value>Easy</Value>
+      <Value>Fácil</Value>
     </Record>
     <Record>
       <Key>RespawnConditionNormal</Key>
@@ -7937,7 +7936,7 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>Stress</Key>
-      <Value>Stress</Value>
+      <Value>Estresse</Value>
     </Record>
     <Record>
       <Key>SlotKey</Key>
@@ -7945,75 +7944,75 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>SoonTM</Key>
-      <Value>Coming Soon...</Value>
+      <Value>Em breve...</Value>
     </Record>
     <Record>
       <Key>MainMenuContinue</Key>
-      <Value>Continue</Value>
+      <Value>Continuar</Value>
     </Record>
     <Record>
       <Key>KitCategory</Key>
-      <Value>Construction Kits</Value>
+      <Value>Kits de Construção</Value>
     </Record>
     <Record>
       <Key>DoorCategory</Key>
-      <Value>Doors and Hatches</Value>
+      <Value>Portas e Escotilhas</Value>
     </Record>
     <Record>
       <Key>ChairTableCategory</Key>
-      <Value>Chairs</Value>
+      <Value>Cadeiras</Value>
     </Record>
     <Record>
       <Key>PersonalSuits</Key>
-      <Value>Suits</Value>
+      <Value>Trajes</Value>
     </Record>
     <Record>
       <Key>BatteryCategory</Key>
-      <Value>Power Storage</Value>
+      <Value>Armazenamento de Energia</Value>
     </Record>
     <Record>
       <Key>CableCategory</Key>
-      <Value>Cables and Analyzers</Value>
+      <Value>Cabos e Analisadores</Value>
     </Record>
     <Record>
       <Key>LightCategory</Key>
-      <Value>Lights</Value>
+      <Value>Lâmpadas</Value>
     </Record>
     <Record>
       <Key>PersonalBackpacks</Key>
-      <Value>Backpacks</Value>
+      <Value>Mochilas</Value>
     </Record>
     <Record>
       <Key>FoodCategory</Key>
-      <Value>Consumables</Value>
+      <Value>Consumíveis</Value>
     </Record>
     <Record>
       <Key>WallFloorCategory</Key>
-      <Value>Walls and Floors</Value>
+      <Value>Paredes e Pisos</Value>
     </Record>
     <Record>
       <Key>SafetyCategory</Key>
-      <Value>Safety and Transport</Value>
+      <Value>Segurança e Transporte</Value>
     </Record>
     <Record>
       <Key>OrganicsCategory</Key>
-      <Value>Organics</Value>
+      <Value>Orgânicos</Value>
     </Record>
     <Record>
       <Key>PersonalEyeWear</Key>
-      <Value>Eye Wear</Value>
+      <Value>Óculos</Value>
     </Record>
     <Record>
       <Key>PersonalClothing</Key>
-      <Value>Clothing</Value>
+      <Value>Roupa</Value>
     </Record>
     <Record>
       <Key>OreHeader</Key>
-      <Value>Ores</Value>
+      <Value>Minérios</Value>
     </Record>
     <Record>
       <Key>ReagentsHeader</Key>
-      <Value>Reagents</Value>
+      <Value>Reagentes</Value>
     </Record>
     <Record>
       <Key>GasesHeader</Key>
@@ -8021,231 +8020,231 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>FrozenOreHeader</Key>
-      <Value>Frozen Ores</Value>
+      <Value>Minérios Congelados</Value>
     </Record>
     <Record>
       <Key>CartridgeCategory</Key>
-      <Value>Cartridges</Value>
+      <Value>Cartuchos</Value>
     </Record>
     <Record>
       <Key>PersonalHelmets</Key>
-      <Value>Helmets</Value>
+      <Value>Capacetes</Value>
     </Record>
     <Record>
       <Key>PersonalToolbelt</Key>
-      <Value>Tool Belts</Value>
+      <Value>Cinto de Ferramentas</Value>
     </Record>
     <Record>
       <Key>Other</Key>
-      <Value>Other</Value>
+      <Value>Outro</Value>
     </Record>
     <Record>
       <Key>PowerTool</Key>
-      <Value>Power Tools</Value>
+      <Value>Ferramentas Elétricas</Value>
     </Record>
     <Record>
       <Key>SlotsTitle</Key>
-      <Value>All Slots</Value>
+      <Value>Todos os Slots</Value>
     </Record>
     <Record>
       <Key>LogicReadersCategory</Key>
-      <Value>Logic Readers</Value>
+      <Value>Leitores de Lógica</Value>
     </Record>
     <Record>
       <Key>LogicWriterCategory</Key>
-      <Value>Logic Writers</Value>
+      <Value>Escritores de Lógica</Value>
     </Record>
     <Record>
       <Key>MotherboardCategory</Key>
-      <Value>Motherboards</Value>
+      <Value>Placas-Mãe</Value>
     </Record>
     <Record>
       <Key>ControlSystemAtmos</Key>
-      <Value>Control Systems</Value>
+      <Value>Sistemas de Controle</Value>
     </Record>
     <Record>
       <Key>ApplianceCategory</Key>
-      <Value>Appliances</Value>
+      <Value>Aplicações</Value>
     </Record>
     <Record>
       <Key>Fabricators</Key>
-      <Value>Fabricators</Value>
+      <Value>Fabricadores</Value>
     </Record>
     <Record>
       <Key>Edibles</Key>
-      <Value>Edibles and food</Value>
+      <Value>Comestíveis e Comida</Value>
     </Record>
     <Record>
       <Key>Plants</Key>
-      <Value>Plants and Seeds</Value>
+      <Value>Plantas e Sementes</Value>
     </Record>
     <Record>
       <Key>AirContitioningAtmos</Key>
-      <Value>Air Conditioning</Value>
+      <Value>Ar Condicionado</Value>
     </Record>
     <Record>
       <Key>AtmosDevices</Key>
-      <Value>Atmospheric Devices</Value>
+      <Value>Dispositivos de Atmosfera</Value>
     </Record>
     <Record>
       <Key>FireArm</Key>
-      <Value>Weapons</Value>
+      <Value>Armas</Value>
     </Record>
     <Record>
       <Key>ManualTools</Key>
-      <Value>Manual Tools</Value>
+      <Value>Ferramentas Manuais</Value>
     </Record>
     <Record>
       <Key>PowerTools</Key>
-      <Value>Power Tools</Value>
+      <Value>Ferramentas Elétricas</Value>
     </Record>
     <Record>
       <Key>TraderErrorConnectWires</Key>
-      <Value>The trader could not complete the trade, check your cables for any breaks!</Value>
+      <Value>O comerciante no conseguiu concluir a negociação, verifique se os cabos estão corretos!</Value>
     </Record>
     <Record>
       <Key>TraderErrorMissingMotherboard</Key>
-      <Value>You are missing a motherboard in your computer, you lost contact with the trader.</Value>
+      <Value>Está faltando uma placa-me no seu computador, você perdeu o contato com o comerciante.</Value>
     </Record>
     <Record>
       <Key>TraderErrorMissingVendingMachine</Key>
-      <Value>You are missing a connected empty Vending machine, the trade could not complete.</Value>
+      <Value>Está faltando uma Máquina de venda automática vazia conectada, a troca no pôde ser concluída.</Value>
     </Record>
     <Record>
       <Key>Picture</Key>
-      <Value>Picture</Value>
+      <Value>Fotografia</Value>
     </Record>
     <Record>
       <Key>MainMenuNewWorld</Key>
-      <Value>New World</Value>
+      <Value>Novo Mundo</Value>
     </Record>
     <Record>
       <Key>MainMenuLoadWorld</Key>
-      <Value>Load World</Value>
+      <Value>Carregar Mundo</Value>
     </Record>
     <Record>
       <Key>MainMenuJoinWorld</Key>
-      <Value>Join World</Value>
+      <Value>Entrar no Mundo</Value>
     </Record>
     <Record>
       <Key>MainMenuWorkshop</Key>
-      <Value>Workshop</Value>
+      <Value>Oficina</Value>
     </Record>
     <Record>
       <Key>MainMenuSettings</Key>
-      <Value>Settings</Value>
+      <Value>Configurações</Value>
     </Record>
     <Record>
       <Key>MainMenuTutorial</Key>
-      <Value>Tutorials</Value>
+      <Value>Tutoriais</Value>
     </Record>
     <Record>
       <Key>MainMenuCredits</Key>
-      <Value>Credits</Value>
+      <Value>Créditos</Value>
     </Record>
     <Record>
       <Key>MainMenuExit</Key>
-      <Value>Exit To Desktop</Value>
+      <Value>Sair para Área de Trabalho</Value>
     </Record>
     <Record>
       <Key>LoadMenuTitle</Key>
-      <Value>Load World</Value>
+      <Value>Carregar Mundo</Value>
     </Record>
     <Record>
       <Key>LoadMenuFileListTitle</Key>
-      <Value>Saved Worlds</Value>
+      <Value>Mundos Salvos</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextDate</Key>
-      <Value>Saved:</Value>
+      <Value>Salvo:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextPlaytime</Key>
-      <Value>Playtime:</Value>
+      <Value>Tempo de Jogo:</Value>
     </Record>
     <Record>
       <Key>WorldInfoMapName</Key>
-      <Value>Map:</Value>
+      <Value>Mapa:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextAsteroids</Key>
-      <Value>Asteroids:</Value>
+      <Value>Asteroides:</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextVersion</Key>
-      <Value>Version:</Value>
+      <Value>Versão:</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonDelete</Key>
-      <Value>Delete</Value>
+      <Value>Deletar</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonPublish</Key>
-      <Value>Publish</Value>
+      <Value>Publicar</Value>
     </Record>
     <Record>
       <Key>WorldInfoButtonDebugLoad</Key>
-      <Value>Debug Load</Value>
+      <Value>Carregar Debug</Value>
     </Record>
     <Record>
       <Key>LoadWorldButtonLoad</Key>
-      <Value>Load World</Value>
+      <Value>Carregar Mundo</Value>
     </Record>
     <Record>
       <Key>JoinMenuTitle</Key>
-      <Value>Join World</Value>
+      <Value>Entrar no Mundo</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonRefresh</Key>
-      <Value>Refresh List</Value>
+      <Value>Atualizar Lista</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonJoin</Key>
-      <Value>Join World</Value>
+      <Value>Entrar no Mundo</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListName</Key>
-      <Value>Server Name</Value>
+      <Value>Nome do Servidor</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListVersion</Key>
-      <Value>Version</Value>
+      <Value>Versão</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListRefreshing</Key>
-      <Value>Refreshing Server List</Value>
+      <Value>Atualizando lista de servidores</Value>
     </Record>
     <Record>
       <Key>CannotConnectToMetaServer</Key>
-      <Value>Cannot Connect To Meta Server</Value>
+      <Value>Não é possível conectar ao Meta Server</Value>
     </Record>
     <Record>
       <Key>ServerListCannotBeRetrieved</Key>
-      <Value>Server List Cannot Be Retrieved</Value>
+      <Value>Lista de servidores não pode ser recuperada</Value>
     </Record>
     <Record>
       <Key>JoinMenuInputAddressTitle</Key>
-      <Value>Address</Value>
+      <Value>Endereço</Value>
     </Record>
     <Record>
       <Key>NewWorldTitle</Key>
-      <Value>New World</Value>
+      <Value>Novo Mundo</Value>
     </Record>
     <Record>
       <Key>NewWorldButtonBack</Key>
-      <Value>Back</Value>
+      <Value>Voltar</Value>
     </Record>
     <Record>
       <Key>NewWorldButtonCreate</Key>
-      <Value>Create World</Value>
+      <Value>Criar Mundo</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaTitle</Key>
-      <Value>Starting Area</Value>
+      <Value>Área Inicial</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaSpace</Key>
-      <Value>Asteroid Belt</Value>
+      <Value>Cinturão de Asteroides</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaLoulan</Key>
@@ -8253,7 +8252,7 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>LoulanShortDesc</Key>
-      <Value>Loulan, upon arrival you will notice a breathable atmosphere, high enough pressure to sustain life - but a severe lack of it. This sandy giant is situated in the Gargantuan System, moving closer to the black hole situated in the centre each day. While abandoned and no longer green and full of {GAS:Water}, this planet still has a functioning atmosphere and you are tasked with scouring the wasteland to acquire the materials and resources needed to survive on this everlasting desert.</Value>
+      <Value>Loulan, logo na chegada, você notará uma atmosfera respirável e pressão suficiente para sustentar a vida, mas ao mesmo tempo, falta dela. este Gigante Arenoso está situado no sistema Gargantuan, aproximando cada vez mais do buraco negro situado no centro. Enquanto abandonado, no mais verde e cheio de água, este planeta ainda tem uma atmosfera funcional e você tem a tarefa de vasculhar essa terra perdida para adquirir os materiais e recursos necessários para sobreviver neste deserto eterno.</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaVenus</Key>
@@ -8261,11 +8260,11 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>NewWorldAreaMars</Key>
-      <Value>Mars</Value>
+      <Value>Marte</Value>
     </Record>
     <Record>
       <Key>Mars</Key>
-      <Value>Mars</Value>
+      <Value>Marte</Value>
     </Record>
     <Record>
       <Key>Europa</Key>
@@ -8277,19 +8276,19 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>Moon</Key>
-      <Value>Moon</Value>
+      <Value>Lua</Value>
     </Record>
     <Record>
       <Key>Space</Key>
-      <Value>Asteroid Belt</Value>
+      <Value>Cinturão de Asteroides</Value>
     </Record>
     <Record>
       <Key>Vulcan</Key>
-      <Value>Vulcan</Value>
+      <Value>Vulcano</Value>
     </Record>
     <Record>
       <Key>Vulcan2</Key>
-      <Value>Vulcan</Value>
+      <Value>Vulcano</Value>
     </Record>
     <Record>
       <Key>Europa2</Key>
@@ -8301,7 +8300,7 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>NewWorldAreaEarth</Key>
-      <Value>Earth</Value>
+      <Value>Terra</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaEuropa</Key>
@@ -8309,7 +8308,7 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>NewWorldAreaVulcan</Key>
-      <Value>Vulcan</Value>
+      <Value>Vulcano</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaEuropa2</Key>
@@ -8317,127 +8316,127 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>NewWorldAreaVulcan2</Key>
-      <Value>Vulcan</Value>
+      <Value>Vulcano</Value>
     </Record>
     <Record>
       <Key>NewWorldEnableAwayMissions</Key>
-      <Value>Enable Away Missions</Value>
+      <Value>Habilitar Missões Distante</Value>
     </Record>
     <Record>
       <Key>InventorySlotBelt</Key>
-      <Value>Belt</Value>
+      <Value>Cinto</Value>
     </Record>
     <Record>
       <Key>InventorySlotGlasses</Key>
-      <Value>Glasses</Value>
+      <Value>Óculos</Value>
     </Record>
     <Record>
       <Key>InventorySlotUniform</Key>
-      <Value>Uniform</Value>
+      <Value>Uniforme</Value>
     </Record>
     <Record>
       <Key>InventorySlotBackpack</Key>
-      <Value>Back</Value>
+      <Value>Mochila</Value>
     </Record>
     <Record>
       <Key>InventorySlotSuit</Key>
-      <Value>Suit</Value>
+      <Value>Traje</Value>
     </Record>
     <Record>
       <Key>InventorySlotHelmet</Key>
-      <Value>Helmet</Value>
+      <Value>Capacete</Value>
     </Record>
     <Record>
       <Key>InventorySlotHandLeft</Key>
-      <Value>Left Hand</Value>
+      <Value>Mão Esquerda</Value>
     </Record>
     <Record>
       <Key>InventorySlotHandRight</Key>
-      <Value>Right Hand</Value>
+      <Value>Mão Direita</Value>
     </Record>
     <Record>
       <Key>StatusWindowExternal</Key>
-      <Value>External</Value>
+      <Value>Externo</Value>
     </Record>
     <Record>
       <Key>StatusWindowDamage</Key>
-      <Value>Damage</Value>
+      <Value>Danos</Value>
     </Record>
     <Record>
       <Key>StatusWindowInternal</Key>
-      <Value>Internal</Value>
+      <Value>Interno</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonReturn</Key>
-      <Value>Return To Game</Value>
+      <Value>Voltar para o Jogo</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSave</Key>
-      <Value>Save World</Value>
+      <Value>Salvar Mundo</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonChangeCharacter</Key>
-      <Value>Change Appearance</Value>
+      <Value>Mudar Aparência</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSettings</Key>
-      <Value>Settings</Value>
+      <Value>Configurações</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonLeave</Key>
-      <Value>Leave Session</Value>
+      <Value>Sair da Sessão</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonExitDesktop</Key>
-      <Value>Exit To Desktop</Value>
+      <Value>Sair para a Área de Trabalho</Value>
     </Record>
     <Record>
       <Key>SaveMenuTitle</Key>
-      <Value>Save World</Value>
+      <Value>Salvar Mundo</Value>
     </Record>
     <Record>
       <Key>SaveMenuListTitle</Key>
-      <Value>Saved Worlds</Value>
+      <Value>Mundos Salvos</Value>
     </Record>
     <Record>
       <Key>ButtonBack</Key>
-      <Value>Back</Value>
+      <Value>Voltar</Value>
     </Record>
     <Record>
       <Key>ButtonDelete</Key>
-      <Value>Delete</Value>
+      <Value>Deletar</Value>
     </Record>
     <Record>
       <Key>WorkshopUploadProgress</Key>
-      <Value>Processing configuration data</Value>
+      <Value>Processando dados de configuração</Value>
     </Record>
     <Record>
       <Key>ButtonConfirmWarning</Key>
-      <Value>Warning</Value>
+      <Value>Aviso</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonExit</Key>
-      <Value>Exit Game</Value>
+      <Value>Sair do Jogo</Value>
     </Record>
     <Record>
       <Key>SettingsMenuTitle</Key>
-      <Value>Settings</Value>
+      <Value>Configurações</Value>
     </Record>
     <Record>
       <Key>SettingsMenuGameplay</Key>
-      <Value>Gameplay</Value>
+      <Value>Jogabilidade</Value>
     </Record>
     <Record>
       <Key>SettingsMenuVideo</Key>
-      <Value>Video</Value>
+      <Value>Vídeo</Value>
     </Record>
     <Record>
       <Key>SettingsMenuAudio</Key>
-      <Value>Audio</Value>
+      <Value>Aúdio</Value>
     </Record>
     <Record>
       <Key>SettingsMenuControls</Key>
-      <Value>Controls</Value>
+      <Value>Controles</Value>
     </Record>
     <Record>
       <Key>SettingsMenuMisc</Key>
@@ -8445,55 +8444,55 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>SettingsGameplayAutosave</Key>
-      <Value>Enable Autosave</Value>
+      <Value>Ativar Salvamento Automático</Value>
     </Record>
     <Record>
       <Key>SettingsAutosaveInterval</Key>
-      <Value>Interval Time (Seconds)</Value>
+      <Value>Intervalo de Tempo (Segundos)</Value>
     </Record>
     <Record>
       <Key>SettingsHUDScale</Key>
-      <Value>HUD Scale</Value>
+      <Value>Escala do HUD</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayLatency</Key>
-      <Value>Display Latency</Value>
+      <Value>Mostrar Latência</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayFPS</Key>
-      <Value>Display FPS</Value>
+      <Value>Mostrar FPS</Value>
     </Record>
     <Record>
       <Key>ButtonResetDefaults</Key>
-      <Value>Defaults</Value>
+      <Value>Padrões</Value>
     </Record>
     <Record>
       <Key>SettingsTitleDisplayTools</Key>
-      <Value>Display Tools</Value>
+      <Value>Mostrar Ferramentas</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAutosave</Key>
-      <Value>AutoSave Settings</Value>
+      <Value>Configurações de Salvamento Automático</Value>
     </Record>
     <Record>
       <Key>SettingsTitleScreen</Key>
-      <Value>Window Settings</Value>
+      <Value>Configurações da Janela</Value>
     </Record>
     <Record>
       <Key>SettingsTitleBasicScreen</Key>
-      <Value>Basic Settings</Value>
+      <Value>Configurações Básicas</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAdvScreen</Key>
-      <Value>Advanced Settings</Value>
+      <Value>Configurações Avançadas</Value>
     </Record>
     <Record>
       <Key>SettingsResolution</Key>
-      <Value>Resolution</Value>
+      <Value>Resolução</Value>
     </Record>
     <Record>
       <Key>SettingsScreenMode</Key>
-      <Value>Screen Mode</Value>
+      <Value>Modo de Tela</Value>
     </Record>
     <Record>
       <Key>SettingsVsync</Key>
@@ -8501,67 +8500,67 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>SettingsButtonApply</Key>
-      <Value>Apply</Value>
+      <Value>Aplicar</Value>
     </Record>
     <Record>
       <Key>SettingsBrightness</Key>
-      <Value>Brightness</Value>
+      <Value>Brilho</Value>
     </Record>
     <Record>
       <Key>SettingsFOV</Key>
-      <Value>Field Of View</Value>
+      <Value>Campo de Visão</Value>
     </Record>
     <Record>
       <Key>SettingsOverallQuality</Key>
-      <Value>Overall Quality</Value>
+      <Value>Qualidade Geral</Value>
     </Record>
     <Record>
       <Key>SettingsTextureQuality</Key>
-      <Value>Texture Quality</Value>
+      <Value>Qualidade da Textura</Value>
     </Record>
     <Record>
       <Key>SettingsParticleQuality</Key>
-      <Value>Particle Quality</Value>
+      <Value>Qualidade das Partículas</Value>
     </Record>
     <Record>
       <Key>SettingsSoftParticles</Key>
-      <Value>Soft Particles</Value>
+      <Value>Partículas Suaves</Value>
     </Record>
     <Record>
       <Key>SettingsVolumetricLighting</Key>
-      <Value>Volumetric Lighting</Value>
+      <Value>Iluminação Volumétrica</Value>
     </Record>
     <Record>
       <Key>SettingsPixelLightCount</Key>
-      <Value>Pixel Light Count</Value>
+      <Value>Contagem de Pixels Luz</Value>
     </Record>
     <Record>
       <Key>SettingsShadows</Key>
-      <Value>Shadows</Value>
+      <Value>Sombras</Value>
     </Record>
     <Record>
       <Key>SettingsShadowResolution</Key>
-      <Value>Shadow Resolution</Value>
+      <Value>Resolução das Sombras</Value>
     </Record>
     <Record>
       <Key>SettingsWeatherQuality</Key>
-      <Value>Weather Quality</Value>
+      <Value>Qualidade da Água</Value>
     </Record>
     <Record>
       <Key>SettingsShadowDistamce</Key>
-      <Value>Shadow Distance</Value>
+      <Value>Distância das Sombras</Value>
     </Record>
     <Record>
       <Key>SettingsEnvElements</Key>
-      <Value>Environmental Elements</Value>
+      <Value>Elementos Ambientais</Value>
     </Record>
     <Record>
       <Key>SettingsReflections</Key>
-      <Value>Reflections</Value>
+      <Value>Reflexões</Value>
     </Record>
     <Record>
       <Key>SettingsMasterVolume</Key>
-      <Value>Master Volume</Value>
+      <Value>Volume Principal</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMixer</Key>
@@ -8569,71 +8568,71 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>SettingsSound</Key>
-      <Value>Sound</Value>
+      <Value>Som</Value>
     </Record>
     <Record>
       <Key>SettingsVoiceNotifications</Key>
-      <Value>Voice Notifications</Value>
+      <Value>Notificações de Voz</Value>
     </Record>
     <Record>
       <Key>SettingsTitleKeybinds</Key>
-      <Value>Keybinds</Value>
+      <Value>Teclas de Atalho</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMisc</Key>
-      <Value>Misc Settings</Value>
+      <Value>Outras Configurações</Value>
     </Record>
     <Record>
       <Key>SettingsLanguage</Key>
-      <Value>Language</Value>
+      <Value>Linguagem</Value>
     </Record>
     <Record>
       <Key>SettingsVoiceControl</Key>
-      <Value>Voice Control</Value>
+      <Value>Controle de Voz</Value>
     </Record>
     <Record>
       <Key>SettingsCameraSensitivity</Key>
-      <Value>Camera Sensitivity</Value>
+      <Value>Sensibilidade da Câmera</Value>
     </Record>
     <Record>
       <Key>NotificationTitle</Key>
-      <Value>Save Successful</Value>
+      <Value>Salvo com Sucesso</Value>
     </Record>
     <Record>
       <Key>SaveLocationBroken</Key>
-      <Value>Unable to access the savefiles location, are you using an invalid character? Try changing the save directory in Settings.</Value>
+      <Value>Não foi possível acessar o local dos arquivos salvos, você está usando um caractere inválido? Tente alterar o diretório de salvamento em Configurações.</Value>
     </Record>
     <Record>
       <Key>PlayerIsConnecting</Key>
-      <Value>Player is connecting</Value>
+      <Value>O jogador está se conectando</Value>
     </Record>
     <Record>
       <Key>GamePaused</Key>
-      <Value>Game Paused</Value>
+      <Value>Jogo Pausado</Value>
     </Record>
     <Record>
       <Key>AlertButtonClose</Key>
-      <Value>Close</Value>
+      <Value>Fechar</Value>
     </Record>
     <Record>
       <Key>AlertButtonTitle</Key>
-      <Value>Attention</Value>
+      <Value>Atenção</Value>
     </Record>
     <Record>
       <Key>ServerSettingsButtonReset</Key>
-      <Value>Reset Settings</Value>
+      <Value>Restaurar Configurações</Value>
     </Record>
     <Record>
       <Key>ButtonConfirm</Key>
-      <Value>Confirm</Value>
+      <Value>Confirmar</Value>
     </Record>
     <Record>
       <Key>ButtonCancel</Key>
-      <Value>Cancel</Value>
+      <Value>Cancelar</Value>
     </Record>
     <Record>
       <Key>InputTextRename</Key>
-      <Value>Rename</Value>
+      <Value>Renomear</Value>
     </Record>
     <Record>
       <Key>ButtonOk</Key>
@@ -8641,468 +8640,466 @@ Ejecting ore from the Combustion Centrifuge while it is at high RPMs will result
     </Record>
     <Record>
       <Key>InputPassword</Key>
-      <Value>Password</Value>
+      <Value>Senha</Value>
     </Record>
     <Record>
       <Key>ButtonKick</Key>
-      <Value>Kick</Value>
+      <Value>Expulsar</Value>
     </Record>
     <Record>
       <Key>ButtonBan</Key>
-      <Value>Ban</Value>
+      <Value>Banir</Value>
     </Record>
     <Record>
       <Key>ButtoConfirmExitAsServer</Key>
-      <Value>Are you sure you want to exit the game without saving? Any unsaved progress will be lost.</Value>
+      <Value>Tem certeza de que deseja sair do jogo sem salvar? Qualquer progresso não salvo ser perdido.</Value>
     </Record>
     <Record>
       <Key>DialogConfirmNoticeUnsaved</Key>
-      <Value>Are you sure you want to leave the session without saving? Any unsaved progress will be lost.</Value>
+      <Value>Tem certeza de que deseja sair da sessão sem salvar? Qualquer progresso não salvo ser perdido.</Value>
     </Record>
     <Record>
       <Key>ButtonExit</Key>
-      <Value>Exit</Value>
+      <Value>Sair</Value>
     </Record>
     <Record>
       <Key>ButtonSave</Key>
-      <Value>Save</Value>
+      <Value>Salvar</Value>
     </Record>
     <Record>
       <Key>DialogConfirmNoticeClientLeaving</Key>
-      <Value>Are you sure you want to leave the session?</Value>
+      <Value>Tem certeza de que deseja sair da sessão?</Value>
     </Record>
     <Record>
       <Key>SettingsPopupChat</Key>
-      <Value>Popup Chat</Value>
+      <Value>Bate-papo pop-up</Value>
     </Record>
     <Record>
       <Key>SettingsDisplayPortrait</Key>
-      <Value>Display Portrait</Value>
+      <Value>Mostrar Retrato</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaMoon</Key>
-      <Value>Moon</Value>
+      <Value>Lua</Value>
     </Record>
     <Record>
       <Key>SettingsAntialiasing</Key>
-      <Value>Antialiasing Method</Value>
+      <Value>Método Antialiasing</Value>
     </Record>
     <Record>
       <Key>SettingsMenuMultiplayer</Key>
-      <Value>Multiplayer</Value>
+      <Value>Multijogador</Value>
     </Record>
     <Record>
       <Key>SettingsAdvertiseServer</Key>
-      <Value>Advertise Server</Value>
+      <Value>Anunciar o servidor</Value>
     </Record>
     <Record>
       <Key>SettingsServerName</Key>
-      <Value>Server Name</Value>
+      <Value>Nome do Servidor</Value>
     </Record>
     <Record>
       <Key>SettingsServerPassword</Key>
-      <Value>Password</Value>
+      <Value>Senha</Value>
     </Record>
     <Record>
       <Key>SettingsServerMaxPlayers</Key>
-      <Value>Max Players</Value>
+      <Value>Máximo de Jogadores</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayer</Key>
-      <Value>Multiplayer Settings</Value>
+      <Value>Configurações Multijogador</Value>
     </Record>
     <Record>
       <Key>SettingsUpdatePort</Key>
-      <Value>Update Port</Value>
+      <Value>Atualizar Porta</Value>
     </Record>
     <Record>
       <Key>SettingsGamePort</Key>
-      <Value>Game Port</Value>
+      <Value>Porta do Jogo</Value>
     </Record>
     <Record>
       <Key>SettingsMusic</Key>
-      <Value>Music</Value>
+      <Value>Música</Value>
     </Record>
     <Record>
       <Key>TutorialFirstTimePlaying</Key>
-      <Value>First time Playing?</Value>
+      <Value>Primeira vez jogando?</Value>
     </Record>
     <Record>
       <Key>TutorialGetStarted</Key>
-      <Value>Get started with the tutorial</Value>
+      <Value>Comece com o tutorial</Value>
     </Record>
     <Record>
       <Key>TutorialSkipButton</Key>
-      <Value>Skip</Value>
+      <Value>Pular</Value>
     </Record>
     <Record>
       <Key>TutorialStartButton</Key>
-      <Value>Start Tutorial</Value>
+      <Value>Começar Tutorial</Value>
     </Record>
     <Record>
       <Key>TutorialComplete</Key>
-      <Value>Tutorial Complete</Value>
+      <Value>Tutorial Completo</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteHeading</Key>
-      <Value>Tutorial Complete</Value>
+      <Value>Tutorial Completo</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
-      <Value>
-        There's still much to learn.
-        So get out there, Stationeer!
-      </Value>
+      <Value>Ainda há muito o que aprender.
+                                              Ento vá descobrir, Stationeer!</Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
-      <Value>Back To Menu</Value>
+      <Value>Voltar para o Menu</Value>
     </Record>
     <Record>
       <Key>SettingsMiscInvertMouse</Key>
-      <Value>Invert Mouse</Value>
+      <Value>Inverter Mouse</Value>
     </Record>
     <Record>
       <Key>SettingsInvertMouse</Key>
-      <Value>Invert Mouse</Value>
+      <Value>Inverter Mouse</Value>
     </Record>
     <Record>
       <Key>MothershipConstruction</Key>
-      <Value>&lt;color=yellow&gt;Constructing on Mothership.</Value>
+      <Value>&lt;color=yellow&gt;Construindo na Nave Mãe.</Value>
     </Record>
     <Record>
       <Key>MulticonstructorItem</Key>
       <Value>
-        &lt;color=yellow&gt;Constructing option {0} of {1}
-        Scroll &lt;color=red&gt;Mouse Wheel for more options.
+        &lt;color=yellow&gt;Opção de Construção {0} de {1}
+        Role a &lt;color=red&gt;roda do mouse para mais opções.
       </Value>
     </Record>
     <Record>
       <Key>UnableToConstruct</Key>
-      <Value>&lt;color=red&gt;Unable to Construct.</Value>
+      <Value>&lt;color=red&gt;Impossível Construir.</Value>
     </Record>
     <Record>
       <Key>PortableConnectionFailure</Key>
-      <Value>Can only connect {0} to this {1}</Value>
+      <Value>Só pode conectar {0} para isso {1}</Value>
     </Record>
     <Record>
       <Key>TooltipRotateLeftRight</Key>
-      <Value>Rotate left and right = {KEY:RotateLeft} and {KEY:RotateRight}.</Value>
+      <Value>Girar para a esquerda e para a direita = {KEY:RotateLeft} e {KEY:RotateRight}.</Value>
     </Record>
     <Record>
       <Key>TooltipRotateUpDown</Key>
-      <Value>Rotate up and down = {KEY:RotateUp} and {KEY:RotateDown}.</Value>
+      <Value>Girar para cima e para baixo = {KEY:RotateUp} e {KEY:RotateDown}.</Value>
     </Record>
     <Record>
       <Key>TooltipRollLeftRight</Key>
-      <Value>Roll left and right = {KEY:RotateRollLeft} and {KEY:RotateRollRight}.</Value>
+      <Value>Role para a esquerda e para a direita = {KEY:RotateRollLeft} e {KEY:RotateRollRight}.</Value>
     </Record>
-    <Record>
+<Record>
       <Key>SettingsExtendedTooltips</Key>
-      <Value>Extended Tooltips</Value>
+      <Value>Dicas estendidas</Value>
     </Record>
     <Record>
       <Key>TooltipUpgrade2</Key>
-      <Value>Once placed use {0} and {1} for upgrade.</Value>
+      <Value>Uma vez colocado, use {0} e {1} para melhorar.</Value>
     </Record>
     <Record>
       <Key>TooltipUpgrade</Key>
-      <Value>Once placed use {0} for upgrade.</Value>
+      <Value>Uma vez colocado, use {0} para melhorar.</Value>
     </Record>
     <Record>
       <Key>TooltipAllowsMounting</Key>
-      <Value>Allows the mounting of wall placed devices. Upgrade to allow better placement area.</Value>
+      <Value>Permite a montagem de dispositivos de parede. Melhore para permitir uma melhor área de posicionamento.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapGrid</Key>
-      <Value>Placement is snapped to the grid.</Value>
+      <Value>O posicionamento  ajustado  grade.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFace</Key>
-      <Value>Placement is snapped to grid faces.</Value>
+      <Value>O posicionamento  ajustado a superfcie da grade.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>Placement is snapped to the small grid.</Value>
+      <Value>O posicionamento  ajustado  grade pequena.</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingFrame</Key>
-      <Value>Placement is only allowed on {THING:StructureFrameIron} and {THING:StructureFrame}</Value>
+      <Value>O posicionamento só  permitido na {THING:StructureFrameIron} e {THING:StructureFrame}</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountMissingSupport</Key>
-      <Value>Placement requires support</Value>
+      <Value>O posicionamento requer suporte</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountBlockedDynamic</Key>
-      <Value>Placement blocked by #VAR1#</Value>
+      <Value>Posicionamento bloqueado por #VAR1#</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMountBlockedFallback</Key>
-      <Value>Placement blocked</Value>
+      <Value>Posicionamento bloqueado</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceNotMountableDynamic</Key>
-      <Value>#VAR1# does not allow mounting</Value>
+      <Value>#VAR1# não permite a montagem</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceNotMountableFallback</Key>
-      <Value>One of these structures does not allow mounting</Value>
+      <Value>Uma destas estruturas não permite a montagem</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceWrongFaceDynamic</Key>
-      <Value>Cannot mount to this face of #VAR1#, try another one</Value>
+      <Value>Não é possível montar nesta superfcie de #VAR1#, tente em outra</Value>
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceWrongFaceFallback</Key>
-      <Value>Cannot mount to this face, try another one</Value>
+      <Value>Não  possível montar nesta superfcie, tente em outra</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
-      <Value>Clear Disconnected Players</Value>
+      <Value>Limpar jogadores desconectados</Value>
     </Record>
     <Record>
       <Key>SettingsInvertMouseWheelInventory</Key>
-      <Value>Invert Inventory Scroll</Value>
+      <Value>Inverter Rolagem do Inventrio</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayerAdvanced</Key>
-      <Value>Advanced Settings</Value>
+      <Value>Configurações Avançadas</Value>
     </Record>
     <Record>
       <Key>SettingsUPNPNote</Key>
-      <Value>If Universal Plug and Play (UPNP) is enabled here and on your router, these ports will be automatically forwarded when you create a game.</Value>
+      <Value>Se o Universal Plug and Play (UPNP) estiver ativado aqui e no seu roteador, essas portas serão encaminhadas automaticamente quando você criar um jogo.</Value>
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
-      <Value>Tooltip Opacity</Value>
+      <Value>Opacidade das Dicas</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverButton</Key>
-      <Value>Download Drivers</Value>
+      <Value>Baixar Drivers</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverWarning</Key>
-      <Value>Many AMD graphics card users have reported issues with the game which have been resolved by updating their drivers.  We &lt;b&gt;STRONGLY&lt;/b&gt; recommend you update before playing.</Value>
+      <Value>Muitos usuários de placas gráficas AMD relataram problemas com o jogo que foram resolvidos com a atualização de seus drivers. Nós &lt;b&gt;FORTEMENTE&lt;/b&gt; recomendamos que você atualize antes de jogar.</Value>
     </Record>
     <Record>
       <Key>SettingsChatFadeTimer</Key>
-      <Value>Chat Fade Delay</Value>
+      <Value>Tempo de desaparecimento do Chat</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsTitle</Key>
-      <Value>Reset Settings</Value>
+      <Value>Redefinir Configurações</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsBody</Key>
-      <Value>Are you sure?</Value>
+      <Value>você tem certeza?</Value>
     </Record>
     <Record>
       <Key>PromptResetSettingsConfirm</Key>
-      <Value>Reset</Value>
+      <Value>Redefinir</Value>
     </Record>
     <Record>
       <Key>SteamErrorTitle</Key>
-      <Value>Steam Error</Value>
+      <Value>Erro na Steam</Value>
     </Record>
     <Record>
       <Key>SteamErrorBody</Key>
-      <Value>Could not connect to Steam.  Try restarting Steam before relaunching Stationeers</Value>
+      <Value>Não foi possível conectar a Steam. Tente reiniciar a Steam antes de reiniciar o Stationeers</Value>
     </Record>
     <Record>
       <Key>SteamErrorButton</Key>
-      <Value>Quit</Value>
+      <Value>Sair</Value>
     </Record>
     <Record>
       <Key>WaitingTitle</Key>
-      <Value>Saving Warning</Value>
+      <Value>Alerta de Salvamento</Value>
     </Record>
     <Record>
       <Key>WaitingBody</Key>
-      <Value>Still saving world data.  Please try it again when it finishes.</Value>
+      <Value>Ainda salvando os dados do mundo.  Por favor, tente novamente quando terminar.</Value>
     </Record>
     <Record>
       <Key>PromptQuitTitle</Key>
-      <Value>Quit Stationeers</Value>
+      <Value>Sair do Stationeers</Value>
     </Record>
     <Record>
       <Key>PromptQuitBody</Key>
-      <Value>Are you sure you want to quit?</Value>
+      <Value>você tem certeza que quer sair?</Value>
     </Record>
     <Record>
       <Key>PromptQuitConfirm</Key>
-      <Value>Quit</Value>
+      <Value>Sair</Value>
     </Record>
     <Record>
       <Key>PromptUnsubscribeTitle</Key>
-      <Value>Unsubscribe</Value>
+      <Value>Cancelar Inscrição</Value>
     </Record>
     <Record>
       <Key>PromptUnsubscribeBody</Key>
-      <Value>Are you sure you want to unsubscribe from this Workshop item?</Value>
+      <Value>Tem certeza de que deseja cancelar a inscrição neste item da Workshop?</Value>
     </Record>
     <Record>
       <Key>PromptUnsubscribeConfirm</Key>
-      <Value>Unsubscribe</Value>
+      <Value>Cancelar Inscrição</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteTitle</Key>
-      <Value>Overwrite</Value>
+      <Value>Substituir</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteBody</Key>
-      <Value>Are you sure you want to overwrite existing saved world?</Value>
+      <Value>Tem certeza de que deseja substituir o mundo salvo existente?</Value>
     </Record>
     <Record>
       <Key>PromptOverwriteConfirm</Key>
-      <Value>Overwrite</Value>
+      <Value>Substituir</Value>
     </Record>
     <Record>
       <Key>PromptPublishTitle</Key>
-      <Value>Publish to Workshop</Value>
+      <Value>Publicar no Workshop</Value>
     </Record>
     <Record>
       <Key>PromptPublishBody</Key>
-      <Value>Are you sure you want to publish this world to the workshop?</Value>
+      <Value>Tem certeza de que deseja publicar este mundo no Workshop?</Value>
     </Record>
     <Record>
       <Key>PromptPublishConfirm</Key>
-      <Value>Publish</Value>
+      <Value>Publicar</Value>
     </Record>
     <Record>
       <Key>PromptDeleteTitle</Key>
-      <Value>Delete Entire Save</Value>
+      <Value>Deletar Jogo Salvo</Value>
     </Record>
     <Record>
       <Key>PromptDeleteBody</Key>
-      <Value>Are you sure?</Value>
+      <Value>você tem certeza?</Value>
     </Record>
     <Record>
       <Key>PromptDeleteConfirm</Key>
-      <Value>Delete</Value>
+      <Value>Deletar</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadTitle</Key>
-      <Value>Debug Load</Value>
+      <Value>Carregar Debug</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadBody</Key>
-      <Value>Are you sure you want to load this world with only one character?</Value>
+      <Value>Tem certeza de que deseja carregar este mundo com apenas um personagem?</Value>
     </Record>
     <Record>
       <Key>PromptDebugLoadConfirm</Key>
-      <Value>Debug Load</Value>
+      <Value>Carregar Debug</Value>
     </Record>
     <Record>
       <Key>PromptRespawnTitle</Key>
-      <Value>Respawn</Value>
+      <Value>Renascer</Value>
     </Record>
     <Record>
       <Key>PromptRespawnBody</Key>
-      <Value>You are dead.</Value>
+      <Value>você esta morto.</Value>
     </Record>
     <Record>
       <Key>PromptRespawnConfirm</Key>
-      <Value>Respawn</Value>
+      <Value>Renascer</Value>
     </Record>
     <Record>
       <Key>PromptGiveUpTitle</Key>
-      <Value>Give Up</Value>
+      <Value>Desistir</Value>
     </Record>
     <Record>
       <Key>PromptGiveUpBody</Key>
-      <Value>You are unconscious. Do you want to give up and respawn?</Value>
+      <Value>você está inconsciente. você quer desistir e renascer?</Value>
     </Record>
     <Record>
       <Key>PromptGiveUpConfirm</Key>
-      <Value>Give Up</Value>
+      <Value>Desistir</Value>
     </Record>
     <Record>
       <Key>AlertYourSaveFileIsBroken</Key>
-      <Value>The file {0} is invalid. Check world {1}.</Value>
+      <Value>O arquivo {0} é inválido. Cheque o mundo {1}.</Value>
     </Record>
     <Record>
       <Key>AlertInvalidIP</Key>
-      <Value>Invalid IP Address {0} \nCheck IP address or URL is valid</Value>
+      <Value>Endereço de IP Inválido {0} \nVerifique se o Endereço de IP ou URL é valido</Value>
     </Record>
     <Record>
       <Key>AlertNoBackups</Key>
-      <Value>Backups folder missing or empty.</Value>
+      <Value>A pasta de Backups não existe ou está vazia.</Value>
     </Record>
     <Record>
       <Key>AlertPlayerCountExceeded</Key>
-      <Value>Server is full.</Value>
+      <Value>O Servidor está Cheio.</Value>
     </Record>
     <Record>
       <Key>AlertVersionMismatch</Key>
-      <Value>Game version mismatch with server.</Value>
+      <Value>Incompatibilidade na versão do jogo com o servidor.</Value>
     </Record>
     <Record>
       <Key>AlertNoResponse</Key>
       <Value>
-        There is no response from the Game Server.
-        Please try again.
+        No há resposta do Servidor do Jogo.
+        Por favor, tente novamente.
       </Value>
     </Record>
     <Record>
       <Key>AlertKicked</Key>
-      <Value>You have been kicked from the server.</Value>
+      <Value>você foi expulso do servidor.</Value>
     </Record>
     <Record>
       <Key>AlertWrongPassword</Key>
-      <Value>Server Password Incorrect.</Value>
+      <Value>Senha do servidor incorreta.</Value>
     </Record>
     <Record>
       <Key>AlertInvalidPort</Key>
-      <Value>Port values must be between 0 and 65535.</Value>
+      <Value>Os valores da Porta devem ser entre 0 e 65535.</Value>
     </Record>
     <Record>
       <Key>AlertCannotUpdatePort</Key>
-      <Value>Cannot modify Update Port while server is running.</Value>
+      <Value>Não  possível modificar a Porta enquanto o servidor está ativo.</Value>
     </Record>
     <Record>
       <Key>AlertBlankSaveName</Key>
-      <Value>You must enter a world name to save.</Value>
+      <Value>você deve inserir um nome de mundo para salvar.</Value>
     </Record>
     <Record>
       <Key>AlertTitleAttention</Key>
-      <Value>Attention</Value>
+      <Value>Ateno</Value>
+    </Record>
+	<Record>
+      <Key>TooltipNeedMoreKit</Key>
+      <Value>&lt;color=red&gt;Precisa de mais {0}.</Value>
     </Record>
     <Record>
       <Key>AlertTitlePleaseWait</Key>
-      <Value>Please Wait...</Value>
-    </Record>
-    <Record>
-      <Key>TooltipNeedMoreKit</Key>
-      <Value>&lt;color=red&gt;Need more {0}.</Value>
+      <Value>Por favor, aguarde...</Value>
     </Record>
     <Record>
       <Key>JoinMenuSearchPlaceholder</Key>
-      <Value>Search by Server Name</Value>
+      <Value>Procurar Servidor por Nome</Value>
     </Record>
     <Record>
       <Key>JoinMenuAddressPlaceholder</Key>
-      <Value>Enter IP:Port here...</Value>
+      <Value>Digitar IP:Porta aqui...</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailConnectButton</Key>
-      <Value>Join World</Value>
+      <Value>Entrar no Mundo</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailInfoButton</Key>
-      <Value>View Info</Value>
+      <Value>Vizualizar Informações</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailUnFavoriteButton</Key>
-      <Value>Remove Favorite</Value>
+      <Value>Remover Favorito</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerDetailFavoriteButton</Key>
-      <Value>Favorite</Value>
+      <Value>Favorito</Value>
     </Record>
     <Record>
       <Key>SaveMenuSaveWorldButton</Key>
-      <Value>Save World</Value>
+      <Value>Salvar Mundo</Value>
     </Record>
     <Record>
       <Key>SaveMenuOverwriteButton</Key>
