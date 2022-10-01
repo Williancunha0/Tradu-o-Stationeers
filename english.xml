@@ -2568,7 +2568,8 @@ Ao contrário do mais avançado {THING:StructureFornace}, o forno a arco não po
     </RecordThing>
     <RecordThing>
       <Key>WeaponRifleEnergy</Key>
-      <Value>Rifle de Energia
+      <Value>Rifle de Energia</Value>
+	  </RecordThing>
     <RecordThing>
       <Key>ItemElectrumIngot</Key>
       <Value>Lingote (Electrum)</Value>
@@ -8439,8 +8440,72 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>SettingsMenuMisc</Key>
-      <Value>Misc</Value>
+      <Value>Outros</Value>
     </Record>
+	<Record>
+      <Key>SettingsFirstPersonHelmet</Key>
+      <Value>Capacete em primeira pessoa</Value>
+    </Record>
+    <Record>
+      <Key>SettingsSunOrbitPeriod</Key>
+      <Value>Período da órbita solar</Value>
+    </Record>
+    <Record>
+      <Key>SettingsMenuAdvanced</Key>
+      <Value>Avançado</Value>
+    </Record>
+    <Record>
+      <Key>SettingsVsync</Key>
+      <Value>V-Sync</Value>
+    </Record>
+    <Record>
+      <Key>SettingsSoundFX</Key>
+      <Value>Som FX</Value>
+    </Record>
+    <Record>
+      <Key>SettingsInterface</Key>
+      <Value>Interface</Value>
+    </Record>
+    <Record>
+      <Key>SettingsUPNPEnabled</Key>
+      <Value>Ativar UPNP</Value>
+    </Record>
+    <Record>
+      <Key>SettingsUserSpeakerMode</Key>
+      <Value>Modo de Som:</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Mudar Aparência</Value>
+    </Record> 
+    <Record>
+      <Key>SettingsAmbientOcclusion</Key>
+      <Value>Ambiente Occlusion</Value>
+    </Record>
+    <Record>
+      <Key>SettingsChunkRenderDistance</Key>
+      <Value>Distância da renderização da borda</Value>
+    </Record>
+     <Record>
+      <Key>SettingsLensFlares</Key>
+      <Value>Reflexos</Value>
+    </Record>
+    <Record>
+      <Key>MainMenuScenarios</Key>
+      <Value>Cenários</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceButtonRandomize</Key>
+      <Value>Aleatório</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleSpecies</Key>
+      <Value>Espécies</Value>
+    </Record>
+    <Record>
+      <Key>ButtonResetWindows</Key>
+      <Value>Resetar Janelas</Value>
+    </Record> 
     <Record>
       <Key>SettingsGameplayAutosave</Key>
       <Value>Ativar Salvamento Automático</Value>
