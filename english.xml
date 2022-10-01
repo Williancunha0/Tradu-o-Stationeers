@@ -6428,7 +6428,7 @@ O fertilizante é produzido na proporção de 1:3 de fertilizante para ingredien
     <RecordThing>
       <Key>AppliancePackagingMachine</Key>
       <Value>Máquina de Embalagem Básica</Value>
-      <Description>O {LINK:Xigo;Xigo} A Máquina de embalagem básica requer {THING:ItemEmptyCan} e {LINK:OrganicPage;food} cozida para criar um alimento {LINK:DecayPage;long-lasting}, facilmente armazenado. Observe que a máquina de embalagem básica deve ser parafusada um {THING:StructureBench} para poder e só aceita alimentos cozidos e latas.
+      <Description>O {LINK:Xigo;Xigo} O Cannifier básico requer {THING:ItemEmptyCan} e {LINK:OrganicPage;food} cozida para criar um alimento {LINK:DecayPage;long-lasting}, facilmente armazenado. Observe que o Cannifier básico deve ser parafusado um {THING:StructureBench} para poder e só aceita alimentos cozidos e latas.
 
 {CABEÇALHO: OPERAÇÃO}
 
@@ -6447,443 +6447,441 @@ Nota: o Cannifier piscará um erro em seu interruptor de ativação se você ten
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPlanter</Key>
-      <Value>Kit (Planter)</Value>
+      <Value>Kit (Vaso)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureAutomatedOven</Key>
-      <Value>Automated Oven</Value>
+      <Value>Forno Automatizado</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAutomatedOven</Key>
-      <Value>Kit (Automated Oven)</Value>
+      <Value>Kit (Forno Automatizado)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedMushroom</Key>
-      <Value>Canned Mushroom</Value>
-      <Description>Made in an {THING:StructureAdvancedPackagingMachine} or {THING:AppliancePackagingMachine}, using {THING:ItemCookedMushroom}  and a {THING:ItemEmptyCan}, delicious mushroom soup is fairly high in nutrition, and does not {LINK:DecayPage;decay}.</Description>
+      <Value>Cogumelo Enlatado</Value>
+      <Description>Feita em uma {THING:StructureAdvancedPackagingMachine} ou {THING:AppliancePackagingMachine}, usando {THING:ItemCookedMushroom} e uma {THING:ItemEmptyCan}, a deliciosa sopa de cogumelos é bastante rica em nutrição e não {LINK:DecayPage;decay}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPowderedeggs</Key>
-      <Value>Powdered Eggs</Value>
-      <Description>Powdered eggs: the reason you went to space.</Description>
+      <Value>Ovos em Pó</Value>
+      <Description>Ovos em Pó: a razão pela qual você foi ao espaço.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPoweredEggs</Key>
-      <Value>Powered Eggs</Value>
+      <Value>Ovos em Pó</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemFrenchFries</Key>
-      <Value>Canned French Fries</Value>
-      <Description>Because space would suck without 'em.</Description>
+      <Value>Batatas Fritas Enlatadas</Value>
+      <Description>Porque o espaço seria uma droga sem elas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedRicePudding</Key>
-      <Value>Canned Rice Pudding</Value>
-      <Description>Made in an {THING:StructureAdvancedPackagingMachine} or {THING:AppliancePackagingMachine}, using {THING:ItemCookedRice} and an {THING:ItemEmptyCan}, canned rice pudding is a sweet treat, fairly high in nutrition, and does not {LINK:DecayPage;decay}.</Description>
+      <Value>Pudim de Arroz Enlatado</Value>
+      <Description>Feito em uma {THING:StructureAdvancedPackagingMachine} ou {THING:AppliancePackagingMachine}, usando {THING:ItemCookedRice} e uma {THING:ItemEmptyCan}, o pudim de arroz enlatado é um deleite doce, bastante rico em nutrição e não {LINK:DecayPage; decair}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedCondensedMilk</Key>
-      <Value>Canned Condensed Milk</Value>
-      <Description>Made in an {THING:StructureAdvancedPackagingMachine} or {THING:AppliancePackagingMachine}, using {THING:ItemCookedCondensedMilk} and an {THING:ItemEmptyCan}, canned condensed milk is fairly high in nutrition, and does not {LINK:DecayPage;decay}.</Description>
+      <Value>Leite Condensado Enlatado</Value>
+      <Description>Feito em uma {THING:StructureAdvancedPackagingMachine} ou {THING:AppliancePackagingMachine}, usando {THING:ItemCookedCondensedMilk} e uma {THING:ItemEmptyCan}, o leite condensado enlatado é bastante rico em nutrição e não {LINK:DecayPage;decay}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedEdamame</Key>
-      <Value>Canned Edamame</Value>
-      <Description>Made in an {THING:StructureAdvancedPackagingMachine} or {THING:AppliancePackagingMachine}, using {THING:ItemCookedSoybean} and an {THING:ItemEmptyCan}, canned edamame beans are fairly high in nutrition, and do not {LINK:DecayPage;decay}.</Description>
+      <Value>Vagem de Soja Enlatada</Value>
+      <Description>Feitos em um {THING:StructureAdvancedPackagingMachine} ou {THING:AppliancePackagingMachine}, usando {THING:ItemCookedSoybean} e um {THING:ItemEmptyCan}, as vagens de soja enlatadas são bastante ricas em nutrição e não {LINK:DecayPage;decay}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCannedPowderedEggs</Key>
-      <Value>Canned Powdered Eggs</Value>
-      <Description>Made in an {THING:StructureAdvancedPackagingMachine} or {THING:AppliancePackagingMachine}, using {THING:ItemCookedPowderedEggs}  and an {THING:ItemEmptyCan}, canned powdered eggs are an exciting, dynamic food that's fairly high in nutrition, and does not {LINK:DecayPage;decay}.</Description>
+      <Value>Ovos em Pó Enlatado</Value>
+      <Description>Feitos em uma {THING:StructureAdvancedPackagingMachine} ou {THING:AppliancePackagingMachine}, usando {THING:ItemCookedPowderedEggs} e uma {THING:ItemEmptyCan}, os ovos em pó enlatados são um alimento dinâmico e empolgante, com alto valor nutricional e não {LINK: DecayPage;decay}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAdvancedPackagingMachine</Key>
-      <Value>Advanced Packaging Machine</Value>
-      <Description>The {LINK:Xigo;Xigo} Advanced Cannifier Multi-Plus Pro is an automateable packaging machine that uses {THING:ItemEmptyCan}s and cooked {LINK:OrganicPage;food} to create canned sustenance that does not decay. Note that the ACMPP only accepts cooked food and tin cans.</Description>
+      <Value>Máquina de Embalagem Avançada</Value>
+      <Description>O {LINK:Xigo;Xigo} Avançado Cannifier Multi-Plus Pro é uma máquina de empacotamento automatizável que usa {THING:ItemEmptyCan}s e {LINK:OrganicPage;food} cozido para criar alimentos enlatados que não se decompõem. Observe que o Cannifier avançado só aceita alimentos cozidos e latas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedPackagingMachine</Key>
-      <Value>Kit (Advanced Packaging Machine)</Value>
-      <Description>Creates and {THING:StructureAdvancedPackagingMachine.}</Description>
+      <Value>Kit (Máquina de Embalagem Avançada)</Value>
+      <Description>Este kit produz uma {THING:StructureAdvancedPackagingMachine.}</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCookedSoybean</Key>
-      <Value>Cooked Soybean</Value>
-      <Description>A high-nutrient cooked food, which can be canned.</Description>
+      <Value>Soja Cozida</Value>
+      <Description>Um alimento cozido com alto teor de nutrientes, que pode ser enlatado.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCookedTomato</Key>
-      <Value>Cooked Tomato</Value>
-      <Description>A high-nutrient cooked food, which can be canned.</Description>
+      <Value>Tomate Cozido</Value>
+      <Description>Um alimento cozido com alto teor de nutrientes, que pode ser enlatado.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCookedCorn</Key>
-      <Value>Cooked Corn</Value>
-      <Description>A high-nutrient cooked food, which can be canned.</Description>
+      <Value>Milho Cozido</Value>
+      <Description>Um alimento cozido com alto teor de nutrientes, que pode ser enlatado.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCookedRice</Key>
-      <Value>Cooked Rice</Value>
-      <Description>A high-nutrient cooked food, which can be canned.</Description>
+      <Value>Arroz Cozido</Value>
+      <Description>Um alimento cozido com alto teor de nutrientes, que pode ser enlatado.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCookedPumpkin</Key>
-      <Value>Cooked Pumpkin</Value>
-      <Description>A high-nutrient cooked food, which can be canned.</Description>
+      <Value>Abóbora Cozida</Value>
+      <Description>Um alimento cozido com alto teor de nutrientes, que pode ser enlatado.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCookedMushroom</Key>
-      <Value>Cooked Mushroom</Value>
-      <Description>A high-nutrient cooked food, which can be canned.</Description>
+      <Value>Cogumelo Cozido</Value>
+      <Description>Um alimento cozido com alto teor de nutrientes, que pode ser enlatado.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCookedPowderedEggs</Key>
-      <Value>Powdered Eggs</Value>
-      <Description>A high-nutrient cooked food, which can be canned.</Description>
+      <Value>Ovos em Pó Cozido</Value>
+      <Description>Um alimento cozido com alto teor de nutrientes, que pode ser enlatado.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCookedCondensedMilk</Key>
-      <Value>Condensed Milk</Value>
-      <Description>A high-nutrient cooked food, which can be canned.</Description>
+      <Value>Leite Condensado</Value>
+      <Description>Um alimento cozido com alto teor de nutrientes, que pode ser enlatado.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemTropicalPlant</Key>
-      <Value>Tropical Lily</Value>
-      <Description>An anthurium, evolved in the jungles of South America, which will tolerate higher temperatures than most plants.</Description>
+      <Value>Lírio Tropical</Value>
+      <Description>Um antúrio, evoluído nas selvas da América do Sul, que tolerará temperaturas mais altas do que a maioria das plantas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPeaceLily</Key>
-      <Value>Peace Lily</Value>
-      <Description>A fetching lily with greater resistance to cold temperatures.</Description>
+      <Value>Lírio da Paz</Value>
+      <Description>Um lírio atraente com maior resistência a temperaturas frias.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemDecorFern</Key>
-      <Value>Decorative Fern</Value>
-      <Description>One of the universe's many ferns, useful in a range of medicinal and organic recipes.</Description>
+      <Value>Samambaia Decorativa</Value>
+      <Description>Uma das muitas samambaias do universo, útil em diversas receitas medicinais e orgânicas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemFilterFern</Key>
-      <Value>Darga Fern</Value>
-      <Description>A fern adapted by {LINK:Agrizero;Agrizero}to process a much greater volume of {GAS:CarbonDioxide} into {GAS:Oxygen} than an average plant.</Description>
+      <Value>Samambaia Darga</Value>
+      <Description>Uma samambaia adaptada por {LINK:Agrizero;Agrizero} para processar um volume muito maior de {GAS:CarbonDioxide} em {GAS:Oxygen} do que uma planta média.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
-      <Value>Insulated Water Pipe Kit</Value>
+      <Value>Kit (Cano de Água Adiabático)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedLiquidPipe</Key>
-      <Value>Insulated Liquid Pipe (Kit)</Value>
+      <Value>Kit (Canos Adiabático)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCorner</Key>
-      <Value>Insulated Liquid Pipe Corner</Value>
+      <Value>Cano Adiabático (Canto)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction</Key>
-      <Value>Insulated Liquid Pipe Cross Junction</Value>
+      <Value>Cano Adiabático (Junção Transversal)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction3</Key>
-      <Value>Insulated Liquid Pipe Cross Junction3</Value>
+      <Value>Cano Adiabático (Junção Canto de 3 Vias)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction4</Key>
-      <Value>Insulated Liquid Pipe Cross Junction4</Value>
+      <Value>Cano Adiabático (Junção de 4 Vias)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction5</Key>
-      <Value>Insulated Liquid Pipe Cross Junction5</Value>
+      <Value>Cano Adiabático (Junção de 5 Vias)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeCrossJunction6</Key>
-      <Value>Insulated Liquid Pipe Cross Junction6</Value>
+      <Value>Cano Adiabático (Junção de 6 Vias)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeJunction</Key>
-      <Value>Insulated Liquid Pipe Junction</Value>
+      <Value>Cano Adiabático (Junção)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>InsulatedLiquidPipeStraight</Key>
-      <Value>Insulated Liquid Pipe Straight</Value>
+      <Value>Cano Adiabático (Reto)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCorner</Key>
-      <Value>Insulated Liquid Pipe (Corner)</Value>
-      <Description>Liquid piping with very low temperature loss or gain.</Description>
+      <Value>Cano Adiabático (Canto)</Value>
+      <Description>Canos com perda ou ganho de temperatura muito baixo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction</Key>
-      <Value>Insulated Liquid Pipe (Cross Junction)</Value>
-      <Description>Liquid piping with very low temperature loss or gain.</Description>
+      <Value>Cano Adiabático (Junção Transversal)</Value>
+      <Description>Canos com perda ou ganho de temperatura muito baixo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction4</Key>
-      <Value>Insulated Liquid Pipe (Cross Junction4)</Value>
-      <Description>Liquid piping with very low temperature loss or gain.</Description>
+      <Value>Cano Adiabático (Junção de 4 Vias)</Value>
+      <Description>Canos com perda ou ganho de temperatura muito baixo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeInsulatedLiquidCrossJunction</Key>
-      <Value>Insulated Liquid Pipe (Cross Junction)</Value>
-      <Description>Liquid piping with very low temperature loss or gain.</Description>
+      <Value>Cano Adiabático (Junção Transversal)</Value>
+      <Description>Canos com perda ou ganho de temperatura muito baixo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction5</Key>
-      <Value>Insulated Liquid Pipe (Cross Junction5)</Value>
-      <Description>Liquid piping with very low temperature loss or gain.</Description>
+      <Value>Cano Adiabático (Junção de 5 Vias)</Value>
+      <Description>Canos com perda ou ganho de temperatura muito baixo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidCrossJunction6</Key>
-      <Value>Insulated Liquid Pipe (Cross Junction6)</Value>
-      <Description>Liquid piping with very low temperature loss or gain.</Description>
+      <Value>Cano Adiabático (Junção de 6 Vias)</Value>
+      <Description>Canos com perda ou ganho de temperatura muito baixo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidStraight</Key>
-      <Value>Insulated Liquid Pipe (Straight)</Value>
-      <Description>Liquid piping with very low temperature loss or gain.</Description>
+      <Value>Cano Adiabático (Reto)</Value>
+      <Description>Canos com perda ou ganho de temperatura muito baixo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeLiquidTJunction</Key>
-      <Value>Insulated Liquid Pipe (T Junction)</Value>
-      <Description>Liquid piping with very low temperature loss or gain.</Description>
+      <Value>Cano Adiabático (Junção T)</Value>
+      <Description>Canos com perda ou ganho de temperatura muito baixo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeHeater</Key>
-      <Value>Pipe Heater (Gas)</Value>
-      <Description>Adds 1000 joules of heat per tick to the contents of your pipe network.</Description>
+      <Value>Aquecedor de Tubos</Value>
+      <Description>Adiciona 1000 joules de calor por tick ao conteúdo da sua rede de tubulação.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeOneWayValve</Key>
-      <Value>One Way Valve (Gas)</Value>
-      <Description>The one way valve moves gas in one direction only: from input side to output side. It only permits flow if the input pressure is higher than output pressure.
-</Description>
+      <Value>Válvula Unidirecional (Gás)</Value>
+      <Description>A válvula unidirecional move o gás apenas em uma direção: do lado de entrada para o lado de saída. Ele só permite o fluxo se a pressão de entrada for maior que a pressão de saída.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureOneWayValve</Key>
-      <Value>One Way Valve (Gas)</Value>
-      <Description>The one way valve moves gas in one direction only: from input side to output side. It only permits flow if the input pressure is higher than output pressure.</Description>
+      <Value>Válvula Unidirecional (Gás)</Value>
+      <Description>A válvula unidirecional move o gás apenas em uma direção: do lado de entrada para o lado de saída. Ele só permite o fluxo se a pressão de entrada for maior que a pressão de saída.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterPipeHeater</Key>
-      <Value>Pipe Heater (Gas)</Value>
-      <Description>Adds 1000 joules of heat per tick to the contents of your pipe network.</Description>
+      <Value>Aquecedor de Tubos</Value>
+      <Description>Adiciona 1000 joules de calor por tick ao conteúdo da sua rede de tubulação.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeHeater</Key>
-      <Value>Pipe Heater Kit (Gas)</Value>
-      <Description>Creates a {THING:StructurePipeHeater}.</Description>
+      <Value>Kit (Aquecedor de Tubos)</Value>
+      <Description>Este kit produz um {THING:StructurePipeHeater}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterPipeHeater</Key>
-      <Value>Pipe Heater Kit (Liquid)</Value>
-      <Description>Creates a {THING:StructureLiquidPipeHeater}.</Description>
+      <Value>Kit (Aquecedor de Canos)</Value>
+      <Description>Este kit produz um {THING:StructureLiquidPipeHeater}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeHeater</Key>
-      <Value>Pipe Heater Kit (Liquid)</Value>
-      <Description>Creates a {THING:StructureLiquidPipeHeater}.</Description>
+      <Value>Kit (Aquecedor de Canos)</Value>
+      <Description>Este kit produz um {THING:StructureLiquidPipeHeater}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeHeater</Key>
-      <Value>Pipe Heater (Liquid)</Value>
-      <Description>Adds 1000 joules of heat per tick to the contents of your pipe network.</Description>
+      <Value>Aquecedor de Canos)</Value>
+      <Description>Adiciona 1000 joules de calor por tick ao conteúdo da sua rede de encanamento.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureTurboVolumePump</Key>
-      <Value>Turbo Volume Pump (Gas)</Value>
-      <Description>Shifts 10 times more gas than a basic {THING:StructureVolumePump}, with a mode that can be set to flow in either direction.</Description>
+      <Value>Bomba de Volume Turbo (Gás)</Value>
+      <Description>Desloca 10 vezes mais gás do que um {THING:StructureVolumePump} básico, com um modo que pode ser definido para fluir em qualquer direção.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurboVolumePump</Key>
-      <Value>Kit (Turbo Volume Pump - Gas)</Value>
-      <Description>Creates a {THING:StructureTurboVolumePump}.</Description>
+      <Value>Kit (Bomba de Volume Turbo - Gás)</Value>
+      <Description>Este kit produz uma {THING:StructureTurboVolumePump}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTurboVolumePump</Key>
-      <Value>Turbo Volume Pump (Liquid)</Value>
-      <Description>Shifts 10 times more liquid than a basic {THING:StructureVolumePump}, with a mode that can be set to flow in either direction.</Description>
+      <Value>Bomba de Volume Turbo (Líquido)</Value>
+      <Description>Desloca 10 vezes mais líquido do que um {THING:StructureVolumePump} básico, com um modo que pode ser definido para fluir em qualquer direção.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTurboVolumePump</Key>
-      <Value>Kit (Turbo Volume Pump - Liquid)</Value>
-      <Description>Creates a {THING:StructureLiquidTurboVolumePump}.</Description>
+      <Value>Kit (Bomba de Volume Turbo - Líquido)</Value>
+      <Description>Este kit produz uma {THING:StructureLiquidTurboVolumePump}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMkIIToolbelt</Key>
-      <Value>Tool Belt MK II</Value>
-      <Description>A large, ten-slot tool belt with two extra generic slots for carrying whatever takes your fancy.</Description>
+      <Value>Cinto de Ferramentas MK II</Value>
+      <Description>Um grande cinto de ferramentas de dez slots com dois slots genéricos extras para transportar o que quiser.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBeltMKII</Key>
-      <Value>Mining Belt MK II</Value>
-      <Description>A larger and more capacious mining belt, the Mk II is similar to the {THING:ItemMiningBelt}, but has 13 slots instead of the basic 8, to increase the length of your mining trips. It also has space for two tools. </Description>
+      <Value>Cinto de Mineração MK II</Value>
+      <Description>Um cinturão de mineração maior e mais espaçoso, o Mk II é semelhante ao {THING:ItemMiningBelt}, mas tem 13 slots em vez dos 8 básicos, para aumentar a duração de suas viagens de mineração. Também tem espaço para duas ferramentas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeOneWayValve</Key>
-      <Value>One Way Valve (Liquid)</Value>
-      <Description>The oneway valve moves liquid in one direction only: from input side to output side. It only permits flow if the input pressure is higher than output pressure..</Description>
+      <Value>Válvula Unidirecional (Líquido)</Value>
+      <Description>A válvula unidirecional move o líquido apenas em uma direção: do lado de entrada para o lado de saída. Só permite vazão se a pressão de entrada for maior que a pressão de saída.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWindowShutter</Key>
-      <Value>Window Shutter</Value>
-      <Description>For those special, private moments, a window that can be closed to prying eyes. 
+      <Value>Janela Privada</Value>
+      <Description>Para aqueles momentos especiais e privados, uma janela que pode ser fechada a olhares indiscretos.
       
-When closed, has the heat transfer characteristics of a basic wall. Requires power, and can be connected to logic systems.</Description>
+Quando fechado, tem as características de transferência de calor de uma parede básica. Requer energia e pode ser conectado a sistemas lógicos.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWindowShutter</Key>
-      <Value>Kit (Window Shutter)</Value>
-      <Description>Produces a {THING:StructureWindowShutter}.</Description>
+      <Value>Kit (Janela Privada)</Value>
+      <Description>Este kit produz uma {THING:StructureWindowShutter}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemExplosiveBasic</Key>
-      <Value>Item Explosive Basic</Value>
-      <Description>A low cost, high yield explosive with a 10 second timer.</Description>
+      <Value>Explosivo Básico</Value>
+      <Description>Um explosivo de baixo custo e alto rendimento com um temporizador de 10 segundos.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningCharge</Key>
-      <Value>Mining Charge</Value>
-      <Description>A low cost, high yield explosive with a 10 second timer.</Description>
+      <Value>Mina Explosiva</Value>
+      <Description>Um explosivo de baixo custo e alto rendimento com um temporizador de 10 segundos.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureHorizontalAutoMiner</Key>
-      <Value>OGRE</Value>
-      <Description>The {LINK:Recurso;Recurso} OGRE (Orthogonal Ground Rotating Excavator) is a base structure with attached mining vehicle, which will mine a horizontal shaft up to X meters long. When full, the mining vehicle will return to the base to empty itself, before returning to dig. If it encounters empty space, it will also return to base and await instruction. The unit will return if deactivated.
+      <Value>Escavadeira Rotativa</Value>
+      <Description>A {LINK:Recurso;Recurso} OGRE (Escavadora Ortogonal Rotativa no Solo) é uma estrutura de base com veículo de mineração acoplado, que irá minerar um poço horizontal de até X metros de comprimento. Quando estiver cheio, o veículo de mineração retornará à base para se esvaziar, antes de retornar à escavação. Se encontrar um espaço vazio, ele também retornará à base e aguardará instruções. A unidade retornará se desativada.
       
-The OGRE can be connected to a chute system, and is controllable by a logic network. Note that the OGRE outputs more {LINK:OrePage;ore} than a conventional {THING:ItemMiningDrill} over the same area, due to more efficient processing.
+O OGRE pode ser conectado a um sistema de chute e é controlável por uma rede lógica. Observe que o OGRE gera mais {LINK:OrePage;ore} do que um {THING:ItemMiningDrill} convencional na mesma área, devido ao processamento mais eficiente.
 
-{HEADER:MODES}
-Idle - 0
-Mining - 1
-Returning - 2
-DepostingOre - 3
-Finished - 4
-</Description>
+{CABEÇALHO:MODOS}
+Inativo - 0
+Mineração - 1
+Retornando - 2
+Deposição de Minério - 3
+Concluído - 4</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureReinforcedCompositeWindow</Key>
-      <Value>Reinforced Window (Composite)</Value>
-      <Description>Enjoy vistas of even the most savage, alien landscapes with these heavy duty window frames, which are resistant to pressure differentials up to 1MPa.</Description>
+      <Value>Janela Reforçada (Composta)</Value>
+      <Description>Desfrute de vistas até mesmo das paisagens mais selvagens e alienígenas com esses caixilhos de janelas resistentes, que são resistentes a diferenciais de pressão de até 1MPa.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureReinforcedCompositeWindowSteel</Key>
-      <Value>Reinforced Window (Composite Steel)</Value>
-      <Description>Enjoy vistas of even the most savage, alien landscapes with these heavy duty window frames, which are resistant to pressure differentials up to 1MPa.</Description>
+      <Value>Janela Reforçada (Aço Composto)</Value>
+      <Description>Desfrute de vistas até mesmo das paisagens mais selvagens e alienígenas com esses caixilhos de janelas resistentes, que são resistentes a diferenciais de pressão de até 1MPa.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureReinforcedWallPaddedWindow</Key>
-      <Value>Reinforced Window (Padded)</Value>
-      <Description>Enjoy vistas of even the most savage, alien landscapes with these heavy duty window frames, which are resistant to pressure differentials up to 1MPa.</Description>
+      <Value>Janela Reforçada (Acolchoada)</Value>
+      <Description>Desfrute de vistas até mesmo das paisagens mais selvagens e alienígenas com esses caixilhos de janelas resistentes, que são resistentes a diferenciais de pressão de até 1MPa.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureReinforcedWallPaddedWindowThin</Key>
-      <Value>Reinforced Window (Thin)</Value>
-      <Description>Enjoy vistas of even the most savage, alien landscapes with these heavy duty window frames, which are resistant to pressure differentials up to 1MPa.</Description>
+      <Value>Janela Reforçada (Fina)</Value>
+      <Description>Desfrute de vistas até mesmo das paisagens mais selvagens e alienígenas com esses caixilhos de janelas resistentes, que são resistentes a diferenciais de pressão de até 1MPa.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemStelliteGlassSheets</Key>
-      <Value>Item Stellite Glass Sheets</Value>
-      <Description>A stronger glass substitute.</Description>
+      <Value>Placas de Vidro Stellite</Value>
+      <Description>Um substituto mais Forte que o Vidro.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitReinforcedWindows</Key>
-      <Value>Reinforced Windows (Kit)</Value>
-      <Description>Creates {THING:StructureReinforcedCompositeWindow} and other variants.</Description>
+      <Value>Kit (Janelas Reforçadas)</Value>
+      <Description>Este kit produz uma {THING:StructureReinforcedCompositeWindow} e outras variações.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHorizontalAutoMiner</Key>
-      <Value>Kit (OGRE)</Value>
-      <Description>Creates a {THING:StructureHorizontalAutoMiner}.</Description>
+      <Value>Kit (Escavadeira Rotativa)</Value>
+      <Description>Este kit produz uma {THING:StructureHorizontalAutoMiner}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLaptop</Key>
-      <Value>Laptop</Value>
-      <Description>A portable IC editor, the {LINK:Norsec;Norsec} 'Slaptop' was designed for rugged use and abuse by intrepid {LINK:Stationeers;Stationeers} across the Solar System. While it will never replace the multifunctionality of the {THING:StructureComputer}, the Slaptop's low weight and portability have earned it a place in many an ODA operative's heart.
+      <Value>Notebook</Value>
+      <Description>Um editor de IC portátil, o {LINK:Norsec;Norsec} 'Slaptop' foi projetado para uso e abuso robustos por intrépidos {LINK:Stationeers;Stationeers} em todo o Sistema Solar. Embora nunca substitua a multifuncionalidade do {THING:StructureComputer}, o baixo peso e a portabilidade do Slaptop ganharam um lugar no coração de muitos agentes da ODA.
       
-The Slaptop requires a {THING:MotherboardProgrammableChip} for operation.</Description>
+O Slaptop requer um {THING:MotherboardProgrammableChip} para operação.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantEndothermic_Genepool1</Key>
-      <Value>Winterspawn (Alpha variant)</Value>
-      <Description>{LINK:Agrizero;Agrizero's} Winterspawn atmospheric bio-processor is a recent addition to their catalogue of genespliced environmental decorations. Using ambient heat to split {GAS:Water} into {GAS:Volatiles} and {GAS:Oxygen}, the Winterspawn cools its surroundings, when supplied with sufficient {GAS:Nitrogen}. The alpha variant has a peak cooling and electrolysis capacity of 90Watts and is most efficient operating in air temperatures of 0 to 40 Degrees Celsius.</Description>
+      <Value>Bioprocessador Atmosférico Winterspawn (Variante Alfa)</Value>
+      <Description>{LINK:Agrizero;Agrizero's} O bioprocessador atmosférico Winterspawn é uma adição recente ao seu catálogo de decorações ambientais geneticamente modificadas. Usando o calor ambiente para dividir {GAS:Water} em {GAS:Volatiles} e {GAS:Oxygen}, o Winterspawn resfria seus arredores, quando fornecido com {GAS:Nitrogen} suficiente. A variante alfa tem um pico de resfriamento e capacidade de eletrólise de 90Watts e é mais eficiente operando em temperaturas do ar de 0 a 40 graus Celsius.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantEndothermic_Genepool2</Key>
-      <Value>Winterspawn (Beta variant)</Value>
-      <Description>{LINK:Agrizero;Agrizero's} Winterspawn atmospheric bio-processor is a recent addition to their catalogue of genespliced environmental decorations. Using ambient heat to split {GAS:Water} into {GAS:Volatiles} and {GAS:Oxygen}, the Winterspawn cools its surroundings when supplied with sufficient {GAS:Nitrogen}. The beta variant has a peak cooling and electrolysis capacity of 150Watts and is most efficient operating in air temperatures of 14 to 24 Degrees Celsius.</Description>
+      <Value>Bioprocessador Atmosférico Winterspawn (Variante Beta)</Value>
+      <Description>{LINK:Agrizero;Agrizero's} O bioprocessador atmosférico Winterspawn é uma adição recente ao seu catálogo de decorações ambientais geneticamente modificadas. Usando o calor ambiente para dividir {GAS:Water} em {GAS:Volatiles} e {GAS:Oxygen}, o Winterspawn resfria seus arredores quando fornecido com {GAS:Nitrogen} suficiente. A variante beta tem uma capacidade de resfriamento e eletrólise de pico de 150Watts e é mais eficiente operando em temperaturas do ar de 14 a 24 graus Celsius.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantThermogenic_Genepool1</Key>
-      <Value>Hades Flower (Alpha strain)</Value>
-      <Description>The {LINK:Agrizero;Agrizero's}-created Hades Flower is the result of as dubious experiment to combine the allure of tropical plants with the comfort and homeliness of a heat pump. The plant breathes a 1:3 mix of {GAS:Volatiles} and {GAS:Oxygen}, and exhales heated {GAS:Pollutant}.</Description>
+      <Value>Flor de Hades (Cepa Alfa)</Value>
+      <Description>A Flor de Hades, criada por {LINK:Agrizero;Agrizero's}, é o resultado de uma experiência duvidosa de combinar o fascínio das plantas tropicais com o conforto e a simplicidade de uma bomba de calor. A planta respira uma mistura 1:3 de {GAS:Volatiles}  e {GAS:Oxygen}, e exala {GAS:Pollutant} aquecido.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPlantThermogenic_Genepool2</Key>
-      <Value>Hades Flower (Beta strain)</Value>
-      <Description>The {LINK:Agrizero;Agrizero's}-created Hades Flower is the result of as dubious experiment to combine the allure of tropical plants with the comfort and homeliness of a heat pump. The plant breathes a 1:3 mix of {GAS:Volatiles} and {GAS:Oxygen}, and exhales heated {GAS:Pollutant}. The beta strain is notably more efficient than the earlier, more experimental alpha variant.</Description>
+      <Value>Flor de Hades (Cepa Beta)</Value>
+      <Description>A Flor de Hades, criada por {LINK:Agrizero;Agrizero's}, é o resultado de uma experiência duvidosa de combinar o fascínio das plantas tropicais com o conforto e a simplicidade de uma bomba de calor. A planta respira uma mistura 1:3 de {GAS:Volatiles}  e {GAS:Oxygen}, e exala {GAS:Pollutant} aquecido. A cepa beta é notavelmente mais eficiente do que a variante alfa anterior, mais experimental.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitStirlingEngine</Key>
-      <Value>Kit (Stirling Engine)</Value>
-      <Description>Creates a {THING:StructureStirlingEngine}.</Description>
+      <Value>Kit (Motor Stirling)</Value>
+      <Description>Este kit produz um {THING:StructureStirlingEngine}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureStirlingEngine</Key>
-      <Value>Stirling Engine</Value>
-      <Description>Harnessing an ancient thermal exploit, the {LINK:Recurso;Recurso} 'Libra' Stirling Engine generates power via the expansion and contraction of a working gas to drive pistons operating an electrical generator.
+      <Value>Motor Stirling</Value>
+      <Description>Aproveitando uma antiga exploração térmica, o motor Stirling {LINK:Recurso;Recurso} 'Libra' gera energia através da expansão e contração de um gás de trabalho para acionar pistões operando um gerador elétrico.
       
-When high pressure hot gas is supplied into the input pipe, this gas will heat the hot side of the unit, then pass into the output pipe. The cooler side uses the room's ambient atmosphere, which must be kept at a lower temperature and pressure in order to create a differential. Add a working gas by inserting a {SLOT:GasCanister}. The unit must be deactivated when adding or removing canisters, or the working gas may leak into the surrounding atmosphere.
+Quando o gás quente de alta pressão é fornecido no tubo de entrada, este gás aquece o lado quente da unidade e depois passa para o tubo de saída. O lado mais frio usa a atmosfera ambiente da sala, que deve ser mantida a uma temperatura e pressão mais baixas para criar um diferencial. Adicione um gás de trabalho inserindo um {SLOT:GasCanister}. A unidade deve ser desativada ao adicionar ou remover canisters, ou o gás de trabalho pode vazar para a atmosfera circundante.
  
-Gases with a low molecular mass make the most efficient working gases. Increasing the moles of working gas can result in a greater potential power output. However, overpressuring the unit may have ... sub-optimal results.</Description>
+Gases com baixa massa molecular são os gases de trabalho mais eficientes. Aumentar as mols do gás de trabalho pode resultar em uma maior potência potencial. No entanto, a sobrepressão da unidade pode ter ... resultados abaixo do ideal.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerTransmitter</Key>
-      <Value>Microwave Power Transmitter</Value>
-      <Description>The {LINK:Norsec;Norsec} Wireless Power Transmitter is an uni-directional, A-to-B, far field microwave electrical transmission system.The rotatable base transmitter delivers a narrow, non-lethal microwave beam to a dedicated base receiver.
-The transmitter must be aligned to the base station in order to transmit any power. The brightness of the transmitter's collimator arc provides an indication of transmission intensity. Note that there is an attrition over longer ranges, so the unit requires more power over greater distances to deliver the same output.</Description>
+      <Value>Transmissor de Energia Sem Fio</Value>
+      <Description>O transmissor de energia sem fio {LINK:Norsec;Norsec} é um sistema de transmissão elétrica de micro-ondas de campo distante A-para-B unidirecional. O transmissor de base rotativa fornece um feixe de micro-ondas estreito e não letal para um receptor de base dedicado.
+O transmissor deve estar alinhado à estação base para transmitir qualquer energia. O brilho do arco do colimador do transmissor fornece uma indicação da intensidade da transmissão. Observe que há um atrito em intervalos mais longos, portanto, a unidade requer mais potência em distâncias maiores para fornecer a mesma saída.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerTransmitterReceiver</Key>
-      <Value>Microwave Power Receiver</Value>
-      <Description>The {LINK:Norsec;Norsec} Wireless Power Transmitter is an uni-directional, A-to-B, far field microwave electrical transmission system.The rotatable base transmitter delivers a narrow, non-lethal microwave beam to a dedicated base receiver.
-The transmitter must be aligned to the base station in order to transmit any power. The brightness of the transmitter's collimator arc provides an indication of transmission intensity. Note that there is an attrition over longer ranges, so the unit requires more power over greater distances to deliver the same output.</Description>
+      <Value>Receptor de Energia Sem Fio</Value>
+      <Description>O transmissor de energia sem fio {LINK:Norsec;Norsec} é um sistema de transmissão elétrica de micro-ondas de campo distante A-para-B unidirecional. O transmissor de base rotativa fornece um feixe de micro-ondas estreito e não letal para um receptor de base dedicado.
+O transmissor deve estar alinhado à estação base para transmitir qualquer energia. O brilho do arco do colimador do transmissor fornece uma indicação da intensidade da transmissão. Observe que há um atrito em intervalos mais longos, portanto, a unidade requer mais potência em distâncias maiores para fornecer a mesma saída.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureOverheadShortCornerLocker</Key>
-      <Value>Overhead Corner Locker</Value>
+      <Value>Armário de Canto Superior</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureOverheadShortLocker</Key>
-      <Value>Overhead Locker</Value>
+      <Value>Armário Superior</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureShortCornerLocker</Key>
-      <Value>Short Corner Locker</Value>
+      <Value>Armário de Canto Curto</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureShortLocker</Key>
-      <Value>Short Locker</Value>
+      <Value>Armário Curto</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureCornerLocker</Key>
-      <Value>Corner Locker</Value>
+      <Value>Armário de Canto</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6898,62 +6896,62 @@ The transmitter must be aligned to the base station in order to transmit any pow
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitter</Key>
-      <Value>Kit (Power Transmitter)</Value>
+      <Value>Kit (Transmissor de Energia)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureInteriorDoorTriangle</Key>
-      <Value>Interior Door Triangle</Value>
+      <Value>Porta Interna Triangular</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureInteriorDoorPaddedThin</Key>
-      <Value>Interior Door Padded Thin</Value>
+      <Value>Porta Interna Acolchoada Fina</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureInteriorDoorPadded</Key>
-      <Value>Interior Door Padded</Value>
+      <Value>Porta Interna Acolchoada</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureInteriorDoorGlass</Key>
-      <Value>Interior Door Glass</Value>
+      <Value>Porta Interna de Vidro</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInteriorDoors</Key>
-      <Value>Kit (Interior Doors)</Value>
+      <Value>Kit (Porta Interior)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureUnpoweredHatch</Key>
-      <Value>Structure Unpowered Hatch</Value>
+      <Value>Escotilha Desenergizada</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureManualHatch</Key>
-      <Value>Manual Hatch</Value>
+      <Value>Escotilha Manual</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPowerTransmitterOmni</Key>
-      <Value>Kit (Power Transmitter Omni)</Value>
+      <Value>Kit (Transmissor de Energia Omni)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructurePowerTransmitterOmni</Key>
-      <Value>Structure Power Transmitter Omni</Value>
+      <Value>Transmissor de Energia Omni</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell</Key>
-      <Value>Battery Wireless Cell</Value>
+      <Value>Bateria de Carregamento Sem Fio (Pequena)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>Battery_Wireless_cell_Big</Key>
-      <Value>Battery Wireless Cell (Big)</Value>
+      <Value>Bateria de Carregamento Sem Fio (Grande)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -6963,84 +6961,84 @@ The transmitter must be aligned to the base station in order to transmit any pow
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLargeExtendableRadiator</Key>
-      <Value>Kit (Large Extendable Radiator)</Value>
-      <Description>Creates {THING:StructureLargeExtendableRadiator}.</Description>
+      <Value>Kit (Radiador Estensível Grande)</Value>
+      <Description>Este kit produz um {THING:StructureLargeExtendableRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLargeExtendableRadiator</Key>
-      <Value>Structure Large Extendable Radiator</Value>
-      <Description>Omptimised for radiating heat in vacuum and low pressure environments. If pointed at the sun it will heat its contents rapidly via solar heating. The panels can fold away to stop all heat radiation/solar heating and protect them from storms.</Description>
+      <Value>Radiador Estensível Grande</Value>
+      <Description>Otimizado para irradiar calor em ambientes de vácuo e baixa pressão. Se apontado para o sol, aquecerá seu conteúdo rapidamente através do aquecimento solar. Os painéis podem ser dobrados para interromper toda a radiação de calor/aquecimento solar e protegê-los de tempestades.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLargeExtendableRadiator01</Key>
-      <Value>Wreckage Large Extendable Radiator</Value>
+      <Value>Destroços do Radiador Estensível Grande</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPoweredBottom</Key>
-      <Value>Waterbottle Filler</Value>
+      <Value>Enchedor de Garrafas</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerPowered</Key>
-      <Value>Waterbottle Filler</Value>
+      <Value>Enchedor de Garrafas (Energizado)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemNitrice</Key>
-      <Value>Ice (Nitrice)</Value>
-      <Description>Nitrice is the nickname given to solid {GAS:Nitrogen} Ice, and found on many planets and moons in the Solar System. Given the inert nature of the {GAS:Nitrogen} it produces, the ice is useful when making breathable atmospheres with low flammability.
+      <Value>Gelo (Nitrogênio Sólido)</Value>
+      <Description>Nitrito é o apelido dado ao {GAS:Nitrogen} sólido congelado, e encontrado em muitos planetas e luas do Sistema Solar. Dada a natureza inerte do {GAS:Nitrogen} que produz, o gelo é útil para criar atmosferas respiráveis ​​com baixa inflamabilidade.
 
-Highly sensitive to temperature, nitrice will begin to melt as soon as it is mined, unless the temperature is below zero, or it is stored in the {THING:ItemMiningBelt}, {THING:ItemMiningBeltAdvanced} or devices like the {THING:StructureIceCrusher} or {THING:StructureFridgeSmall}.</Description>
+Altamente sensível à temperatura, o nitrito começará a derreter assim que for extraído, a menos que a temperatura esteja abaixo de zero, ou seja armazenado no {THING:ItemMiningBelt}, {THING:ItemMiningBeltAdvanced} ou em dispositivos como o {THING:StructureIceCrusher} ou {THING:StructureFridgeSmall}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiator</Key>
-      <Value>Kit (Medium Radiator)</Value>
-      <Description>Creates {THING:StructureMediumRadiator} and {THING:StructureMediumConvectionRadiator}.</Description>
+      <Value>Kit (Radiador Gás Médio)</Value>
+      <Description>Este kit produz um {THING:StructureMediumRadiator} e {THING:StructureMediumConvectionRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiator</Key>
-      <Value>Medium Convection Radiator</Value>
-      <Description>Has been replaced by {THING:StructureMediumConvectionRadiator}.</Description>
+      <Value>Radiador Passivo Médio (Gás)</Value>
+      <Description>Foi substituído por {THING:StructureMediumConvectionRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorGas</Key>
-      <Value>Kit (Medium Radiator)</Value>
-      <Description>Creates {THING:StructureMediumRadiator} and {THING:StructureMediumConvectionRadiator}.</Description>
+      <Value>Kit (Radiador Gás Médio)</Value>
+      <Description>Este kit produz um {THING:StructureMediumRadiator} e {THING:StructureMediumConvectionRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPassiveLargeRadiatorLiquid</Key>
-      <Value>Kit (Medium Radiator Liquid)</Value>
-      <Description>Creates {THING:StructureMediumRadiatorLiquid} and {THING:StructureMediumConvectionRadiatorLiquid}.</Description>
+      <Value>Kit (Radiador Líquido Médio)</Value>
+      <Description>Este kit produz um {THING:StructureMediumRadiatorLiquid} e {THING:StructureMediumConvectionRadiatorLiquid}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorLiquid</Key>
-      <Value>Medium Convection Radiator Liquid</Value>
+      <Value>Radiador Passivo Médio (Líquido)</Value>
       <Description>Has been replaced by {THING:StructureMediumConvectionRadiatorLiquid}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePassiveLargeRadiatorGas</Key>
       <Value>Medium Convection Radiator</Value>
-      <Description>Has been replaced by {THING:StructureMediumConvectionRadiator}.</Description>
+      <Description>Foi substituído por {THING:StructureMediumConvectionRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLogicGate</Key>
-      <Value>Logic Gate</Value>
-      <Description>A {LINK:LogicPage;logic} device that performs a logical operation on one or more binary inputs that produces a single binary output. An input greater than zero is considered true for operations.</Description>
+      <Value>Portão Lógico</Value>
+      <Description>Um dispositivo {LINK:LogicPage;logic} que executa uma operação lógica em uma ou mais entradas binárias que produz uma única saída binária. Uma entrada maior que zero é considerada verdadeira para operações.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureNitrolyzer</Key>
-      <Value>Nitrolyzer</Value>
-      <Description>This device is used to create {GAS:NitrousOxide} from {GAS:Oxygen}, {GAS:Nitrogen}, and a large amount of energy. The process does not completely transform all the available gas at once, so the output is a mix of all three gasses, which may need further processing.  More NOS will be created, if the gas inside the machine is close to a 1/1 ratio of Oxygen to Nitrogen.  The second gas input line in optional, and not required if the gas is pre mixed.</Description>
+      <Value>Nitrolisador</Value>
+      <Description>Este dispositivo é usado para criar {GAS:NitrousOxide} a partir de {GAS:Oxygen}, {GAS:Nitrogen} e uma grande quantidade de energia. O processo não transforma completamente todo o gás disponível de uma só vez, então a saída é uma mistura de todos os três gases, que podem precisar de processamento adicional. Mais NOS serão criados, se o gás dentro da máquina estiver próximo a uma proporção de 1/1 de oxigênio para nitrogênio. A segunda linha de entrada de gás é opcional e não é necessária se o gás for pré-misturado.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBackPack</Key>
-      <Value>Mining Backpack</Value>
+      <Value>Mochila de Mineração</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemHardMiningBackPack</Key>
-      <Value>Hard Mining Backpack</Value>
+      <Value>Mochila de Mineração (HARD)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
