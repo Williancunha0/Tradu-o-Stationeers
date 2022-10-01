@@ -9107,245 +9107,245 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>SaveMenuNamePlaceholder</Key>
-      <Value>Enter Save Name...</Value>
+      <Value>Digite o nome do Save...</Value>
     </Record>
     <Record>
       <Key>NewWorldModeCreative</Key>
-      <Value>Creative</Value>
+      <Value>Criativo</Value>
     </Record>
     <Record>
       <Key>NewWorldModeSurvival</Key>
-      <Value>Survival</Value>
+      <Value>Sobrevivência</Value>
     </Record>
     <Record>
       <Key>JoinMenuServerListMap</Key>
-      <Value>Map</Value>
+      <Value>Mapa</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoIPAddress</Key>
-      <Value>IP Address:</Value>
+      <Value>Endereço de IP:</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoMap</Key>
-      <Value>Map:</Value>
+      <Value>Mapa:</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoVersion</Key>
-      <Value>Version:</Value>
+      <Value>Versão:</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoLatency</Key>
-      <Value>Latency:</Value>
+      <Value>Latência:</Value>
     </Record>
     <Record>
       <Key>JoinMenuInfoPlayers</Key>
-      <Value>Players:</Value>
+      <Value>Jogadores:</Value>
     </Record>
     <Record>
       <Key>ChangeAppearanceTitle</Key>
-      <Value>Change Appearance</Value>
+      <Value>Mudar Aparência</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleGender</Key>
-      <Value>Gender</Value>
+      <Value>Gênero</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleFace</Key>
-      <Value>Face</Value>
+      <Value>Rosto</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleHairStyle</Key>
-      <Value>Hair</Value>
+      <Value>Cabelo</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleHairColor</Key>
-      <Value>Hair Colour</Value>
+      <Value>Cor do Cabelo</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleEyeColor</Key>
-      <Value>Eye Colour</Value>
+      <Value>Cor do Olho</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleSkinColor</Key>
-      <Value>Skin Colour</Value>
+      <Value>Cor da Pele</Value>
     </Record>
     <Record>
       <Key>AppearanceTitleFacialHairStyle</Key>
-      <Value>Facial Hair</Value>
+      <Value>Pelos Faciais</Value>
     </Record>
     <Record>
       <Key>SettingsStartingCondition</Key>
-      <Value>Starting Condition</Value>
+      <Value>Condição Inicial</Value>
     </Record>
     <Record>
       <Key>SettingsTitleGameSettings</Key>
-      <Value>Game Settings</Value>
+      <Value>Configurações do Jogo</Value>
     </Record>
     <Record>
       <Key>SettingsHungerRate</Key>
-      <Value>Hunger/Hydration Rate</Value>
+      <Value>Taxa Fome/Hidratação</Value>
     </Record>
     <Record>
       <Key>JoinWorldSortBy</Key>
-      <Value>Sort by</Value>
+      <Value>Ordenar por</Value>
     </Record>
     <Record>
       <Key>JoinMenuFiltersTitle</Key>
-      <Value>Filters</Value>
+      <Value>Filtros</Value>
     </Record>
     <Record>
       <Key>JoinMenuButtonStopRefresh</Key>
-      <Value>Stop Refresh</Value>
+      <Value>Parar atualização</Value>
     </Record>
     <Record>
       <Key>JoinMenuIncompatibleVersions</Key>
-      <Value>Hide Incompatible Versions</Value>
+      <Value>Ocultar versões incompatíveis</Value>
     </Record>
     <Record>
       <Key>JoinMenuPasswordProtected</Key>
-      <Value>Hide Password Protected</Value>
+      <Value>Ocultar Protegido por Senha</Value>
     </Record>
     <Record>
       <Key>JoinWorldEmptyServers</Key>
-      <Value>Hide Empty Servers</Value>
+      <Value>Ocultar servidores vazios</Value>
     </Record>
     <Record>
       <Key>WorkshopSubscribedModsTitle</Key>
-      <Value>Subscribed Mods</Value>
+      <Value>Mods inscritos</Value>
     </Record>
     <Record>
       <Key>WorkshopPageButton</Key>
-      <Value>Workshop Page</Value>
+      <Value>Oficina</Value>
     </Record>
     <Record>
       <Key>WorkshopUnsubscribeButton</Key>
-      <Value>Unsubscribe</Value>
+      <Value>Cancelar subscrição</Value>
     </Record>
     <Record>
       <Key>OpenWorkshopButton</Key>
-      <Value>Open Workshop</Value>
+      <Value>Abrir Oficina</Value>
     </Record>
     <Record>
       <Key>WorldPresetTitle</Key>
-      <Value>World Preset</Value>
+      <Value>Predefinição do Mundo</Value>
     </Record>
     <Record>
       <Key>WorldPresetLabel</Key>
-      <Value>Preset</Value>
+      <Value>Predefinição</Value>
     </Record>
     <Record>
       <Key>WorldNameLabel</Key>
-      <Value>World Name</Value>
+      <Value>Nome do Mundo</Value>
     </Record>
     <Record>
       <Key>WorldDescriptionLabel</Key>
-      <Value>Description</Value>
+      <Value>Descrição</Value>
     </Record>
     <Record>
       <Key>WorldAtmosphere</Key>
-      <Value>Atmosphere</Value>
+      <Value>Atmosfera</Value>
     </Record>
     <Record>
       <Key>GameSettingsTitle</Key>
-      <Value>Game Settings</Value>
+      <Value>Configurações de Jogo</Value>
     </Record>
     <Record>
       <Key>WorldCreativeMode</Key>
-      <Value>Creative Mode</Value>
+      <Value>Modo Criativo</Value>
     </Record>
     <Record>
       <Key>WorldTerrain</Key>
-      <Value>Terrain</Value>
+      <Value>Terreno</Value>
     </Record>
     <Record>
       <Key>WorldSeedLabel</Key>
-      <Value>World Seed</Value>
+      <Value>Semente do Mundo</Value>
     </Record>
     <Record>
       <Key>WorldCratersLabel</Key>
-      <Value>Craters</Value>
+      <Value>Crateras</Value>
     </Record>
     <Record>
       <Key>WorldTerrainPresetLabel</Key>
-      <Value>Terrain</Value>
+      <Value>Terreno</Value>
     </Record>
     <Record>
       <Key>WorldAtmospherePresetLabel</Key>
-      <Value>Atmosphere</Value>
+      <Value>Atmosfera</Value>
     </Record>
     <Record>
       <Key>WorldSettingsTitle</Key>
-      <Value>World Settings</Value>
+      <Value>Configurações do Mundo</Value>
     </Record>
     <Record>
       <Key>WorldResetButton</Key>
-      <Value>Reset</Value>
+      <Value>Redefinir</Value>
     </Record>
     <Record>
       <Key>WorldSaveButton</Key>
-      <Value>Save</Value>
+      <Value>Salvar</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaCustom</Key>
-      <Value>Custom</Value>
+      <Value>Customizar</Value>
     </Record>
     <Record>
       <Key>NewWorldMoonDesc</Key>
       <Value>
-        So you're stuck on the moon, but it's not all bad.Sure, it's cold, harsh and pretty monotonous, but at least the sun's shining. The solar panel is going to be useful, and the power controller... and probably the arc furnace too.
-                                              There's even a little food and oxygen in the other crates, though it's definitely not going to last forever. Neither's your battery.
-                                              You better start thinking about how you're going to survive. How hard could it be to rig up an airlock? A generator? Maybe even smelt some ore and build yourself a base?
-        Looks like you're gonna be here a while.
+        Então você está preso na lua, mas nem tudo é ruim. Claro, é frio, duro e bem monótono, mas pelo menos o sol está brilhando. O painel solar será útil, e o controlador de energia... e provavelmente o forno a arco também.
+                                              Há até um pouco de comida e oxigênio nas outras caixas, embora definitivamente não vá durar para sempre. Nem a sua bateria.
+                                              É melhor começar a pensar em como vai sobreviver. Quão difícil poderia ser montar uma câmara de ar? Um gerador? Talvez até fundir um pouco de minério e construir uma base?
+        Parece que você vai ficar aqui por um tempo.
       </Value>
     </Record>
     <Record>
       <Key>NewWorldSpaceDesc</Key>
       <Value>
-        This is Stationeers Creative Mode!Spawn in any item, test ideas and build bonkers stuff real fast.
-                                              &lt;color=red&gt;This mode is experimental. Think of it as a freeform space party where exciting and unexpected things* can and will happen, compared to the more reliable near-death experience of Survival Mode.
-                                              Just don't be sad when you blow yourself into tiny, tiny little pieces or get savaged by chickens or slowly explode while drifting alone into the infinite void.
+        Este é o Modo Criativo do Stationeers! Crie qualquer item, teste ideias e construa coisas malucas bem rápido.
+                                              &lt;color=red&gt;Este modo é experimental. Pense nisso como uma festa espacial de forma livre, onde coisas emocionantes e inesperadas* podem e vão acontecer, em comparação com a experiência de quase morte mais confiável do Modo Sobrevivência.
+                                              Só não fique triste quando você se explodir em pedacinhos minúsculos ou for atacado por galinhas ou explodir lentamente enquanto flutua sozinho no vazio infinito.
         *bugs
       </Value>
     </Record>
     <Record>
       <Key>TextboxEnterName</Key>
-      <Value>Enter Name...</Value>
+      <Value>Digite um nome...</Value>
     </Record>
     <Record>
       <Key>TextboxEnterDescription</Key>
-      <Value>Enter Description...</Value>
+      <Value>Digite uma desrição...</Value>
     </Record>
     <Record>
       <Key>TextboxEnterSeed</Key>
-      <Value>Enter Seed...</Value>
+      <Value>Insira uma Semente...</Value>
     </Record>
     <Record>
       <Key>SettingsDisableParticlesOnMenu</Key>
-      <Value>Disable Particles On Menu</Value>
+      <Value>Desabilitar particulas no menu</Value>
     </Record>
     <Record>
       <Key>SettingsMouseWheelZoom</Key>
-      <Value>Mouse Wheel Zoom</Value>
+      <Value>Zoom roda do mouse</Value>
     </Record>
     <Record>
       <Key>Incident_Supply_Title</Key>
-      <Value>Supply Crate</Value>
+      <Value>Caixa de Suprimentos</Value>
     </Record>
     <Record>
       <Key>Incident_Supply</Key>
-      <Value>Satellites suggest a crate has dropped nearby, your beacon tracker should show you the way.</Value>
+      <Value>Satélites sugerem que uma caixa caiu nas proximidades, seu rastreador de farol deve mostrar o caminho.</Value>
     </Record>
     <Record>
       <Key>TradingNoMoneyHash</Key>
-      <Value>Not enough money to complete this transaction, make sure you and the trader have enough money to complete the transaction.</Value>
+      <Value>Não há dinheiro suficiente para concluir esta transação, certifique-se de que você e o trader tenham dinheiro suficiente para concluir a transação.</Value>
     </Record>
     <Record>
       <Key>SomethingWentWrongTrading</Key>
-      <Value>Something went wrong when processing the trade, did something leave the vendor!</Value>
+      <Value>Algo deu errado ao processar a negociação, algo saiu do vendedor!</Value>
     </Record>
     <Record>
       <Key>SomethingWentWrongTrading2</Key>
-      <Value>Something went wrong when processing the trade, you don't have a credit card!</Value>
+      <Value>Algo deu errado ao processar a negociação, você não tem cartão de crédito!</Value>
     </Record>
     <Record>
       <Key>GameMenuRespawn</Key>
@@ -9353,154 +9353,154 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>Main Menu Scenarios</Key>
-      <Value>Scenarios</Value>
+      <Value>Cenários</Value>
     </Record>
     <Record>
       <Key>ScenariosStartButton</Key>
-      <Value>Start Scenario</Value>
+      <Value>Cenário inicial</Value>
     </Record>
     <Record>
       <Key>SettingsSunOrbitPeriod</Key>
-      <Value>Sun Orbit Period</Value>
+      <Value>Período da órbita solar</Value>
     </Record>
     <Record>
       <Key>SettingsExtendedTerrain</Key>
-      <Value>Extended Terrain</Value>
+      <Value>Terreno Estendido</Value>
     </Record>
     <Record>
       <Key>RenameThing</Key>
-      <Value>Rename {0}</Value>
+      <Value>Renomear {0}</Value>
     </Record>
     <Record>
       <Key>SetThingValue</Key>
-      <Value>Set {0}</Value>
+      <Value>Definir {0}</Value>
     </Record>
     <Record>
       <Key>FurnaceChamber</Key>
-      <Value>Chamber</Value>
+      <Value>Câmara</Value>
     </Record>
     <Record>
       <Key>FurnaceChamberText</Key>
       <Value>
-        Pressure {0}
-        Temperature {1}
+        Pressão {0}
+        Temperatura {1}
       </Value>
     </Record>
     <Record>
       <Key>FurnaceSmelting</Key>
-      <Value>Smelting {0}</Value>
+      <Value>Fundindo {0}</Value>
     </Record>
     <Record>
       <Key>LogicState</Key>
-      <Value>State &lt;color=green&gt;#VAR1#</Value>
+      <Value>Estado &lt;color=green&gt;#VAR1#</Value>
     </Record>
     <Record>
       <Key>LogicNoDevice</Key>
-      <Value>No Device</Value>
+      <Value>Nenhum dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicNoSetting</Key>
-      <Value>No Settings</Value>
+      <Value>Sem configurações</Value>
     </Record>
     <Record>
       <Key>LogicNoAdditionalSettingsFor</Key>
-      <Value>No additional settings for {0}</Value>
+      <Value>Nenhuma configuração adicional para {0}</Value>
     </Record>
     <Record>
       <Key>LogicNoSlot</Key>
-      <Value>&lt;color=red&gt;No Slot</Value>
+      <Value>&lt;color=red&gt;Sem Slot</Value>
     </Record>
     <Record>
       <Key>LogicNoAvailableSlots</Key>
-      <Value>&lt;color=red&gt;No available slots</Value>
+      <Value>&lt;color=red&gt;Sem Slots disponíveis</Value>
     </Record>
     <Record>
       <Key>LogicNoAdditionalSlotsFor</Key>
-      <Value>No additional slots for {0}</Value>
+      <Value>Sem slots adicionais para {0}</Value>
     </Record>
     <Record>
       <Key>RequiresScrewdriver</Key>
-      <Value>You need a {THING:ItemScrewdriver} to change settings</Value>
+      <Value>Você precisa de um {THING:ItemScrewdriver} para alterar as configurações</Value>
     </Record>
     <Record>
       <Key>LogicNoReadableDevices</Key>
-      <Value>No other readable devices on network</Value>
+      <Value>Nenhum outro dispositivo de leitura na rede</Value>
     </Record>
     <Record>
       <Key>LogicNoReadableTypes</Key>
-      <Value>No other readable types on network</Value>
+      <Value>Nenhum outro dispositivo de leitura na rede</Value>
     </Record>
     <Record>
       <Key>LogicNoWritableDevices</Key>
-      <Value>No other writable devices on network</Value>
+      <Value>Nenhum outro dispositivo de gravação na rede</Value>
     </Record>
     <Record>
       <Key>ChangeSettingTo</Key>
-      <Value>Cycle to {0}</Value>
+      <Value>Mudar para {0}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToAll</Key>
-      <Value>Cycle to All {0}</Value>
+      <Value>Mudar para Todos {0}</Value>
     </Record>
     <Record>
       <Key>HoldForPreviousObject</Key>
-      <Value>Hold {KEY:QuantityModifier} for previous object</Value>
+      <Value>Segure {KEY:QuantityModifier} para objeto anterior</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToFor</Key>
-      <Value>Cycle to &lt;color=yellow&gt;{0} for {1}</Value>
+      <Value>Mudar de &lt;color=yellow&gt;{0} para {1}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToForIn</Key>
-      <Value>Cycle to &lt;color=yellow&gt;{0} for {3} &lt;color=yellow&gt;({2}) in {1}</Value>
+      <Value>Mudar de &lt;color=yellow&gt;{0} para {3} &lt;color=yellow&gt;({2}) in {1}</Value>
     </Record>
     <Record>
       <Key>ChangeReagentSettingTo</Key>
-      <Value>Cycle to {2}.&lt;color=yellow&gt;{0}.&lt;color=yellow&gt;{1}</Value>
+      <Value>Mudar de {2}.&lt;color=yellow&gt;{0}.&lt;color=yellow&gt;{1}</Value>
     </Record>
     <Record>
       <Key>ChangeSlotSettingToFor</Key>
-      <Value>Cycle to {1}&lt;color=yellow&gt;({0}) for {2}</Value>
+      <Value>Mudar de {1}&lt;color=yellow&gt;({0}) para {2}</Value>
     </Record>
     <Record>
       <Key>ChangeSettingToForAll</Key>
-      <Value>Cycle to &lt;color=yellow&gt;{0}&gt;for all {1}</Value>
+      <Value>Mudar de &lt;color=yellow&gt;{0}&gt;para todos {1}</Value>
     </Record>
     <Record>
       <Key>InteractionTemporarilyDisabledOnThisObject</Key>
-      <Value>Interaction temporarily disabled on this object</Value>
+      <Value>Interação temporariamente desativada neste objeto</Value>
     </Record>
     <Record>
       <Key>UnableToInteractAsYouDoNotHaveTheRequiredAccessCard</Key>
-      <Value>Unable to interact as you do not have the required {SLOT:AccessCard}</Value>
+      <Value>Não é possível interagir porque você não tem o {SLOT:AccessCard} necessário</Value>
     </Record>
     <Record>
       <Key>SettingsAtmosphericScattering</Key>
-      <Value>Atmospheric Scattering</Value>
+      <Value>Dispersão Atmosférica</Value>
     </Record>
     <Record>
       <Key>ButtonReset</Key>
-      <Value>Reset</Value>
+      <Value>Redefinir</Value>
     </Record>
     <Record>
       <Key>ButtonClear</Key>
-      <Value>Clear</Value>
+      <Value>Limpar</Value>
     </Record>
     <Record>
       <Key>StatusWindowThrust</Key>
-      <Value>Thrust</Value>
+      <Value>Impulso</Value>
     </Record>
     <Record>
       <Key>SettingsAmbientOcclusion</Key>
-      <Value>Ambient Occlusion</Value>
+      <Value>Oclusão de ambiente</Value>
     </Record>
     <Record>
       <Key>SettingsLensFlares</Key>
-      <Value>Lens Flares</Value>
+      <Value>Reflexo na Lente</Value>
     </Record>
     <Record>
       <Key>SettingsInputSettings</Key>
-      <Value>Input Settings</Value>
+      <Value>Configurações de Entrada</Value>
     </Record>
     <Record>
       <Key>NewWorldAreaEuropa</Key>
@@ -9512,111 +9512,111 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>NewWorldMarsShortDesc</Key>
-      <Value>A desolate dusty red ball, Mars features more varied terrain that can reach into the sky, and a chilly atmosphere that's no good for breathing, but maybe it can be used for something ...</Value>
+      <Value>Uma bola vermelha empoeirada e desolada, Marte apresenta um terreno mais variado que pode alcançar o céu e uma atmosfera fria que não é boa para respirar, mas talvez possa ser usada para algo ...</Value>
     </Record>
     <Record>
       <Key>NewWorldMoonShortDesc</Key>
-      <Value>While the presence of coal isn't typical of Earth's Moon, the relatively flat terrain full of various sizeable craters and lack of atmosphere may be more familiar in this grey landscape. A great location for the budding Stationeer to begin their journey, with fewer of the hazards and complexities offered on more exotic worlds</Value>
+      <Value>Embora a presença de carvão não seja típica da Lua da Terra, o terreno relativamente plano cheio de várias crateras consideráveis ​​e falta de atmosfera pode ser mais familiar nesta paisagem cinzenta. Um ótimo local para o Stationeer iniciante começar sua jornada, com menos perigos e complexidades oferecidos em mundos mais exóticos</Value>
     </Record>
     <Record>
       <Key>NewWorldSpaceShortDesc</Key>
-      <Value>While there's no gravity or atmosphere, at least there's a lot of space to build!  You'll find yourself amongst several asteroids that may contain various ores and ices you can use to survive out here.</Value>
+      <Value>Enquanto não há gravidade ou atmosfera, pelo menos há muito espaço para construir! Você se encontrará entre vários asteróides que podem conter vários minérios e gelos que você pode usar para sobreviver aqui.</Value>
     </Record>
     <Record>
       <Key>NewWorldVenusShortDesc</Key>
-      <Value>Unvarying extreme temperatures and ultra-high pressures make Venus no place for the faint-hearted. Only the most accomplished Stationeers will survive on our once-sister planet, now a barren rock. Dig deep, or go home.</Value>
+      <Value>Temperaturas extremas invariáveis ​​e pressões ultra-altas fazem de Vênus um lugar para os fracos de coração. Apenas os Estacionários mais talentosos sobreviverão em nosso planeta outrora irmão, agora uma rocha estéril. Cave fundo ou vá para casa.</Value>
     </Record>
     <Record>
       <Key>NewWorldEuropaShortDesc</Key>
-      <Value>Melting some of the ice on this cold world has finally given it an atmosphere, but it's extremely frigid environment presents a serious challenge for the stationeers.The extreme cold will cause batteries to rapidly lose power, so getting a steady power source and warm location are your priorities.</Value>
+      <Value>O derretimento de parte do gelo neste mundo frio finalmente lhe deu uma atmosfera, mas seu ambiente extremamente frio apresenta um sério desafio para os estacionários. O frio extremo fará com que as baterias percam energia rapidamente, então obter uma fonte de energia estável e um local quente suas prioridades.</Value>
     </Record>
     <Record>
       <Key>NewWorldVulcanShortDesc</Key>
-      <Value>The volatile environment on Vulcan is surviable for very few living organisms, but it's fractured surface and rich mineral deposits make it a risky but profitable venture for enterprising traders.</Value>
+      <Value>O ambiente volátil de Vulcan é viável para muito poucos organismos vivos, mas sua superfície fraturada e ricos depósitos minerais o tornam um empreendimento arriscado, mas lucrativo para comerciantes empreendedores.</Value>
     </Record>
     <Record>
       <Key>NewWorldVulcan2ShortDesc</Key>
-      <Value>A world torn apart due to massive tidal forces from the supermassive black hole it orbits. Vulcan offers little hope for any organism that ends up here, but it's fractured surface and rich mineral deposits make it a risky but profitable venture for enterprising traders.Watch out for the deep crevasses that lead to deadly magma flows beneath the surface!</Value>
+      <Value>Um mundo dilacerado devido às enormes forças de maré do buraco negro supermassivo que orbita. Vulcano oferece pouca esperança para qualquer organismo que acabe aqui, mas sua superfície fraturada e ricos depósitos minerais o tornam um empreendimento arriscado, mas lucrativo para comerciantes empreendedores. Cuidado com as fendas profundas que levam a fluxos mortais de magma abaixo da superfície!</Value>
     </Record>
     <Record>
       <Key>NewWorldMimasShortDesc</Key>
-      <Value>A barren rock nestled under the wing of Saturn's spectular rings. Mimas tiny stature is reflected in its extremely low gravity, and the Mimantean surface is saturated with impact craters from wayward ring occupants. It's distance from the sun provides little power from solar devices.Be very careful when walking or jumping, as you can travel a long way and gain a lot of speed due to the extremely low gravity.</Value>
+      <Value>Uma rocha estéril aninhada sob a asa dos anéis especulares de Saturno. A pequena estatura de Mimas é refletida em sua gravidade extremamente baixa, e a superfície de Mimantean está saturada com crateras de impacto de ocupantes rebeldes do anel. Sua distância do sol fornece pouca energia dos dispositivos solares. Tenha muito cuidado ao caminhar ou pular, pois você pode percorrer longas distâncias e ganhar muita velocidade devido à gravidade extremamente baixa.</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAudioAlerts</Key>
-      <Value>Voice Notifications</Value>
+      <Value>Notificações de voz</Value>
     </Record>
     <Record>
       <Key>InventoryCloseAll</Key>
-      <Value>Close All</Value>
+      <Value>Fechar Tudo</Value>
     </Record>
     <Record>
       <Key>ButtonResetWindows</Key>
-      <Value>Reset Windows</Value>
+      <Value>Redefinir janelas</Value>
     </Record>
     <Record>
       <Key>ConnectionFiltered</Key>
-      <Value>Filtered</Value>
+      <Value>Filtrada</Value>
     </Record>
     <Record>
       <Key>ConnectionUnfiltered</Key>
-      <Value>Unfiltered</Value>
+      <Value>Não filtrado</Value>
     </Record>
     <Record>
       <Key>ConnectionInput</Key>
-      <Value>Input</Value>
+      <Value>Entrada</Value>
     </Record>
     <Record>
       <Key>ConnectionInput2</Key>
-      <Value>Input 2</Value>
+      <Value>Entrada 2</Value>
     </Record>
     <Record>
       <Key>ConnectionOutput</Key>
-      <Value>Output</Value>
+      <Value>Saída</Value>
     </Record>
     <Record>
       <Key>ConnectionOutput2</Key>
-      <Value>Output 2</Value>
+      <Value>Saída 2</Value>
     </Record>
     <Record>
       <Key>ConnectionWaste</Key>
-      <Value>Waste</Value>
+      <Value>Resíduos</Value>
     </Record>
     <Record>
       <Key>ConnectionBreathing</Key>
-      <Value>Breathing</Value>
+      <Value>Respiração</Value>
     </Record>
     <Record>
       <Key>ConnectionPropellant</Key>
-      <Value>Propellant</Value>
+      <Value>Propelente</Value>
     </Record>
     <Record>
       <Key>SettingsChunkRenderDistance</Key>
-      <Value>Chunk Render Distance</Value>
+      <Value>Distância de renderização de Destroços</Value>
     </Record>
     <Record>
       <Key>ScenarioScoreboardBackToMenu</Key>
-      <Value>Return to Main Menu</Value>
+      <Value>Retornar ao Menu Principal</Value>
     </Record>
     <Record>
       <Key>ScenarioScoreboardReturnToGame</Key>
-      <Value>Return to Game</Value>
+      <Value>Retornar para o Jogo</Value>
     </Record>
     <Record>
       <Key>ScenarioScoreboardHeading</Key>
-      <Value>Scenario Complete</Value>
+      <Value>Cenário concluído</Value>
     </Record>
     <Record>
       <Key>ButtonCopy</Key>
-      <Value>Copy</Value>
+      <Value>Copiar</Value>
     </Record>
     <Record>
       <Key>ButtonPaste</Key>
-      <Value>Paste</Value>
+      <Value>Colar</Value>
     </Record>
     <Record>
       <Key>ButtonHelp</Key>
-      <Value>Help</Value>
+      <Value>Ajuda</Value>
     </Record>
     <Record>
       <Key>ButtonVariables</Key>
@@ -9628,15 +9628,15 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>HeadingHelp</Key>
-      <Value>help</Value>
+      <Value>Ajuda</Value>
     </Record>
     <Record>
       <Key>ButtonLoad</Key>
-      <Value>Load</Value>
+      <Value>Carregar</Value>
     </Record>
     <Record>
       <Key>HeadingEdit</Key>
-      <Value>Edit</Value>
+      <Value>Editar</Value>
     </Record>
     <Record>
       <Key>ButtonFunctions</Key>
@@ -9644,11 +9644,11 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ButtonLibrary</Key>
-      <Value>Library</Value>
+      <Value>Biblioteca</Value>
     </Record>
     <Record>
       <Key>SettingsMenuAdvanced</Key>
-      <Value>Advanced</Value>
+      <Value>Avançado</Value>
     </Record>
     <Record>
       <Key>SettingsLegacyInventory</Key>
@@ -9656,7 +9656,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>SettingsDisableWaterVisualizer</Key>
-      <Value>Disable Water Visualizer</Value>
+      <Value>Desativar Vizualização de Água</Value>
     </Record>
     <Record>
       <Key>SettingsInterface</Key>
@@ -9664,19 +9664,19 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>SettingsUPNPEnabled</Key>
-      <Value>Enable UPNP</Value>
+      <Value>Habilitar UPNP</Value>
     </Record>
     <Record>
       <Key>SettingsEnableClouds</Key>
-      <Value>Enable Clouds</Value>
+      <Value>Habilitar Nuvens</Value>
     </Record>
     <Record>
       <Key>SettingsClouds</Key>
-      <Value>Enable Clouds</Value>
+      <Value>Habilitar Nuvens</Value>
     </Record>
     <Record>
       <Key>InvalidDegrees</Key>
-      <Value>Nil</Value>
+      <Value>Nada</Value>
     </Record>
     <Record>
       <Key>SettingsSoundFX</Key>
@@ -9684,203 +9684,203 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>WarningControlConflict</Key>
-      <Value>Controls Conflict</Value>
+      <Value>Conflito de controles</Value>
     </Record>
     <Record>
       <Key>WarningControlConflictDescription</Key>
-      <Value>Please visit the control assignment window and clear conflicts</Value>
+      <Value>Visite a janela de atribuição de controle e limpe os conflitos</Value>
     </Record>
     <Record>
       <Key>NewWorldGameMode</Key>
-      <Value>Game Mode</Value>
+      <Value>Modo de Jogo</Value>
     </Record>
     <Record>
       <Key>NewWorldGravity</Key>
-      <Value>Gravity</Value>
+      <Value>Gravidade</Value>
     </Record>
     <Record>
       <Key>NewWorldTemperature</Key>
-      <Value>Temperature</Value>
+      <Value>Temperatura</Value>
     </Record>
     <Record>
       <Key>NewWorldPressure</Key>
-      <Value>Pressure</Value>
+      <Value>Pressão</Value>
     </Record>
     <Record>
       <Key>NewWorldSolarEnergy</Key>
-      <Value>Solar Energy</Value>
+      <Value>Energia Solar</Value>
     </Record>
     <Record>
       <Key>NewWorldSolarAngle</Key>
-      <Value>Solar Angle</Value>
+      <Value>Angulo Solar</Value>
     </Record>
     <Record>
       <Key>SettingsMenuAppearance</Key>
-      <Value>Appearance</Value>
+      <Value>Aparência</Value>
     </Record>
     <Record>
       <Key>SettingsUserSpeakerMode</Key>
-      <Value>Speaker Mode:</Value>
+      <Value>Modo alto-falante:</Value>
     </Record>
     <Record>
       <Key>LogicTypeNone</Key>
-      <Value>No description</Value>
+      <Value>Sem descrição</Value>
     </Record>
     <Record>
       <Key>LogicTypePower</Key>
-      <Value>Can be read to return if the device is correctly powered or not, set via the power system, return 1 if powered and 0 if not</Value>
+      <Value>Pode ser lido para retornar se o dispositivo está corretamente energizado ou não, configurado via sistema de alimentação, retornar 1 se energizado e 0 se não</Value>
     </Record>
     <Record>
       <Key>LogicTypeOpen</Key>
-      <Value>1 if device is open, otherwise 0</Value>
+      <Value>1 se o dispositivo estiver aberto, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>LogicTypeMode</Key>
-      <Value>Integer for mode state, different devices will have different mode states available to them</Value>
+      <Value>Inteiro para estado de modo, dispositivos diferentes terão estados de modo diferentes disponíveis para eles</Value>
     </Record>
     <Record>
       <Key>LogicTypeError</Key>
-      <Value>1 if device is in error state, otherwise 0</Value>
+      <Value>1 se o dispositivo estiver em estado de erro, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>LogicTypeLock</Key>
-      <Value>1 if device is locked, otherwise 0, can be set in most devices and prevents the user from access the values</Value>
+      <Value>1 se o dispositivo estiver bloqueado, caso contrário 0, pode ser definido na maioria dos dispositivos e impede que o usuário acesse os valores</Value>
     </Record>
     <Record>
       <Key>LogicTypePressure</Key>
-      <Value>The current pressure reading of the device</Value>
+      <Value>Leitura de pressão do dispositivo atual</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperature</Key>
-      <Value>The current temperature reading of the device</Value>
+      <Value>Leitura de temperatura do dispositivo atual</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureInput</Key>
-      <Value>The current pressure reading of the device's Input Network</Value>
+      <Value>A leitura de pressão atual da rede de entrada do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureInput</Key>
-      <Value>The current temperature reading of the device's Input Network</Value>
+      <Value>A leitura de temperatura atual da rede de entrada do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureInput2</Key>
-      <Value>The current pressure reading of the device's Input2 Network</Value>
+      <Value>A leitura de pressão atual da rede Entrada 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureInput2</Key>
-      <Value>The current temperature reading of the device's Input2 Network</Value>
+      <Value>A leitura de temperatura atual da rede Entrada 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureOutput</Key>
-      <Value>The current pressure reading of the device's Output Network</Value>
+      <Value>A leitura de pressão atual da rede de saída do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureOutput</Key>
-      <Value>The current temperature reading of the device's Output Network</Value>
+      <Value>A leitura de temperatura atual da rede de saída do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureOutput2</Key>
-      <Value>The current pressure reading of the device's Output2 Network</Value>
+      <Value>A leitura de pressão atual da rede Saída 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureOutput2</Key>
-      <Value>The current temperature reading of the device's Output2 Network</Value>
+      <Value>A leitura de temperatura atual da rede Saída 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureExternal</Key>
-      <Value>Setting for external pressure safety, in KPa</Value>
+      <Value>Configuração para segurança de pressão externa, em KPa</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureInternal</Key>
-      <Value>Setting for internal pressure safety, in KPa</Value>
+      <Value>Configuração para segurança de pressão interna, em KPa</Value>
     </Record>
     <Record>
       <Key>LogicTypeActivate</Key>
-      <Value>1 if device is activated (usually means running), otherwise 0</Value>
+      <Value>1 se o dispositivo estiver ativado (geralmente significa em execução), caso contrário 0</Value>
     </Record>
     <Record>
       <Key>LogicTypeCharge</Key>
-      <Value>The current charge the device has</Value>
+      <Value>Atual carga do dispositivo está em</Value>
     </Record>
     <Record>
       <Key>LogicTypeSetting</Key>
-      <Value>A variable setting that can be read or written, depending on the device</Value>
+      <Value>Uma configuração variável que pode ser lida ou escrita, dependendo do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeReagents</Key>
-      <Value>Total number of reagents recorded by the device</Value>
+      <Value>Número total de reagentes registrados pelo dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygen</Key>
-      <Value>The ratio of oxygen in device atmosphere</Value>
+      <Value>A proporção de oxigênio na atmosfera do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxide</Key>
-      <Value>The ratio of {GAS:CarbonDioxide} in device atmosphere</Value>
+      <Value>A proporção de {GAS:CarbonDioxide} na atmosfera do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogen</Key>
-      <Value>The ratio of nitrogen in device atmosphere</Value>
+      <Value>A proporção de nitrogênio na atmosfera do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutant</Key>
-      <Value>The ratio of pollutant in device atmosphere</Value>
+      <Value>A proporção de poluentes na atmosfera do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatiles</Key>
-      <Value>The ratio of volatiles in device atmosphere</Value>
+      <Value>A proporção de voláteis na atmosfera do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWater</Key>
-      <Value>The ratio of water in device atmosphere</Value>
+      <Value>A proporção de água na atmosfera do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxide</Key>
-      <Value>The ratio of {GAS:NitrousOxide} in device atmosphere</Value>
+      <Value>A proporção de {GAS:NitrousOxide} na atmosfera do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustion</Key>
-      <Value>The assess atmosphere is on fire. Returns 1 if atmosphere is on fire, 0 if not.</Value>
+      <Value>Se atmosfera está em chamas. Retorna 1 se a atmosfera estiver pegando fogo, 0 se não estiver.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenInput</Key>
-      <Value>The ratio of oxygen in device's input network</Value>
+      <Value>A proporção de oxigênio na rede de entrada do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideInput</Key>
-      <Value>The ratio of {GAS:CarbonDioxide} in device's input network</Value>
+      <Value>A proporção de {GAS:CarbonDioxide} na rede de entrada do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenInput</Key>
-      <Value>The ratio of nitrogen in device's input network</Value>
+      <Value>A proporção de nitrogênio na rede de entrada do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantInput</Key>
-      <Value>The ratio of pollutant in device's input network</Value>
+      <Value>A proporção de poluente na rede de entrada do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesInput</Key>
-      <Value>The ratio of volatiles in device's input network</Value>
+      <Value>A proporção de voláteis na rede de entrada do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterInput</Key>
-      <Value>The ratio of water in device's input network</Value>
+      <Value>A proporção de água na rede de entrada do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput</Key>
-      <Value>The ratio of {GAS:NitrousOxide} in device's input network</Value>
+      <Value>A proporção de {GAS:NitrousOxide} na rede de entrada do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionInput</Key>
-      <Value>The assess atmosphere is on fire. Returns 1 if device's input network is on fire, 0 if not.</Value>
+      <Value>A atmosfera de avaliação está em chamas. Retorna 1 se a rede de entrada do dispositivo estiver pegando fogo, 0 se não estiver.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenInput2</Key>
-      <Value>The ratio of oxygen in device's Input2 network</Value>
+      <Value>A proporção de oxigênio na rede de Entrada 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideInput2</Key>
-      <Value>The ratio of {GAS:CarbonDioxide} in device's Input2 network</Value>
+      <Value>A proporção de {GAS:CarbonDioxide} rede de Entrada 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenInput2</Key>
