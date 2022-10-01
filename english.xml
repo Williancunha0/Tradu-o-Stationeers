@@ -6049,8 +6049,8 @@ Possui dois modos - ativo (1) e inativo (0), que só deve ser acionado quando o 
     <RecordThing>
       <Key>StructureModularRocketScrapMining</Key>
       <Value>Módulo de Coleta de Lixo Automatizado</Value>
-      <Description>The so-called {LINK:Sinotai;Sinotai} 'space junk' collector module is really a high-end automated salvaging unit, purpose designed to interface with the {LINK:ExMin;ExMin} autonomous rocket. It sweeps the local region of space for wrecks, abandoned space shipments, and other detritus. As such, it returns a fairly random assortment of items. 
-The module must be connected to a {THING:StructureRocketModuleSilo} by a properly placed {THING:StructureModularRocketCouplingDown} or {THING:StructureModularRocketCouplingUp}, in order for {LINK:OrePage;ore} to pass from the collector unit into the silo.</Description>
+      <Description>O chamado módulo coletor de 'lixo espacial' {LINK:Sinotai;Sinotai} é realmente uma unidade de recuperação automatizada de ponta, projetada para interagir com o foguete autônomo {LINK:ExMin;ExMin}. Ele varre a região local do espaço em busca de destroços, remessas espaciais abandonadas e outros detritos. Como tal, ele retorna uma variedade bastante aleatória de itens.
+O módulo deve ser conectado a um {THING:StructureRocketModuleSilo} por um {THING:StructureModularRocketCouplingDown} ou {THING:StructureModularRocketCouplingUp} posicionado corretamente, para que {LINK:OrePage;ore} passe da unidade coletora para o silo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketScrapMining</Key>
@@ -6059,201 +6059,201 @@ The module must be connected to a {THING:StructureRocketModuleSilo} by a properl
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterPipeMeter</Key>
-      <Value>Kit (Liquid Pipe Meter)</Value>
+      <Value>Kit (Medidor de Canos)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterPipeMeter</Key>
-      <Value>Liquid Pipe Meter</Value>
+      <Value>Medidor de Canos</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterPipeDigitalValve</Key>
-      <Value>Kit (Liquid Digital Valve)</Value>
+      <Value>Kit (Válvula Digital de Canos)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterDigitalValve</Key>
-      <Value>Liquid Digital Valve</Value>
+      <Value>Válvula Digital de Canos</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterWallCooler</Key>
-      <Value>Kit (Liquid Wall Cooler)</Value>
+      <Value>Kit (Resfriador de Parede Líquido)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterWallCooler</Key>
-      <Value>Liquid Wall Cooler</Value>
+      <Value>Resfriador de Parede (Líquido)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFillerBottom</Key>
-      <Value>Water Bottle Filler Bottom</Value>
+      <Value>Parte Inferior do Enchedor de Garrafas</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidDrain</Key>
-      <Value>Kit (Liquid Drain)</Value>
+      <Value>Kit (Dreno de Líquidos)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidDrain</Key>
-      <Value>Liquid Drain</Value>
-      <Description>The drain is a simple device, although not without a touch of mystery. When connected to power and activated, it drains liquid from a liquid network at a rate of 1 mol per tick. Handy if there's liquid you need ... gone.</Description>
+      <Value>Dreno de Líquidos</Value>
+      <Description>O dreno é um dispositivo simples, embora não sem um toque de mistério. Quando conectado à energia e ativado, drena o líquido de uma rede líquida a uma taxa de 1 mol por tick. Útil se houver líquido que você precisa... sumiu.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeAnalyzer</Key>
-      <Value>Kit (Liquid Pipe Analyzer)</Value>
+      <Value>Kit (Analisador de Canos)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeAnalyzer</Key>
-      <Value>Liquid Pipe Analyzer</Value>
+      <Value>Analisador de Canos</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketGasMining</Key>
-      <Value>Kit (Automated Rocket Gas Mining Module)</Value>
-      <Description>This kit creates a {THING:StructureModularRocketGasMining}.</Description>
+      <Value>Kit (Módulo Mineração de Gás Automatizado)</Value>
+      <Description>Este kit produz um {THING:StructureModularRocketGasMining}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketGasMining</Key>
-      <Value>Automated Rocket Gas Mining Module</Value>
-      <Description>In typical {LINK:Recurso;Recurso} fashion, the A.R.M. gas mining module is a rapidly designed addition to a more sophisticated system by a company with very little concern for safety or reliability.
-      The module will store mined gas in an empty {THING:StructureModularRocketFueltank01}, so long as it is connected by a {THING:StructureModularRocketCouplingDown} or {THING:StructureModularRocketCouplingUp}.</Description>
+      <Value>(Foguete) Módulo Mineração de Gás Automatizado</Value>
+      <Description>No estilo típico do {LINK:Recurso;Recurso} O módulo de mineração de gás é uma adição projetada rapidamente a um sistema mais sofisticado por uma empresa com muito pouca preocupação com segurança ou confiabilidade.
+      O módulo armazenará o gás extraído em um {THING:StructureModularRocketFueltank01} vazio, desde que esteja conectado por um {THING:StructureModularRocketCouplingDown} ou {THING:StructureModularRocketCouplingUp}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHeatExchanger</Key>
-      <Value>Kit Heat Exchanger</Value>
-      <Description>This kit creates a {THING:StructureHeatExchangeLiquidtoGas}, {THING:StructureHeatExchangerLiquidtoLiquid} and {THING:StructureHeatExchangerGastoGas}.</Description>
+      <Value>Kit (Trocador de Calor)</Value>
+      <Description>Este kit produz um {THING:StructureHeatExchangeLiquidtoGas}, {THING:StructureHeatExchangerLiquidtoLiquid} ou {THING:StructureHeatExchangerGastoGas}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureHeatExchangerLiquidtoLiquid</Key>
-      <Value>Heat Exchanger - Liquid</Value>
-      <Description>The original specs for the N Series Flow-P heat exchanger were rumored to have been scrawled on the back of a burger receipt by a bored {LINK:Sinotai;Sinotai} designer riding up the Brazilian space elevator, but that hasn't stopped it becoming one of the most widely-copied heat exchanger designs in the Solar System.
-The 'N Flow-P' has four connections, allowing you to pass two liquid networks into the unit, which then works to equalize temperature across the two separate networks.
-As the N Flow-P is a passive system, it equalizes pressure across the entire of each individual network, unless connected to liquid management devices like a {THING:StructureLiquidVolumePump} or a {THING:StructureBackLiquidPressureRegulator}.
+      <Value>Trocador de Calor - Líquido</Value>
+      <Description>Há rumores de que as especificações originais do trocador de calor Flow-P da Série N foram rabiscadas no verso de um recibo de hambúrguer por um designer entediado do {LINK:Sinotai;Sinotai} subindo no elevador espacial brasileiro, mas isso não impediu tornando-se um dos projetos de trocadores de calor mais copiados no Sistema Solar.
+O 'N Flow-P' tem quatro conexões, permitindo que você passe duas redes de líquido para a unidade, que então funciona para equalizar a temperatura nas duas redes separadas.
+Como o N Flow-P é um sistema passivo, ele equaliza a pressão em toda a rede individual, a menos que esteja conectado a dispositivos de gerenciamento de líquidos como um {THING:StructureLiquidVolumePump} ou um {THING:StructureBackLiquidPressureRegulator}.
 </Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureHeatExchangerGastoGas</Key>
-      <Value>Heat Exchanger - Gas</Value>
-      <Description>The original specs for the N Series Flow-P heat exchanger were rumored to have been scrawled on the back of a burger receipt by a bored {LINK:Sinotai;Sinotai} designer riding up the Brazilian space elevator, but that hasn't stopped it becoming one of the most widely-copied heat exchanger designs in the Solar System.
-The 'N Flow-P' has four connections, allowing you to pass two gas networks into the unit, which then works to equalize temperature across the two separate networks.
-As the N Flow-P is a passive system, it equalizes pressure across the entire of each individual network, unless connected to gas management devices like a {THING:StructureVolumePump} or a {THING:StructureBackPressureRegulator}.</Description>
+      <Value>Trocador de Calor - Gás</Value>
+      <Description>Há rumores de que as especificações originais do trocador de calor Flow-P da Série N foram rabiscadas no verso de um recibo de hambúrguer por um designer entediado do {LINK:Sinotai;Sinotai} subindo no elevador espacial brasileiro, mas isso não impediu tornando-se um dos projetos de trocadores de calor mais copiados no Sistema Solar.
+O 'N Flow-P' tem quatro conexões, permitindo que você passe duas redes de gás para a unidade, que então funciona para equalizar a temperatura nas duas redes separadas.
+Como o N Flow-P é um sistema passivo, ele equaliza a pressão em toda a rede individual, a menos que esteja conectado a dispositivos de gerenciamento de gás como um {THING:StructureVolumePump} ou um {THING:StructureBackPressureRegulator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureHeatExchangeLiquidtoGas</Key>
-      <Value>Heat Exchanger - Liquid + Gas</Value>
-      <Description>The original specs for the N Series Flow-P heat exchanger were rumored to have been scrawled on the back of a burger receipt by a bored {LINK:Sinotai;Sinotai} designer riding up the Brazilian space elevator, but that hasn't stopped it becoming one of the most widely-copied heat exchanger designs in the Solar System.
-The 'N Flow-P' has four connections, allowing you to pass separate liquid and gas networks into the unit, which then works to equalize temperature across the two separate networks.
-As the N Flow-P is a passive system, it equalizes pressure across the entire of each individual network, unless connected to devices like a {THING:StructureVolumePump} or a {THING:StructureBackLiquidPressureRegulator}.</Description>
+      <Value>Trocador de Calor - Líquido + Gás</Value>
+      <Description>Há rumores de que as especificações originais do trocador de calor Flow-P da Série N foram rabiscadas no verso de um recibo de hambúrguer por um designer entediado do {LINK:Sinotai;Sinotai} subindo no elevador espacial brasileiro, mas isso não impediu tornando-se um dos projetos de trocadores de calor mais copiados no Sistema Solar.
+O 'N Flow-P' tem quatro conexões, permitindo que você passe redes separadas de líquido e gás para a unidade, que então funciona para equalizar a temperatura nas duas redes separadas.
+Como o N Flow-P é um sistema passivo, ele equaliza a pressão em toda a rede individual, a menos que esteja conectado a dispositivos como um {THING:StructureVolumePump} ou um {THING:StructureBackLiquidPressureRegulator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureHeatExchangeLiquidAndGas</Key>
-      <Value>Heat Exchange Liquid And Gas</Value>
+      <Value>Trocador de Calor - Líquido + Gás</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitHangerDoor</Key>
-      <Value>Kit Hanger Door</Value>
+      <Value>Kit Portas de Hangar</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>LogicStepSequencer8</Key>
-      <Value>Logic Step Sequencer</Value>
-      <Description>The {LINK:ODA;ODA} does not approve of soundtracks or other distractions.
-As such, {LINK:Stationeers;Stationeers} have had to create their own musical accompaniment to the demanding labor of building and maintaining off-world infrastructure.
-Central to this pasttime is the step sequencer, which allows Stationeers to sequence short musical patterns or loops. 
+      <Value>Sequenciador de Passos Lógicos</Value>
+      <Description>O {LINK:ODA;ODA} não aprova trilhas sonoras ou outras distrações.
+Como tal, {LINK:Stationeers;Stationeers} tiveram que criar seu próprio acompanhamento musical para o exigente trabalho de construção e manutenção de infraestruturas fora do mundo.
+Central para este passatempo é o sequenciador de passos, que permite aos Stationeers sequenciar padrões musicais curtos ou loops.
 
-{HEADER:DIY MUSIC - GETTING STARTED}
+{HEADER:MÚSICA (DIY) - Vamos Começar}
 
-1: Connect 8 {THING:DeviceStepUnit}s to your step sequencer via the data port on the lefthand side.
+1: Conecte 8 {THING:DeviceStepUnit}s ao seu sequenciador de passos através da porta de dados no lado esquerdo.
 
-2: Label each step unit, then assign step units 1 through 8 on the step sequencer using the screwdiver.
+2: Rotule cada unidade de passo e, em seguida, atribua as unidades de passo de 1 a 8 no sequenciador de passos usando a chave de fenda.
 
-3: Select the output speaker (eg {THING:PassiveSpeaker}) where the sequencer will play the sounds. This needs to be connected to the logic network on the righthand side of the sequencer.
+3: Selecione o alto-falante de saída (por exemplo, {THING:PassiveSpeaker}) onde o sequenciador tocará os sons. Isso precisa ser conectado à rede lógica no lado direito do sequenciador.
 
-4: Place a {THING:StopWatch} and use a {THING:StructureLogicReader} and {THING:StructureLogicWriter} to write the time to the time variable on the sequencer.
+4: Coloque um {THING:StopWatch} e use um {THING:StructureLogicReader} e {THING:StructureLogicWriter} para gravar a hora na variável time no sequenciador.
 
-5: Set the BPM on the sequencer using a {THING:StructureLogicDial} and a {THING:StructureLogicWriter} to write to the sequencer's BPM variable. A higher bpm will play the sequence faster. 
+5: Defina o BPM no sequenciador usando um {THING:StructureLogicDial} e um {THING:StructureLogicWriter} para gravar na variável BPM do sequenciador. Um bpm mais alto reproduzirá a sequência mais rapidamente.
 
-6: Insert a sound cartridge of your chosing and select which variant of sound you wish to play by pushing the arrow buttons located above and below the sound cartidge slot.
+6: Insira um cartucho de som de sua escolha e selecione qual variante de som você deseja tocar pressionando os botões de seta localizados acima e abaixo do slot do cartucho de som.
 
-7: Choose the pitch of the sounds to play by setting the dial on each of your 8 step units to the desired note. With drums, each note is a different drum sounds. You can trial your sounds by pushing the activate button on each step unit (with the sequencer inactive).
+7: Escolha o tom dos sons a serem tocados ajustando o dial em cada uma das suas 8 unidades de passo para a nota desejada. Com bateria, cada nota é um som de bateria diferente. Você pode testar seus sons pressionando o botão de ativação em cada unidade de passo (com o sequenciador inativo).
 
-8: Get freaky with the {THING:DeviceLfoVolume}.
+8: Fique louco com o {THING:DeviceLfoVolume}.
 
-9: Finally, activate the sequencer, Vibeoneer.</Description>
+9: Por fim, ative o sequenciador, Vibeoneer.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DeviceStepUnit</Key>
-      <Value>Device Step Unit</Value>
+      <Value>Dispositivo de Unidade de Passo</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StopWatch</Key>
-      <Value>Stop Watch</Value>
+      <Value>Cronômetro</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeBass</Key>
-      <Value>Sound Cartridge Bass</Value>
+      <Value>Cartucho de Som (Bass)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeDrums</Key>
-      <Value>Sound Cartridge Drums</Value>
+      <Value>Cartucho de Som (Bateria)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeLeads</Key>
-      <Value>Sound Cartridge Leads</Value>
+      <Value>Cartucho de Som (Leads)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemSoundCartridgeSynth</Key>
-      <Value>Sound Cartridge Synth</Value>
+      <Value>Cartucho de Som (Synth)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitMusicMachines</Key>
-      <Value>Kit (Music Machines)</Value>
+      <Value>Kit (Máquina de Música)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnector</Key>
-      <Value>Insulated (Tank Connector)</Value>
+      <Value>Conector de Tanque Adiabático (Gás)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnector</Key>
-      <Value>Insulated Tank Connector</Value>
+      <Value>Conector de Tanque Adiabático (Gás)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemInsulatedTankConnectorLiquid</Key>
-      <Value>Kit (Insulated Tank Connector Liquid)</Value>
+      <Value>Conector de Tanque Adiabático (Líquido)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedTankConnectorLiquid</Key>
-      <Value>Insulated Tank Connector Liquid</Value>
+      <Value>Conector de Tanque Adiabático (Líquido)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>DecayedFood</Key>
-      <Value>Decayed Food</Value>
-      <Description>When your {LINK:OrganicPage;food} decays, it turns into this. {LINK:ODA;ODA} scientists have attempted to determine the exact constituents of this substance, but it remains evasive and mysterious. Suffice to say, eating it is a bad idea. Research has determined, however, that The exact speed of decay varies individually by:
+      <Value>Comida Estragada</Value>
+      <Description>Quando seu {LINK:OrganicPage;food} se deteriora, ele se transforma nisso. {LINK:ODA;ODA} cientistas tentaram determinar os constituintes exatos dessa substância, mas ela permanece evasiva e misteriosa. Basta dizer que comê-lo é uma má ideia. A pesquisa determinou, no entanto, que a velocidade exata de decaimento varia individualmente por:
 
-- TEMPERATURE - Refrigeration will slow decay, but many foods will be damaged by exposure to extreme low pressure, as well as extreme heat. The optimum temperature is 0 kelvin (-272 C).
+- TEMPERATURA - A refrigeração retardará a decomposição, mas muitos alimentos serão danificados pela exposição a pressões extremamente baixas, bem como ao calor extremo. A temperatura ideal é 0 kelvin (-272 C).
 
-- FOOD TYPE - Each {LINK:OrganicPage;food} type has its own decay properties. {THING:ItemTomatoSoup} lasts a lot longer than a {THING:ItemTomato}, for instance.
+- TIPO DE ALIMENTO - Cada tipo {LINK:OrganicPage;food} tem suas próprias propriedades de decaimento. {THING:ItemTomatoSoup} dura muito mais do que um {THING:ItemTomato}, por exemplo.
 
-- PRESSURE - Food decays faster when the pressure drops below 1 atmosphere (101kPa). Decay happens exponentially more quickly as the atmosphere approaches a perfect vacuum. There is no effect from higher pressures. 
+- PRESSÃO - Os alimentos deterioram-se mais rapidamente quando a pressão cai abaixo de 1 atmosfera (101kPa). A decadência acontece exponencialmente mais rapidamente à medida que a atmosfera se aproxima de um vácuo perfeito. Não há efeito de pressões mais altas.
 
-- ATMOSPHERE - Different gases can slow and accelerate the decay process. The process will take account of respective gas ratios in mixed atmospheres in calculating the decay modifier. The following rates apply across all foods:
+- ATMOSFERA - Diferentes gases podem retardar e acelerar o processo de decomposição. O processo levará em conta as respectivas proporções de gás em atmosferas mistas no cálculo do modificador de decaimento. As seguintes taxas se aplicam a todos os alimentos:
 
 &gt; {GAS:Oxygen} x 1.3
 &gt; {GAS:Nitrogen} x 0.6
@@ -6262,186 +6262,185 @@ Central to this pasttime is the step sequencer, which allows Stationeers to sequ
 &gt; {GAS:Pollutant} x 3
 &gt; {GAS:NitrousOxide} x 1.5
 &gt; {GAS:Water} x 2
-&gt; Vacuum (see PRESSURE above)
+&gt; Vacuum (Veja PRESSÃO acima)
 
 </Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureShelfMedium</Key>
-      <Value>Shelf Medium</Value>
-      <Description>A shelf for putting things on, so you can see them.</Description>
+      <Value>Prateleira Média</Value>
+      <Description>Uma prateleira para colocar as coisas, para que você possa vê-las.</Description>
     </RecordThing>
     <RecordThing>
       <Key>PassiveSpeaker</Key>
-      <Value>Passive Speaker</Value>
+      <Value>Alto-falante Passivo</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>DeviceLfoVolume</Key>
-      <Value>Low frequency oscillator</Value>
-      <Description>The low frequency oscillator (or LFO) makes everything sound dark, twisted and crunchy by altering the shape of the waves output by a {THING:LogicStepSequencer8}.
+      <Value>Oscilador de Baixa Frequência</Value>
+      <Description>O oscilador de baixa frequência (ou LFO) faz tudo parecer escuro, torcido e crocante, alterando a forma das ondas emitidas por um {THING:LogicStepSequencer8}.
       
-To set up an LFO:
+Para configurar um LFO:
 
-1. Place the LFO unit
-2. Set the LFO output to a {THING:PassiveSpeaker}
-2. Set a sequencers' output to LFO - so the sequencer's signal runs through the LFO to a speaker.
-3. Place a {THING:StopWatch} or use an existing one, then use a {THING:StructureLogicWriter} to write it to the LFO.
-4. Use another logic writer to write the BPM to the LFO.
-5. You are ready. This is the future. You're in space. Make it sound cool.
+1. Coloque a unidade LFO
+2. Defina a saída do LFO para um {THING:PassiveSpeaker}
+2. Defina a saída de um sequenciador para LFO - para que o sinal do sequenciador passe pelo LFO para um alto-falante.
+3. Coloque um {THING:StopWatch} ou use um existente e, em seguida, use um {THING:StructureLogicWriter} para gravá-lo no LFO.
+4. Use outro gravador de lógica para gravar o BPM no LFO.
+5. Você está pronto. Este é o futuro. Você está no espaço. Faça parecer legal.
 
-For more info, check out the {LINK:MusicPage;music page}.</Description>
+Para obter mais informações, confira a {LINK:MusicPage;music page}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFridgeBig</Key>
-      <Value>Fridge (Large)</Value>
-      <Description>The {LINK:Xigo;Xigo} Koolaid fridge is a self-cooling storage device with 15 slots that preserves food when powered and turned on. While many users have complained about the placement of the power switch, its place in the pantheon of off-world whiteware is unquestioned.
+      <Value>Geladeira (Grande)</Value>
+      <Description>A geladeira Koolaid {LINK:Xigo;Xigo} é um dispositivo de armazenamento com resfriamento automático com 15 slots que preserva os alimentos quando ligado. Enquanto muitos usuários reclamaram sobre o posicionamento do interruptor.
       
-With its own permanent internal atmosphere, the Koolaid fridge slows the decay of {LINK:OrganicPage;food} by maintaining an optimal internal temperature. Its power usage varies on the external temperature against which it must balance its internal temperature. As such, it must shed heat to operate, so the Koolaid fridge DOES NOT work in a vacuum.
+Com sua própria atmosfera interna permanente, a geladeira Koolaid retarda a deterioração de {LINK:OrganicPage;food} mantendo uma temperatura interna ideal. Seu uso de energia varia de acordo com a temperatura externa contra a qual deve equilibrar sua temperatura interna. Como tal, deve liberar calor para operar, portanto, a geladeira Koolaid NÃO funciona no vácuo.
       
-Also, don't leave the door open, as it will equalize with the current world temperature. And maybe start to beep.
+Além disso, não deixe a porta aberta, pois ela se equalizará com a temperatura atual do mundo. E talvez comece a apitar.
 
-For more information about food preservation, visit the {LINK:DecayPage;food decay} section of the Stationpedia.</Description>
+Para obter mais informações sobre preservação de alimentos, visite a seção {LINK:DecayPage;food decay} da Stationpedia.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeBig</Key>
-      <Value>Kit (Fridge Large)</Value>
-      <Description>This kit creates a {THING:StructureFridgeBig}.</Description>
+      <Value>Kit (Geladeira Grande)</Value>
+      <Description>Este kit produz uma {THING:StructureFridgeBig}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureFridgeSmall</Key>
-      <Value>Fridge Small</Value>
-      <Description>Essentially a heavily insulated box that allows users to pipe in any desired atmosphere, the {LINK:Recurso;Recurso} Minibar fridge was a simple solution to the problem of {LINK:NutritionPage;food decay}. It stores a small number of items, at any temperature you can muster.
+      <Value>Geladeira (Pequena)</Value>
+      <Description>Essencialmente uma caixa fortemente isolada que permite aos utilizadores canalizar em qualquer ambiente desejado, o Frigorífico Minibar {LINK:Recurso;Recurso} foi uma solução simples para o problema da {LINK:NutritionPage;food decay}. Ele armazena um pequeno número de itens, em qualquer temperatura que você possa reunir.
       
-      For more information about food preservation, visit the {LINK:DecayPage;food decay} section of the Stationpedia.</Description>
+      Para obter mais informações sobre preservação de alimentos, visite a seção {LINK:DecayPage;food decay} da Stationpedia.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRefrigeratedVendingMachine</Key>
-      <Value>Refrigerated Vending Machine</Value>
-      <Description>The refrigerated OmniKool vending machine is an advanced version of the standard {THING:StructureVendingMachine}, which maintains an optimum pressure and constant temperature of -130 degrees C, to prevent food spoilage. It can hold up to 100 stacks.
-The OmniKool also has an in-built {THING:StructureStacker}, allowing players to set the stack sizes of any items ADDED to the device. The unit's default stack size is 50.
-NOTE: altering stack sizes DOES NOT update existing stacks within the machine, only those subsequently added. </Description>
+      <Value>Máquina de Vendas Refrigerada</Value>
+      <Description>A máquina de venda automática refrigerada OmniKool é uma versão avançada do padrão {THING:StructureVendingMachine}, que mantém uma pressão ideal e temperatura constante de -130 graus C, para evitar a deterioração dos alimentos. Pode conter até 100 pilhas.
+O OmniKool também possui um {THING:StructureStacker} embutido, permitindo que os jogadores definam o tamanho da pilha de qualquer item ADICIONADO ao dispositivo. O tamanho de pilha padrão da unidade é 50.
+OBSERVAÇÃO: alterar os tamanhos das pilhas NÃO atualiza as pilhas existentes na máquina, apenas aquelas adicionadas posteriormente.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitVendingMachineRefrigerated</Key>
-      <Value>Kit (Vending Machine Refrigerated)</Value>
+      <Value>Kit (Máquina de Vendas Refrigerada)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Potato</Key>
-      <Value>Potato Seeds</Value>
-      <Description>Grow a {THING:ItemPotato}.</Description>
+      <Value>Semente de Batata</Value>
+      <Description>Planta uma {THING:ItemPotato}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Corn</Key>
-      <Value>Corn Seeds</Value>
-      <Description>Grow a {THING:ItemCorn}.</Description>
+      <Value>Semente de Milho</Value>
+      <Description>Planta uma {THING:ItemCorn}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Wheet</Key>
-      <Value>Wheat Seeds</Value>
-      <Description>Grow some {THING:ItemWheat}.</Description>
+      <Value>Sementes de Trigo</Value>
+      <Description>Planta Algumas {THING:ItemWheat}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Tomato</Key>
-      <Value>Tomato Seeds</Value>
-      <Description>Grow a {THING:ItemTomato}.</Description>
+      <Value>Semente de Tomate</Value>
+      <Description>Planta uma {THING:ItemTomato}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Soybean</Key>
-      <Value>Soybean Seeds</Value>
-      <Description>Grow some {THING:ItemSoybean}.</Description>
+      <Value>Sementes de Soja</Value>
+      <Description>Planta Algumas {THING:ItemSoybean}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Rice</Key>
-      <Value>Rice Seeds</Value>
-      <Description>Grow some {THING:ItemRice}.</Description>
+      <Value>Sementes de Arroz</Value>
+      <Description>Planta Algumas {THING:ItemRice}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Pumpkin</Key>
-      <Value>Pumpkin Seeds</Value>
-      <Description>Grow a {THING:ItemPumpkin}.</Description>
+      <Value>Semente de Abóbora</Value>
+      <Description>Planta uma {THING:ItemPumpkin}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SeedBag_Fern</Key>
-      <Value>Fern Seeds</Value>
-      <Description>Grow a {THING:ItemFern}.</Description>
+      <Value>Semente de Samambaia</Value>
+      <Description>Planta uma {THING:ItemFern}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>Fertilizer</Key>
-      <Value>Fertilizer</Value>
-      <Description>Fertilizer alters plant growth processes, and is created by the basic composter and the {THING:StructureAdvancedComposter} using {LINK:OrganicPage;organic} matter.
-Fertilizer's affects depend on its ingredients:
+      <Value>Fertilizante</Value>
+      <Description>O fertilizante altera os processos de crescimento das plantas e é criado pelo composteira básico e pela {THING:StructureAdvancedComposter} usando matéria {LINK:OrganicPage;organic}.
+Os efeitos do fertilizante dependem de seus ingredientes:
 
-- {LINK:OrganicPage;Food} increases PLANT YIELD up to two times
-- {THING:DecayedFood} increases plant GROWTH SPEED up to two times
-- {THING:ItemBiomass} increases the NUMBER OF GROWTH CYCLES the fertilizer lasts for
+- {LINK:OrganicPage;Food} aumenta o RENDIMENTO DA PLANTA em até duas vezes
+- {THING:DecayedFood} aumenta a VELOCIDADE DE CRESCIMENTO da planta em até duas vezes
+- {THING:ItemBiomass} aumenta o NÚMERO DE CICLOS DE CRESCIMENTO que o fertilizante dura
 
-The effect of these ingredients depends on their respective proportions in the composter when processing is activated. </Description>
+O efeito desses ingredientes depende de suas respectivas proporções na composteira quando o processamento é ativado. </Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAdvancedComposter</Key>
-      <Value>Advanced Composter</Value>
-      <Description>The advanced composter creates {THING:Fertilizer} out of organic matter. It accepts {LINK:OrganicPage;food}, {THING:DecayedFood} or {THING:ItemBiomass}. It requires {GAS:Water} and power to operate, accelerating the natural composting process.
-When processing, it releases nitrogen and volatiles, as well a small amount of heat. 
+      <Value>Composteira Avançada</Value>
+      <Description>O Composteira Avançada cria {THING:Fertilizer} a partir de matéria orgânica. Aceita {LINK:OrganicPage;food}, {THING:DecayedFood} ou {THING:ItemBiomass}. Requer {GAS:Water} e energia para operar, acelerando o processo natural de compostagem.
+Ao processar, libera nitrogênio e voláteis, além de uma pequena quantidade de calor.
 
-{HEADER:Compost composition}
-Fertilizer is produced at a 1:3 ratio of fertilizer to ingredients. The fertilizer's effects on plants will vary depending on the respective proportions of its ingredients.
+{HEADER:Composição de Compostagem}
+O fertilizante é produzido na proporção de 1:3 de fertilizante para ingredientes. Os efeitos do fertilizante nas plantas variam de acordo com as respectivas proporções de seus ingredientes.
 
-- {LINK:OrganicPage;Food} increases PLANT YIELD up to two times
-- {THING:DecayedFood} increases plant GROWTH SPEED up to two times
-- {THING:ItemBiomass} increases the NUMBER OF GROWTH CYCLES the fertilizer lasts for up to five times
-</Description>
+- {LINK:OrganicPage;Food} aumenta o RENDIMENTO DA PLANTA em até duas vezes
+- {THING:DecayedFood} aumenta a VELOCIDADE DE CRESCIMENTO da planta em até duas vezes
+- {THING:ItemBiomass} aumenta o NÚMERO DE CICLOS DE CRESCIMENTO que o fertilizante dura até cinco vezes.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAdvancedComposter</Key>
-      <Value>Kit (Advanced Composter)</Value>
-      <Description>Creates an {THING:StructureAdvancedComposter}.</Description>
+      <Value>Kit (Composteira Avançada)</Value>
+      <Description>Este kit produz uma {THING:StructureAdvancedComposter}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFridgeSmall</Key>
-      <Value>Kit (Fridge Small)</Value>
-      <Description>Creates a {THING:StructureFridgeSmall}.</Description>
+      <Value>Kit (Geladeira Pequena)</Value>
+      <Description>Este kit produz uma {THING:StructureFridgeSmall}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePlanter</Key>
-      <Value>Planter</Value>
-      <Description>A small planter for decorative or hydroponic purposes. Can be connected to {GAS:Water}, or watered manually using a {THING:ItemWaterBottle} or {THING:ItemGasCanisterWater}.</Description>
+      <Value>Vaso</Value>
+      <Description>Um pequeno vaso para fins decorativos ou hidropônicos. Pode ser conectado a {GAS:Water} ou regado manualmente usando um {THING:ItemWaterBottle} ou {THING:ItemGasCanisterWater}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>KitPlanter</Key>
-      <Value>Kit Planter</Value>
-      <Description>Places a {THING:StructurePlanter}.</Description>
+      <Value>Kit (Vaso)</Value>
+      <Description>Este kit produz um {THING:StructurePlanter}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>PortableComposter</Key>
-      <Value>Portable Composter</Value>
-      <Description>A simple composting device, the basic composter creates {THING:Fertilizer} out of organic matter. It accepts {LINK:OrganicPage;food}, {THING:DecayedFood} or {THING:ItemBiomass}. It requires a full {THING:ItemLiquidCanisterEmpty} and a battery to operate, accelerating the natural composting process.
-When processing, it releases nitrogen and volatiles, as well a small amount of heat.
+      <Value>Composteira Portátil</Value>
+      <Description>Um dispositivo de compostagem simples, o composteira básica cria {THING:Fertilizer} a partir de matéria orgânica. Aceita {LINK:OrganicPage;food}, {THING:DecayedFood} ou {THING:ItemBiomass}. Requer um {THING:ItemLiquidCanisterEmpty} completo e uma bateria para funcionar, acelerando o processo natural de compostagem.
+Ao processar, libera nitrogênio e voláteis, além de uma pequena quantidade de calor.
 
-{HEADER:Compost composition}
-Fertilizer is produced at a 1:3 ratio of fertilizer to ingredients. The fertilizer's effects on plants will vary depending on the respective proportions of its ingredients.
+{HEADER:Compostagem de compostagem}
+O fertilizante é produzido na proporção de 1:3 de fertilizante para ingredientes. Os efeitos do fertilizante nas plantas variam de acordo com as respectivas proporções de seus ingredientes.
 
-- {LINK:OrganicPage;food} increases PLANT YIELD up to two times
-- {THING:DecayedFood} increases plant GROWTH SPEED up to two times
-- {THING:ItemBiomass} increases the NUMBER OF GROWTH CYCLES the fertilizer lasts for</Description>
+- {LINK:OrganicPage;food} aumenta o RENDIMENTO DA PLANTA em até duas vezes
+- {THING:DecayedFood} aumenta a VELOCIDADE DE CRESCIMENTO da planta em até duas vezes
+- {THING:ItemBiomass} aumenta o NÚMERO DE CICLOS DE CRESCIMENTO que o fertilizante dura</Description>
     </RecordThing>
     <RecordThing>
       <Key>AppliancePackagingMachine</Key>
-      <Value>Basic Packaging Machine</Value>
-      <Description>The {LINK:Xigo;Xigo} Cannifier requires {THING:ItemEmptyCan} and cooked {LINK:OrganicPage;food} to create {LINK:DecayPage;long-lasting}, easily stored sustenance. Note that the Cannifier must be bolted to a {THING:StructureBench} for power, and only accepts cooked food and tin cans.
+      <Value>Máquina de Embalagem Básica</Value>
+      <Description>O {LINK:Xigo;Xigo} A Máquina de embalagem básica requer {THING:ItemEmptyCan} e {LINK:OrganicPage;food} cozida para criar um alimento {LINK:DecayPage;long-lasting}, facilmente armazenado. Observe que a máquina de embalagem básica deve ser parafusada um {THING:StructureBench} para poder e só aceita alimentos cozidos e latas.
 
-{HEADER:OPERATION}
+{CABEÇALHO: OPERAÇÃO}
 
-1. Add the correct ingredients to the device via the hopper in the TOP.
+1. Adicione os ingredientes corretos ao dispositivo através do funil no TOP.
 
-2. Close the device using the dropdown handle.
+2. Feche o dispositivo usando a alça suspensa.
 
-3. Activate the device.
+3. Ative o dispositivo.
 
-4. Remove canned goods from the outlet in the FRONT.
+4. Retire os enlatados da saída na FRENTE.
 
-Note: the Cannifier will flash an error on its activation switch if you attempt to activate it before closing it.
+Nota: o Cannifier piscará um erro em seu interruptor de ativação se você tentar ativá-lo antes de fechá-lo.
 
 
       </Description>
