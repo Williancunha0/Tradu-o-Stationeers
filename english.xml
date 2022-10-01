@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>English</Name>
-  <Code>EN</Code>
-  <Font>font_english</Font>
+  <Name>Brazilian Portuguese</Name>
+  <Code>PB</Code>
   <Reagents>
     <RecordReagent>
       <Key>Flour</Key>
@@ -17,7 +16,7 @@
     <RecordReagent>
       <Key>Egg</Key>
       <Value>Ovo</Value>
-      <Unit />
+      <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Iron</Key>
