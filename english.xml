@@ -3607,11 +3607,11 @@ Insira um cartucho ou scanner colorido no tablet e pressione o botão de ativaç
     </RecordThing>
     <RecordThing>
       <Key>StructureTurbineGenerator</Key>
-      <Value>Gerador de Turbina</Value>
+      <Value>Gerador Turbina</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTurbineGenerator</Key>
-      <Value>Kit (Gerador de Turbina)</Value>
+      <Value>Kit (Gerador Turbina)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ReagentSilver</Key>
@@ -4439,7 +4439,7 @@ Ao pousar, o foguete implantará um módulo de pouso e qualquer carga contida no
     </RecordThing>
     <RecordThing>
       <Key>StructureInsulatedPipeCrossJunction</Key>
-      <Value>Tubo Adiabático Junção</Value>
+      <Value>Tubo Adiabático (Junção Transversal)</Value>
       <Description>Os tubos adiabáticos reduzem muito a perda de calor dos gases armazenados neles.</Description>
     </RecordThing>
     <RecordThing>
@@ -4479,12 +4479,12 @@ Ao pousar, o foguete implantará um módulo de pouso e qualquer carga contida no
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketEngine01</Key>
-      <Value>Módulo Motor de Foguete</Value>
+      <Value>(Foguete) Módulo Motor</Value>
       <Description>O motor de foguete modular é capaz de levantar até sete módulos, incluindo ele mesmo. Ele deve ser alimentado por pelo menos um {THING:StructureModularRocketFueltank01}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketFueltank01</Key>
-      <Value>Módulo Tanque de Combustível de Foguete</Value>
+      <Value>(Foguete) Módulo Tanque de Combustível</Value>
       <Description>O tanque de combustível do foguete requer uma mistura 2:1 de {GAS:Volatiles} e {GAS:Oxygen}. Se a mistura exceder essas proporções ou você colocar outros {LINK:GasPage;gases} no tanque, o console {THING:StructureModularRocketCommand01} exibirá um erro "Invalid".
       
       Observe que o tanque de combustível do foguete também pode ser usado para coletar gás extraído pelo {THING:StructureModularRocketGasMining}, quando conectado a essa unidade por um {THING:StructureModularRocketCouplingUp} ou {THING:StructureModularRocketCouplingDown}.</Description>
@@ -4642,11 +4642,11 @@ Ao pousar, o foguete implantará um módulo de pouso e qualquer carga contida no
     </RecordThing>
     <RecordThing>
       <Key>ModularRocketCommand01Lander</Key>
-      <Value>Módulo de comando de Aterrissagem</Value>
+      <Value>(Foguete) Módulo de comando de Aterrissagem</Value>
     </RecordThing>
     <RecordThing>
       <Key>ModularRocketCargo01</Key>
-      <Value>Módulo de Carga</Value>
+      <Value>(Foguete) Módulo de Carga</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemSensorProcessingUnitOreScanner</Key>
@@ -4721,39 +4721,39 @@ Ao pousar, o foguete implantará um módulo de pouso e qualquer carga contida no
     </RecordThing>
     <RecordThing>
       <Key>StructureChairThickSingle</Key>
-      <Value>Chair (Thick Single)</Value>
+      <Value>Cadeira (Espessa Única)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChairThickDouble</Key>
-      <Value>Chair (Thick Double)</Value>
+      <Value>Cadeira (Espessa Dupla)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChairRectangleSingle</Key>
-      <Value>Chair (Rectangle Single)</Value>
+      <Value>Cadeira (Retangular Única)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChairRectangleDouble</Key>
-      <Value>Chair (Rectangle Double)</Value>
+      <Value>Cadeira (Retangular Dupla)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChairBoothMiddle</Key>
-      <Value>Chair (Booth Middle)</Value>
+      <Value>Banco Booth (Assento do Meio)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChairBoothCornerRight</Key>
-      <Value>Chair (Booth Corner Right)</Value>
+      <Value>Banco Booth (Assento do Canto Direito)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChairBoothCornerLeft</Key>
-      <Value>Chair (Booth Corner Left)</Value>
+      <Value>Banco Booth (Assento do Canto Esquerdo)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChairBacklessSingle</Key>
-      <Value>Chair (Backless Single)</Value>
+      <Value>Cadeira (Sem encosto Única)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureChairBacklessDouble</Key>
-      <Value>Chair (Backless Double)</Value>
+      <Value>Cadeira (Sem Encosto Dupla)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureFlatBench</Key>
@@ -4765,629 +4765,629 @@ Ao pousar, o foguete implantará um módulo de pouso e qualquer carga contida no
     </RecordThing>
     <RecordThing>
       <Key>ItemKitTables</Key>
-      <Value>Kit (Tables)</Value>
+      <Value>Kit (Mesas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableTall</Key>
-      <Value>Kitchen Table (Tall)</Value>
+      <Value>Mesa de Cozinha (Alta)</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableSimpleTall</Key>
-      <Value>Kitchen Table (Simple Tall)</Value>
+      <Value>Mesa de Cozinha (Alta Simples)</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableSimpleShort</Key>
-      <Value>Kitchen Table (Simple Short)</Value>
+      <Value>Mesa de Cozinha (Curta Simples)</Value>
     </RecordThing>
     <RecordThing>
       <Key>KitchenTableShort</Key>
-      <Value>Kitchen Table (Short)</Value>
+      <Value>Mesa de Cozinha (Curta)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableThickSingle</Key>
-      <Value>Small Table (Thick Single)</Value>
+      <Value>Mesa Pequena (Única Espessa)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableThickDouble</Key>
-      <Value>Small (Table Thick Double)</Value>
+      <Value>Mesa Pequena (Dupla Espessa)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableRectangleSingle</Key>
-      <Value>Small (Table Rectangle Single)</Value>
+      <Value>Mesa Pequena (Retangular Única)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableRectangleDouble</Key>
-      <Value>Small (Table Rectangle Double)</Value>
+      <Value>Mesa Pequena (Retangular Dupla)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableDinnerSingle</Key>
-      <Value>Small (Table Dinner Single)</Value>
+      <Value>Mesa Pequena (Jantar Única)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableBacklessSingle</Key>
-      <Value>Small (Table Backless Single)</Value>
+      <Value>Mesa Pequena (Sem Encosto Única)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureSmallTableBacklessDouble</Key>
-      <Value>Small (Table Backless Double)</Value>
+      <Value>Mesa Pequena (Sem Encosto Dupla)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitChairs</Key>
-      <Value>Kit (Chairs)</Value>
+      <Value>Kit (Cadeiras)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBeds</Key>
-      <Value>Kit (Beds)</Value>
+      <Value>Kit (Camas)</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureLightRoundAngled</Key>
-      <Value>Light Round (Angled)</Value>
-      <Description>Description coming.</Description>
+      <Value>Lâmpada Redonda (Angulada)</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLightRound</Key>
-      <Value>Light Round</Value>
-      <Description>Description coming.</Description>
+      <Value>Lâmpada Redonda</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLightRoundSmall</Key>
-      <Value>Light Round (Small)</Value>
-      <Description>Description coming.</Description>
+      <Value>Lâmpada Redonda (Pequena)</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSingleBed</Key>
-      <Value>Single Bed</Value>
-      <Description>Description coming.</Description>
+      <Value>Cama de Solteiro</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureBlockBed</Key>
-      <Value>Block Bed</Value>
-      <Description>Description coming.</Description>
+      <Value>Cama de Cabine</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>TriggerZone</Key>
       <Value>Trigger Zone</Value>
-      <Description>Description coming.</Description>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureEmergencyButton</Key>
-      <Value>Important Button</Value>
-      <Description>Description coming.</Description>
+      <Value>Botão de Emergência</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitAirlockGate</Key>
-      <Value>Kit (Airlock Gate)</Value>
-      <Description>Description coming.</Description>
+      <Value>Kit (Portão Airlock)</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureAirlockGate</Key>
-      <Value>Airlock Gate</Value>
-      <Description>Description coming.</Description>
+      <Value>Portão Airlock</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureBatteryLarge</Key>
-      <Value>Station Battery (Large)</Value>
-      <Description>Providing even better large-scale, reliable power storage than the {THING;StructureBattery}, the {LINK:Sinotai;Sinotai} 'Da Dianchi' large station battery is the heart of most {LINK:Stationeers;Stationeer} bases. 
-There are a variety of cautions to the design of electrical systems using batteries, and every experienced Stationeer has a story to tell, hence the Stationeer adage: 'Dianzi cooks, but it also frys.' 
-{HEADER:POWER OUTPUT}
-Able to store up to 9000001 watts of power, there are no practical limits to its throughput, hence it is wise to use {THING:ItemCableCoilHeavy}. Seasoned electrical engineers will also laugh in the face of those who fail to separate out their power generation networks using an {THING:StructureAreaPowerControl} and {THING:StructureTransformer}. </Description>
+      <Value>Bateria Estacionária (Grande)</Value>
+      <Description>Fornecendo armazenamento de energia confiável e em larga escala ainda melhor do que o {THING;StructureBattery}, a bateria de estação grande {LINK:Sinotai;Sinotai} 'Da Dianchi' é o coração da maioria das bases {LINK:Stationeers;Stationeer}.
+Há uma variedade de cuidados no projeto de sistemas elétricos usando baterias, e todo Stationeer experiente tem uma história para contar, daí o ditado do Stationeer: 'Dianzi cozinha, mas também frita'. 
+{HEADER:SAÍDA DE ENERGIA}
+Capaz de armazenar até 9.000.001 watts de potência, não há limites práticos para sua taxa de transferência, portanto, é aconselhável usar {THING:ItemCableCoilHeavy}. Engenheiros elétricos experientes também vão rir na cara daqueles que não conseguem separar suas redes de geração de energia usando um {THING:StructureAreaPowerControl} e {THING:StructureTransformer}. </Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitBatteryLarge</Key>
-      <Value>Kit (Battery Large)</Value>
-      <Description>Description coming.</Description>
+      <Value>Kit (Bateria Estacionária Grande)</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine1</Key>
-      <Value>Wreckage Vending Machine</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços de Máquina de Vendas Automática</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine2</Key>
-      <Value>Wreckage Vending Machine</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços de Máquina de Vendas Automática</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine3</Key>
-      <Value>Wreckage Vending Machine</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços de Máquina de Vendas Automática</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVendingMachine4</Key>
-      <Value>Wreckage Vending Machine</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Máquina de Vendas Automática</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace1</Key>
-      <Value>Wreckage Arc Furnace</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Fornalha Elétrica</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace2</Key>
-      <Value>Wreckage Arc Furnace</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Fornalha Elétrica</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageArcFurnace3</Key>
-      <Value>Wreckage Arc Furnace</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Fornalha Elétrica</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControl1</Key>
-      <Value>Wreckage Area Power Control</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Controle de Energia de Área</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControl2</Key>
-      <Value>Wreckage Area Power Control</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Controle de Energia de Área</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControlReversed1</Key>
-      <Value>Wreckage Area Power Control Reversed</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Controle de Energia de Área Reverso</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAreaPowerControlReversed2</Key>
-      <Value>Wreckage Area Power Control Reversed</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Controle de Energia de Área Reverso</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSolarPanel1</Key>
-      <Value>Wreckage Solar Panel</Value>
+      <Value>Destroços do Painel Solar</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSolarPanel2</Key>
-      <Value>Wreckage Solar Panel</Value>
+      <Value>Destroços do Painel Solar</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSolarPanel3</Key>
-      <Value>Wreckage Solar Panel</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Painel Solar</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformer1</Key>
-      <Value>Wreckage Transformer</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Transformador</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformer2</Key>
-      <Value>Wreckage Transformer</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Transformador</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerMedium1</Key>
-      <Value>Wreckage Transformer Medium</Value>
+      <Value>Destroços do Transformador Médio</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerMedium2</Key>
-      <Value>Wreckage Transformer Medium</Value>
+      <Value>Destroços do Transformador Médio</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerSmall1</Key>
-      <Value>Wreckage Transformer Small</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Transformador Pequeno</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTransformerSmall2</Key>
-      <Value>Wreckage Transformer Small</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Transformador Pequeno</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter1</Key>
-      <Value>Wreckage Security Printer</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Impressora de Segurança</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter2</Key>
-      <Value>Wreckage Security Printer</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Impressora de Segurança</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter3</Key>
-      <Value>Wreckage Security Printer</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Impressora de Segurança</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter4</Key>
-      <Value>Wreckage Security Printer</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Impressora de Segurança</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter5</Key>
-      <Value>Wreckage Security Printer</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Impressora de Segurança</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSecurityPrinter6</Key>
-      <Value>Wreckage Security Printer</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Impressora de Segurança</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe1</Key>
-      <Value>Wreckage Autolathe</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Torno Automático</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe2</Key>
-      <Value>Wreckage Autolathe</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Torno Automático</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe3</Key>
-      <Value>Wreckage Autolathe</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Torno Automático</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe4</Key>
-      <Value>Wreckage Autolathe</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Torno Automático</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe5</Key>
-      <Value>Wreckage Autolathe</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Torno Automático</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe6</Key>
-      <Value>Wreckage Autolathe</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Torno Automático</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAutolathe7</Key>
-      <Value>Wreckage Autolathe</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Torno Automático</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter1</Key>
-      <Value>Wreckage Electronics Printer1</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Impressora de Eletrônicos</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter2</Key>
-      <Value>Wreckage Electronics Printer2</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Impressora de Eletrônicos</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter3</Key>
-      <Value>Wreckage Electronics Printer3</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Impressora de Eletrônicos</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter4</Key>
-      <Value>Wreckage Electronics Printer4</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Impressora de Eletrônicos</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter5</Key>
-      <Value>Wreckage Electronics Printer5</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Impressora de Eletrônicos</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectronicsPrinter6</Key>
-      <Value>Item Wreckage Electronics Printer6</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Impressora de Eletrônicos</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge1</Key>
-      <Value>Wreckage Centrifuge</Value>
+      <Value>Destroços da Centrífuga</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge2</Key>
-      <Value>Wreckage Centrifuge</Value>
+      <Value>Destroços da Centrífuga</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge3</Key>
-      <Value>Wreckage Centrifuge</Value>
+      <Value>Destroços da Centrífuga</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge4</Key>
-      <Value>Wreckage Centrifuge</Value>
+      <Value>Destroços da Centrífuga</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCentrifuge5</Key>
-      <Value>Wreckage Centrifuge</Value>
+      <Value>Destroços da Centrífuga</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageGasGenerator1</Key>
-      <Value>Wreckage Gas Generator</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Gerador à Combustão</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageGasGenerator2</Key>
-      <Value>Wreckage Gas Generator</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Gerador à Combustão</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageVent1</Key>
-      <Value>Wreckage Vent</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroço da Ventilação</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish1</Key>
-      <Value>Wreckage Satellite Dish</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Antena Parabólica</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish2</Key>
-      <Value>Wreckage Satellite Dish</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Antena Parabólica</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSatelliteDish3</Key>
-      <Value>Wreckage Satellite Dish</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Antena Parabólica</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectrolysis1</Key>
-      <Value>Wreckage Electrolysis</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Eletrolisador</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElectrolysis2</Key>
-      <Value>Wreckage Electrolysis</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Eletrolisador</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLight1</Key>
-      <Value>Wreckage Light</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Lâmpada</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLight2</Key>
-      <Value>Wreckage Light</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Lâmpada</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLightLongAngled1</Key>
-      <Value>Wreckage Light Long Angled</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Lâmpada Longa Angulada</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLightLongAngled2</Key>
-      <Value>Wreckage Light Long Angled</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Lâmpada Longa Angulada</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLightLongWide1</Key>
-      <Value>Wreckage Light Long Wide</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Lâmpada Longa e Larga</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageLightLongWide2</Key>
-      <Value>Wreckage Light Long Wide</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Lâmpada Longa e Larga</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallLightBatteryPowered1</Key>
-      <Value>Wreckage Wall Light Battery Powered</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços de Lâmpada de Parede à Bateria</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallLightBatteryPowered2</Key>
-      <Value>Wreckage Wall Light Battery Powered</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços de Lâmpada de Parede à Bateria</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler1</Key>
-      <Value>Wreckage Recycler</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Recicladora</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler2</Key>
-      <Value>Wreckage Recycler</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Recicladora</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler3</Key>
-      <Value>Wreckage Recycler</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Recicladora</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler4</Key>
-      <Value>Wreckage Recycler</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Recicladora</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler5</Key>
-      <Value>Wreckage Recycler</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Recicladora</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageRecycler6</Key>
-      <Value>Wreckage Recycler</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Recicladora</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageFlashingLight1</Key>
-      <Value>Wreckage Flashing Light</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Lâmpada Piscante</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageFlashingLight2</Key>
-      <Value>Wreckage Flashing Light</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Lâmpada Piscante</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageActiveVent1</Key>
-      <Value>Wreckage Active Vent</Value>
+      <Value>Destroços da Ventilação Ativa</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckagePassiveVent1</Key>
-      <Value>Wreckage Passive Vent</Value>
+      <Value>Destroços da Ventilação Passiva</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator1</Key>
-      <Value>Wreckage Coal Generator</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Gerador à Carvão</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator2</Key>
-      <Value>Wreckage Coal Generator</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Gerador à Carvão</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCoalGenerator3</Key>
-      <Value>Wreckage Coal Generator</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Gerador à Carvão</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageH2Combustor1</Key>
-      <Value>Wreckage H2 Combustor</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços do Combustor de H2</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic1</Key>
-      <Value>Wreckage Hydroponics Automatic</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Hidroponia Automática</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic2</Key>
-      <Value>Wreckage Hydroponics Automatic</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Hidroponia Automática</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsAutomatic3</Key>
-      <Value>Wreckage Hydroponics Automatic</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Hidroponia Automática</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsStation1</Key>
-      <Value>Wreckage Hydroponics Station</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Estação Hidropônica</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsStation2</Key>
-      <Value>Wreckage Hydroponics Station</Value>
-      <Description>Description coming.</Description>
+      <Value>Destroços da Estação Hidropônica</Value>
+      <Description>Descrição em breve.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo1</Key>
-      <Value>Wreckage SDB Silo</Value>
+      <Value>Destroços do Silo</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo2</Key>
-      <Value>Wreckage SDB Silo</Value>
+      <Value>Destroços do Silo</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo3</Key>
-      <Value>Wreckage SDB Silo</Value>
+      <Value>Destroços do Silo</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo4</Key>
-      <Value>Wreckage SDB Silo</Value>
+      <Value>Destroços do Silo</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageSDBSilo5</Key>
-      <Value>Wreckage SDB Silo</Value>
+      <Value>Destroços do Silo</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad1</Key>
-      <Value>Wreckage Shuttle Landing Pad</Value>
+      <Value>Destroços da Plataforma de Pouso</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad2</Key>
-      <Value>Wreckage Shuttle Landing Pad</Value>
+      <Value>Destroços da Plataforma de Pouso</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad3</Key>
-      <Value>Wreckage Shuttle Landing Pad</Value>
+      <Value>Destroços da Plataforma de Pouso</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad4</Key>
-      <Value>Wreckage Shuttle Landing Pad</Value>
+      <Value>Destroços da Plataforma de Pouso</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageShuttleLandingPad5</Key>
-      <Value>Wreckage Shuttle Landing Pad</Value>
+      <Value>Destroços da Plataforma de Pouso</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageBlastDoor1</Key>
-      <Value>Wreckage Blast Door</Value>
+      <Value>Destroços da Porta de Segurança</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageBlastDoor2</Key>
-      <Value>Wreckage Blast Door</Value>
+      <Value>Destroços da Porta de Segurança</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoor1</Key>
-      <Value>Wreckage Composite Door</Value>
+      <Value>Destroços da Porta Composta</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoor2</Key>
-      <Value>Wreckage Composite Door</Value>
+      <Value>Destroços da Porta Composta</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoor3</Key>
-      <Value>Wreckage Composite Door</Value>
+      <Value>Destroços da Porta Composta</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirlock1</Key>
-      <Value>Wreckage Airlock</Value>
+      <Value>Destroços da Airlock</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirlock2</Key>
-      <Value>Wreckage Airlock</Value>
+      <Value>Destroços da Airlock</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoorGlass1</Key>
-      <Value>Wreckage Composite Door Glass</Value>
+      <Value>Destroços da Porta de Vidro Composta</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageCompositeDoorGlass2</Key>
-      <Value>Wreckage Composite Door Glass</Value>
+      <Value>Destroços da Porta de Vidro Composta</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorShaftIndustrial1</Key>
-      <Value>Wreckage Elevator Shaft Industrial</Value>
+      <Value>Destroços do Eixo do Elevador Industrial</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorShaftIndustrial2</Key>
-      <Value>Wreckage Elevator Shaft Industrial</Value>
+      <Value>Destroços do Eixo do Elevador Industrial</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorShaftIndustrial3</Key>
-      <Value>Wreckage Elevator Shaft Industrial</Value>
+      <Value>Destroços do Eixo do Elevador Industrial</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorLevelFront1</Key>
-      <Value>Wreckage Elevator Level Front</Value>
+      <Value>Destroços da Frente do Elevador</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageElevatorLevelFront2</Key>
-      <Value>Wreckage Elevator Level Front</Value>
+      <Value>Destroços da Frente do Elevador</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -5397,16 +5397,16 @@ Able to store up to 9000001 watts of power, there are no practical limits to its
     <RecordThing>
       <Key>StructureHarvieReversed</Key>
       <Value>Harvie</Value>
-      <Description>Use above a {THING:StructureHydroponicsTray} or {THING:StructureHydroponicsTrayData} to manage the planting and harvest of your crops. It contains a button that will allow you to activate it's modes, or connect it to a logic system to do this for you. The modes indicate current growth status of the plant below. Import is used for planting, and harvested plants are sent to export.</Description>
+      <Description>Use acima de um {THING:StructureHydroponicsTray} ou {THING:StructureHydroponicsTrayData} para gerenciar o plantio e a colheita de suas colheitas. Ele contém um botão que permite ativar seus modos ou conectá-lo a um sistema lógico para fazer isso por você. Os modos indicam o status de crescimento atual da planta abaixo. A importação é utilizada para o plantio e as plantas colhidas são enviadas para exportação.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureHarvie</Key>
       <Value>Harvie</Value>
-      <Description>Use above a {THING:StructureHydroponicsTray} or {THING:StructureHydroponicsTrayData} to manage the planting and harvest of your crops. It contains a button that will allow you to activate it's modes, or connect it to a logic system to do this for you. The modes indicate current growth status of the plant below. Import is used for planting, and harvested plants are sent to export.</Description>
+      <Description>Use acima de um {THING:StructureHydroponicsTray} ou {THING:StructureHydroponicsTrayData} para gerenciar o plantio e a colheita de suas colheitas. Ele contém um botão que permite ativar seus modos ou conectá-lo a um sistema lógico para fazer isso por você. Os modos indicam o status de crescimento atual da planta abaixo. A importação é utilizada para o plantio e as plantas colhidas são enviadas para exportação.</Description>
     </RecordThing>
     <RecordThing>
       <Key>SpecialBlocks</Key>
-      <Value>Special Blocks</Value>
+      <Value>Blocos Especiais</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -5416,43 +5416,43 @@ Able to store up to 9000001 watts of power, there are no practical limits to its
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageHydroponicsTray1</Key>
-      <Value>Wreckage Hydroponics Tray</Value>
+      <Value>Destroços da Bandeja Hidropônica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasTankAdvanced</Key>
-      <Value>Gas Tank Mk II</Value>
+      <Value>Tanque de Gás Portátil Mk II</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicGasTankAdvanced</Key>
-      <Value>Kit (Portable Gas Tank Mk II)</Value>
+      <Value>Kit (Tanque de Gás Portátil Mk II)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructurePlinth</Key>
-      <Value>Plinth</Value>
+      <Value>Mesa de Centro</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>Rover_MkI</Key>
       <Value>Rover MkI</Value>
-      <Description>A distant cousin of the jeep, the Mk I {{LINK:Sinotai;Sinotai} electric rover is one of the most simple and durable light vehicles in the known universe. Able to carry two passengers and cargo such as the {THING:DynamicGasCanisterAir} or {THING:Crate}, it is powered by up to three batteries, accepting everything including {THING:ItemBatteryCellNuclear}.
-A quad-array of hub-mounted electric engines propels the reinforced aluminium frame over most terrain and modest obstacles. While the Mk I is designed for stability in low-horizontality circumstances, if it rolls, try using your {THING:ItemCrowbar} to put it right way up.</Description>
+      <Description>Primo distante do jipe, o rover elétrico Mk I {{LINK:Sinotai;Sinotai} é um dos veículos leves mais simples e duráveis ​​do universo conhecido. Capaz de transportar dois passageiros e carga, como o {THING:DynamicGasCanisterAir} ou {THING:Crate}, ele é alimentado por até três baterias, aceitando tudo, incluindo {THING:ItemBatteryCellNuclear}.
+Um conjunto quádruplo de motores elétricos montados no cubo impulsiona o quadro de alumínio reforçado sobre a maioria dos terrenos e obstáculos modestos. Embora o Mk I tenha sido projetado para estabilidade em circunstâncias de baixa horizontalidade, se ele rolar, tente usar seu {THING:ItemCrowbar} para colocá-lo na posição correta.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSpawnPoint</Key>
-      <Value>Spawn Point</Value>
+      <Value>Ponto de Spawn</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>RespawnPoint</Key>
-      <Value>Respawn Point</Value>
-      <Description>Place a respawn point to set a player entry point to your base when loading in, or returning from the dead.</Description>
+      <Value>Ponto de Respawn</Value>
+      <Description>Coloque um ponto de respawn para definir um ponto de entrada do jogador para sua base ao carregar ou retornar dos mortos.</Description>
     </RecordThing>
     <RecordThing>
       <Key>RespawnPointWallMounted</Key>
-      <Value>Respawn Point (Mounted)</Value>
+      <Value>Ponto de Respawn (Montado)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -5462,73 +5462,73 @@ A quad-array of hub-mounted electric engines propels the reinforced aluminium fr
     </RecordThing>
     <RecordThing>
       <Key>ItemKitFlagODA</Key>
-      <Value>Kit (ODA Flag)</Value>
+      <Value>Kit (Bandeira)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>Flag_ODA_10m</Key>
-      <Value>Flag (ODA 10m)</Value>
+      <Value>Bandeira (ODA 10m)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>Flag_ODA_8m</Key>
-      <Value>Flag (ODA 8m)</Value>
+      <Value>Bandeira (ODA 8m)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>Flag_ODA_6m</Key>
-      <Value>Flag (ODA 6m)</Value>
+      <Value>Bandeira (ODA 6m)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>Flag_ODA_4m</Key>
-      <Value>Flag (ODA 4m)</Value>
+      <Value>Bandeira (ODA 4m)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureRTG1</Key>
-      <Value>Wreckage Structure RTG</Value>
+      <Value>Destroços do Gerador Termoelétrico de Radioisótopos</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator1</Key>
-      <Value>Wreckage Turbine Generator</Value>
+      <Value>Destroços do Gerador de Turbina</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator2</Key>
-      <Value>Wreckage Turbine Generator</Value>
+      <Value>Destroços do Gerador de Turbina</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageTurbineGenerator3</Key>
-      <Value>Wreckage Turbine Generator</Value>
+      <Value>Destroços do Gerador de Turbina</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirConditioner1</Key>
-      <Value>Wreckage Air Conditioner</Value>
+      <Value>Destroços do Ar Condicionado</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageAirConditioner2</Key>
-      <Value>Wreckage Air Conditioner</Value>
+      <Value>Destroços do Ar Condicionado</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallCooler1</Key>
-      <Value>Wreckage Wall Cooler</Value>
+      <Value>Destroços do Resfriador de Parede</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWallCooler2</Key>
-      <Value>Wreckage Wall Cooler</Value>
+      <Value>Destroços do Resfriador de Parede</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitRoverMKI</Key>
       <Value>Kit (Rover Mk I)</Value>
-      <Description>Creates a {THING:Rover_MkI}</Description>
+      <Description>Este kit produz um {THING:Rover_MkI}</Description>
     </RecordThing>
     <RecordThing>
       <Key>Rover_MkI_build_states</Key>
@@ -5537,525 +5537,525 @@ A quad-array of hub-mounted electric engines propels the reinforced aluminium fr
     </RecordThing>
     <RecordThing>
       <Key>StructureGrowLight</Key>
-      <Value>Grow Light</Value>
-      <Description>{LINK:Agrizero;Agrizero's} leading hydroponic lighting system, the GrowUp UV light supplements sunshine in low light or sun-distant conditions. The unit adds growability over the space of a grid, so requires proximate placement to work. </Description>
+      <Value>Lâmpada de Cultivo</Value>
+      <Description>{LINK:Agrizero;Agrizero's} líder em sistema de iluminação hidropônica, a luz UV GrowUp complementa a luz do sol em condições de pouca luz ou longe do sol. A unidade adiciona capacidade de crescimento no espaço de uma grade, portanto, requer posicionamento próximo para funcionar. </Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitGrowLight</Key>
-      <Value>Kit (Grow Light)</Value>
-      <Description>This kit produces an {LINK:Agrizero;Agrizero} {THING:StructureGrowLight}.</Description>
+      <Value>Kit (Lâmpada de Cultivo)</Value>
+      <Description>Este kit produz uma {LINK:Agrizero;Agrizero} {THING:StructureGrowLight}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWeatherStation</Key>
-      <Value>Weather Station</Value>
+      <Value>Estação Meteorológica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWeatherStation</Key>
-      <Value>Kit (Weather Station)</Value>
+      <Value>Kit (Estação Meteorológica)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitUprightWindTurbine</Key>
-      <Value>Kit (Upright Wind Turbine)</Value>
-      <Description>This kit produces a {THING:StructureUprightWindTurbine}.</Description>
+      <Value>Kit (Turbina Eólica Vertical)</Value>
+      <Description>Este kit produz uma {THING:StructureUprightWindTurbine}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureUprightWindTurbine</Key>
-      <Value>Upright Wind Turbine</Value>
-      <Description>Norsec's basic wind turbine is an easily fabricated, rapidly deployed design that is strong enough to withstand the worst that environments can throw at it. 
-While the wind turbine is optimized to produce power even on low atmosphere worlds (up to 200W), it performs best in denser environments. Output varies with wind speed, and during storms, may increase dramatically (up to 800W), so be careful to design your power networks with that in mind.</Description>
+      <Value>Turbina Eólica Vertical</Value>
+      <Description>A turbina eólica básica da Norsec é um projeto de fácil fabricação e implantação rápida que é forte o suficiente para suportar o pior que os ambientes podem causar. 
+Embora a turbina eólica seja otimizada para produzir energia mesmo em mundos de baixa atmosfera (até 200W), ela funciona melhor em ambientes mais densos. A saída varia com a velocidade do vento e, durante tempestades, pode aumentar drasticamente (até 800 W), portanto, tenha cuidado ao projetar suas redes de energia com isso em mente.</Description>
     </RecordThing>
     <RecordThing>
       <Key>CrateMkII</Key>
-      <Value>Crate Mk II</Value>
-      <Description>A more heavily reinforced version of the iconic {THING:DynamicCrate}, the Crate Mk II is resistant to incredibly high pressures and temperatures. Short of disposing of it in a black hole, the Mk II is about as safe as luggage gets.</Description>
+      <Value>Contêiner Mk II</Value>
+      <Description>Uma versão mais reforçada do icônico {THING:DynamicCrate}, o Crate Mk II é resistente a pressões e temperaturas incrivelmente altas. Além de descartá-lo em um buraco negro, o Mk II é tão seguro quanto a bagagem.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitCrateMkII</Key>
-      <Value>Kit (Crate Mk II)</Value>
-      <Description>This kit produces a {THING:CrateMkII}.</Description>
+      <Value>Kit (Contêiner Mk II)</Value>
+      <Description>Este kit produz um {THING:CrateMkII}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemEmptyCan</Key>
-      <Value>Empty Can</Value>
-      <Description>Used for making soups when combined with food in the {THING:AppliancePackagingMachine} or {THING:StructureAdvancedPackagingMachine}. Fairly high in nutrition, canned food does not {LINK:DecayPage;decay}.</Description>
+      <Value>Lata Vazia</Value>
+      <Description>Usado para fazer sopas quando combinado com alimentos na {THING:AppliancePackagingMachine} ou {THING:StructureAdvancedPackagingMachine}. Bastante rica em nutrição, a comida enlatada não {LINK:DecayPage;decay}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPumpkinSoup</Key>
-      <Value>Pumpkin Soup</Value>
-      <Description>Made using {THING:ItemCookedPumpkin} and an {THING:ItemEmptyCan} in a {THING:AppliancePackagingMachine} or {THING:StructureAdvancedPackagingMachine}. Fairly high in nutrition, canned food does not {LINK:DecayPage;decay}</Description>
+      <Value>Sopa de Abóbora</Value>
+      <Description>Feito usando {THING:ItemCookedPumpkin} e um {THING:ItemEmptyCan} em um {THING:AppliancePackagingMachine} ou {THING:StructureAdvancedPackagingMachine}. Bastante rica em nutrição, comida enlatada não {LINK:DecayPage;decay}</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCornSoup</Key>
-      <Value>Corn Soup</Value>
-      <Description>Made using {THING:ItemCookedCorn} and an {THING:ItemEmptyCan} in a {THING:AppliancePackagingMachine} or {THING:StructureAdvancedPackagingMachine}. Faily high in nutrition, canned food does not {LINK:DecayPage;decay}.</Description>
+      <Value>Sopa de Milho</Value>
+      <Description>Feito usando {THING:ItemCookedCorn} e um {THING:ItemEmptyCan} em um {THING:AppliancePackagingMachine} ou {THING:StructureAdvancedPackagingMachine}. Muito rico em nutrição, os alimentos enlatados não {LINK:DecayPage;decay}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemBreadLoaf</Key>
-      <Value>Bread Loaf</Value>
+      <Value>Pão</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemBiomass</Key>
-      <Value>Biomass</Value>
-      <Description>Diced organic material that is returned when food and organic matter is passed through the {THING:StructureRecycler} and {THING:StructureCentrifuge}. Can be burned in a {THING:StructureFurnace} into {THING:ItemCharcoal} for use in the {THING:StructureSolidFuelGenerator}.</Description>
+      <Value>Biomassa</Value>
+      <Description>Material orgânico em cubos que é retornado quando alimentos e matéria orgânica passam por {THING:StructureRecycler} e {THING:StructureCentrifuge}. Pode ser gravado em um {THING:StructureFurnace} em {THING:ItemCharcoal} para uso no {THING:StructureSolidFuelGenerator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureHydroponicsTrayData</Key>
-      <Value>Hydroponics Device</Value>
-      <Description>The {LINK:Agrizero;Agrizero} hydroponics device is the ideal vessel for growing a range of {LINK:OrganicPage;plantlife}. It must be supplied with water using a pipe network, and sufficient light to generate photosynthesis. 
-It can be automated using the {THING:StructureHarvie}. Note that unlike the {THING:StructureHydroponicsTray}, these cannot be placed consecutively as they are considered devices rather than pure pipes. They do, however, allow data interrogation for logic systems.</Description>
+      <Value>Dispositivo de Hidroponia</Value>
+      <Description>O dispositivo hidropônico {LINK:Agrizero;Agrizero} é a embarcação ideal para cultivar uma variedade de {LINK:OrganicPage;plantlife}. Deve ser abastecido com água através de uma rede de tubos e luz suficiente para gerar fotossíntese.
+Ele pode ser automatizado usando o {THING:StructureHarvie}. Observe que, diferentemente do {THING:StructureHydroponicsTray}, eles não podem ser colocados consecutivamente, pois são considerados dispositivos em vez de tubos puros. Eles, no entanto, permitem a interrogação de dados para sistemas lógicos.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemCharcoal</Key>
-      <Value>Charcoal</Value>
-      <Description>Charcoal is a lightweight, black carbon residue produced by heating {THING:ItemBiomass} in a {THING:StructureArcFurnace}. It contains less energy potential than {THING:ItemCoalOre}, but can be used as a basic fuel source. Charcoal can also be substituted for coal in {LINK:IngotPage;alloy} recipes.</Description>
+      <Value>Carvão Vegetal</Value>
+      <Description> carvão vegetal é um resíduo leve de carbono preto produzido pelo aquecimento de {THING:ItemBiomass} em um {THING:StructureArcFornace}. Ele contém menos potencial energético que {THING:ItemCoalOre}, mas pode ser usado como fonte básica de combustível. O carvão vegetal também pode ser substituído por carvão em receitas de {LINK:IngotPage;alloy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelReinforced</Key>
-      <Value>Kit (Solar Panel Heavy)</Value>
-      <Description>This kit produces heavy duty solar panels that are resistant to storm damage.</Description>
+      <Value>Kit (Painel Solar Resistente)</Value>
+      <Description>Este kit produz painéis solares resistentes a danos causados ​​por tempestades.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelBasicReinforced</Key>
-      <Value>Kit (Solar Panel Basic Heavy)</Value>
-      <Description>This solar panel is resistant to storm damage.</Description>
+      <Value>Kit (Painel Solar Básico Resistente)</Value>
+      <Description>Este painel solar é resistente a danos causados ​​por tempestades.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanel45Reinforced</Key>
-      <Value>Solar Panel (Heavy Angled)</Value>
-      <Description>This solar panel is resistant to storm damage.</Description>
+      <Value>Painel Solar (Resistente Angulado)</Value>
+      <Description>Este painel solar é resistente a danos causados ​​por tempestades.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelDualReinforced</Key>
-      <Value>Solar Panel (Heavy Dual)</Value>
-      <Description>This solar panel is resistant to storm damage.</Description>
+      <Value>Painel Solar (Resistente Dual)</Value>
+      <Description>Este painel solar é resistente a danos causados ​​por tempestades.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelFlatReinforced</Key>
-      <Value>Solar Panel (Heavy Flat)</Value>
-      <Description>This solar panel is resistant to storm damage.</Description>
+      <Value>Painel Solar (Resistente Reto)</Value>
+      <Description>Este painel solar é resistente a danos causados ​​por tempestades.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureSolarPanelReinforced</Key>
-      <Value>Solar Panel (Heavy)</Value>
-      <Description>This solar panel is resistant to storm damage.</Description>
+      <Value>Painel Solar (Resistente)</Value>
+      <Description>Este painel solar é resistente a danos causados ​​por tempestades.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemAstroloySheets</Key>
-      <Value>Item Astroloy Sheets</Value>
+      <Value>Chapas de Astroloy</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemMiningBeltAdvanced</Key>
-      <Value>Mining Belt MK II</Value>
-      <Description>The Mk II mining belt is similar to the {THING:ItemMiningBelt}, but has 13 slots instead of the basic 8, to increase the length of your mining trips. It also has space for two tools.</Description>
+      <Value>Cinto de Mineração MK II</Value>
+      <Description>O cinto de mineração Mk II é semelhante ao {THING:ItemMiningBelt}, mas tem 13 slots em vez dos 8 básicos, para aumentar a duração de suas viagens de mineração. Também tem espaço para duas ferramentas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWindTurbine</Key>
-      <Value>Wind Turbine</Value>
-      <Description>The Stationeers wind turbine was first designed by Norsec atmospheric engineers, looking to create a wind-driven power generation system that would operate even on exceedingly low atmosphere worlds. The ultra-light blades respond to exceeedingly low atmospheric densities, while being strong enough to function even under huge strain in much more demanding environments.
-While the wind turbine is optimized to produce power (up to 500W) even on low atmosphere worlds, it performs best in denser environments. Output varies with wind speed and, during storms, may increase dramatically (up to 10,000W), so be careful to design your power networks with that in mind.</Description>
+      <Value>Turbina Eólica</Value>
+      <Description>A turbina eólica Stationeers foi projetada pela primeira vez por engenheiros atmosféricos da Norsec, procurando criar um sistema de geração de energia acionado pelo vento que operaria mesmo em mundos de atmosfera extremamente baixa. As lâminas ultraleves respondem a densidades atmosféricas extremamente baixas, sendo fortes o suficiente para funcionar mesmo sob grande tensão em ambientes muito mais exigentes.
+Embora a turbina eólica seja otimizada para produzir energia (até 500 W) mesmo em mundos de baixa atmosfera, ela funciona melhor em ambientes mais densos. A saída varia com a velocidade do vento e, durante tempestades, pode aumentar drasticamente (até 10.000 W), portanto, tenha cuidado ao projetar suas redes de energia com isso em mente.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWindTurbine</Key>
-      <Value>Kit (Wind Turbine)</Value>
-      <Description>This kit produces a {THING:StructureWindTurbine}.</Description>
+      <Value>Kit (Turbina Eólica)</Value>
+      <Description>Este kit produz uma {THING:StructureWindTurbine}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipeLiquid</Key>
-      <Value>Kit (Liquid Pipe)</Value>
-      <Description>This kit produces a range of liquid pipes.</Description>
+      <Value>Kit (Canos)</Value>
+      <Description>Este kit produz uma variedade de canos.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction</Key>
-      <Value>Liquid Pipe Cross Junction</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Value>Cano (Junção Transversal)</Value>
+      <Description>Está tudo no título - tubos líquidos criam redes de tubos para o armazenamento e transporte do segundo estado da matéria: líquido.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidStraight</Key>
-      <Value>Liquid Pipe Straight</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Value>Cano (Reto)</Value>
+      <Description>Está tudo no título - tubos líquidos criam redes de tubos para o armazenamento e transporte do segundo estado da matéria: líquido.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCorner</Key>
-      <Value>Liquid Pipe Corner</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Value>Cano (Canto)</Value>
+      <Description>Está tudo no título - tubos líquidos criam redes de tubos para o armazenamento e transporte do segundo estado da matéria: líquido.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction3</Key>
-      <Value>Liquid Pipe Cross Junction3</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Value>Cano (Canto de 3 Vias)</Value>
+      <Description>Está tudo no título - tubos líquidos criam redes de tubos para o armazenamento e transporte do segundo estado da matéria: líquido.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction4</Key>
-      <Value>Liquid Pipe Cross Junction4</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Value>Cano (Junçao de 4 Vias)</Value>
+      <Description>Está tudo no título - tubos líquidos criam redes de tubos para o armazenamento e transporte do segundo estado da matéria: líquido.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction5</Key>
-      <Value>Liquid Pipe Cross Junction5</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Value>Cano (Junçao de 5 Vias)</Value>
+      <Description>Está tudo no título - tubos líquidos criam redes de tubos para o armazenamento e transporte do segundo estado da matéria: líquido.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidCrossJunction6</Key>
-      <Value>Liquid Pipe Cross Junction6</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Value>Cano (Junçao de 6 Vias)</Value>
+      <Description>Está tudo no título - tubos líquidos criam redes de tubos para o armazenamento e transporte do segundo estado da matéria: líquido.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructurePipeLiquidTJunction</Key>
-      <Value>Liquid Pipe T Junction</Value>
-      <Description>It's all in the title - liquid pipes create pipe networks for the storage and transport of matter's second state: liquid.</Description>
+      <Value>Cano (Junçao T)</Value>
+      <Description>Está tudo no título - tubos líquidos criam redes de tubos para o armazenamento e transporte do segundo estado da matéria: líquido.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine001</Key>
-      <Value>Wreckage Wind Turbine</Value>
+      <Value>Destroços da Turbina Eólica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine002</Key>
-      <Value>Wreckage Wind Turbine</Value>
+      <Value>Destroços da Turbina Eólica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine003</Key>
-      <Value>Wreckage Wind Turbine</Value>
+      <Value>Destroços da Turbina Eólica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine004</Key>
-      <Value>Wreckage Wind Turbine</Value>
+      <Value>Destroços da Turbina Eólica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageWindTurbine005</Key>
-      <Value>Wreckage Wind Turbine</Value>
+      <Value>Destroços da Turbina Eólica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation001</Key>
-      <Value>Wreckage Structure Weather Station</Value>
+      <Value>Destroços da Estação Meteorológica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation002</Key>
-      <Value>Wreckage Structure Weather Station</Value>
+      <Value>Destroços da Estação Meteorológica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation003</Key>
-      <Value>Wreckage Structure Weather Station</Value>
+      <Value>Destroços da Estação Meteorológica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation004</Key>
-      <Value>Wreckage Structure Weather Station</Value>
+      <Value>Destroços da Estação Meteorológica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation005</Key>
-      <Value>Wreckage Structure Weather Station</Value>
+      <Value>Destroços da Estação Meteorológica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation006</Key>
-      <Value>Wreckage Structure Weather Station</Value>
+      <Value>Destroços da Estação Meteorológica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation007</Key>
-      <Value>Wreckage Structure Weather Station</Value>
+      <Value>Destroços da Estação Meteorológica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWreckageStructureWeatherStation008</Key>
-      <Value>Wreckage Structure Weather Station</Value>
+      <Value>Destroços da Estação Meteorológica</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterBottle</Key>
-      <Value>Water Bottle</Value>
-      <Description>Delicious and pure H20, refined from local sources as varied as Venusian ice and trans-Solar comets. Empty bottles can be refilled using the {THING:StructureWaterBottleFiller}.</Description>
+      <Value>Garrafa de Água</Value>
+      <Description>Delicioso e puro H20, refinado de fontes locais tão variadas quanto o gelo venusiano e os cometas trans-solares. Garrafas vazias podem ser recarregadas usando o {THING:StructureWaterBottleFiller}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterBottleFiller</Key>
-      <Value>Water Bottle Filler</Value>
-      <Description>As its somewhat uninspired name suggests, this device refills a {THING:ItemWaterBottle}, when connected to a liquid pipe network.</Description>
+      <Value>Enchedor de Garrafas</Value>
+      <Description>Como o nome um tanto sem inspiração sugere, este dispositivo recarrega um {THING:ItemWaterBottle}, quando conectado a uma rede de tubulação de líquido e a uma rede de energia.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureWaterBottleFiller</Key>
-      <Value>Water Bottle Filler</Value>
+      <Value>Enchedor de Garrafas</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureIceCrusher</Key>
-      <Value>Ice Crusher</Value>
-      <Description>The {LINK:Recurso;Recurso} KoolAuger converts various ices into their respective {LINK:GasPage;gases} and liquids.
-A remarkably smart and compact sublimation-melting unit, it produces gas or liquid depending on the ice being processed. The upper outlet is gas, the lower for liquid, and while you can attach any pipe you like to either oulet, it will only function if the correct network is attached. It will also only pass gas or liquid into a network if it is powered and turned on.
-If the KoolAuger is full, it will not accept any further ice until the gas or liquid contents is drained. In this state, it will flash a yellow error state on the activation switch.</Description>
+      <Value>Quebrador de Gelo</Value>
+      <Description>O {LINK:Recurso;Recurso} KoolAuger converte vários gelos em seus respectivos {LINK:GasPage;gases} e líquidos.
+Uma unidade de fusão por sublimação notavelmente inteligente e compacta, produz gás ou líquido dependendo do gelo que está sendo processado. A saída superior é de gás, a inferior de líquido e, embora você possa conectar qualquer tubo que desejar a qualquer uma das saídas, ele só funcionará se a rede correta estiver conectada. Ele também só passará gás ou líquido para uma rede se estiver energizado e ligado.
+Se o KoolAuger estiver cheio, ele não aceitará mais gelo até que o conteúdo de gás ou líquido seja drenado. Nesse estado, ele piscará um estado de erro amarelo na chave de ativação.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitIceCrusher</Key>
-      <Value>Kit (Ice Crusher)</Value>
-      <Description>This kit creates a {THING:StructureIceCrusher}.</Description>
+      <Value>Kit (Quebrador de Gelo)</Value>
+      <Description>Este kit produz um {THING:StructureIceCrusher}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasTankAdvancedOxygen</Key>
-      <Value>Portable Gas Tank Mk II (Oxygen)</Value>
+      <Value>Tanque de Gás Portátil Mk II (Oxigênio)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>DynamicGasTankAdvancedWater</Key>
-      <Value>Portable Liquid Tank Mk II (Water)</Value>
-      <Description>An insulated version of the {THING:DynamicMKIILiquidCanisterWater}, you are able to store water in this {SLOT:GasCanister} without them gaining or losing temperature.</Description>
+      <Value>Tanque de Líquido Portátil Mk II (Água)</Value>
+      <Description>Uma versão isolada do {THING:DynamicMKIILiquidCanisterWater}, você pode armazenar água neste {SLOT:GasCanister} sem que eles ganhem ou percam temperatura.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPipeRadiator</Key>
-      <Value>Liquid Pipe Convection Radiator</Value>
-      <Description>A simple heat exchanger, pipe radiators can be placed on pipes to shed or gain heat, depending on the temperature of the surrounding atmosphere. If the atmosphere is hotter, heat will be added to the liquid within the pipe network, and visa versa if colder. In a vacuum, heat will be radiated. 
-The speed of heat gain or loss will depend on the liquid in question. Adding multiple radiators will speed up heat transfer.</Description>
+      <Value>Radiador de Convecção para Canos</Value>
+      <Description>Um simples trocador de calor, os radiadores de tubos podem ser colocados em tubos para liberar ou ganhar calor, dependendo da temperatura da atmosfera circundante. Se a atmosfera estiver mais quente, o calor será adicionado ao líquido dentro da rede de tubos e vice-versa se estiver mais frio. No vácuo, o calor será irradiado. 
+A velocidade de ganho ou perda de calor dependerá do líquido em questão. Adicionar vários radiadores acelerará a transferência de calor.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemPipeLiquidRadiator</Key>
-      <Value>Kit (Liquid Radiator)</Value>
-      <Description>This kit creates a {THING:StructureLiquidPipeRadiator}.</Description>
+      <Value>Kit (Radiador de Canos)</Value>
+      <Description>Este kit produz um {THING:StructureLiquidPipeRadiator}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>DynamicMKIILiquidCanisterEmpty</Key>
-      <Value>Portable Liquid Tank Mk II</Value>
-      <Description>An empty, insulated liquid {SLOT:GasCanister}.</Description>
+      <Value>Tanque de Líquido Portátil Mk II</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDynamicMKIILiquidCanister</Key>
-      <Value>Kit (Portable Liquid Tank Mk II)</Value>
+      <Value>Kit (Tanque de Líquido Portátil Mk II)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>DynamicMKIILiquidCanisterWater</Key>
-      <Value>Portable Liquid Tank Mk II (Water)</Value>
-      <Description>An insulated version of the {THING:DynamicMKIILiquidCanisterWater}, for storing liquids without them gaining or losing temperature.</Description>
+      <Value>Tanque de Líquido Portátil Mk II (Água)</Value>
+      <Description></Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidVolumePump</Key>
-      <Value>Liquid Volume Pump</Value>
+      <Value>Bomba de Volume (Líquidos)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidPipeVolumePump</Key>
-      <Value>Kit (Liquid Volume Pump)</Value>
+      <Value>Kit (Bomba de Volume Líquidos)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidRegulator</Key>
-      <Value>Kit (Liquid Regulator)</Value>
+      <Value>Kit (Regulador de Líquidos)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureBackLiquidPressureRegulator</Key>
-      <Value>Liquid Back Pressure Regulator</Value>
+      <Value>Regulador de Contrapressão (Líquidos)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidPressureRegulator</Key>
-      <Value>Liquid Pressure Regulator</Value>
+      <Value>Regulador de Presão (Líquidos)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidCanisterSmart</Key>
-      <Value>Liquid Canister (Smart)</Value>
+      <Value>Cilindro Líquidos (Smart)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIScrewdriver</Key>
-      <Value>Mk II Screwdriver</Value>
-      <Description>This standard issue frictional adherence adjustor is a top of the line, bi-rotational model with a columnated uni-grip. It's definintely not just a screwdriver. Use it for construction and deconstruction of certain kits, and setting values on {LINK:LogicUnitPage;logic} units. The MK II is more resistant to temperature and pressure.</Description>
+      <Value>Chave de Fenda Mk II</Value>
+      <Description>Este ajustador de aderência por fricção de edição padrão é um modelo top de linha, bi-rotacional com um uni-grip colunado. Definitivamente não é apenas uma chave de fenda. Use-o para construção e desconstrução de determinados kits e definição de valores em unidades {LINK:LogicUnitPage;logic}. O MK II é mais resistente à temperatura e pressão.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIAngleGrinder</Key>
-      <Value>Mk II Angle Grinder</Value>
-      <Description>Angles-be-gone with the trusty angle grinder. The MK II is more resistant to temperature and pressure.</Description>
+      <Value>Serra Circular Mk II</Value>
+      <Description>Ângulos perfeitos com a fiel serra circular. O MK II é mais resistente à temperatura e pressão.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIICrowbar</Key>
-      <Value>Mk II Crowbar</Value>
-      <Description>{LINK:Recurso;Recurso's} entry-level crowbar is useful in a variety of everyday {LINK:Stationeers;Stationeer} settings, from opening {THING:StructureAreaPowerControl}s and unpowered {THING:StructureAirlock}s, to splatting pan-dimensional headcrabs, should the need arise. The MK II is more resistant to temperature and pressure.</Description>
+      <Value>Pé de Cabra Mk II</Value>
+      <Description>{LINK:Recurso;Recurso's} O pé-de-cabra de nível básico é útil em uma variedade de configurações diárias de {LINK:Stationeers;Stationeer}, desde abrir {THING:StructureAreaPowerControl}s e {THING:StructureAirlock}s sem energia, até splatting pan-dimensional headcrabs, caso seja necessário. O MK II é mais resistente à temperatura e pressão.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIArcWelder</Key>
-      <Value>Mk II Arc Welder</Value>
+      <Value>Soldadora Elétrica Mk II</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIDrill</Key>
-      <Value>Mk II Drill</Value>
-      <Description>The {LINK:ExMin;ExMin} Off-whirled Hand Drill has been a companion to {LINK:Stationeers;Stationeers} for decades. Essential for assembling and deconstructing various items and structures, regardless of gravity, pressure or temperature.</Description>
+      <Value>Furadeira Mk II</Value>
+      <Description>A furadeira manual fora do redemoinho {LINK:ExMin;ExMin} tem sido uma companheira de {LINK:Stationeers;Stationeers} por décadas. Essencial para montar e desconstruir diversos itens e estruturas, independente da gravidade, pressão ou temperatura.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIMiningDrill</Key>
-      <Value>Mk II Mining Drill</Value>
-      <Description>The handheld 'Topo' tri-cone rotary mining drill was made for one thing: quick digging. Modelled on a classic {LINK:Recurso;Recurso} zero-g design, it functions equally well in vacuum and atmosphere, with cemented carbide bits to increase resilience and bearing life, and reduce spalling. As Jenk Murtons once said, 'The Topo don't stopo.' The MK II is more resistant to temperature and pressure.</Description>
+      <Value>Broca de Mineração Mk II</Value>
+      <Description>A broca de mineração rotativa de três cones 'Topo' portátil foi feita para uma coisa: escavação rápida. Modelado em um design clássico {LINK:Recurso;Recurso} zero-g, ele funciona igualmente bem em vácuo e atmosfera, com brocas de metal duro para aumentar a resiliência e a vida útil do rolamento e reduzir a fragmentação. Como Jenk Murtons disse uma vez, 'O Topo não para.' O MK II é mais resistente à temperatura e pressão.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWireCutters</Key>
-      <Value>Mk II Wire Cutters</Value>
-      <Description>Wirecutters allow you to deconstruct various {LINK:StructurePage;structures}, as well as cross-lay cables when held in your non-active hand, and defuse explosives as needed. Wirecutters are stored in the {THING:ItemToolBelt}, along with other essential {LINK:ToolPage;tools}.</Description>
+      <Value>Cortador de Cabos Mk II</Value>
+      <Description>Os corta-fios permitem desconstruir várias {LINK:StructurePage;structures}, bem como cabos cruzados quando segurados em sua mão não ativa, e desarmar explosivos conforme necessário. Os corta-fios são armazenados no {THING:ItemToolBelt}, juntamente com outras {LINK:ToolPage;tools} essenciais.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIWrench</Key>
-      <Value>Mk II Wrench</Value>
-      <Description>One of humanity's enduring contributions to the cosmos, the wrench represents the essence of our species. A simple, effective and spiritually barren tool, use it to build and deconstruct a variety of {LINK:StructurePage;structures} The MK II is more resistant to temperature and pressure.</Description>
+      <Value>Chave Inglesa Mk II</Value>
+      <Description>Uma das contribuições duradouras da humanidade para o cosmos, a chave inglesa representa a essência de nossa espécie. Uma ferramenta simples, eficaz e espiritualmente estéril, use-a para construir e desconstruir uma variedade de {LINK:StructurePage;structures} O MK II é mais resistente à temperatura e pressão.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemMKIIDuctTape</Key>
-      <Value>Mk II Duct Tape</Value>
-      <Description>In the distant past, one of Earth's great champions taught a generation of 'Fix-It People' that duct tape was the answer to any problem. {LINK:Stationeers;Stationeers} have demonstrated that this is truth holds strong, so long as the problem is a damaged {THING:ItemEvaSuit}, {THING:ItemJetpackBasic}, {THING:ItemSpaceHelmet}, or even a {THING:StructureSolarPanel}.
-To use on yourself: put duct tape in your active hand, hold RIGHT MOUSE BUTTON to automatically repair damage.</Description>
+      <Value>Fita Adesiva Mk II</Value>
+      <Description>No passado distante, um dos grandes campeões da Terra ensinou a uma geração de 'Pessoas do Fix-It' que a fita adesiva era a resposta para qualquer problema. {LINK:Stationeers;Stationeers} demonstraram que isso é verdade, desde que o problema seja um {THING:ItemEvaSuit}, {THING:ItemJetpackBasic}, {THING:ItemSpaceHelmet} danificado ou até mesmo um {THING:StructureSolarPanel} .
+Para usar em si mesmo: coloque fita adesiva em sua mão ativa, segure o BOTÃO DIREITO DO MOUSE para reparar automaticamente os danos.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitWaterBottleFiller</Key>
-      <Value>Kit (Water Bottle Filler)</Value>
+      <Value>Kit (Enchedor de Garrafas)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBig</Key>
-      <Value>Liquid Tank Big</Value>
+      <Value>Tanque de Líquidos (Grande)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmall</Key>
-      <Value>Liquid Tank Small</Value>
+      <Value>Tanque de Líquidos (Pequeno)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTank</Key>
-      <Value>Kit (Liquid Tank)</Value>
+      <Value>Kit (Tanque de Líquidos)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>ItemKitLiquidTankInsulated</Key>
-      <Value>Kit (Insulated Liquid Tank)</Value>
+      <Value>Kit (Tanque de Líquidos Adiabático)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankBigInsulated</Key>
-      <Value>Insulated Liquid Tank Big</Value>
+      <Value>Tanque de Líquidos Adiabático (Grande)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureLiquidTankSmallInsulated</Key>
-      <Value>Insulated Liquid Tank Small</Value>
+      <Value>Tanque de Líquidos Adiabático (Pequeno)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketLiquidTank</Key>
-      <Value>Automated Rocket Liquid Storage Module</Value>
+      <Value>(Foguete) Módulo de Armazenamento de Líquidos Automatizado</Value>
       <Description />
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleSilo</Key>
-      <Value>Automated Rocket Silo Module</Value>
-      <Description>The {LINK:ExMin;ExMin} autononmous silo module provides storage for {LINK:OrePage;ores} collected by the {THING:StructureRocketModuleMiningOre}, {LINK:OrePage;ices} collected by the {THING:StructureModularRocketIceMining} and 'space junk' salvaged by the {THING:StructureModularRocketScrapMining} . In other words, it holds up to 600 'medium-sized dry goods'.
-The silo module must be connected to a mining or salvage module by a correctly placed {THING:StructureModularRocketCouplingDown} or {THING:StructureModularRocketCouplingUp}, in order for material to pass into the silo.
-The silo module must also be powered when on the launch pad. It is 'on' by default, but can be turned off with logic if needed. 
-The module can also be attached to a {THING:StructureChuteInlet} in order to connect it to {LINK:ImportExportPage;import/export} networks.
-To extract resources from the silo module, you must set its state to 'OPEN' using logic.</Description>
+      <Value>(Foguete) Módulo de Silo Automatizado</Value>
+      <Description>O módulo de silo autônomo {LINK:ExMin;ExMin} fornece armazenamento para {LINK:OrePage;ores} coletados pelo {THING:StructureRocketModuleMiningOre}, {LINK:OrePage;ices} coletados pelo {THING:StructureModularRocketIceMining} e 'lixo espacial' recuperado pelo {THING:StructureModularRocketScrapMining} . Em outras palavras, comporta até 600 'produtos secos de médio porte'.
+O módulo de silo deve ser conectado a um módulo de mineração ou salvamento por um {THING:StructureModularRocketCouplingDown} ou {THING:StructureModularRocketCouplingUp} posicionado corretamente, para que o material passe para o silo.
+O módulo do silo também deve ser alimentado quando estiver na plataforma de lançamento. Está 'ligado' por padrão, mas pode ser desligado com lógica, se necessário.
+O módulo também pode ser anexado a um {THING:StructureChuteInlet} para conectá-lo a redes {LINK:ImportExportPage;import/export}.
+Para extrair recursos do módulo silo, você deve definir seu estado como 'Aberto' usando a lógica.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleBattery</Key>
-      <Value>Automated Rocket Energy Storage Module</Value>
-      <Description>Coming soon</Description>
+      <Value>(Foguete) Módulo de Bateria Automatizado</Value>
+      <Description>Em Breve</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleGasCollector</Key>
-      <Value>Automated Rocket Gas Collection Module</Value>
-      <Description>Collects gas from space by magic.</Description>
+      <Value>(Foguete) Módulo de Coleta de Gás Automatizado</Value>
+      <Description>Coleta gás do espaço por magia.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleEnergyGenerator</Key>
-      <Value>Automated Rocket Energy Collection Module</Value>
-      <Description>Collects energy by electromagnetically capturing the solar wind. Stores it in the {THING:StructureRocketModuleBattery}.
-Coming soon</Description>
+      <Value>(Foguete) Módulo de Coleta de Energia Automatizado</Value>
+      <Description>Coleta energia capturando eletromagneticamente o vento solar. Armazena-o em {THING:StructureRocketModuleBattery}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningJunk</Key>
-      <Description>The module must be connected to a {THING:StructureRocketModuleSilo} by a properly placed {THING:StructureModularRocketCouplingDown} or {THING:StructureModularRocketCouplingUp}, in order for {LINK:OrePage;ore} to pass from the collector unit into the silo.</Description>
+	  <Value>(Foguete) Módulo de Recuperação de Lixo Espacial</Value>
+      <Description>O módulo deve ser conectado a um {THING:StructureRocketModuleSilo} por um {THING:StructureModularRocketCouplingDown} ou {THING:StructureModularRocketCouplingUp} posicionado corretamente, para que {LINK:OrePage;ore} passe da unidade coletora para o silo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleMiningOre</Key>
-      <Value>Automated Rocket Ore Mining Module</Value>
-      <Description>The {LINK:ExMin;ExMin} autonomous {LINK:OrePage;ore} miner harvests metallic ores from asteroids and planets in the local region of space. Its range - and therefore how much {LINK:OrePage;ore} it collects - is strictly determined by the rocket's fuel quantity.
-The module must be connected to a {THING:StructureRocketModuleSilo} by a properly placed {THING:StructureModularRocketCouplingDown} or {THING:StructureModularRocketCouplingUp}, in order for {LINK:OrePage;ore} to pass from the collector unit into the silo.
-It has two modes - active (1), and inactive (0), which should only be triggered when the rocket has arrived on the planet and is idle (mode 4).</Description>
+      <Value>Módulo de Mineração Automatizado</Value>
+      <Description>O minerador autônomo {LINK:ExMin;ExMin} {LINK:OrePage;ore} extrai minérios metálicos de asteróides e planetas na região local do espaço. Seu alcance - e, portanto, quanto {LINK:OrePage;ore} ele coleta - é estritamente determinado pela quantidade de combustível do foguete.
+O módulo deve ser conectado a um {THING:StructureRocketModuleSilo} por um {THING:StructureModularRocketCouplingDown} ou {THING:StructureModularRocketCouplingUp} posicionado corretamente, para que {LINK:OrePage;ore} passe da unidade coletora para o silo.
+Possui dois modos - ativo (1) e inativo (0), que só deve ser acionado quando o foguete chegar ao planeta e estiver ocioso (modo 4).</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketAutonomous</Key>
-      <Value>Rocket Modular Autonomous</Value>
+      <Value>Foguete Modular Autônomo</Value>
     </RecordThing>
     <RecordThing>
       <Key>StructureRocketModuleCollectorLiquid</Key>
-      <Value>Automated Rocket Liquid Harvesting Module</Value>
-      <Description>Coming soon</Description>
+      <Value>(Foguete) Módulo de Coleta de Líquido Automatizado</Value>
+      <Description>Em Breve</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketAutomation</Key>
-      <Value>Automated Rocket Automation Module</Value>
-      <Description>The automation module completes the rocket. It passes logic to its respective components.</Description>
+      <Value>(Foguete) Módulo de Automação</Value>
+      <Description>O módulo de automação completa o foguete. Ele passa a lógica para seus respectivos componentes.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketCouplingDown</Key>
-      <Value>Automated Rocket Coupling Module (Down)</Value>
-      <Description>A uni-directional, multi-state conveyance solution, the coupling module is designed to interface between various mining and storage modules. It is essential for the function of the mining unit.
-When placed BELOW a mining module (eg {THING:StructureRocketModuleMiningOre}), the DOWN coupler passes mined or harvested material (solid, liquid or gas) into the respective storage unit (eg {THING:StructureRocketModuleSilo}).</Description>
+      <Value>(Foguete) Módulo do Auto-Coletor (Baixo)</Value>
+      <Description>Uma solução de transporte unidirecional e multiestado, o módulo do Auto-Coletor foi projetado para fazer a interface entre vários módulos de mineração e armazenamento. É essencial para o funcionamento da unidade de mineração.
+Quando colocado ABAIXO de um módulo de mineração (por exemplo, {THING:StructureRocketModuleMiningOre}), o Auto-Coletor Baixo passa o material extraído ou colhido (sólido, líquido ou gás) para a respectiva unidade de armazenamento (por exemplo, {THING:StructureRocketModuleSilo}).</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketCouplingUp</Key>
-      <Value>Automated Rocket Coupling Module (Up)</Value>
-      <Description>A uni-directional, multi-state conveyance solution, the coupling module is designed to interface between various mining and storage modules. It is essential for the function of the mining unit.
-When placed ABOVE a mining module (eg {THING:StructureRocketModuleMiningOre}), the UP coupler passes mined or harvested material (solid, liquid or gas) into the respective storage unit (eg {THING:StructureRocketModuleSilo}).</Description>
+      <Value>Foguete) Módulo do Auto-Coletor (Cima)</Value>
+      <Description>Uma solução de transporte unidirecional e multiestado, o módulo do Auto-Coletor foi projetado para fazer a interface entre vários módulos de mineração e armazenamento. É essencial para o funcionamento da unidade de mineração.
+Quando colocado ACIMA de um módulo de mineração (por exemplo, {THING:StructureRocketModuleMiningOre}), o Auto-Coletor Cina passa o material extraído ou colhido (sólido, líquido ou gás) para a respectiva unidade de armazenamento (por exemplo, {THING:StructureRocketModuleSilo}).</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketOreStorage</Key>
-      <Value>Kit (Automated Rocket Silo Module)</Value>
-      <Description>Creates a {THING:StructureRocketModuleSilo}.</Description>
+      <Value>Kit (Módulo Auto-Silo Foguete)</Value>
+      <Description>Este kit produz {THING:StructureRocketModuleSilo}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketCoupling</Key>
-      <Value>Kit (Automated Rocket Coupling Module)</Value>
-      <Description>Creates a {THING:StructureModularRocketCouplingDown} or {THING:StructureModularRocketCouplingUp}</Description>
+      <Value>Kit (Módulo Auto-Coletor Foguete)</Value>
+      <Description>Este kit produz {THING:StructureModularRocketCouplingDown} ou {THING:StructureModularRocketCouplingUp}</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketAutomation</Key>
-      <Value>Kit (Automated Rocket Automation Module)</Value>
-      <Description>Creates a {THING:StructureModularRocketAutomation}</Description>
+      <Value>Kit (Módulo Automação Foguete)</Value>
+      <Description>Este kit produz {THING:StructureModularRocketAutomation}</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketOreMining</Key>
-      <Value>Kit (Automated Rocket Ore Mining Module)</Value>
-      <Description>Creates a {THING:StructureRocketModuleMiningOre}.</Description>
+      <Value>Kit (Módulo Auto-Mineração Foguete)</Value>
+      <Description>Este kit produz {THING:StructureRocketModuleMiningOre}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketIceMining</Key>
-      <Value>Automated Rocket Ice Mining Module</Value>
-      <Description>The {LINK:ExMin;ExMin} autonomous ice miner is a purpose-built, robotic ice harvester, able to mine ice ores from asteroids and planets in the local region of space. Its range - and therefore how much ice {LINK:OrePage;ore} it collects - is strictly determined by the rocket's fuel quantity.
-The module must be connected to a {THING:StructureRocketModuleSilo} by a properly placed {THING:StructureModularRocketCouplingDown} or {THING:StructureModularRocketCouplingUp}, in order for {LINK:OrePage;ore} to pass from the collector unit into the silo.
-It has two modes - active (1), and inactive (0), which should only be triggered when the rocket has arrived on the planet and is idle (mode 4).</Description>
+      <Value>(Foguete) Módulo de Mineração de Gelo Autônomo</Value>
+      <Description>O minerador de gelo autônomo {LINK:ExMin;ExMin} é um coletor de gelo robótico desenvolvido para esse fim, capaz de extrair minérios de gelo de asteroides e planetas na região local do espaço. Seu alcance - e, portanto, quanto gelo {LINK:OrePage;ore} ele coleta - é estritamente determinado pela quantidade de combustível do foguete.
+O módulo deve ser conectado a um {THING:StructureRocketModuleSilo} por um {THING:StructureModularRocketCouplingDown} ou {THING:StructureModularRocketCouplingUp} posicionado corretamente, para que {LINK:OrePage;ore} passe da unidade coletora para o silo.
+Possui dois modos - ativo (1) e inativo (0), que só deve ser acionado quando o foguete chegar ao planeta e estiver ocioso (modo 4).</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketIceMining</Key>
-      <Value>Kit (Automated Rocket Ice Mining Module)</Value>
-      <Description>Creates a {THING:StructureModularRocketIceMining}.</Description>
+      <Value>Kit (Módulo Auto-Mineração de Gelo Foguete)</Value>
+      <Description>Este kit produz {THING:StructureModularRocketIceMining}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureModularRocketScrapMining</Key>
-      <Value>Automated Rocket Salvage Module</Value>
+      <Value>Módulo de Coleta de Lixo Automatizado</Value>
       <Description>The so-called {LINK:Sinotai;Sinotai} 'space junk' collector module is really a high-end automated salvaging unit, purpose designed to interface with the {LINK:ExMin;ExMin} autonomous rocket. It sweeps the local region of space for wrecks, abandoned space shipments, and other detritus. As such, it returns a fairly random assortment of items. 
 The module must be connected to a {THING:StructureRocketModuleSilo} by a properly placed {THING:StructureModularRocketCouplingDown} or {THING:StructureModularRocketCouplingUp}, in order for {LINK:OrePage;ore} to pass from the collector unit into the silo.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitModularRocketScrapMining</Key>
-      <Value>Kit (Automated Rocket Salvage Module)</Value>
-      <Description>Creates a {THING:StructureModularRocketScrapMining}.</Description>
+      <Value>Kit (Módulo de Coleta de Lixo Automatizado)</Value>
+      <Description>Este kit produz {THING:StructureModularRocketScrapMining}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemWaterPipeMeter</Key>
