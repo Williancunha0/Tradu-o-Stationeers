@@ -5610,7 +5610,7 @@ Ele pode ser automatizado usando o {THING:StructureHarvie}. Observe que, diferen
     <RecordThing>
       <Key>ItemCharcoal</Key>
       <Value>Carvão Vegetal</Value>
-      <Description> carvão vegetal é um resíduo leve de carbono preto produzido pelo aquecimento de {THING:ItemBiomass} em um {THING:StructureArcFornace}. Ele contém menos potencial energético que {THING:ItemCoalOre}, mas pode ser usado como fonte básica de combustível. O carvão vegetal também pode ser substituído por carvão em receitas de {LINK:IngotPage;alloy}.</Description>
+      <Description> carvão vegetal é um resíduo leve de carbono preto produzido pelo aquecimento de {THING:ItemBiomass} em um {THING:StructureArcFurnace}. Ele contém menos potencial energético que {THING:ItemCoalOre}, mas pode ser usado como fonte básica de combustível. O carvão vegetal também pode ser substituído por carvão em receitas de {LINK:IngotPage;alloy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitSolarPanelReinforced</Key>
