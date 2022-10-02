@@ -6572,7 +6572,7 @@ Nota: o Cannifier piscará um erro em seu interruptor de ativação se você ten
     </RecordThing>
     <RecordThing>
       <Key>ItemKitInsulatedWaterPipe</Key>
-      <Value>Kit (Cano de Água Adiabático)</Value>
+      <Value>Kit (Canos de Água Adiabático)</Value>
       <Description />
     </RecordThing>
     <RecordThing>
@@ -10629,51 +10629,51 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>EnergyCostMultiplier</Key>
-      <Value>Energy Cost Multiplier</Value>
+      <Value>Multiplicador de Custo de Energia</Value>
     </Record>
     <Record>
       <Key>CreationMultiplier</Key>
-      <Value>Creation Multiplier</Value>
+      <Value>Multiplicador de criação</Value>
     </Record>
     <Record>
       <Key>TierThree</Key>
-      <Value>Tier Three</Value>
+      <Value>Nível Três</Value>
     </Record>
     <Record>
       <Key>TierOne</Key>
-      <Value>Tier One</Value>
+      <Value>Nível Um</Value>
     </Record>
     <Record>
       <Key>TierTwo</Key>
-      <Value>Tier Two</Value>
+      <Value>Nível Dois</Value>
     </Record>
     <Record>
       <Key>TravelMenuTitle</Key>
-      <Value>Travel World</Value>
+      <Value>Viajar Pelo Mundo</Value>
     </Record>
     <Record>
       <Key>TravelMenuListTitle</Key>
-      <Value>Available Worlds</Value>
+      <Value>Mundos Disponíveis</Value>
     </Record>
     <Record>
       <Key>TravelMenuButtonTravel</Key>
-      <Value>Travel World</Value>
+      <Value>Viajar Pelo Mundo</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonTravel</Key>
-      <Value>Travel World</Value>
+      <Value>Viajar Pelo Mundo</Value>
     </Record>
     <Record>
       <Key>PromptTravelBody</Key>
-      <Value>Are you sure you want to travel map?</Value>
+      <Value>Tem certeza de que deseja viajar no mapa?</Value>
     </Record>
     <Record>
       <Key>TravelMenuNamePlaceholder</Key>
-      <Value>Travel world name</Value>
+      <Value>Nome do mundo para viajar</Value>
     </Record>
     <Record>
       <Key>PromptTravelConfirm</Key>
-      <Value>Travel</Value>
+      <Value>Viajar</Value>
     </Record>
     <Record>
       <Key>Loulan</Key>
@@ -10681,151 +10681,151 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>TravelMenuButtonTravelNew</Key>
-      <Value>New World</Value>
+      <Value>Novo Mundo</Value>
     </Record>
     <Record>
       <Key>TravelMenuButtonTravelLoad</Key>
-      <Value>Load World</Value>
+      <Value>Carregar Mundo</Value>
     </Record>
     <Record>
       <Key>SettingsDifficulty</Key>
-      <Value>Difficulty Settings</Value>
+      <Value>Configurações de Dificuldade</Value>
     </Record>
     <Record>
       <Key>WorldCustomTerrainLabel</Key>
-      <Value>Terrain Colour</Value>
+      <Value>Cor do Terreno</Value>
     </Record>
     <Record>
       <Key>BlueField</Key>
-      <Value>Blue:</Value>
+      <Value>Azul:</Value>
     </Record>
     <Record>
       <Key>GreenField</Key>
-      <Value>Green:</Value>
+      <Value>Verde:</Value>
     </Record>
     <Record>
       <Key>RedField</Key>
-      <Value>Red:</Value>
+      <Value>Vermelho:</Value>
     </Record>
     <Record>
       <Key>HueField</Key>
-      <Value>Hue:</Value>
+      <Value>Tonalidade:</Value>
     </Record>
     <Record>
       <Key>SaturationField</Key>
-      <Value>Saturation:</Value>
+      <Value>Saturação:</Value>
     </Record>
     <Record>
       <Key>BrightnessField</Key>
-      <Value>Brightness:</Value>
+      <Value>Brilho:</Value>
     </Record>
     <Record>
       <Key>RGBValues</Key>
-      <Value>RGB Values</Value>
+      <Value>Valores RGB</Value>
     </Record>
     <Record>
       <Key>HVSValues</Key>
-      <Value>HVS Values</Value>
+      <Value>Valores HVS</Value>
     </Record>
     <Record>
       <Key>ColourSelecter</Key>
-      <Value>Colour Selecter:</Value>
+      <Value>Seletor de cores:</Value>
     </Record>
     <Record>
       <Key>HasLavaField</Key>
-      <Value>Has Lava</Value>
+      <Value>Tem Lava</Value>
     </Record>
     <Record>
       <Key>Colour</Key>
-      <Value>Colour</Value>
+      <Value>Cor</Value>
     </Record>
     <Record>
       <Key>Gravity</Key>
-      <Value>Gravity</Value>
+      <Value>Gravidade</Value>
     </Record>
     <Record>
       <Key>AtmosphereScatteringField</Key>
-      <Value>Atmosphere Scattering</Value>
+      <Value>Dispersão Atmosférica</Value>
     </Record>
     <Record>
       <Key>MineablesField</Key>
-      <Value>Minables</Value>
+      <Value>Minerais</Value>
     </Record>
     <Record>
       <Key>LevelLevelField</Key>
-      <Value>Lava Level</Value>
+      <Value>Nível de lava</Value>
     </Record>
     <Record>
       <Key>TerrainFeaturesField</Key>
-      <Value>Terrain Features</Value>
+      <Value>Características do Terreno</Value>
     </Record>
     <Record>
       <Key>RespawnConditionsField</Key>
-      <Value>Respawn Condition</Value>
+      <Value>Condições de Respawn</Value>
     </Record>
     <Record>
       <Key>DifficultyField</Key>
-      <Value>Difficulty</Value>
+      <Value>Dificuldade</Value>
     </Record>
     <Record>
       <Key>HasLODField</Key>
-      <Value>Has LOD</Value>
+      <Value>Tem LOD</Value>
     </Record>
     <Record>
       <Key>SolarScaleField</Key>
-      <Value>Solar Intensity Scale</Value>
+      <Value>Escala de Intensidade Solar</Value>
     </Record>
     <Record>
       <Key>DawnTemperatureField</Key>
-      <Value>Dawn Temperature</Value>
+      <Value>Temperatura de manhã</Value>
     </Record>
     <Record>
       <Key>NoonTemperatureField</Key>
-      <Value>Noon Temperature</Value>
+      <Value>Temperatura à tarde</Value>
     </Record>
     <Record>
       <Key>DuskTemperatureField</Key>
-      <Value>Dusk Temperature</Value>
+      <Value>Temperatura ao anoitecer</Value>
     </Record>
     <Record>
       <Key>MidnightTemperatureField</Key>
-      <Value>Midnight Temperature</Value>
+      <Value>Temperatura à noite</Value>
     </Record>
     <Record>
       <Key>PreviewAtmosphereField</Key>
-      <Value>Preview Atmosphere</Value>
+      <Value>Pré-Visualizar Atmosfera</Value>
     </Record>
     <Record>
       <Key>HasCustomTemperatureField</Key>
-      <Value>Has Custom Temperature</Value>
+      <Value>Temperatura Personalizada</Value>
     </Record>
     <Record>
       <Key>LavaLevelField</Key>
-      <Value>Lava Level</Value>
+      <Value>Nível da lava</Value>
     </Record>
     <Record>
       <Key>SolidTerrainColourField</Key>
-      <Value>Solid Terrain Colour</Value>
+      <Value>Cor do Terreno</Value>
     </Record>
     <Record>
       <Key>CartridgeTrackerTitle</Key>
-      <Value>TRACKER</Value>
+      <Value>RASTREADOR</Value>
     </Record>
     <Record>
       <Key>CartridgeTrackerSelected</Key>
-      <Value>Scroll to select target</Value>
+      <Value>Scroll para seleccionar alvo</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderSelected</Key>
-      <Value>Steel frames</Value>
+      <Value>Estruturas de aço</Value>
     </Record>
     <Record>
       <Key>CartridgeTrackerDistance</Key>
-      <Value>Distance</Value>
+      <Value>Distância</Value>
     </Record>
     <Record>
       <Key>ButtonCustomWorld</Key>
-      <Value>Custom World</Value>
+      <Value>Mundo Personalizado</Value>
     </Record>
     <Record>
       <Key>GasItemGasSymbol</Key>
@@ -10837,55 +10837,55 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>GasItemGasMole</Key>
-      <Value>12.09 moles</Value>
+      <Value>12.09 mols</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserPressureTitle</Key>
-      <Value>PRESSURE</Value>
+      <Value>PRESSÃO</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserTemperatureTitle</Key>
-      <Value>TEMPERATURE</Value>
+      <Value>TEMPERATURA</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserConvectedTitle</Key>
-      <Value>CONVECTED</Value>
+      <Value>CONVECÇÃO</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserRadiatedTitle</Key>
-      <Value>RADIATED</Value>
+      <Value>IRRADIAÇÃO</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyserTitle</Key>
-      <Value>ATMOSPHERE ANALYZER</Value>
+      <Value>ANALIZADOR ATMOSFÉRICO</Value>
     </Record>
     <Record>
       <Key>BigWarning</Key>
-      <Value>WARNING</Value>
+      <Value>ATENÇÃO</Value>
     </Record>
     <Record>
       <Key>DialogConfirmLastSaveIsAutoSave</Key>
-      <Value>ARE YOU SURE? The last save you have is an autosave. You may lose your progress if you don't save now.</Value>
+      <Value>TEM CERTEZA? O último salvamento que você tem é um salvamento automático. Você pode perder seu progresso se não salvar agora.</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonCancel</Key>
-      <Value>Cancel</Value>
+      <Value>Cancelar</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderRecipeTitle</Key>
-      <Value>Recipe:</Value>
+      <Value>Receita:</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderRecipeOrder</Key>
-      <Value>1 of 2</Value>
+      <Value>1 de 2</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderAutoFlashTitle</Key>
-      <Value>Flashpoint:</Value>
+      <Value>Ponto de Inflamação:</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderAutoITitle</Key>
-      <Value>Autoignition:</Value>
+      <Value>Auto-Ignição:</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderAutoHashTitle</Key>
@@ -10897,11 +10897,11 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ElectronicReaderIron</Key>
-      <Value>Iron</Value>
+      <Value>Ferro</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderIce</Key>
-      <Value>Ice</Value>
+      <Value>Gelo</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderOxite</Key>
@@ -10909,75 +10909,75 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ElectronicReaderNitrice</Key>
-      <Value>Nitrice</Value>
+      <Value>Nitrito</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderVolatiles</Key>
-      <Value>Volatiles</Value>
+      <Value>Voláteis</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderGold</Key>
-      <Value>Gold</Value>
+      <Value>Ouro</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderCoal</Key>
-      <Value>Coal</Value>
+      <Value>Carvão</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderCopper</Key>
-      <Value>Copper</Value>
+      <Value>Cobre</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderUranium</Key>
-      <Value>Uranium</Value>
+      <Value>Urânio</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSilver</Key>
-      <Value>Silver</Value>
+      <Value>Prata</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderNickel</Key>
-      <Value>Nickel</Value>
+      <Value>Níquel</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderLead</Key>
-      <Value>Lead</Value>
+      <Value>Chumbo</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSilicon</Key>
-      <Value>Silicon</Value>
+      <Value>Silício</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderCobalt</Key>
-      <Value>Cobalt</Value>
+      <Value>Cobalto</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderCarbon</Key>
-      <Value>Carbon</Value>
+      <Value>Carbono</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSteel</Key>
-      <Value>Steel</Value>
+      <Value>Aço</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderUranium</Key>
-      <Value>Uranium</Value>
+      <Value>Urânio</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderHydrocarbon</Key>
-      <Value>Hydrocarbon</Value>
+      <Value>Hidrocarboneto</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSilver</Key>
-      <Value>Silver</Value>
+      <Value>Prata</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderNickel</Key>
-      <Value>Nickel</Value>
+      <Value>Níquel</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderLead</Key>
-      <Value>Lead</Value>
+      <Value>Chumbo</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderElectrum</Key>
@@ -10993,63 +10993,63 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ElectronicReaderSolder</Key>
-      <Value>Solder</Value>
+      <Value>Solda</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSilicon</Key>
-      <Value>Silicon</Value>
+      <Value>Silício</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSalicylicAcid</Key>
-      <Value>SalicylicAcid</Value>
+      <Value>Ácido Salicílico</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderAlcohol</Key>
-      <Value>Alcohol</Value>
+      <Value>Álcool</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderOil</Key>
-      <Value>Oil</Value>
+      <Value>Óleo</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderFenoxitone</Key>
-      <Value>Fenoxitone</Value>
+      <Value>Fenoxitona</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorRed</Key>
-      <Value>Red Coloring</Value>
+      <Value>Corante Vermelho</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorBlue</Key>
-      <Value>Blue Coloring</Value>
+      <Value>Corante Azul</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorYellow</Key>
-      <Value>Yellow Coloring</Value>
+      <Value>Corante Amarelo</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorOrange</Key>
-      <Value>Orange Coloring</Value>
+      <Value>Corante Laranja</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderColorGreen</Key>
-      <Value>Green Coloring</Value>
+      <Value>Corante Verde</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderMilk</Key>
-      <Value>Milk</Value>
+      <Value>Leite</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderFlour</Key>
-      <Value>Flour</Value>
+      <Value>Farinha</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderEgg</Key>
-      <Value>Egg</Value>
+      <Value>Ovo</Value>
     </Record>
     <Record>
       <Key>ElectronicReadereggs</Key>
-      <Value>eggs</Value>
+      <Value>Ovos</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderLiquidMeasurement</Key>
@@ -11057,19 +11057,19 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ElectronicReaderTime</Key>
-      <Value>Time</Value>
+      <Value>Tempo</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderSeconds</Key>
-      <Value>Seconds</Value>
+      <Value>Segundos</Value>
     </Record>
     <Record>
       <Key>SettingsThingRenderDistance</Key>
-      <Value>Thing Render Distance</Value>
+      <Value>Distância de Objetos</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderEnergy</Key>
-      <Value>Energy</Value>
+      <Value>Energia</Value>
     </Record>
     <Record>
       <Key>WattEnergyMeasurement</Key>
@@ -11077,7 +11077,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ElectronicReaderTemperature</Key>
-      <Value>Temperature</Value>
+      <Value>Temperatura</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderKelvinSymbol</Key>
@@ -11085,7 +11085,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ElectronicReaderPressure</Key>
-      <Value>Pressure</Value>
+      <Value>Pressão</Value>
     </Record>
     <Record>
       <Key>ElectronicReaderPressureSym</Key>
@@ -11093,31 +11093,31 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>NetworkAnalyserNetwork</Key>
-      <Value>CABLE NETWORK</Value>
+      <Value>REDE DE CABOS</Value>
     </Record>
     <Record>
       <Key>NetworkAnalyserActual</Key>
-      <Value>ACTUAL</Value>
+      <Value>ATUAL</Value>
     </Record>
     <Record>
       <Key>NetworkAnalyserPotential</Key>
-      <Value>POTENTIAL</Value>
+      <Value>POTENCIAL</Value>
     </Record>
     <Record>
       <Key>NetworkAnalyserDevices</Key>
-      <Value>DEVICES</Value>
+      <Value>DISPOSITIVOS</Value>
     </Record>
     <Record>
       <Key>NetworkAnalyserRequired</Key>
-      <Value>REQUIRED</Value>
+      <Value>NECESSÁRIO</Value>
     </Record>
     <Record>
       <Key>NetworkAnalyserTitle</Key>
-      <Value>NETWORK ANALYZER</Value>
+      <Value>ANALISADOR DE REDE</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReaderTitle</Key>
-      <Value>ENCYCLOPEDIA</Value>
+      <Value>ENCICLOPÉDIA</Value>
     </Record>
     <Record>
       <Key>NotApplicableString</Key>
@@ -11125,91 +11125,91 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>CustomWorld</Key>
-      <Value>Custom World</Value>
+      <Value>Personalizado</Value>
     </Record>
     <Record>
       <Key>ScenariosTitle</Key>
-      <Value>Scenarios</Value>
+      <Value>Cenários</Value>
     </Record>
     <Record>
       <Key>ScenariosObjectiveTitle</Key>
-      <Value>Objective</Value>
+      <Value>Objetivo</Value>
     </Record>
     <Record>
       <Key>TutorialsTitle</Key>
-      <Value>Tutorials</Value>
+      <Value>Tutoriais</Value>
     </Record>
     <Record>
       <Key>TutorialsObjectiveTitle</Key>
-      <Value>Objective</Value>
+      <Value>Objetivo</Value>
     </Record>
     <Record>
       <Key>SettingsTerrainClutter</Key>
-      <Value>Terrain Clutter</Value>
+      <Value>Deformações de Terreno</Value>
     </Record>
     <Record>
       <Key>ResetInventoryTitle</Key>
-      <Value>Reset Inventory Windows</Value>
+      <Value>Redefinir janelas do inventário</Value>
     </Record>
     <Record>
       <Key>ResetInventoryDescription</Key>
-      <Value>This will reset all undocked inventory windows.</Value>
+      <Value>Isso redefinirá todas as janelas de inventário desacopladas.</Value>
     </Record>
     <Record>
       <Key>ConfirmReset</Key>
-      <Value>Reset</Value>
+      <Value>Redefinir</Value>
     </Record>
     <Record>
       <Key>Construction Supplies 1</Key>
-      <Value>Construction Supplies 1</Value>
+      <Value>Fornecimentos de Construção 1</Value>
     </Record>
     <Record>
       <Key>Construction Supplies 2</Key>
-      <Value>Construction Supplies 2</Value>
+      <Value>Fornecimentos de Construção 2</Value>
     </Record>
     <Record>
       <Key>Organic Supplies</Key>
-      <Value>Organic Supplies</Value>
+      <Value>Fornecimentos Orgânicos</Value>
     </Record>
     <Record>
       <Key>Organic Supplies 1</Key>
-      <Value>Organic Supplies 1</Value>
+      <Value>Fornecimentos Orgânicos 1</Value>
     </Record>
     <Record>
       <Key>Organic Supplies 2</Key>
-      <Value>Organic Supplies 2</Value>
+      <Value>Fornecimentos Orgânicos 2</Value>
     </Record>
     <Record>
       <Key>Consumables Supplies</Key>
-      <Value>Consumables Supplies</Value>
+      <Value>Consumíveis</Value>
     </Record>
     <Record>
       <Key>Portable Appliance Kits</Key>
-      <Value>Portable Appliance Kits</Value>
+      <Value>Kits de Utensílios Portáteis</Value>
     </Record>
     <Record>
       <Key>Misc Crate</Key>
-      <Value>Misc Crate</Value>
+      <Value>Caixa Diversos</Value>
     </Record>
     <Record>
       <Key>Communications Crate</Key>
-      <Value>Communications Crate</Value>
+      <Value>Caixa de Comunicações</Value>
     </Record>
     <Record>
       <Key>SettingsTerrainClutterMultiplier</Key>
-      <Value>Terrain Clutter Multiplier</Value>
+      <Value>Multiplicador Deformações Terreno</Value>
     </Record>
     <Record>
       <Key>ActivateResearch</Key>
-      <Value>Starts reserach process.</Value>
+      <Value>Inicia processo de pesquisa.</Value>
     </Record>
     <Record>
       <Key>ManualGetResearchPodsRequired</Key>
-      <Value>Sets the pod type to search for a certian pod when breaking down a pods.</Value>
+      <Value>Define o tipo de pod a procurar ao destruir um pod.</Value>
     </Record>
     <Record>
       <Key>CurrentResearchPodType</Key>
-      <Value>Returns the pod type stored in the machine.</Value>
+      <Value>Retorna o tipo de pod guardado na máquina.</Value>
     </Record>
     <Record>
       <Key>MineablesInVicinity</Key>
@@ -11225,63 +11225,63 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ResearchFilter</Key>
-      <Value>Filter</Value>
+      <Value>Filtro</Value>
     </Record>
     <Record>
       <Key>ResearchTitle</Key>
-      <Value>Research</Value>
+      <Value>Pesquisar</Value>
     </Record>
     <Record>
       <Key>ResearchConfirm</Key>
-      <Value>Confirm</Value>
+      <Value>Confirmar</Value>
     </Record>
     <Record>
       <Key>ResearchCancel</Key>
-      <Value>Cancel</Value>
+      <Value>Cancelar</Value>
     </Record>
     <Record>
       <Key>ServerReadyString</Key>
-      <Value>Server can now be started.</Value>
+      <Value>O servidor agora pode ser iniciado.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandL</Key>
-      <Value>Loads device var to register.</Value>
+      <Value>Carrega var do dispositivo para registro.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLB</Key>
-      <Value>Loads var from all output network devices with provided type hash using the provide batch mode. Average (0), Sum (1), Minimum (2), Maximum (3). Can use either the word, or the number.</Value>
+      <Value>Carrega var de todos os dispositivos de rede de saída com hash de tipo fornecido usando o modo de lote fornecido. Média (0), Soma (1), Mínimo (2), Máximo (3). Pode usar a palavra ou o número.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandS</Key>
-      <Value>Stores register value to var on device.</Value>
+      <Value>Armazena o valor do registro em var no dispositivo.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSB</Key>
-      <Value>Stores register value to var on all output network devices with provided type hash.</Value>
+      <Value>Armazena o valor do registro para var em todos os dispositivos de rede de saída com hash de tipo fornecido.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLS</Key>
-      <Value>Loads slot var on device to register.</Value>
+      <Value>Carrega o slot var no dispositivo a ser registrado.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLR</Key>
-      <Value>Loads reagent of device's reagentMode to register. Contents (0), Required (1), Recipe (2). Can use either the word, or the number.</Value>
+      <Value>Carrega o reagente do reagenteMode do dispositivo a ser registrado. Conteúdo (0), Obrigatório (1), Receita (2). Pode usar a palavra ou o número.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAlias</Key>
-      <Value>Labels register or device reference with name, device references also affect what shows on the screws on the IC base.</Value>
+      <Value>Registro de rótulos ou referência de dispositivo com nome, referências de dispositivo também afetam o que aparece nos parafusos na base do IC.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandDefine</Key>
-      <Value>Creates a label that will be replaced throughout the program with the provided value.</Value>
+      <Value>Cria um rótulo que será substituído em todo o programa pelo valor fornecido.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMove</Key>
-      <Value>Register = provided num or register value.</Value>
+      <Value>Registrar = número fornecido ou valor de registro.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAdd</Key>
-      <Value>Register = a + b.</Value>
+      <Value>Registrar = a + b.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSub</Key>
@@ -11289,383 +11289,383 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ScriptCommandSdse</Key>
-      <Value>Register = 1 if device is set, otherwise 0.</Value>
+      <Value>Registrar = 1 se o dispositivo estiver definido, caso contrário 0.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSdns</Key>
-      <Value>Register = 1 if device is not set, otherwise 0</Value>
+      <Value>Registrar = 1 se o dispositivo não estiver definido, caso contrário 0.</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSlt</Key>
-      <Value>Register = 1 if a &lt; b, otherwise 0</Value>
+      <Value>Registrar = 1 se a &lt; b, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSgt</Key>
-      <Value>Register = 1 if a &gt; b, otherwise 0</Value>
+      <Value>Registrar = 1 se a &gt; b, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSle</Key>
-      <Value>Register = 1 if a &lt;= b, otherwise 0</Value>
+      <Value>Registrar = 1 se a &lt;= b, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSge</Key>
-      <Value>Register = 1 if a &gt;= b, otherwise 0</Value>
+      <Value>Registrar = 1 se a &gt;= b, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSeq</Key>
-      <Value>Register = 1 if a == b, otherwise 0</Value>
+      <Value>Registrar = 1 se a == b, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSne</Key>
-      <Value>Register = 1 if a != b, otherwise 0</Value>
+      <Value>Registrar = 1 se a != b, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSap</Key>
-      <Value>Register = 1 if abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8), otherwise 0</Value>
+      <Value>Registrar = 1 se abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8), caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSna</Key>
-      <Value>Register = 1 if abs(a - b) &gt; max(c * max(abs(a), abs(b)), float.epsilon * 8), otherwise 0</Value>
+      <Value>Registrar = 1 se abs(a - b) &gt; max(c * max(abs(a), abs(b)), float.epsilon * 8), caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSltz</Key>
-      <Value>Register = 1 if a &lt; 0, otherwise 0</Value>
+      <Value>Registrar = 1 se a &lt; 0, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSgtz</Key>
-      <Value>Register = 1 if a &gt; 0, otherwise 0</Value>
+      <Value>Registrar = 1 se a &gt; 0, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSlez</Key>
-      <Value>Register = 1 if a &lt;= 0, otherwise 0</Value>
+      <Value>Registrar = 1 se a &lt;= 0, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSgez</Key>
-      <Value>Register = 1 if a &gt;= 0, otherwise 0</Value>
+      <Value>Registrar = 1 se a &gt;= 0, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSeqz</Key>
-      <Value>Register = 1 if a == 0, otherwise 0</Value>
+      <Value>Registrar = 1 se a == 0, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSnez</Key>
-      <Value>Register = 1 if a != 0, otherwise 0</Value>
+      <Value>Registrar = 1 se a != 0, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSapz</Key>
-      <Value>Register = 1 if |a| &lt;= float.epsilon * 8, otherwise 0</Value>
+      <Value>Registrar = 1 se |a| &lt;= float.epsilon * 8, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSnaz</Key>
-      <Value>Register = 1 if |a| &gt; float.epsilon, otherwise 0</Value>
+      <Value>Registrar = 1 se |a| &gt; float.epsilon, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAnd</Key>
-      <Value>Register = 1 if a and b not zero, otherwise 0</Value>
+      <Value>Registrar = 1 se a e b não zero, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandOr</Key>
-      <Value>Register = 1 if a and/or b not 0, otherwise 0</Value>
+      <Value>Registrar = 1 se a e/ou b não 0, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandXor</Key>
-      <Value>Register = 1 if either a or b not 0, otherwise 0</Value>
+      <Value>Registrar = 1 se either a ou b não 0, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandNor</Key>
-      <Value>Register = 1 if a and b are 0, otherwise 0</Value>
+      <Value>Registrar = 1 se a and b are 0, caso contrário 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMul</Key>
-      <Value>Register = a * b</Value>
+      <Value>Registrar = a * b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandDiv</Key>
-      <Value>Register = a / b</Value>
+      <Value>Registrar = a / b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMod</Key>
-      <Value>Register = a mod b (note: NOT a % b)</Value>
+      <Value>Registrar = a mod b (note: NOT a % b)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJ</Key>
-      <Value>Jump execution to line a</Value>
+      <Value>Execução de salto para a linha a</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdse</Key>
-      <Value>Branch to line a if device d is set</Value>
+      <Value>Ramificar para a linha a se o dispositivo d estiver definido</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdns</Key>
-      <Value>Branch to line a if device d isn't set</Value>
+      <Value>Ramificar para a linha a se o dispositivo d não estiver definido</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBlt</Key>
-      <Value>Branch to line c if a &lt; b</Value>
+      <Value>Ramificar para linha c se a &lt; b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgt</Key>
-      <Value>Branch to line c if a &gt; b</Value>
+      <Value>Ramificar para linha c se a &gt; b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBle</Key>
-      <Value>Branch to line c if a &lt;= b</Value>
+      <Value>Ramificar para linha c se a &lt;= b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBge</Key>
-      <Value>Branch to line c if a &gt;= b</Value>
+      <Value>Ramificar para linha c se a &gt;= b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeq</Key>
-      <Value>Branch to line c if a == b</Value>
+      <Value>Ramificar para linha c se a == b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBne</Key>
-      <Value>Branch to line c if a != b</Value>
+      <Value>Ramificar para linha c se a != b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBap</Key>
-      <Value>Branch to line d if abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8)</Value>
+      <Value>Ramificar para linha d se abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBna</Key>
-      <Value>Branch to line d if abs(a - b) &gt; max(c * max(abs(a), abs(b)), float.epsilon * 8)</Value>
+      <Value>Ramificar para linha d se abs(a - b) &gt; max(c * max(abs(a), abs(b)), float.epsilon * 8)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBltz</Key>
-      <Value>Branch to line b if a &lt; 0</Value>
+      <Value>Ramificar para linha b se a &lt; 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgez</Key>
-      <Value>Branch to line b if a &gt;= 0</Value>
+      <Value>Ramificar para linha b se a &gt;= 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBlez</Key>
-      <Value>Branch to line b if a &lt;= 0</Value>
+      <Value>Ramificar para linha b se a &lt;= 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgtz</Key>
-      <Value>Branch to line b if a &gt; 0</Value>
+      <Value>Ramificar para linha b se a &gt; 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeqz</Key>
-      <Value>Branch to line b if a == 0</Value>
+      <Value>Ramificar para linha b se a == 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnez</Key>
-      <Value>branch to line b if a != 0</Value>
+      <Value>Ramificar para linha b se a != 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBapz</Key>
-      <Value>Branch to line c if abs(a) &lt;= float.epsilon * 8</Value>
+      <Value>Ramificar para linha c se abs(a) &lt;= float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnaz</Key>
-      <Value>Branch to line c if abs(a) &gt; float.epsilon * 8</Value>
+      <Value>Ramificar para linha c se abs(a) &gt; float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJr</Key>
-      <Value>Relative jump to line a</Value>
+      <Value>Salto relativo para a linha a</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJr</Key>
-      <Value>Relative jump to line a</Value>
+      <Value>Salto relativo para a linha a</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrdse</Key>
-      <Value>Relative jump to line a if device is set</Value>
+      <Value>Salto relativo para a linha a se o dispositivo estiver definido</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrdns</Key>
-      <Value>Relative jump to line a if device is not set</Value>
+      <Value>Salto relativo para a linha a if dispositivo não está definido</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrlt</Key>
-      <Value>Relative jump to line c if a &lt; b</Value>
+      <Value>Salto relativo para a linha c se a &lt; b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrgt</Key>
-      <Value>relative jump to line c if a &gt; b</Value>
+      <Value>Salto relativo para a linha c se a &gt; b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrle</Key>
-      <Value>Relative jump to line c if a &lt;= b</Value>
+      <Value>Salto relativo para a linha c se a &lt;= b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrge</Key>
-      <Value>Relative jump to line c if a &gt;= b</Value>
+      <Value>Salto relativo para a linha c se a &gt;= b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBreq</Key>
-      <Value>Relative branch to line c if a == b</Value>
+      <Value>Salto relativo para linha c se a == b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrne</Key>
-      <Value>Relative branch to line c if a != b</Value>
+      <Value>Salto relativo para linha c se a != b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrap</Key>
-      <Value>Relative branch to line d if abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8)</Value>
+      <Value>Salto relativo para linha d se abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrna</Key>
-      <Value>Relative branch to line d if abs(a - b) &gt; max(c * max(abs(a), abs(b)), float.epsilon * 8)</Value>
+      <Value>Salto relativo para linha d se abs(a - b) &gt; max(c * max(abs(a), abs(b)), float.epsilon * 8)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrltz</Key>
-      <Value>Relative branch to line b if a &lt; 0</Value>
+      <Value>Salto relativo para linha b se a &lt; 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrgez</Key>
-      <Value>Relative branch to line b if a &gt;= 0</Value>
+      <Value>Salto relativo para linha b se a &gt;= 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrlez</Key>
-      <Value>Relative branch to line b if a &lt;= 0</Value>
+      <Value>Salto relativo para linha b se a &lt;= 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrgtz</Key>
-      <Value>Relative branch to line b if a &gt; 0</Value>
+      <Value>Salto relativo para linha b se a &gt; 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBreqz</Key>
-      <Value>Relative branch to line b if a == 0</Value>
+      <Value>Salto relativo para linha b se a == 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrnez</Key>
-      <Value>Relative branch to line b if a != 0</Value>
+      <Value>Salto relativo para linha b se a != 0</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrapz</Key>
-      <Value>Relative branch to line c if abs(a) &lt;= float.epsilon * 8</Value>
+      <Value>Salto relativo para linha c se abs(a) &lt;= float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBrnaz</Key>
-      <Value>Relative branch to line c if abs(a) &gt; float.epsilon * 8</Value>
+      <Value>Salto relativo para linha c se abs(a) &gt; float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandJal</Key>
-      <Value>Jump execution to line a and store next line number in ra</Value>
+      <Value>Salte a execução para a linha a e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdseal</Key>
-      <Value>Jump execution to line a and store next line number if device is set</Value>
+      <Value>Salte a execução para a linha a e armazene o número da próxima linha se o dispositivo estiver definido</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBdnsal</Key>
-      <Value>Jump execution to line a and store next line number if device is not set</Value>
+      <Value>Salte a execução para a linha a e armazene o número da próxima linha se o dispositivo não estiver definido</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBltal</Key>
-      <Value>Branch to line c if a &lt; b and store next line number in ra</Value>
+      <Value>Ramificar para linha c se a &lt; b e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgtal</Key>
-      <Value>Branch to line c if a &gt; b and store next line number in ra</Value>
+      <Value>Ramificar para linha c se a &gt; b e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBleal</Key>
-      <Value>Branch to line c if a &lt;= b and store next line number in ra</Value>
+      <Value>Ramificar para linha c se a &lt;= b e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgeal</Key>
-      <Value>Branch to line c if a &gt;= b and store next line number in ra</Value>
+      <Value>Ramificar para linha c se a &gt;= b e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeqal</Key>
-      <Value>Branch to line c if a == b and store next line number in ra</Value>
+      <Value>Ramificar para linha c se a == b e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBneal</Key>
-      <Value>Branch to line c if a != b and store next line number in ra</Value>
+      <Value>Ramificar para linha c se a != b e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBapal</Key>
-      <Value>Branch to line d if abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) and store next line number in ra</Value>
+      <Value>Ramificar para linha d se abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnaal</Key>
-      <Value>Branch to line d if abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) and store next line number in ra</Value>
+      <Value>Ramificar para linha d se abs(a - b) &lt;= max(c * max(abs(a), abs(b)), float.epsilon * 8) e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBltzal</Key>
-      <Value>Branch to line b if a &lt; 0 and store next line number in ra</Value>
+      <Value>Ramificar para linha b se a &lt; 0 e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgezal</Key>
-      <Value>Branch to line b if a &gt;= 0 and store next line number in ra</Value>
+      <Value>Ramificar para linha b se a &gt;= 0 e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBlezal</Key>
-      <Value>Branch to line b if a &lt;= 0 and store next line number in ra</Value>
+      <Value>Ramificar para linha b se a &lt;= 0 e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBgtzal</Key>
-      <Value>Branch to line b if a &gt; 0 and store next line number in ra</Value>
+      <Value>Ramificar para linha b se a &gt; 0 e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBeqzal</Key>
-      <Value>Branch to line b if a == 0 and store next line number in ra</Value>
+      <Value>Ramificar para linha b se a == 0 e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnezal</Key>
-      <Value>Branch to line b if a != 0 and store next line number in ra</Value>
+      <Value>Ramificar para linha b se a != 0 e armazene o próximo número da linha em ra</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBapzal</Key>
-      <Value>Branch to line c if abs(a) &lt;= float.epsilon * 8</Value>
+      <Value>Ramificar para linha c se abs(a) &lt;= float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandBnazal</Key>
-      <Value>Branch to line c if abs(a) &gt; float.epsilon * 8</Value>
+      <Value>Ramificar para linha c se abs(a) &gt; float.epsilon * 8</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSqrt</Key>
-      <Value>Register = square root of a</Value>
+      <Value>Registrar = raiz quadrada de a</Value>
     </Record>
     <Record>
       <Key>ScriptCommandRound</Key>
-      <Value>Register = a rounded to nearest integer</Value>
+      <Value>Registrar = a arredondado ao próximo inteiro</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTrunc</Key>
-      <Value>Register = a with fractional part removed</Value>
+      <Value>Registrar = a sem a parte fracional</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCeil</Key>
-      <Value>Register = smallest integer greater than a</Value>
+      <Value>Registrar = menor valor inteiro maior que a</Value>
     </Record>
     <Record>
       <Key>ScriptCommandFloor</Key>
-      <Value>Register = largest integer less than a</Value>
+      <Value>Registrar = maior valor inteiro menor que a</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMax</Key>
-      <Value>Register = max of a or b</Value>
+      <Value>Registrar = max de a ou b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandMin</Key>
-      <Value>Register = min of a or b</Value>
+      <Value>Registrar = min de a ou b</Value>
     </Record>
     <Record>
       <Key>ScriptCommandAbs</Key>
-      <Value>Register = the absolute value of a</Value>
+      <Value>Registrar = o valor absoluto de a</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLog</Key>
-      <Value>Register = log(a)</Value>
+      <Value>Registrar = log(a)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandExp</Key>
-      <Value>Register = exp(a)</Value>
+      <Value>Registrar = exp(a)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandRand</Key>
-      <Value>Register = a random value x with 0 &lt;= x &lt; 1</Value>
+      <Value>Registrar = valor aleatório x em que 0 &lt;= x &lt; 1</Value>
     </Record>
     <Record>
       <Key>ScriptCommandYield</Key>
-      <Value>Pauses execution for 1 tick</Value>
+      <Value>Pausa a execução por 1 tick</Value>
     </Record>
     <Record>
       <Key>ScriptCommandLabel</Key>
@@ -11673,23 +11673,23 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ScriptCommandPeek</Key>
-      <Value>Register = the value at the top of the stack</Value>
+      <Value>Registrar = valor no topo da stack</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPush</Key>
-      <Value>Pushes the value of a to the stack at sp and increments sp</Value>
+      <Value>Empurra o valor de a para a stack no sp e incrementa o sp</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPop</Key>
-      <Value>Register = the value at the top of the stack and decrements sp</Value>
+      <Value>Registrar = valor no topo da stack e decrementa o sp</Value>
     </Record>
     <Record>
       <Key>ScriptCommandHcf</Key>
-      <Value>Halt and catch fire</Value>
+      <Value>Parar e falhar</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSelect</Key>
-      <Value>Register = b if a is non-zero, otherwise c</Value>
+      <Value>Registrar = b se a não zero, caso contrário c</Value>
     </Record>
     <Record>
       <Key>ScriptCommandSleep</Key>
@@ -11697,139 +11697,139 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ScriptCommandSin</Key>
-      <Value>Returns the sine of the specified angle (radians)</Value>
+      <Value>Retorna o seno do ângulo especificado (radianos)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCos</Key>
-      <Value>Returns the cosine of the specified angle (radians)</Value>
+      <Value>Retorna o cosseno do ângulo especificado (radianos)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandTan</Key>
-      <Value>Returns the tan of the specified angle (radians) </Value>
+      <Value>Retorna o tan do ângulo especificado (radianos)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandASin</Key>
-      <Value>Returns the angle (radians) whos sine is the specified value</Value>
+      <Value>Retorna o ângulo (radianos) cujo seno é o valor especificado</Value>
     </Record>
     <Record>
       <Key>ScriptCommandACos</Key>
-      <Value>Returns the angle (radians) whos cosine is the specified value</Value>
+      <Value>Retorna o ângulo (radianos) cujo cosseno é o valor especificado</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan</Key>
-      <Value>Returns the angle (radians) whos tan is the specified value</Value>
+      <Value>Retorna o ângulo (radianos) cujo tan é o valor especificado</Value>
     </Record>
     <Record>
       <Key>ScriptCommandATan2</Key>
-      <Value>Returns the angle (radians) whose tangent is the quotient of two specified values: a (y) and b (x)</Value>
+      <Value>Retorna o ângulo (radianos) cuja tangente é o quociente de dois valores especificados: a (y) e b (x)</Value>
     </Record>
     <Record>
       <Key>ScriptCommandCommand</Key>
-      <Value>command</Value>
+      <Value>Comando</Value>
     </Record>
     <Record>
       <Key>BluePodType</Key>
-      <Value>Blue</Value>
+      <Value>Azul</Value>
     </Record>
     <Record>
       <Key>RedPodType</Key>
-      <Value>Red</Value>
+      <Value>Vermelho</Value>
     </Record>
     <Record>
       <Key>GreenPodType</Key>
-      <Value>Green</Value>
+      <Value>Verde</Value>
     </Record>
     <Record>
       <Key>YellowPodType</Key>
-      <Value>Yellow</Value>
+      <Value>Amarelo</Value>
     </Record>
     <Record>
       <Key>SettingsResearch</Key>
-      <Value>Research Pool Selection</Value>
+      <Value>Seleção Grupo Pesquisa</Value>
     </Record>
     <Record>
       <Key>DialogConfirmResearchUnlock</Key>
-      <Value>Do you want to Unlock this Research?</Value>
+      <Value>Deseja desbloquear esta pesquisa?</Value>
     </Record>
     <Record>
       <Key>ResearchRequirementTitle</Key>
-      <Value>Requirements</Value>
+      <Value>Requisitos</Value>
     </Record>
     <Record>
       <Key>ResearchUnlocksTitle</Key>
-      <Value>Unlocks</Value>
+      <Value>Desbloqueia</Value>
     </Record>
     <Record>
       <Key>ResearchMilitary</Key>
-      <Value>Military</Value>
+      <Value>Militar</Value>
     </Record>
     <Record>
       <Key>ResearchProduction</Key>
-      <Value>Production</Value>
+      <Value>Produção</Value>
     </Record>
     <Record>
       <Key>ResearchAutomation</Key>
-      <Value>Automation</Value>
+      <Value>Automação</Value>
     </Record>
     <Record>
       <Key>ResearchTools</Key>
-      <Value>Tools</Value>
+      <Value>Ferramentas</Value>
     </Record>
     <Record>
       <Key>ResearchOrganics</Key>
-      <Value>Organics</Value>
+      <Value>Orgânicos</Value>
     </Record>
     <Record>
       <Key>ResearchConstruction</Key>
-      <Value>Construction</Value>
+      <Value>Construção</Value>
     </Record>
     <Record>
       <Key>ResearchLogic</Key>
-      <Value>Logic</Value>
+      <Value>Lógica</Value>
     </Record>
     <Record>
       <Key>ResearchVehicles</Key>
-      <Value>Vehicles</Value>
+      <Value>Veículos</Value>
     </Record>
     <Record>
       <Key>ResearchShowLocked</Key>
-      <Value>Show Locked</Value>
+      <Value>Mostrar Bloqueado</Value>
     </Record>
     <Record>
       <Key>ResearchCantAfford</Key>
-      <Value>You cannot afford to unlock this research.</Value>
+      <Value>Sem recursos para desbloquear pesquisa.</Value>
     </Record>
     <Record>
       <Key>ResearchRequirementNotMet</Key>
-      <Value>You do not meet the requirements to unlock this research.</Value>
+      <Value>Não atinge os requisitos para desbloquear esta pesquisa.</Value>
     </Record>
     <Record>
       <Key>ResearchUnlockConfirm</Key>
-      <Value>Do you want to Unlock this Research?</Value>
+      <Value>Deseja desbloquear esta pesquisa?</Value>
     </Record>
     <Record>
       <Key>WarningSavePathNotWritableDescription</Key>
-      <Value>Could not write to save path. It has been reset to default</Value>
+      <Value>Impossível escrever no caminho de gravação. Foi redefinido o padrão</Value>
     </Record>
     <Record>
       <Key>WarningSavePathNotWritable</Key>
-      <Value>Save Path Not Writable</Value>
+      <Value>Impossível escrever no caminho de gravação</Value>
     </Record>
     <Record>
       <Key>FramerateLock</Key>
-      <Value>Target Framerate</Value>
+      <Value>FPS Alvo</Value>
     </Record>
     <Record>
       <Key>SaveBeforeTravel</Key>
-      <Value>You need to save your game before travelling to another world!</Value>
+      <Value>Você precisa salvar seu jogo antes de viajar para outro mundo!</Value>
     </Record>
     <Record>
       <Key>LaunchRocketAlert</Key>
-      <Value>Do you want to launch this rocket</Value>
+      <Value>Você quer lançar este foguete?</Value>
     </Record>
     <Record>
       <Key>StatusWindowVitals</Key>
-      <Value>Vitals</Value>
+      <Value>Vitais</Value>
     </Record>
     <Record>
       <Key>StatusWindowJetpack</Key>
@@ -11837,135 +11837,135 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>StatusWindowTarget</Key>
-      <Value>Target</Value>
+      <Value>Alvo</Value>
     </Record>
     <Record>
       <Key>CompletedKey</Key>
-      <Value>Completed</Value>
+      <Value>Completo</Value>
     </Record>
     <Record>
       <Key>LockedKey</Key>
-      <Value>Locked</Value>
+      <Value>Bloqueado</Value>
     </Record>
     <Record>
       <Key>TutorialScoreboardHeading</Key>
-      <Value>Tutorial Complete</Value>
+      <Value>Tutorial concluído</Value>
     </Record>
     <Record>
       <Key>TutorialSelectKey</Key>
-      <Value>Tutorial Select</Value>
+      <Value>Seleção do tutorial</Value>
     </Record>
     <Record>
       <Key>ScenarioSelectKey</Key>
-      <Value>Scenario Select</Value>
+      <Value>Seleção de cenário</Value>
     </Record>
     <Record>
       <Key>TankPressure</Key>
-      <Value>Tank Pressure</Value>
+      <Value>Pressão do tanque</Value>
     </Record>
     <Record>
       <Key>CrowbarToOpen</Key>
-      <Value>Use a {THING:ItemCrowbar} to open this</Value>
+      <Value>Utilize um {THING:ItemCrowbar} para abrir isso</Value>
     </Record>
     <Record>
       <Key>Display</Key>
-      <Value>Display</Value>
+      <Value>Exibição</Value>
     </Record>
     <Record>
       <Key>Player</Key>
-      <Value>Player</Value>
+      <Value>Jogador:</Value>
     </Record>
     <Record>
       <Key>Deceased</Key>
-      <Value>Deceased</Value>
+      <Value>Faleceu</Value>
     </Record>
     <Record>
       <Key>Unconscious</Key>
-      <Value>Unconscious</Value>
+      <Value>Inconsciente</Value>
     </Record>
     <Record>
       <Key>Contents</Key>
-      <Value>Contents</Value>
+      <Value>Conteúdo</Value>
     </Record>
     <Record>
       <Key>InputRight</Key>
-      <Value>Input Right</Value>
+      <Value>Entrada direita</Value>
     </Record>
     <Record>
       <Key>InputLeft</Key>
-      <Value>Input Left</Value>
+      <Value>Entrada Esquerda</Value>
     </Record>
     <Record>
       <Key>Liquid</Key>
-      <Value>Liquid</Value>
+      <Value>Líquido</Value>
     </Record>
     <Record>
       <Key>Gas</Key>
-      <Value>Gas</Value>
+      <Value>Gás</Value>
     </Record>
     <Record>
       <Key>Empty</Key>
-      <Value>Empty</Value>
+      <Value>Vazio</Value>
     </Record>
     <Record>
       <Key>Cycle</Key>
-      <Value>Cycle</Value>
+      <Value>Ciclo</Value>
     </Record>
     <Record>
       <Key>BuildStateOfHash</Key>
-      <Value>{0} of {1}</Value>
+      <Value>{0} de {1}</Value>
     </Record>
     <Record>
       <Key>Stage1Contains</Key>
-      <Value>Contains {0} at {2}Stage {1}{3}</Value>
+      <Value>Contém {0} no {2}Estágio {1}{3}</Value>
     </Record>
     <Record>
       <Key>PlantWillCreate</Key>
-      <Value>This will create {2}{0}{3} x {1}</Value>
+      <Value>Isso vai criar {2}{0}{3} x {1}</Value>
     </Record>
     <Record>
       <Key>PlantGrowing</Key>
-      <Value>The {0} is {1}growing{2}</Value>
+      <Value>A {0} está {1}crescendo{2}</Value>
     </Record>
     <Record>
       <Key>PlantDead</Key>
-      <Value>The {0} is {1}dead{2}</Value>
+      <Value>A {0} está {1}morta{2}</Value>
     </Record>
     <Record>
       <Key>PlantHydrate</Key>
-      <Value>The {0} lacks {1}hydration{2}</Value>
+      <Value>A {0} não tem {1}hidratação{2}</Value>
     </Record>
     <Record>
       <Key>NoAtmos</Key>
-      <Value>The {0} has no {1}atmosphere{2}</Value>
+      <Value>A {0} não tem {1}atmosfera{2}</Value>
     </Record>
     <Record>
       <Key>PlantTemperature</Key>
-      <Value>The {0} is not at the right {1}temperature{2}</Value>
+      <Value>A {0} não está na {1}temperatura{2} correta</Value>
     </Record>
     <Record>
       <Key>PlantNoSunlight</Key>
-      <Value>The {0} does not have the required {1}sunlight{2}</Value>
+      <Value>A {0} não tem a {1}luz solar{2} necessária</Value>
     </Record>
     <Record>
       <Key>PlantToxic</Key>
-      <Value>The {0} is being damaged due to high {1}pollutant{2} in the atmosphere</Value>
+      <Value>A {0} está sendo danificado devido ao alto {1}poluente{2} na atmosfera</Value>
     </Record>
     <Record>
       <Key>holdhotkey</Key>
-      <Value>(hold)</Value>
+      <Value>(aguarde)</Value>
     </Record>
     <Record>
       <Key>Pipe</Key>
-      <Value>Pipe</Value>
+      <Value>Tubo</Value>
     </Record>
     <Record>
       <Key>Power</Key>
-      <Value>Power</Value>
+      <Value>Energia</Value>
     </Record>
     <Record>
       <Key>Data</Key>
-      <Value>Data</Value>
+      <Value>Dados</Value>
     </Record>
     <Record>
       <Key>Chute</Key>
@@ -11973,55 +11973,55 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>Elevator</Key>
-      <Value>Elevator</Value>
+      <Value>Elevador</Value>
     </Record>
     <Record>
       <Key>PowerAndData</Key>
-      <Value>Power And Data</Value>
+      <Value>Energia e Dados</Value>
     </Record>
     <Record>
       <Key>All</Key>
-      <Value>All</Value>
+      <Value>Tudo</Value>
     </Record>
     <Record>
       <Key>DeconstructToolTipText</Key>
-      <Value>{0} required to deconstruct</Value>
+      <Value>{0} necessário para desconstruir</Value>
     </Record>
     <Record>
       <Key>SettingsDoubleClickDelay</Key>
-      <Value>Double Click Delay</Value>
+      <Value>Atraso de clique duplo</Value>
     </Record>
     <Record>
       <Key>SettingsServerAdminPassword</Key>
-      <Value>Server Admin Password</Value>
+      <Value>Senha de administrador do servidor</Value>
     </Record>
     <Record>
       <Key>ScoreboardPlayer</Key>
-      <Value>Player</Value>
+      <Value>Jogador</Value>
     </Record>
     <Record>
       <Key>ScoreboardTime</Key>
-      <Value>Play Time</Value>
+      <Value>Tempo de jogo</Value>
     </Record>
     <Record>
       <Key>SettingsFirstPersonHelmet</Key>
-      <Value>First Person Helmet</Value>
+      <Value>Capacete em primeira pessoa</Value>
     </Record>
     <Record>
       <Key>SiloDeconstruct</Key>
-      <Value>Your Silo must be empty before deconstructing it.</Value>
+      <Value>Seu Silo deve estar vazio antes de desconstruí-lo.</Value>
     </Record>
     <Record>
       <Key>PressEnterToContinue</Key>
-      <Value>Press Space to Continue</Value>
+      <Value>Pressione espaço para continuar</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteDateOfCompletion</Key>
-      <Value>Date of Completion:</Value>
+      <Value>Data de conclusão:</Value>
     </Record>
     <Record>
       <Key>BottleSlot</Key>
-      <Value>Bottle Slot</Value>
+      <Value>Slot de Garrafa</Value>
     </Record>
     <Record>
       <Key>TutorialCompleteDeanHall</Key>
@@ -12033,19 +12033,19 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>TutorialCompleteNextTutorial</Key>
-      <Value>Next Tutorial</Value>
+      <Value>Próximo tutorial</Value>
     </Record>
     <Record>
       <Key>SettingsMineableRenderDistance</Key>
-      <Value>Mineable Render Distance</Value>
+      <Value>Distância renderização Minérios</Value>
     </Record>
     <Record>
       <Key>SetSpawnMessage</Key>
-      <Value>Use to set Spawn Point</Value>
+      <Value>Use para definir o ponto de spawn</Value>
     </Record>
     <Record>
       <Key>SetSpawnTitle</Key>
-      <Value>Spawn Point</Value>
+      <Value>Ponto de Spawn</Value>
     </Record>
     <Record>
       <Key>ControlPrimaryClick</Key>
@@ -12053,31 +12053,31 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ControlPrimaryClickDisc</Key>
-      <Value>Interact</Value>
+      <Value>Interagir</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClick</Key>
-      <Value>Hold {KEY:PrimaryAction}</Value>
+      <Value>Segure {KEY:PrimaryAction}</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickConstructDisc</Key>
-      <Value>Construct</Value>
+      <Value>Construir</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickDeconstructDisc</Key>
-      <Value>Deconstruct</Value>
+      <Value>Desconstruir</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickPlaceDisc</Key>
-      <Value>Place</Value>
+      <Value>Colocar</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickPlantDisc</Key>
-      <Value>Plant</Value>
+      <Value>Plantar</Value>
     </Record>
     <Record>
       <Key>ControlHoldPrimaryClickHarvestDisc</Key>
-      <Value>Harvest</Value>
+      <Value>Colher</Value>
     </Record>
     <Record>
       <Key>ControlPlayerMovement</Key>
@@ -12085,7 +12085,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ControlPlayerMovementDisc</Key>
-      <Value>Movement</Value>
+      <Value>Movimento</Value>
     </Record>
     <Record>
       <Key>ControlSwapHands</Key>
@@ -12093,151 +12093,151 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ControlSwapHandsDisc</Key>
-      <Value>Swap Hands</Value>
+      <Value>Trocar de mãos</Value>
     </Record>
     <Record>
       <Key>ActivateExplosiveKey</Key>
-      <Value>Activate countdown</Value>
+      <Value>Ativar contagem regressiva</Value>
     </Record>
     <Record>
       <Key>ActivateExplosiveTooltipKey1</Key>
-      <Value>Activates a</Value>
+      <Value>Ativa um</Value>
     </Record>
     <Record>
       <Key>ActivateExplosiveTooltipKey2</Key>
-      <Value>second timer. Timer cannot be turned off. Caution is advised.</Value>
+      <Value>segundo temporizador. O temporizador não pode ser desligado. Aconselha-se cautela.</Value>
     </Record>
     <Record>
       <Key>CommandSave</Key>
-      <Value>Saves the game and names it as a given parameter. usage: "/save nameofsave"</Value>
+      <Value>Salva o jogo e o nomeia como um determinado parâmetro. use: "/save nomedosave"</Value>
     </Record>
     <Record>
       <Key>CommandShutdown</Key>
-      <Value>Shutsdown the game server and returns player to the lobby can append a timer and message. usage: "/shutdown"</Value>
+      <Value>Desligar o servidor do jogo e retornar o jogador ao lobby pode anexar um cronômetro e uma mensagem. uso: "/shutdown"</Value>
     </Record>
     <Record>
       <Key>CommandNotice</Key>
-      <Value>Send a message to the players of a server. usage: "/notice the message you want to send"</Value>
+      <Value>Envie uma mensagem para os jogadores de um servidor. use: "/notice e a mensagem que deseja enviar"</Value>
     </Record>
     <Record>
       <Key>CommandStatus</Key>
-      <Value>Displays the current status of the server and who's currently in the server: "/status"</Value>
+      <Value>Exibe o status atual do servidor e quem está atualmente no servidor: "/status"</Value>
     </Record>
     <Record>
       <Key>CommandBan</Key>
-      <Value>Ban a given steam ID from the server: "/ban 102039237390"</Value>
+      <Value>Banir um determinado Steam ID do servidor: "/ban 102039237390"</Value>
     </Record>
     <Record>
       <Key>CommandUnBan</Key>
-      <Value>Revoke a ban from a given steam ID from the server: "/unban 102039237390"</Value>
+      <Value>Revogue um banimento de um determinado Steam ID do servidor: "/unban 102039237390"</Value>
     </Record>
     <Record>
       <Key>CommandKick</Key>
-      <Value>Kicks a player from a given steam ID from the server: "/kick 102039237390"</Value>
+      <Value>Expulsa um jogador de um determinado Steam ID do servidor: "/kick 102039237390"</Value>
     </Record>
     <Record>
       <Key>CommandClearAll</Key>
-      <Value>Clears all disconnect players from the server: "/clearall"</Value>
+      <Value>Limpa todos os jogadores desconectados do servidor: "/clearall"</Value>
     </Record>
     <Record>
       <Key>CommandThreadStatus</Key>
-      <Value>Shows the current status of the game's threads.: "/threadstatus"</Value>
+      <Value>Mostra o status atual dos tópicos do jogo.: "/threadstatus"</Value>
     </Record>
     <Record>
       <Key>CommandResetThread</Key>
-      <Value>Resets a given thread. : "/resetthread atmospherics"</Value>
+      <Value>Redefine um determinado segmento. : "/resetthread atmospherics"</Value>
     </Record>
     <Record>
       <Key>CommandSetHunger</Key>
-      <Value>Sets the hunger rate. : "/hungerrate 0.25"</Value>
+      <Value>Define a taxa de fome. : "/hungerrate 0.25"</Value>
     </Record>
     <Record>
       <Key>CommandPause</Key>
-      <Value>Pauses the game for all connected players. : "/pause"</Value>
+      <Value>Pausa o jogo para todos os jogadores conectados. : "/pause"</Value>
     </Record>
     <Record>
       <Key>CommandResume</Key>
-      <Value>Resumes the game for all connected players. : "/resume"</Value>
+      <Value>Retoma o jogo para todos os jogadores conectados. : "/resume"</Value>
     </Record>
     <Record>
       <Key>CommandToggleGod</Key>
-      <Value>Toggles Player invinciablity including suit. : "/tg"</Value>
+      <Value>Alterna a invencibilidade do jogador, incluindo naipe. : "/tg"</Value>
     </Record>
     <Record>
       <Key>CommandToggleInfinitePower</Key>
-      <Value>Toggles Infinite power on a player or serverwide. : "/tgp"</Value>
+      <Value>Alterna o poder infinito em um jogador ou em todo o servidor. : "/tgp"</Value>
     </Record>
     <Record>
       <Key>CommandToggleGameMode</Key>
-      <Value>Toggles Gamemode between Survival and Creative. : "/tgm"</Value>
+      <Value>Alterna o modo de jogo entre sobrevivência e criativo. : "/tgm"</Value>
     </Record>
     <Record>
       <Key>CommandSetTime</Key>
-      <Value>Sets the sun offset affectivley changing the time of day. : "/settime 0.25"</Value>
+      <Value>Define o deslocamento do sol afetivamente alterando a hora do dia. : "/settime 0.25"</Value>
     </Record>
     <Record>
       <Key>CommandToggleInstaGrow</Key>
-      <Value>Toggles Instant plant growth on a server or game. : "/tgrow"</Value>
+      <Value>Alterna o crescimento instantâneo das plantas em um servidor ou jogo. : "/tgrow"</Value>
     </Record>
     <Record>
       <Key>CommandStopWeather</Key>
-      <Value>Stops a Storm Instantly. : "/stopweather"</Value>
+      <Value>Para uma tempestade instantaneamente. : "/stopweather"</Value>
     </Record>
     <Record>
       <Key>CommandStartWeather</Key>
-      <Value>Starts a new Storm Instantly. : "/startweather"</Value>
+      <Value>Inicia uma nova Tempestade instantaneamente. : "/startweather"</Value>
     </Record>
     <Record>
       <Key>CommandToggleNoClip</Key>
-      <Value>Toggles player collisions. : "/tnc"</Value>
+      <Value>Alterna colisões de jogadores. : "/tnc"</Value>
     </Record>
     <Record>
       <Key>CommandSkipStage</Key>
-      <Value>Skips the current mission Stage. : "/skipstage"</Value>
+      <Value>Ignora o estágio da missão atual. : "/skipstage"</Value>
     </Record>
     <Record>
       <Key>CommandSetStage</Key>
-      <Value>Sets the current mission Stage. : "/setstage"</Value>
+      <Value>Define o estágio da missão atual. : "/setstage"</Value>
     </Record>
     <Record>
       <Key>CommandShowStage</Key>
-      <Value>Displays the current mission Stage and how many stages are in the mission. : "/showstage"</Value>
+      <Value>Exibe o estágio atual da missão e quantos estágios estão na missão. : "/showstage"</Value>
     </Record>
     <Record>
       <Key>CommandFillNeeds</Key>
-      <Value>Fills a players hunger and hydration. : "/fillneeds"</Value>
+      <Value>Preenche a fome e a hidratação dos jogadores. : "/fillneeds"</Value>
     </Record>
     <Record>
       <Key>CommandFillHealth</Key>
-      <Value>heals a player. : "/fillhealth"</Value>
+      <Value>cura um jogador. : "/fillhealth"</Value>
     </Record>
     <Record>
       <Key>CommandAddGas</Key>
-      <Value>Adds gas's or liquids to a given tank or pipenetwork. : "/addgas [refID] [gasType 1-8] [molecount]"</Value>
+      <Value>Adiciona gases ou líquidos a um determinado tanque ou rede de tubulação. : "/addgas [refID] [gasType 1-8] [molecount]"</Value>
     </Record>
     <Record>
       <Key>CommandAddGas</Key>
-      <Value>Adds gas's or liquids to a given tank or pipenetwork. : "/addgas [refID] [gasType 1-8] [molecount]"</Value>
+      <Value>Adiciona gases ou líquidos a um determinado tanque ou rede de tubulação. : "/addgas [refID] [gasType 1-8] [molecount]"</Value>
     </Record>
     <Record>
       <Key>CommandCount</Key>
-      <Value>Counts all the Things of specified type in the save. : "/count [AllThings / Structures / DynamicThings / AnimatorThings / Pipes / Cables / Atmospheres / CableNetworks]"</Value>
+      <Value>Conta todas as coisas do tipo especificado no salvamento. : "/count [AllThings / Structures / DynamicThings / AnimatorThings / Pipes / Cables / Atmospheres / CableNetworks]"</Value>
     </Record>
     <Record>
       <Key>CommandSetDecay</Key>
-      <Value>Sets the global food Decay Multiplier. : "/setdecay 2"</Value>
+      <Value>Define o Multiplicador de Decaimento global de alimentos. : "/setdecay 2"</Value>
     </Record>
     <Record>
       <Key>CommandSetContact</Key>
-      <Value>Sets the required signal amount to contact a trader. : "/setcontact 10"</Value>
+      <Value>Define a quantidade de sinal necessária para entrar em contato com um trader. : "/setcontact 10"</Value>
     </Record>
     <Record>
       <Key>CommandHelp</Key>
-      <Value>Displays the commands list. : "/help"</Value>
+      <Value>Exibe a lista de comandos. : "/help"</Value>
     </Record>
     <Record>
       <Key>Seedsstring</Key>
-      <Value>Seeds</Value>
+      <Value>Sementes</Value>
     </Record>
     <Record>
       <Key>Agrizero</Key>
@@ -12245,9 +12245,9 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>AgrizeroDesc</Key>
-      <Value>Agrizero is an agricultural biotech firm focused on researching and deploying offworld farming technology. The company’s aim is to provide a network of self-sustaining, self-contained 'bio-factories' that will ultimately feed a projected 1 million humans in space.
-Emerging from the late 21st century's environmental disasters, the firm has roots in China's world-saving artificial farming initiatives, and has now spread to facilities in the Asteroid Belt, where the supply of ice asteroids makes vertical farming and controlled-environment agriculture extremely promising.
-While many of their facilities are still under construction, Agrizero is already one of the main suppliers of offworld groups like {LINK:ODA;ODA}, {LINK:Sinotai;Sinotai} and {LINK:ExMin;ExMin} through the ever-expanding Trader Network.
+      <Value>A Agrizero é uma empresa de biotecnologia agrícola focada em pesquisar e implantar tecnologia agrícola fora do mundo. O objetivo da empresa é fornecer uma rede de 'biofábricas' autossustentáveis ​​e independentes que, em última análise, alimentarão cerca de 1 milhão de humanos no espaço.
+Emergindo dos desastres ambientais do final do século 21, a empresa tem raízes nas iniciativas de agricultura artificial da China que salvam o mundo e agora se espalhou para instalações no Cinturão de Asteróides, onde o fornecimento de asteróides de gelo torna a agricultura vertical e a agricultura de ambiente controlado extremamente promissoras.
+Embora muitas de suas instalações ainda estejam em construção, a Agrizero já é um dos principais fornecedores de grupos fora do mundo como {LINK:ODA;ODA}, {LINK:Sinotai;Sinotai} e {LINK:ExMin;ExMin} por meio do crescente Rede Comerciante.
       </Value>
     </Record>
     <Record>
@@ -12256,10 +12256,10 @@ While many of their facilities are still under construction, Agrizero is already
     </Record>
     <Record>
       <Key>AsuraDesc</Key>
-      <Value>Asura Biomedia was founded in the early 22nd century by Mumbai-based trillionaire Ashan Gurwaja. Nominally focused on 'biotechnology', the company has always had an ‘elastic’ notion of exactly what that entailed: everything from pharmaceuticals to pet food.
-Gurwaja's background in bio-engineering firms put the company in the highest echelon of bio-science industries from the very beginning, and it grew exactly as its founder intended: rapidly and reliably, structured specifically to swallow up any smaller firms in its way.
-Near mid-century, Asura's ambitions evolved to embrace entire health systems – it is now the largest provider of healthcare on Earth, integrating hospitals and primary care with medical supplies, pharmaceutical production and retail, residential care and funeral services.
-By 2150, Asura's business was a simple proposition, as captured in their famous – if not infamous – advertising slogan: 'We're in you'.
+      <Value>A Asura Biomedia foi fundada no início do século 22 pelo trilionário de Mumbai Ashan Gurwaja. Nominalmente focada em 'biotecnologia', a empresa sempre teve uma noção 'elástica' do que exatamente isso implicava: tudo, desde produtos farmacêuticos a rações para animais de estimação.
+A experiência de Gurwaja em empresas de bioengenharia colocou a empresa no mais alto escalão das indústrias de biociência desde o início, e ela cresceu exatamente como seu fundador pretendia: de forma rápida e confiável, estruturada especificamente para engolir qualquer empresa menor em seu caminho.
+Perto de meados do século, as ambições da Asura evoluíram para abranger sistemas de saúde inteiros – agora é a maior provedora de assistência médica na Terra, integrando hospitais e cuidados primários com suprimentos médicos, produção e varejo farmacêutico, assistência residencial e serviços funerários.
+Em 2150, o negócio da Asura era uma proposta simples, conforme capturado em seu famoso – se não infame – slogan publicitário: 'Estamos em você'.
       </Value>
     </Record>
     <Record>
@@ -12268,9 +12268,9 @@ By 2150, Asura's business was a simple proposition, as captured in their famous 
     </Record>
     <Record>
       <Key>CHACDesc</Key>
-      <Value>Founded in 2085 to produce weapons for {LINK:Sinotai;Sinotai}'s space forces, the company is known for making highly reliable and affordable weapons for off-world use.
-Their pragmatic approach is reflected in their focus on designs suitable for 3D printing and mass production, as well as a high reuse of components across models and weapon classes.
-As a result, although CHAC guns excel in no particular category, and have certainly never been accused of gretness, they suffer no great failings, and perform sufficiently well by most known measures to have earned their designers the informal title of 'armorer to the Solar System'.
+      <Value>Fundada em 2085 para produzir armas para as forças espaciais de {LINK:Sinotai;Sinotai}, a empresa é conhecida por fabricar armas altamente confiáveis ​​e acessíveis para uso fora do mundo.
+Sua abordagem pragmática se reflete em seu foco em projetos adequados para impressão 3D e produção em massa, bem como uma alta reutilização de componentes em modelos e classes de armas.
+Como resultado, embora as armas CHAC se destaquem em nenhuma categoria em particular e certamente nunca tenham sido acusadas de grandeza, elas não sofrem grandes falhas e funcionam suficientemente bem pela maioria das medidas conhecidas para ganhar a seus projetistas o título informal de "armador do Solar". Sistema'.
       </Value>
     </Record>
     <Record>
@@ -12279,9 +12279,9 @@ As a result, although CHAC guns excel in no particular category, and have certai
     </Record>
     <Record>
       <Key>ExMinDesc</Key>
-      <Value>In the aftermath of the Sisyphus disaster on Mars in 2079, asteroid shifting was officially banned by the {LINK:ODA;ODA}. This sea-change forced the newborn space mining industry to reconsider its strategies, but until the opening of the Manaus Space Elevator, marginal economics meant offworld resource extraction was effectively impossible.
-Formed in 2095 by a long-standing Swiss-German mining conglomerate and a consortium of other interests, ExMin was more an idea than a commercial reality for several decades. Created with the certainty that a space elevator would eventually arrive, ExMin was one of the first to exploit the access it offered. Subsequently it has become one of the Solar System's most powerful commercial entities.
-With access to space secure, ExMin became a central player in the flow of resources to the Inner System. It has competition, principally from Brazilian mining giant {LINK:Recurso;Recurso}, but the company has never entirely lost its lead on off-world mining. Synonymous with rare earth metals and pioneering off-world resource extraction, it stands at the forefront of development throughout the Solar System.
+      <Value>Após o desastre de Sísifo em Marte em 2079, a mudança de asteroide foi oficialmente proibida pelo {LINK:ODA;ODA}. Essa mudança radical forçou a recém-nascida indústria de mineração espacial a reconsiderar suas estratégias, mas até a abertura do Elevador Espacial de Manaus, a economia marginal significava que a extração de recursos fora do mundo era efetivamente impossível.
+Formada em 2095 por um conglomerado de mineração suíço-alemão de longa data e um consórcio de outros interesses, a ExMin foi mais uma ideia do que uma realidade comercial por várias décadas. Criado com a certeza de que um elevador espacial acabaria chegando, o ExMin foi um dos primeiros a explorar o acesso que oferecia. Posteriormente, tornou-se uma das entidades comerciais mais poderosas do Sistema Solar.
+Com o acesso ao espaço seguro, o ExMin tornou-se um ator central no fluxo de recursos para o Sistema Interno. Tem concorrência, principalmente da gigante brasileira de mineração {LINK:Recurso;Recurso}, mas a empresa nunca perdeu totalmente a liderança na mineração fora do mundo. Sinônimo de metais de terras raras e extração pioneira de recursos fora do mundo, está na vanguarda do desenvolvimento em todo o Sistema Solar.
       </Value>
     </Record>
     <Record>
@@ -12290,9 +12290,9 @@ With access to space secure, ExMin became a central player in the flow of resour
     </Record>
     <Record>
       <Key>GeFabrikDesc</Key>
-      <Value>Officially known as Gewehrfabrik GmbH, GeFabrik is one of the world’s oldest and most highly regarded armament firms, known for producing exceptionally accurate, high-end firearms.
-In the wake of the European arms manufacturing collapse in the 2030s, a group of unemployed armament staff formed GeFabrik. Dedicated to renewing original design principles, the company is legendary for extensive testing, sometimes lasting as long as 10 years, in order to produce ‘ganz’ weapon formats.
-GeFabrik is widely regarded as having single-handedly salvaged Germany's manufacturing reputation, while doing nothing for their sense of humor.
+      <Value>Oficialmente conhecida como Gewehrfabrik GmbH, a GeFabrik é uma das empresas de armamento mais antigas e conceituadas do mundo, conhecida por produzir armas de fogo de alta qualidade e excepcionalmente precisas.
+Na esteira do colapso da fabricação de armas na Europa na década de 2030, um grupo de funcionários desempregados de armamento formou a GeFabrik. Dedicada a renovar os princípios de design original, a empresa é lendária por testes extensivos, às vezes com duração de até 10 anos, para produzir formatos de armas 'ganz'.
+A GeFabrik é amplamente considerada como tendo salvado sozinha a reputação de fabricação da Alemanha, sem fazer nada por seu senso de humor.
       </Value>
     </Record>
     <Record>
@@ -12301,8 +12301,8 @@ GeFabrik is widely regarded as having single-handedly salvaged Germany's manufac
     </Record>
     <Record>
       <Key>HiiragiDesc</Key>
-      <Value>Founded by Noboru Hiiragi in the aftermath of the 2110s economic bubble, Hiiragi Communications absorbed several prominent offworld assets, quickly becoming the most widely used trans-Solar System communications network.
-If you’ve communicated with friends and family offworld recently, it’s been through the Hiiragi network, even if it’s been branded under one of its many child companies. Hiiragi is also the number one seller for PCD’s (Personal Communication Devices) as well as a deep, if difficult to assess investor in terrestrial telecommunication networks.
+      <Value>Fundada por Noboru Hiiragi após a bolha econômica da década de 2110, a Hiiragi Communications absorveu vários ativos proeminentes fora do mundo, tornando-se rapidamente a rede de comunicações trans-Solar System mais amplamente utilizada.
+Se você se comunicou com amigos e familiares fora do mundo recentemente, foi através da rede Hiiragi, mesmo que tenha sido marcada por uma de suas muitas empresas filhas. Hiiragi também é o vendedor número um de PCDs (Dispositivos de Comunicação Pessoal), bem como um investidor profundo, embora difícil de avaliar, em redes de telecomunicações terrestres.
       </Value>
     </Record>
     <Record>
@@ -12311,9 +12311,9 @@ If you’ve communicated with friends and family offworld recently, it’s been 
     </Record>
     <Record>
       <Key>NorsecDesc</Key>
-      <Value>With its roots in early 20th Century defense industry, Norsec (a.k.a. Northern Security Systems) was an early adopter of asteroid mining – one of its tugs being involved in the infamous Sisyphus Hit on the fledgling Martian colony at Sanders.
-Norsec was officially cleared of any wrong-doing, but when the {LINK:ODA;ODA} banned asteroidal relocation, the company shifted its focus to infrastructure and manufacturing.
-Norsec’s orbitally-based Space Systems Division is responsible for the design and production of {LINK:ODA;ODA}’s core transport systems, while also being rumoured to hold a large interest in {LINK:ExMin;ExMin}. The company is also noted for its willingness to engage in experimental robotic technology.
+      <Value>Com suas raízes na indústria de defesa do início do século 20, a Norsec (também conhecida como Northern Security Systems) foi uma das primeiras a adotar a mineração de asteroides – um de seus rebocadores esteve envolvido no infame Sisyphus Hit na incipiente colônia marciana em Sanders.
+A Norsec foi oficialmente inocentado de qualquer irregularidade, mas quando o {LINK:ODA;ODA} proibiu a realocação de asteroides, a empresa mudou seu foco para infraestrutura e fabricação.
+A Divisão de Sistemas Espaciais da Norsec, baseada em órbita, é responsável pelo projeto e produção dos principais sistemas de transporte de {LINK:ODA;ODA}, além de ter um grande interesse em {LINK:ExMin;ExMin}. A empresa também é conhecida por sua disposição de se envolver em tecnologia robótica experimental.
       </Value>
     </Record>
     <Record>
@@ -12323,9 +12323,9 @@ Norsec’s orbitally-based Space Systems Division is responsible for the design 
     <Record>
       <Key>ODADesc</Key>
       <Value>
-        In the aftermath of the Earth Crisis, humanity’s focus on space diminished. Yet many felt that, without ambitions beyond our home planet, our species might falter.
-Created in 2070CE by a newly revamped United Nations, the Offworld Development Agency was given a very specific goal - to guide and encourage human space exploration at a time the cosmos was fading from the public mind. 
-It inaugurated the {LINK:Stationeers;Stationeer} Program in 2095. Understanding that funding would be difficult to come by, the ODA conceived the program as a slow-burn, low-outlay space initiative. While some derided Stationeers as 'cut-price cosmic castaways', the success of the program is testament to the wisdom and pragmatism of ODA's vision.
+        No rescaldo da Crise da Terra, o foco da humanidade no espaço diminuiu. No entanto, muitos sentiram que, sem ambições além de nosso planeta natal, nossa espécie poderia vacilar.
+Criada em 2070CE por uma recém-reformada Organização das Nações Unidas, a Agência de Desenvolvimento Offworld recebeu um objetivo muito específico - orientar e incentivar a exploração espacial humana em um momento em que o cosmos estava desaparecendo da mente do público.
+Inaugurou o Programa {LINK:Stationeers;Stationeer} em 2095. Entendendo que o financiamento seria difícil de obter, a ODA concebeu o programa como uma iniciativa espacial de baixo custo e queima lenta. Enquanto alguns zombavam dos Stationeers como 'náufragos cósmicos de baixo custo', o sucesso do programa é uma prova da sabedoria e do pragmatismo da visão da ODA.
       </Value>
     </Record>
     <Record>
@@ -12334,10 +12334,10 @@ It inaugurated the {LINK:Stationeers;Stationeer} Program in 2095. Understanding 
     </Record>
     <Record>
       <Key>RecursoDesc</Key>
-      <Value>This long-standing Brazilian mining group branched into space in the late 21st century.
-Focused primarily on bulk minerals and metals, the company is perhaps best understood as an extension of the Brazilian government – very few upper echelon political figures in modern Brazil are not implicated in one arm or another of this industrial behemoth.
-Enmeshment with South American politics has given the company heavy influence over the Manaus space elevator. This deep state control has led to other groups – the {LINK:ODA;ODA} included – to exercise a certain ‘flexibility’ toward Recurso.
-Accusations of illegal asteroid relocation, safety violations and numerous commercial infringements have barely touched it. Meanwhile, defenders point out that very little has been proven in court, and Recurso is hardly alone – hence the truism: 'In space, we all live in glass houses.'
+      <Value>Este grupo de mineração brasileiro de longa data se ramificou no espaço no final do século 21.
+Focada principalmente em minerais e metais a granel, a empresa talvez seja melhor entendida como uma extensão do governo brasileiro – muito poucas figuras políticas de alto escalão no Brasil moderno não estão implicadas em um braço ou outro desse gigante industrial.
+O envolvimento com a política sul-americana deu à empresa forte influência sobre o elevador espacial de Manaus. Esse controle de estado profundo levou outros grupos – incluindo os {LINK:ODA;ODA} – a exercer uma certa ‘flexibilidade’ em relação ao Recurso.
+Acusações de realocação ilegal de asteróides, violações de segurança e inúmeras infrações comerciais mal tocaram nisso. Enquanto isso, os defensores apontam que muito pouco foi comprovado em tribunal, e Recurso não está sozinho – daí o truísmo: 'No espaço, todos nós vivemos em casas de vidro'.
       </Value>
     </Record>
     <Record>
@@ -12346,9 +12346,9 @@ Accusations of illegal asteroid relocation, safety violations and numerous comme
     </Record>
     <Record>
       <Key>SinotaiDesc</Key>
-      <Value>The sole 'traditional' state entity to survive offworld politics, Sinotai’s reach and power is second only to the {LINK:ODA;ODA} itself. In many ways a relic – a sub-agency of a staggeringly complicated Earth-bound corporate-bureaucracy – its structure has allowed Sinotai to achieve incredible things.
-Proving its mettle in the early 21st Century by putting the first humans on Mars, establishing the first offworld gigawatt power system, and the first space-borne fuel refinery, few space-going organisations lack some degree of relationship with Sinotai. A common joke has it that it's impossible to do anything in space without them.
-Regardless of the truth, Sinotai's approach to off-world development has involved a 'soft power' approach, from MOU's with {LINK:Recurso;Recurso} (giving them preferential access to the Manaus space elevator) to murkier alliances of convenience with a range of Trader groups.
+      <Value>A única entidade estatal 'tradicional' a sobreviver à política fora do mundo, o alcance e o poder de Sinotai perdem apenas para o próprio {LINK:ODA;ODA}. De muitas maneiras, uma relíquia – uma subagência de uma burocracia corporativa incrivelmente complicada – sua estrutura permitiu que Sinotai alcançasse coisas incríveis.
+Provando sua coragem no início do século 21, colocando os primeiros humanos em Marte, estabelecendo o primeiro sistema de energia de gigawatt fora do mundo e a primeira refinaria de combustível no espaço, poucas organizações espaciais carecem de algum grau de relacionamento com Sinotai. Uma piada comum diz que é impossível fazer qualquer coisa no espaço sem eles.
+Independentemente da verdade, a abordagem de Sinotai para o desenvolvimento fora do mundo envolveu uma abordagem de 'soft power', desde MOUs com {LINK:Recurso;Recurso} (dando-lhes acesso preferencial ao elevador espacial de Manaus) até alianças mais obscuras de conveniência com um alcance de grupos de comerciantes.
       </Value>
     </Record>
     <Record>
@@ -12357,9 +12357,9 @@ Regardless of the truth, Sinotai's approach to off-world development has involve
     </Record>
     <Record>
       <Key>TKDesc</Key>
-      <Value>Originally a defense contractor specializing in brute force, high power weaponry, Tanzanian Kinetic Systems executed a large-scale, peace-time pivot to become the African Assembly’s leading designer of high-speed goods conveyors.
-Now producing a range of chute network designs and components, TK has a strong offworld presence as a result of the Afro-Sino partnerships in the latter 21st Century. Based in the ‘reconned’ Kigamboni district of Dar E Salaam, the Company regularly enters into development partnerships with {LINK:CHAC;CHAC} and, as a result, many of their products show distinct similarities.
-        After all, what is a gun but a ‘high speed goods conveyor’.
+      <Value>Originalmente uma empreiteira de defesa especializada em força bruta e armamento de alta potência, a Tanzanian Kinetic Systems executou um pivô em grande escala em tempos de paz para se tornar o principal projetista de transportadores de mercadorias de alta velocidade da Assembleia Africana.
+Agora produzindo uma variedade de projetos e componentes de rede de chutes, a TK tem uma forte presença fora do mundo como resultado das parcerias Afro-Sino no último século 21. Com sede no distrito 'reconhecido' de Kigamboni de Dar E Salaam, a empresa firma regularmente parcerias de desenvolvimento com {LINK:CHAC;CHAC} e, como resultado, muitos de seus produtos apresentam semelhanças distintas.
+        Afinal, o que é uma arma senão um "transportador de mercadorias de alta velocidade".
       </Value>
     </Record>
     <Record>
@@ -12368,10 +12368,10 @@ Now producing a range of chute network designs and components, TK has a strong o
     </Record>
     <Record>
       <Key>XigoDesc</Key>
-      <Value>A 2150CE survey revealed the Xigo 'X' as one of the most recognized symbols in the world. Yet few participants could clearly describe the company's actual scope.
-Precisely where the company begins and ends has been the subject of endless theories, financial studies and lawsuits – originally a website for price comparisons, the conglomerate expanded to embrace data, then distribution and finally production.
-It was a seemingly indiscriminate expansion, focused not on one industry, but all of them – taking in so many fields that business analysts have largely rejected the idea of Xigo as a single entity. Rather, it is a conceptual grouping for a branch of human activity. And while such statistics are – by their very nature – difficult to confirm, recent estimates suggest Xigo employs over 1.5% of the entire human race.
-Suffice to say, it produces almost everything.
+      <Value>Uma pesquisa de 2150CE revelou o Xigo 'X' como um dos símbolos mais reconhecidos do mundo. No entanto, poucos participantes puderam descrever claramente o escopo real da empresa.
+Precisamente onde a empresa começa e termina tem sido objeto de infinitas teorias, estudos financeiros e ações judiciais – originalmente um site para comparação de preços, o conglomerado expandiu-se para abranger dados, depois distribuição e finalmente produção.
+Foi uma expansão aparentemente indiscriminada, focada não em um setor, mas em todos eles – abrangendo tantos campos que os analistas de negócios rejeitaram amplamente a ideia da Xigo como uma entidade única. Pelo contrário, é um agrupamento conceitual para um ramo da atividade humana. E embora tais estatísticas sejam – por sua própria natureza – difíceis de confirmar, estimativas recentes sugerem que Xigo emprega mais de 1,5% de toda a raça humana.
+Basta dizer que produz quase tudo.
       </Value>
     </Record>
     <Record>
@@ -12380,12 +12380,12 @@ Suffice to say, it produces almost everything.
     </Record>
     <Record>
       <Key>StationeersDesc</Key>
-      <Value>In the early 22nd century, Earth was emerging from a cataclysm. Its resources eroded, our population reduced, rebuilding was the spirit of the era.
-Initiated by the {LINK:ODA;Offworld Development Agency} (ODA) in 2095CE, the Stationeers Program was dedicated to a single ideal: keeping humanity pointed at the stars.
-Stationeers are everything: astronauts, engineers and explorers, deployed with limited equipment and tools, trained to do more with less. Turning the environment to their advantage, their job is to provide infrastructure for humans in space, at a fraction of the cost of traditional space programs.
-Able to build and maintain bases anywhere from the Moon to Mimas and beyond, Stationeers are our vanguard in the cosmos. Schooled in offworld survival, mining and construction techniques, basic metallurgy, electronics, rocketry, hydroponics and more ‘arcane’ sciences, Stationeers do what they must to survive, and thrive.
-Renowned for having no entry criteria, there is no such thing as a ‘typical’ Stationeer. Psychological profiling suggests successful Cadets show a ‘baseline’ pragmatism and single-mindedness, but some of the most famous Stationeers possess neither of these qualities.
-Recruiting from civil engineering backgrounds, military and aerospace industries, software development, mining groups, as well as scientific fields and even religious orders, the Stationeers Program is – fundamentally – open to all humanity.
+      <Value>No início do século 22, a Terra estava emergindo de um cataclismo. Seus recursos erodiram, nossa população foi reduzida, a reconstrução era o espírito da época.
+Iniciado pela {LINK:ODA;Offworld Development Agency} (ODA) em 2095CE, o Programa Stationeers foi dedicado a um único ideal: manter a humanidade apontada para as estrelas.
+Stationeers são tudo: astronautas, engenheiros e exploradores, implantados com equipamentos e ferramentas limitados, treinados para fazer mais com menos. Transformando o meio ambiente em vantagem, seu trabalho é fornecer infraestrutura para humanos no espaço, por uma fração do custo dos programas espaciais tradicionais.
+Capazes de construir e manter bases em qualquer lugar da Lua a Mimas e além, os Stationeers são nossa vanguarda no cosmos. Educados em sobrevivência fora do mundo, técnicas de mineração e construção, metalurgia básica, eletrônica, foguetes, hidroponia e ciências mais “arcanosas”, os Stationeers fazem o que precisam para sobreviver e prosperar.
+Reconhecido por não ter critérios de entrada, não existe um Stationeer 'típico'. O perfil psicológico sugere que os cadetes bem-sucedidos mostram um pragmatismo de “linha de base” e obstinação, mas alguns dos Stationeers mais famosos não possuem nenhuma dessas qualidades.
+Recrutando de origens de engenharia civil, indústrias militares e aeroespaciais, desenvolvimento de software, grupos de mineração, além de campos científicos e até ordens religiosas, o Programa Stationeers é – fundamentalmente – aberto a toda a humanidade.
       </Value>
     </Record>
     <Record>
@@ -12394,15 +12394,15 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>ControlMouseControlDisc</Key>
-      <Value>Activate Mouse Control</Value>
+      <Value>Ativar o controle do mouse</Value>
     </Record>
     <Record>
       <Key>ControlMouseDrag</Key>
-      <Value>Hold and Drag {KEY:PrimaryAction}</Value>
+      <Value>Segure e arraste {KEY:PrimaryAction}</Value>
     </Record>
     <Record>
       <Key>ControlMouseDragDisc</Key>
-      <Value>Move Selection</Value>
+      <Value>Mover Seleção</Value>
     </Record>
     <Record>
       <Key>ControlSecondaryAction</Key>
@@ -12410,7 +12410,7 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>ControlSecondaryActionBuildModeDisc</Key>
-      <Value>Toggle Build Mode</Value>
+      <Value>Alternar o modo de construção</Value>
     </Record>
     <Record>
       <Key>ControlScrollWheelSelect</Key>
@@ -12418,7 +12418,7 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>ControlScrollWheelSelectDisc</Key>
-      <Value>Toggle Build Mode</Value>
+      <Value>Alternar o modo de construção</Value>
     </Record>
     <Record>
       <Key>ControlAutoRotate</Key>
@@ -12426,15 +12426,15 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>ControlAutoRotateDisc</Key>
-      <Value>Auto Rotate</Value>
+      <Value>Auto rotação</Value>
     </Record>
     <Record>
       <Key>ControlMouseScroll</Key>
-      <Value>Mouse scroll</Value>
+      <Value>Rolagem do mouse</Value>
     </Record>
     <Record>
       <Key>ControlMouseScrollDisc</Key>
-      <Value>Item Select</Value>
+      <Value>Seleção de itens</Value>
     </Record>
     <Record>
       <Key>ControlTurnOn</Key>
@@ -12442,31 +12442,31 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>ControlTurnOnDisc</Key>
-      <Value>Turn On</Value>
+      <Value>Ligar</Value>
     </Record>
     <Record>
       <Key>ControlQuickMove</Key>
-      <Value>Scroll wheel + {KEY:InventorySelect}</Value>
+      <Value>Rodinha do mouse + {KEY:InventorySelect}</Value>
     </Record>
     <Record>
       <Key>ControlQuickMoveDisc</Key>
-      <Value>Quick Move Item</Value>
+      <Value>Mover item rapidamente</Value>
     </Record>
     <Record>
       <Key>WeatherEventsField</Key>
-      <Value>Has Weather Events</Value>
+      <Value>Eventos Climáticos</Value>
     </Record>
     <Record>
       <Key>ControlUseItemDisc</Key>
-      <Value>Use Item</Value>
+      <Value>Usar Item</Value>
     </Record>
     <Record>
       <Key>ControlMineDisc</Key>
-      <Value>Mine Ore</Value>
+      <Value>Minerar</Value>
     </Record>
     <Record>
       <Key>ControlSecondaryEatDisc</Key>
-      <Value>Eat</Value>
+      <Value>Comer</Value>
     </Record>
     <Record>
       <Key>HelpCommand</Key>
@@ -12474,87 +12474,87 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>ToggleChangeLog</Key>
-      <Value>Toggle Changelog</Value>
+      <Value>Mostrar Changelog</Value>
     </Record>
     <Record>
       <Key>ShowPreviousVideoText</Key>
-      <Value>Show Previous video</Value>
+      <Value>Mostrar vídeo anterior</Value>
     </Record>
     <Record>
       <Key>HelmetString</Key>
-      <Value>Helmet</Value>
+      <Value>Capacete</Value>
     </Record>
     <Record>
       <Key>LightString</Key>
-      <Value>Light</Value>
+      <Value>Lanterna</Value>
     </Record>
     <Record>
       <Key>FixedWeatherEventMissing</Key>
-      <Value>No weather system was found for this world. The default weather system has been applied. Expect some turbulence.</Value>
+      <Value>Nenhum sistema meteorológico foi encontrado para este mundo. O sistema climático padrão foi aplicado. Espere alguma turbulência.</Value>
     </Record>
     <Record>
       <Key>AdvancedTutorialButton</Key>
-      <Value>Legacy/Advanced</Value>
+      <Value>Legacy/Avançado</Value>
     </Record>
     <Record>
       <Key>BasicButtonTutorial</Key>
-      <Value>Basic</Value>
+      <Value>Básico</Value>
     </Record>
     <Record>
       <Key>NextTutoiralButtonFail</Key>
-      <Value>Unable to load Next Tutorial. Please return to menu.</Value>
+      <Value>Não foi possível carregar o próximo tutorial. Por favor, retorne ao menu.</Value>
     </Record>
     <Record>
       <Key>ImportExportCategoryKey</Key>
-      <Value>Import/Export</Value>
+      <Value>Importar/Exportar</Value>
     </Record>
     <Record>
       <Key>TravelCategoryKey</Key>
-      <Value>Travel</Value>
+      <Value>Viagem</Value>
     </Record>
     <Record>
       <Key>FurnitureCategoryKey</Key>
-      <Value>Furniture</Value>
+      <Value>Mobílias</Value>
     </Record>
     <Record>
       <Key>CartidgeCategoryKey</Key>
-      <Value>Cartridges</Value>
+      <Value>Cartuchos</Value>
     </Record>
     <Record>
       <Key>WeatherCategoryKey</Key>
-      <Value>Weather</Value>
+      <Value>Clima</Value>
     </Record>
     <Record>
       <Key>HandToolsCategoryKey</Key>
-      <Value>Hand Tools</Value>
+      <Value>Ferramentas de mão</Value>
     </Record>
     <Record>
       <Key>OrganicsCategoryKey</Key>
-      <Value>Organics and Food</Value>
+      <Value>Orgânicos e Alimentos</Value>
     </Record>
     <Record>
       <Key>StructureCategoryKey</Key>
-      <Value>Structures</Value>
+      <Value>Estruturas</Value>
     </Record>
     <Record>
       <Key>LogicCategoryKey</Key>
-      <Value>Logic Devices</Value>
+      <Value>Dispositivos Lógicos</Value>
     </Record>
     <Record>
       <Key>PowerCategoryKey</Key>
-      <Value>Electronics</Value>
+      <Value>Eletrônicos</Value>
     </Record>
     <Record>
       <Key>AppliancesCategoryKey</Key>
-      <Value>Appliances</Value>
+      <Value>Eletrodomésticos</Value>
     </Record>
     <Record>
       <Key>AtmopshericsCategoryKey</Key>
-      <Value>Atmospherics</Value>
+      <Value>Atmosféricos</Value>
     </Record>
     <Record>
       <Key>ReagentsCategoryKey</Key>
-      <Value>Reagents</Value>
+      <Value>Reagentes</Value>
     </Record>
     <Record>
       <Key>GasesCategoryKey</Key>
@@ -12562,35 +12562,35 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>ConstructionKitsCategoryKey</Key>
-      <Value>Structure Kits</Value>
+      <Value>Kits de estruturas</Value>
     </Record>
     <Record>
       <Key>FabricatorCategoryKey</Key>
-      <Value>Fabricators</Value>
+      <Value>Fabricadores</Value>
     </Record>
     <Record>
       <Key>IngotsCategoryKey</Key>
-      <Value>Ingots</Value>
+      <Value>Lingotes</Value>
     </Record>
     <Record>
       <Key>OreCategoryKey</Key>
-      <Value>Ores</Value>
+      <Value>Minérios</Value>
     </Record>
     <Record>
       <Key>OreCategoryKey </Key>
-      <Value>Ores</Value>
+      <Value>Minérios</Value>
     </Record>
     <Record>
       <Key>PersonalCategoryKey</Key>
-      <Value>Personal</Value>
+      <Value>Pessoal</Value>
     </Record>
     <Record>
       <Key>PressureKeySPDA</Key>
-      <Value>Max Pressure:</Value>
+      <Value>Pressão Máxima:</Value>
     </Record>
     <Record>
       <Key>CableMaxPowerSPDA</Key>
-      <Value>Maximum Wattage:</Value>
+      <Value>Potência máxima:</Value>
     </Record>
     <Record>
       <Key>StationpediaTitle</Key>
@@ -12598,59 +12598,59 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>StationpediaSearch</Key>
-      <Value>Search</Value>
+      <Value>Pesquisar</Value>
     </Record>
     <Record>
       <Key>StationpediaBeginnerGuides</Key>
-      <Value>Guides</Value>
+      <Value>Guias</Value>
     </Record>
     <Record>
       <Key>StationpediaAdvancedGuides</Key>
-      <Value>Universe</Value>
+      <Value>Universo</Value>
     </Record>
     <Record>
       <Key>StationpediaConstructWith</Key>
-      <Value>Construct with:</Value>
+      <Value>Construir com:</Value>
     </Record>
     <Record>
       <Key>StationpediaPrefabHash</Key>
-      <Value>Prefab Hash:</Value>
+      <Value>Hash pré-fabricado:</Value>
     </Record>
     <Record>
       <Key>StationpediaPaintable</Key>
-      <Value>Paintable:</Value>
+      <Value>Pintável:</Value>
     </Record>
     <Record>
       <Key>StationpediaStackSize</Key>
-      <Value>Stack Size:</Value>
+      <Value>Tamanho da pilha:</Value>
     </Record>
     <Record>
       <Key>StationpediaThingUnit</Key>
-      <Value>Unit:</Value>
+      <Value>Unidade:</Value>
     </Record>
     <Record>
       <Key>StationpediaReagentsHeader</Key>
-      <Value>Reagents:</Value>
+      <Value>Reagentes:</Value>
     </Record>
     <Record>
       <Key>StationpediaHeatHeader</Key>
-      <Value>Specific Heat:</Value>
+      <Value>Calor específico:</Value>
     </Record>
     <Record>
       <Key>StationpediaShatterHeader</Key>
-      <Value>Shatter:</Value>
+      <Value>Despedaçar:</Value>
     </Record>
     <Record>
       <Key>StationpediaFlashpointHeader</Key>
-      <Value>Flashpoint:</Value>
+      <Value>Ponto de inflamação:</Value>
     </Record>
     <Record>
       <Key>StationpediaAutoIgniteHeader</Key>
-      <Value>Autoignition:</Value>
+      <Value>Autoignição:</Value>
     </Record>
     <Record>
       <Key>StationpediaConstructedFrom</Key>
-      <Value>Constructed From</Value>
+      <Value>Construído de</Value>
     </Record>
     <Record>
       <Key>StationpediaSlotsHeader</Key>
@@ -12658,15 +12658,15 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>StationpediaHowToManufacture</Key>
-      <Value>How to Manufacture</Value>
+      <Value>Como fabricar</Value>
     </Record>
     <Record>
       <Key>StationpediaBuildStates</Key>
-      <Value>Build States</Value>
+      <Value>Estados de construção</Value>
     </Record>
     <Record>
       <Key>StationpediaMachineVersion</Key>
-      <Value>Versions</Value>
+      <Value>Versões</Value>
     </Record>
     <Record>
       <Key>StationpediaGasHeader</Key>
@@ -12674,49 +12674,47 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>StationpediaResoucesHeader</Key>
-      <Value>Resources Used</Value>
+      <Value>Recursos usados</Value>
     </Record>
     <Record>
       <Key>StationpediaUsedIn</Key>
-      <Value>Used In</Value>
+      <Value>Usado em</Value>
     </Record>
     <Record>
       <Key>StationpediaManufactures</Key>
-      <Value>Manufactures</Value>
+      <Value>Manufatura</Value>
     </Record>
     <Record>
       <Key>StationpediaFoundIn</Key>
-      <Value>Found In</Value>
+      <Value>Encontrado em</Value>
     </Record>
     <Record>
       <Key>StationpediaConstructionOptions</Key>
-      <Value>
-        Construction Options
-</Value>
+      <Value>Opções de construção</Value>
     </Record>
     <Record>
       <Key>StationpediaModeHeader</Key>
-      <Value>Mode</Value>
+      <Value>Modo</Value>
     </Record>
     <Record>
       <Key>StationpediaLogicHeader</Key>
-      <Value>Logic</Value>
+      <Value>Lógico</Value>
     </Record>
     <Record>
       <Key>StationpediaLogicSlotHeader</Key>
-      <Value>Logic Slots</Value>
+      <Value>Slots Lógicos</Value>
     </Record>
     <Record>
       <Key>StationpediaTutorialListHeader</Key>
-      <Value>Tutorials</Value>
+      <Value>Tutoriais</Value>
     </Record>
     <Record>
       <Key>StationpediaNoResults</Key>
-      <Value>No results found...</Value>
+      <Value>Nenhum resultado encontrado...</Value>
     </Record>
     <Record>
       <Key>HydrationSPDAKey</Key>
-      <Value>Hydration</Value>
+      <Value>Hidratação</Value>
     </Record>
     <Record>
       <Key>EvaSPDAKey</Key>
@@ -12724,39 +12722,39 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>NutritionSPDAKey</Key>
-      <Value>Nutrition</Value>
+      <Value>Nutrição</Value>
     </Record>
     <Record>
       <Key>StatusIconHydrationDesc</Key>
-      <Value>Hydration is running low</Value>
+      <Value>Hidratação está acabando</Value>
     </Record>
     <Record>
       <Key>StatusIconHydrationKey</Key>
-      <Value>Hydration Low</Value>
+      <Value>Hidratação Baixa</Value>
     </Record>
     <Record>
       <Key>HydrationCaution</Key>
-      <Value>Hydration Caution</Value>
+      <Value>Cuidado com a Hidratação</Value>
     </Record>
     <Record>
       <Key>HydrationCritical</Key>
-      <Value>Hydration Critical</Value>
+      <Value>Hidratação Crítica</Value>
     </Record>
     <Record>
       <Key>Guides</Key>
-      <Value>Guides</Value>
+      <Value>Guias</Value>
     </Record>
     <Record>
       <Key>Lore</Key>
-      <Value>Lore</Value>
+      <Value>Conhecimento</Value>
     </Record>
     <Record>
       <Key>SettingsLightShadowDistance</Key>
-      <Value>Light Shadow Distance</Value>
+      <Value>Distância sombra da Luz</Value>
     </Record>
     <Record>
       <Key>CrowbarToFlip</Key>
-      <Value>Flip using crowbar</Value>
+      <Value>Virar usando o pé-de-cabra</Value>
     </Record>
     <Record>
       <Key>TimerPanel</Key>
@@ -12764,7 +12762,7 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>LogicTypeTime</Key>
-      <Value>Time</Value>
+      <Value>Tempo</Value>
     </Record>
     <Record>
       <Key>LogicTypeBpm</Key>
@@ -12772,11 +12770,11 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>LogicTypeEnvironmentEfficiency</Key>
-      <Value>The Environment Efficiency reported by the machine, as a float between 0 and 1</Value>
+      <Value>A Eficiência Ambiental relatada pela máquina, como uma flutuação entre 0 e 1</Value>
     </Record>
     <Record>
       <Key>LogicTypeWorkingGasEfficiency</Key>
-      <Value>The Working Gas Efficiency reported by the machine, as a float between 0 and 1</Value>
+      <Value>A eficiência do gás de trabalho relatada pela máquina, como um flutuador entre 0 e 1</Value>
     </Record>
     <Record>
       <Key>Pitch</Key>
@@ -12788,51 +12786,51 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>NoAudioReceiverDevices</Key>
-      <Value>No Audio Receiver Devices</Value>
+      <Value>Nenhum dispositivo receptor de áudio</Value>
     </Record>
     <Record>
       <Key>Speed</Key>
-      <Value>Speed</Value>
+      <Value>Velocidade</Value>
     </Record>
     <Record>
       <Key>Attack</Key>
-      <Value>Attack</Value>
+      <Value>Ataque</Value>
     </Record>
     <Record>
       <Key>Release</Key>
-      <Value>Release</Value>
+      <Value>Liberar</Value>
     </Record>
     <Record>
       <Key>CurrentInstrument</Key>
-      <Value>Current Instrument</Value>
+      <Value>Instrumento atual</Value>
     </Record>
     <Record>
       <Key>NoSoundCartridge</Key>
-      <Value>No Sound Cartridge</Value>
+      <Value>Sem cartucho de som</Value>
     </Record>
     <Record>
       <Key>NoNote</Key>
-      <Value>No Note</Value>
+      <Value>Sem Nota</Value>
     </Record>
     <Record>
       <Key>Intensity</Key>
-      <Value>Intensity</Value>
+      <Value>Intensidade</Value>
     </Record>
     <Record>
       <Key>Waveform</Key>
-      <Value>Waveform</Value>
+      <Value>Forma de onda</Value>
     </Record>
     <Record>
       <Key>Radius</Key>
-      <Value>Detection Radius</Value>
+      <Value>Raio de Detecção</Value>
     </Record>
     <Record>
       <Key>StationpediaBasePowerUsage</Key>
-      <Value>Base Power Usage:</Value>
+      <Value>Uso básico de energia:</Value>
     </Record>
     <Record>
       <Key>StationpediaMaxPressure</Key>
-      <Value>Max Pressure:</Value>
+      <Value>Pressão Máxima:</Value>
     </Record>
     <Record>
       <Key>StationpediaVolume</Key>
@@ -12840,58 +12838,57 @@ Recruiting from civil engineering backgrounds, military and aerospace industries
     </Record>
     <Record>
       <Key>StationpediaNutrition</Key>
-      <Value>Nutrition:</Value>
+      <Value>Nutrição:</Value>
     </Record>
     <Record>
       <Key>MoleOxygenDescription</Key>
-      <Value>Oxygen provides energy when released in combustion, and also bonds with hydrogen to create {GAS:Water}. It is created by {LINK:OrganicPage;plants}, as well as from processing {THING:ItemOxite}. It is highly flammable at low temperatures.</Value>
+      <Value>O oxigênio fornece energia quando liberado na combustão e também se liga ao hidrogênio para criar {GÁS:Água}. Ele é criado por {LINK:OrganicPage;plants}, bem como do processamento de {THING:ItemOxite}. É altamente inflamável a baixas temperaturas.</Value>
     </Record>
     <Record>
       <Key>MoleNitrogenDescription</Key>
-      <Value>{GAS:Nitrogen} can be mixed with {GAS:Oxygen} to stablize its flammability and avoid {GAS:Oxygen} toxicity, and is a resource in its own right, useful for creating, a breathable atmosphere (at roughly 3:1 {GAS:Nitrogen} and {GAS:Oxygen}). The most efficient source of {GAS:Nitrogen} is from {THING:ItemNitrice} deposites found around the Solar System.</Value>
+      <Value>{GAS:Nitrogen} pode ser misturado com {GAS:Oxygen} para estabilizar sua inflamabilidade e evitar a toxicidade, O {GAS:Oxygen}, e é um recurso por si só, útil para criar uma atmosfera respirável (a aproximadamente 3:1 { GÁS:Nitrogênio} e {GÁS:Oxigênio}). A fonte mais eficiente de {GAS:Nitrogen} é de depósitos de {THING:ItemNitrice} encontrados ao redor do Sistema Solar.</Value>
     </Record>
     <Record>
       <Key>MoleCarbonDioxideDescription</Key>
-      <Value>You breathe it out, {LINK:OrganicPage;plants} breath it in. They don't grow without it. You can use items placed in {SLOT:GasFilter} slots to remove this from the atmosphere.
+      <Value>Você expira, as {LINK:OrganicPage;plants} inspira. Elas não crescem sem ele. Você pode usar itens colocados nos slots {SLOT:GasFilter} para removê-los da atmosfera.
       
-{GAS:CarbonDioxide} has a moderately high specific heat, meaning it makes a good coolant for devices like the Wall Coo
-{THING:StructureWallCooler}. {GAS:Water} is better, but usually has more important uses.</Value>
+{GAS:CarbonDioxide} tem um calor específico moderadamente alto, o que significa que é um bom refrigerante para dispositivos como o Wall Coo
+{COISA:StructureWallCooler}. {GAS:Water} é melhor, mas geralmente tem usos mais importantes.</Value>
     </Record>
     <Record>
       <Key>MoleVolatilesDescription</Key>
-      <Value>Volatiles are an extremely reactive, complex organic molecule, which can be used in conjunction with oxygen as a combustible fuel. It is refined from {THING:ItemVolatiles}.
+      <Value>Os voláteis são uma molécula orgânica extremamente reativa e complexa, que pode ser usada em conjunto com o oxigênio como combustível combustível. Ele é refinado de {THING:ItemVolatiles}.
       
-Due to obscure and largely forgotten {LINK:ODA;ODA} regulations, volatiles are sometimes labelled 'H2' by various items of technology. However, though they are similar to hydrogen, they're not 'actually' hydrogen. {GAS:Volatiles} will not produce {GAS:Water} when combusted, without a catalyst (see the {THING:H2Combustor}). Alone, they create {GAS:Pollutant}s and {GAS:CarbonDioxide} when burned in the following ratio:
+Devido a regulamentações {LINK:ODA;ODA} obscuras e amplamente esquecidas, os voláteis às vezes são rotulados como 'H2' por vários itens de tecnologia. No entanto, embora sejam semelhantes ao hidrogênio, eles não são 'realmente' hidrogênio. {GAS:Volatiles} não produzirá {GAS:Water} quando queimado, sem um catalisador (consulte o {THING:H2Combustor}). Sozinhos, eles criam {GAS:Pollutant}s e {GAS:CarbonDioxide} quando queimados na seguinte proporção:
       
-2 {GAS:Volatiles} + 1 {GAS:Oxygen} -&gt; 3 {GAS:Pollutant} + 6 {GAS:CarbonDioxide} + heat.</Value>
+2 {GÁS:Voláteis} + 1 {GÁS:Oxigênio} -&gt; 3 {GÁS:Poluente} + 6 {GÁS:Dióxido de Carbono} + calor.</Value>
     </Record>
     <Record>
       <Key>MolePollutantDescription</Key>
-      <Value>Also known as 'X', {GAS:Pollutant} is created when smelting certain metals. A concentration of 0.1 mol or greater will cause your suit to warn about poison in the atmosphere.
+      <Value>Também conhecido como 'X', {GAS:Pollutant} é criado ao fundir certos metais. Uma concentração de 0,1 mol ou maior fará com que seu traje alerte sobre veneno na atmosfera.
       
-Pollutant has a high specific heat, making it an excellent coolant. Unfortunately it is extremely bad for organic beings, and will severely damage the lungs of most {REAGENT:Carbon} based organisms.</Value>
+Poluente tem um alto calor específico, tornando-se um excelente refrigerante. Infelizmente, é extremamente ruim para os seres orgânicos e danificará gravemente os pulmões da maioria dos organismos baseados em {REAGENT:Carbon}.</Value>
     </Record>
     <Record>
       <Key>MoleWaterDescription</Key>
-      <Value>You can obtain water by smelting or crushing {THING:ItemIce} using a {THING:StructureFurnace} or an {THING:StructureIceCrusher}, or by combusting {GAS:Volatiles} and oxygen using the {THING:H2Combustor}.
+      <Value>Você pode obter água fundindo ou esmagando {THING:ItemIce} usando um {THING:StructureFornace} ou um {THING:StructureIceCrusher}, ou queimando {GAS:Volatiles} e oxigênio usando o {THING:H2Combustor}.
       
-{GAS:Water} is critical for {LINK:OrganicPage;plants} to stay alive, and grow {LINK:NutritionPage;food}. It is also an exceptional coolant with a very high specific heat capacity.
+{GAS:Water} é fundamental para que {LINK:OrganicPage;plants} permaneça vivo e cresça {LINK:NutritionPage;food}. É também um refrigerante excepcional com uma capacidade de calor específico muito alta.
 
-Note: {GAS:Water} was previously treated as a gas, but a new system for liquids is being developed, including separate pipes, tanks, pumps, etc for liquids. {GAS:Water} is currently the only available liquid, and does not presently change states.
+Nota: {GAS:Water} foi anteriormente tratado como um gás, mas um novo sistema para líquidos está sendo desenvolvido, incluindo tubos separados, tanques, bombas, etc. para líquidos. {GAS:Water} é atualmente o único líquido disponível e atualmente não muda de estado.
 </Value>
     </Record>
     <Record>
       <Key>MoleNitrousOxideDescription</Key>
-      <Value>Nitrous oxide is an inert gas that will knock players out if inhaled. It makes your {THING:ItemJetpackBasic} go whoosh.</Value>
+      <Value>O óxido nitroso é um gás inerte que nocauteia os jogadores se inalado. Isso faz seu {THING:ItemJetpackBasic} explodir.</Value>
     </Record>
     <Record>
       <Key>SettingsSmoothTerrain</Key>
-      <Value>Smooth Terrain</Value>
+      <Value>Terreno Suave</Value>
     </Record>
     <Record>
       <Key>SettingsVirtualizedRendering</Key>
-      <Value>Virtualized Rendering
-</Value>
+      <Value>Renderização virtualizada</Value>
     </Record>
     <Record>
       <Key>SettingsStartLocalHost</Key>
@@ -12899,463 +12896,311 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     </Record>
     <Record>
       <Key>MainMenu Change Appearance</Key>
-      <Value>Change Appearance</Value>
+      <Value>Mudar a aparência</Value>
     </Record>
     <Record>
       <Key>CreateNewGame</Key>
-      <Value>Select World</Value>
+      <Value>Selecionar mundo</Value>
     </Record>
     <Record>
       <Key>WorkshopModsTitle</Key>
-      <Value>Workshop Mods</Value>
+      <Value>Mods da oficina</Value>
     </Record>
     <Record>
       <Key>GameMenuButtonSaveAs</Key>
-      <Value>Save Game As...</Value>
+      <Value>Salvar jogo como...</Value>
     </Record>
     <Record>
       <Key>GameMenuPauseGameButton</Key>
-      <Value>Pause Game</Value>
+      <Value>Pausar jogo</Value>
     </Record>
     <Record>
       <Key>WorldConfigurationDifficultyTitle</Key>
-      <Value>Difficulty</Value>
+      <Value>Dificuldade</Value>
     </Record>
     <Record>
       <Key>StartNewGameButton</Key>
-      <Value>Start Game</Value>
+      <Value>Começar o jogo</Value>
     </Record>
     <Record>
       <Key>StationpediaThermalConductivityConvection</Key>
-      <Value>Thermal Convection:</Value>
+      <Value>Convecção Térmica:</Value>
     </Record>
     <Record>
       <Key>StationpediaThermalConductivityRadiation</Key>
-      <Value>Thermal Radiation:</Value>
+      <Value>Radiação Térmica:</Value>
     </Record>
     <Record>
       <Key>ScoreboardDaysLived</Key>
-      <Value>Days Lived</Value>
+      <Value>Dias Vivo</Value>
     </Record>
   </Interface>
   <Colors>
     <Record>
       <Key>ColorBlue</Key>
-      <Value>Blue</Value>
+      <Value>Azul</Value>
     </Record>
     <Record>
       <Key>ColorGray</Key>
-      <Value>Gray</Value>
+      <Value>Cinza</Value>
     </Record>
     <Record>
       <Key>ColorGreen</Key>
-      <Value>Green</Value>
+      <Value>Verde</Value>
     </Record>
     <Record>
       <Key>ColorOrange</Key>
-      <Value>Orange</Value>
+      <Value>Laranja</Value>
     </Record>
     <Record>
       <Key>ColorRed</Key>
-      <Value>Red</Value>
+      <Value>Vermelho</Value>
     </Record>
     <Record>
       <Key>ColorYellow</Key>
-      <Value>Yellow</Value>
+      <Value>Amarelo</Value>
     </Record>
     <Record>
       <Key>ColorWhite</Key>
-      <Value>White</Value>
+      <Value>Branco</Value>
     </Record>
     <Record>
       <Key>ColorBlack</Key>
-      <Value>Black</Value>
+      <Value>Preto</Value>
     </Record>
     <Record>
       <Key>ColorBrown</Key>
-      <Value>Brown</Value>
+      <Value>Marrom</Value>
     </Record>
     <Record>
       <Key>ColorKhaki</Key>
-      <Value>Khaki</Value>
+      <Value>Caqui</Value>
     </Record>
     <Record>
       <Key>ColorPink</Key>
-      <Value>Pink</Value>
+      <Value>Rosa</Value>
     </Record>
     <Record>
       <Key>ColorPurple</Key>
-      <Value>Purple</Value>
+      <Value>Roxo</Value>
     </Record>
   </Colors>
   <Keys>
     <Record>
       <Key>None</Key>
-      <Value>None</Value>
+      <Value>Nenhum</Value>
     </Record>
     <Record>
       <Key>Backspace</Key>
-      <Value>Backspace</Value>
+      <Value>Retrocesso</Value>
     </Record>
     <Record>
       <Key>Tab</Key>
-      <Value>Tab</Value>
+      <Value>Tabulação</Value>
     </Record>
     <Record>
       <Key>Clear</Key>
-      <Value>Clear</Value>
+      <Value>Limpar</Value>
     </Record>
     <Record>
       <Key>Return</Key>
-      <Value>Return</Value>
+      <Value>Enter</Value>
     </Record>
     <Record>
       <Key>Pause</Key>
-      <Value>Pause</Value>
-    </Record>
-    <Record>
-      <Key>Escape</Key>
-      <Value>Escape</Value>
+      <Value>Pausa</Value>
     </Record>
     <Record>
       <Key>Space</Key>
-      <Value>Space</Value>
+      <Value>Barra de espaços</Value>
     </Record>
     <Record>
       <Key>Exclaim</Key>
-      <Value>Exclaim</Value>
+      <Value>!</Value>
     </Record>
     <Record>
       <Key>DoubleQuote</Key>
-      <Value>Double Quote</Value>
+      <Value>&quot;</Value>
     </Record>
     <Record>
       <Key>Hash</Key>
-      <Value>Hash</Value>
+      <Value>#</Value>
     </Record>
     <Record>
       <Key>Dollar</Key>
-      <Value>Dollar</Value>
+      <Value>$</Value>
     </Record>
     <Record>
       <Key>Percent</Key>
-      <Value>Percent</Value>
+      <Value>%</Value>
     </Record>
     <Record>
       <Key>Ampersand</Key>
-      <Value>Ampersand</Value>
+      <Value>&amp;</Value>
     </Record>
     <Record>
       <Key>Quote</Key>
-      <Value>Quote</Value>
+      <Value>&quot;</Value>
     </Record>
     <Record>
       <Key>LeftParen</Key>
-      <Value>Left Paren</Value>
+      <Value>(</Value>
     </Record>
     <Record>
       <Key>RightParen</Key>
-      <Value>Right Paren</Value>
+      <Value>)</Value>
     </Record>
     <Record>
       <Key>Asterisk</Key>
-      <Value>Asterisk</Value>
+      <Value>*</Value>
     </Record>
     <Record>
       <Key>Plus</Key>
-      <Value>Plus</Value>
+      <Value>+</Value>
     </Record>
     <Record>
       <Key>Comma</Key>
-      <Value>Comma</Value>
+      <Value>,</Value>
     </Record>
     <Record>
       <Key>Minus</Key>
-      <Value>Minus</Value>
+      <Value>-</Value>
     </Record>
     <Record>
       <Key>Period</Key>
-      <Value>Period</Value>
+      <Value>.</Value>
     </Record>
     <Record>
       <Key>Slash</Key>
-      <Value>Slash</Value>
+      <Value>/</Value>
     </Record>
     <Record>
       <Key>Alpha0</Key>
-      <Value>Alpha0</Value>
+      <Value>0</Value>
     </Record>
     <Record>
       <Key>Alpha1</Key>
-      <Value>Alpha1</Value>
+      <Value>1</Value>
     </Record>
     <Record>
       <Key>Alpha2</Key>
-      <Value>Alpha2</Value>
+      <Value>2</Value>
     </Record>
     <Record>
       <Key>Alpha3</Key>
-      <Value>Alpha3</Value>
+      <Value>3</Value>
     </Record>
     <Record>
       <Key>Alpha4</Key>
-      <Value>Alpha4</Value>
+      <Value>4</Value>
     </Record>
     <Record>
       <Key>Alpha5</Key>
-      <Value>Alpha5</Value>
+      <Value>5</Value>
     </Record>
     <Record>
       <Key>Alpha6</Key>
-      <Value>Alpha6</Value>
+      <Value>6</Value>
     </Record>
     <Record>
       <Key>Alpha7</Key>
-      <Value>Alpha7</Value>
+      <Value>7</Value>
     </Record>
     <Record>
       <Key>Alpha8</Key>
-      <Value>Alpha8</Value>
+      <Value>8</Value>
     </Record>
     <Record>
       <Key>Alpha9</Key>
-      <Value>Alpha9</Value>
+      <Value>9</Value>
     </Record>
     <Record>
       <Key>Colon</Key>
-      <Value>Colon</Value>
+      <Value>:</Value>
     </Record>
     <Record>
       <Key>Semicolon</Key>
-      <Value>Semicolon</Value>
+      <Value>;</Value>
     </Record>
     <Record>
       <Key>Less</Key>
-      <Value>Less</Value>
+      <Value>&lt;</Value>
     </Record>
     <Record>
       <Key>Equals</Key>
-      <Value>Equals</Value>
+      <Value>=</Value>
     </Record>
     <Record>
       <Key>Greater</Key>
-      <Value>Greater</Value>
+      <Value>&gt;</Value>
     </Record>
     <Record>
       <Key>Question</Key>
-      <Value>Question</Value>
+      <Value>?</Value>
     </Record>
     <Record>
       <Key>At</Key>
-      <Value>At</Value>
+      <Value>@</Value>
     </Record>
     <Record>
       <Key>LeftBracket</Key>
-      <Value>Left Bracket</Value>
+      <Value>[</Value>
     </Record>
     <Record>
       <Key>Backslash</Key>
-      <Value>Backslash</Value>
+      <Value>\</Value>
     </Record>
     <Record>
       <Key>RightBracket</Key>
-      <Value>Right Bracket</Value>
+      <Value>]</Value>
     </Record>
     <Record>
       <Key>Caret</Key>
-      <Value>Caret</Value>
+      <Value>^</Value>
     </Record>
     <Record>
       <Key>Underscore</Key>
-      <Value>Underscore</Value>
+      <Value>_</Value>
     </Record>
     <Record>
       <Key>BackQuote</Key>
-      <Value>Back Quote</Value>
-    </Record>
-    <Record>
-      <Key>A</Key>
-      <Value>A</Value>
-    </Record>
-    <Record>
-      <Key>B</Key>
-      <Value>B</Value>
-    </Record>
-    <Record>
-      <Key>C</Key>
-      <Value>C</Value>
-    </Record>
-    <Record>
-      <Key>D</Key>
-      <Value>D</Value>
-    </Record>
-    <Record>
-      <Key>E</Key>
-      <Value>E</Value>
-    </Record>
-    <Record>
-      <Key>F</Key>
-      <Value>F</Value>
-    </Record>
-    <Record>
-      <Key>G</Key>
-      <Value>G</Value>
-    </Record>
-    <Record>
-      <Key>H</Key>
-      <Value>H</Value>
-    </Record>
-    <Record>
-      <Key>I</Key>
-      <Value>I</Value>
-    </Record>
-    <Record>
-      <Key>J</Key>
-      <Value>J</Value>
-    </Record>
-    <Record>
-      <Key>K</Key>
-      <Value>K</Value>
-    </Record>
-    <Record>
-      <Key>L</Key>
-      <Value>L</Value>
-    </Record>
-    <Record>
-      <Key>M</Key>
-      <Value>M</Value>
-    </Record>
-    <Record>
-      <Key>N</Key>
-      <Value>N</Value>
-    </Record>
-    <Record>
-      <Key>O</Key>
-      <Value>O</Value>
-    </Record>
-    <Record>
-      <Key>P</Key>
-      <Value>P</Value>
-    </Record>
-    <Record>
-      <Key>Q</Key>
-      <Value>Q</Value>
-    </Record>
-    <Record>
-      <Key>R</Key>
-      <Value>R</Value>
-    </Record>
-    <Record>
-      <Key>S</Key>
-      <Value>S</Value>
-    </Record>
-    <Record>
-      <Key>T</Key>
-      <Value>T</Value>
-    </Record>
-    <Record>
-      <Key>U</Key>
-      <Value>U</Value>
-    </Record>
-    <Record>
-      <Key>V</Key>
-      <Value>V</Value>
-    </Record>
-    <Record>
-      <Key>W</Key>
-      <Value>W</Value>
-    </Record>
-    <Record>
-      <Key>X</Key>
-      <Value>X</Value>
-    </Record>
-    <Record>
-      <Key>Y</Key>
-      <Value>Y</Value>
-    </Record>
-    <Record>
-      <Key>Z</Key>
-      <Value>Z</Value>
+      <Value>`</Value>
     </Record>
     <Record>
       <Key>LeftCurlyBracket</Key>
-      <Value>Left Curly Bracket</Value>
+      <Value>{</Value>
     </Record>
     <Record>
       <Key>Pipe</Key>
-      <Value>Pipe</Value>
+      <Value>|</Value>
     </Record>
     <Record>
       <Key>RightCurlyBracket</Key>
-      <Value>Right Curly Bracket</Value>
+      <Value>}</Value>
     </Record>
     <Record>
       <Key>Tilde</Key>
-      <Value>Tilde</Value>
-    </Record>
-    <Record>
-      <Key>Delete</Key>
-      <Value>Delete</Value>
-    </Record>
-    <Record>
-      <Key>Keypad0</Key>
-      <Value>Keypad0</Value>
-    </Record>
-    <Record>
-      <Key>Keypad1</Key>
-      <Value>Keypad1</Value>
-    </Record>
-    <Record>
-      <Key>Keypad2</Key>
-      <Value>Keypad2</Value>
-    </Record>
-    <Record>
-      <Key>Keypad3</Key>
-      <Value>Keypad3</Value>
-    </Record>
-    <Record>
-      <Key>Keypad4</Key>
-      <Value>Keypad4</Value>
-    </Record>
-    <Record>
-      <Key>Keypad5</Key>
-      <Value>Keypad5</Value>
-    </Record>
-    <Record>
-      <Key>Keypad6</Key>
-      <Value>Keypad6</Value>
-    </Record>
-    <Record>
-      <Key>Keypad7</Key>
-      <Value>Keypad7</Value>
-    </Record>
-    <Record>
-      <Key>Keypad8</Key>
-      <Value>Keypad8</Value>
-    </Record>
-    <Record>
-      <Key>Keypad9</Key>
-      <Value>Keypad9</Value>
+      <Value>Til</Value>
     </Record>
     <Record>
       <Key>KeypadPeriod</Key>
-      <Value>Keypad Period</Value>
+      <Value>Keypad .</Value>
     </Record>
     <Record>
       <Key>KeypadDivide</Key>
-      <Value>Keypad Divide</Value>
+      <Value>Keypad /</Value>
     </Record>
     <Record>
       <Key>KeypadMultiply</Key>
-      <Value>Keypad Multiply</Value>
+      <Value>Keypad *</Value>
     </Record>
     <Record>
       <Key>KeypadMinus</Key>
-      <Value>Keypad Minus</Value>
+      <Value>Keypad -</Value>
     </Record>
     <Record>
       <Key>KeypadPlus</Key>
-      <Value>Keypad Plus</Value>
+      <Value>Keypad +</Value>
     </Record>
     <Record>
       <Key>KeypadEnter</Key>
@@ -13363,35 +13208,23 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     </Record>
     <Record>
       <Key>KeypadEquals</Key>
-      <Value>Keypad Equals</Value>
+      <Value>Keypad =</Value>
     </Record>
     <Record>
       <Key>UpArrow</Key>
-      <Value>Up Arrow</Value>
+      <Value>Seta para cima</Value>
     </Record>
     <Record>
       <Key>DownArrow</Key>
-      <Value>Down Arrow</Value>
+      <Value>Seta para baixo</Value>
     </Record>
     <Record>
       <Key>RightArrow</Key>
-      <Value>Right Arrow</Value>
+      <Value>Seta para a direita</Value>
     </Record>
     <Record>
       <Key>LeftArrow</Key>
-      <Value>Left Arrow</Value>
-    </Record>
-    <Record>
-      <Key>Insert</Key>
-      <Value>Insert</Value>
-    </Record>
-    <Record>
-      <Key>Home</Key>
-      <Value>Home</Value>
-    </Record>
-    <Record>
-      <Key>End</Key>
-      <Value>End</Value>
+      <Value>Seta para a esquerda</Value>
     </Record>
     <Record>
       <Key>PageUp</Key>
@@ -13400,70 +13233,6 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     <Record>
       <Key>PageDown</Key>
       <Value>Page Down</Value>
-    </Record>
-    <Record>
-      <Key>F1</Key>
-      <Value>F1</Value>
-    </Record>
-    <Record>
-      <Key>F2</Key>
-      <Value>F2</Value>
-    </Record>
-    <Record>
-      <Key>F3</Key>
-      <Value>F3</Value>
-    </Record>
-    <Record>
-      <Key>F4</Key>
-      <Value>F4</Value>
-    </Record>
-    <Record>
-      <Key>F5</Key>
-      <Value>F5</Value>
-    </Record>
-    <Record>
-      <Key>F6</Key>
-      <Value>F6</Value>
-    </Record>
-    <Record>
-      <Key>F7</Key>
-      <Value>F7</Value>
-    </Record>
-    <Record>
-      <Key>F8</Key>
-      <Value>F8</Value>
-    </Record>
-    <Record>
-      <Key>F9</Key>
-      <Value>F9</Value>
-    </Record>
-    <Record>
-      <Key>F10</Key>
-      <Value>F10</Value>
-    </Record>
-    <Record>
-      <Key>F11</Key>
-      <Value>F11</Value>
-    </Record>
-    <Record>
-      <Key>F12</Key>
-      <Value>F12</Value>
-    </Record>
-    <Record>
-      <Key>F13</Key>
-      <Value>F13</Value>
-    </Record>
-    <Record>
-      <Key>F14</Key>
-      <Value>F14</Value>
-    </Record>
-    <Record>
-      <Key>F15</Key>
-      <Value>F15</Value>
-    </Record>
-    <Record>
-      <Key>Numlock</Key>
-      <Value>Numlock</Value>
     </Record>
     <Record>
       <Key>CapsLock</Key>
@@ -13475,27 +13244,27 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     </Record>
     <Record>
       <Key>RightShift</Key>
-      <Value>Right Shift</Value>
+      <Value>Shift Direito</Value>
     </Record>
     <Record>
       <Key>LeftShift</Key>
-      <Value>Left Shift</Value>
+      <Value>Shift Esquerdo</Value>
     </Record>
     <Record>
       <Key>RightControl</Key>
-      <Value>Right Control</Value>
+      <Value>Control Direito</Value>
     </Record>
     <Record>
       <Key>LeftControl</Key>
-      <Value>Left Control</Value>
+      <Value>Control Esquerdo</Value>
     </Record>
     <Record>
       <Key>RightAlt</Key>
-      <Value>Right Alt</Value>
+      <Value>Alt Direito</Value>
     </Record>
     <Record>
       <Key>LeftAlt</Key>
-      <Value>Left Alt</Value>
+      <Value>Alt Esquerdo</Value>
     </Record>
     <Record>
       <Key>RightApple</Key>
@@ -14297,11 +14066,11 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
   <Mineables>
     <Record>
       <Key>Iron</Key>
-      <Value>Iron</Value>
+      <Value>Ferro</Value>
     </Record>
     <Record>
       <Key>Ice</Key>
-      <Value>Ice</Value>
+      <Value>Gelo</Value>
     </Record>
     <Record>
       <Key>Oxite</Key>
@@ -14309,47 +14078,47 @@ Note: {GAS:Water} was previously treated as a gas, but a new system for liquids 
     </Record>
     <Record>
       <Key>Nitrice</Key>
-      <Value>Nitrice</Value>
+      <Value>Nitrito</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Volatiles</Value>
+      <Value>Voláteis</Value>
     </Record>
     <Record>
       <Key>Gold</Key>
-      <Value>Gold</Value>
+      <Value>Ouro</Value>
     </Record>
     <Record>
       <Key>Coal</Key>
-      <Value>Coal</Value>
+      <Value>Carvão</Value>
     </Record>
     <Record>
       <Key>Copper</Key>
-      <Value>Copper</Value>
+      <Value>Cobre</Value>
     </Record>
     <Record>
       <Key>Uranium</Key>
-      <Value>Uranium</Value>
+      <Value>Urânio</Value>
     </Record>
     <Record>
       <Key>Silver</Key>
-      <Value>Silver</Value>
+      <Value>Prata</Value>
     </Record>
     <Record>
       <Key>Nickel</Key>
-      <Value>Nickel</Value>
+      <Value>Níquel</Value>
     </Record>
     <Record>
       <Key>Lead</Key>
-      <Value>Lead</Value>
+      <Value>Chumbo</Value>
     </Record>
     <Record>
       <Key>Silicon</Key>
-      <Value>Silicon</Value>
+      <Value>Silício</Value>
     </Record>
     <Record>
       <Key>Cobalt</Key>
-      <Value>Cobalt</Value>
+      <Value>Cobalto</Value>
     </Record>
   </Mineables>
   <ScreenSpaceToolTips />
