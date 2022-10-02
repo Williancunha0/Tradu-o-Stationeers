@@ -1846,37 +1846,37 @@ Com exceção de uma singularidade do tamanho de um bolso piscando no espaço-te
     <RecordThing>
       <Key>StructureCableCorner</Key>
       <Value>Cabo (Canto)</Value>
-      <Description>Transportando energia e dados da mesma forma, o cabo passou a simbolizar a inovação, independência e flexibilidade da vida de {LINK:Stationeers;Stationeer} - tão essencial que a {LINK:ODA;ODA} a designou como uma {LINK:ToolPage;'tool'} durante a 3ª Conferência Solar de Estacionários de Decaanual.
+      <Description>Transportando energia e dados da mesma forma, o cabo passou a simbolizar a inovação, independência e flexibilidade da vida de {LINK:Stationeers;Stationeer} - tão essencial que a {LINK:ODA;ODA} a designou como uma {LINK:ToolPage;'tool'} durante a 3ª Conferência Solar de Stationeers de Decaanual.
 O cabo normal tem uma potência máxima de 5kW. Para máquinas de corrente mais alta, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableCorner3</Key>
       <Value>Cabo (Canto de 3 Vias)</Value>
-      <Description>Transportando energia e dados da mesma forma, o cabo passou a simbolizar a inovação, independência e flexibilidade da vida de {LINK:Stationeers;Stationeer} - tão essencial que a {LINK:ODA;ODA} a designou como uma {LINK:ToolPage;'tool'} durante a 3ª Conferência Solar de Estacionários de Decaanual.
+      <Description>Transportando energia e dados da mesma forma, o cabo passou a simbolizar a inovação, independência e flexibilidade da vida de {LINK:Stationeers;Stationeer} - tão essencial que a {LINK:ODA;ODA} a designou como uma {LINK:ToolPage;'tool'} durante a 3ª Conferência Solar de Stationeers de Decaanual.
 O cabo normal tem uma potência máxima de 5kW. Para máquinas de corrente mais alta, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction</Key>
       <Value>Cabo (Junção)</Value>
-      <Description>Transportando energia e dados da mesma forma, o cabo passou a simbolizar a inovação, independência e flexibilidade da vida de {LINK:Stationeers;Stationeer} - tão essencial que a {LINK:ODA;ODA} a designou como uma {LINK:ToolPage;'tool'} durante a 3ª Conferência Solar de Estacionários de Decaanual.
+      <Description>Transportando energia e dados da mesma forma, o cabo passou a simbolizar a inovação, independência e flexibilidade da vida de {LINK:Stationeers;Stationeer} - tão essencial que a {LINK:ODA;ODA} a designou como uma {LINK:ToolPage;'tool'} durante a 3ª Conferência Solar de Stationeers de Decaanual.
 O cabo normal tem uma potência máxima de 5kW. Para máquinas de corrente mais alta, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction4</Key>
       <Value>Cabo (Junção de 4 Vias)</Value>
-      <Description>Transportando energia e dados da mesma forma, o cabo passou a simbolizar a inovação, independência e flexibilidade da vida de {LINK:Stationeers;Stationeer} - tão essencial que a {LINK:ODA;ODA} a designou como uma {LINK:ToolPage;'tool'} durante a 3ª Conferência Solar de Estacionários de Decaanual.
+      <Description>Transportando energia e dados da mesma forma, o cabo passou a simbolizar a inovação, independência e flexibilidade da vida de {LINK:Stationeers;Stationeer} - tão essencial que a {LINK:ODA;ODA} a designou como uma {LINK:ToolPage;'tool'} durante a 3ª Conferência Solar de Stationeers de Decaanual.
 O cabo normal tem uma potência máxima de 5kW. Para máquinas de corrente mais alta, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableJunction6</Key>
       <Value>Cabo (Junção de 6 Vias)</Value>
-      <Description>Transportando energia e dados da mesma forma, o cabo passou a simbolizar a inovação, independência e flexibilidade da vida de {LINK:Stationeers;Stationeer} - tão essencial que a {LINK:ODA;ODA} a designou como uma {LINK:ToolPage;'tool'} durante a 3ª Conferência Solar de Estacionários de Decaanual.
+      <Description>Transportando energia e dados da mesma forma, o cabo passou a simbolizar a inovação, independência e flexibilidade da vida de {LINK:Stationeers;Stationeer} - tão essencial que a {LINK:ODA;ODA} a designou como uma {LINK:ToolPage;'tool'} durante a 3ª Conferência Solar de Stationeers de Decaanual.
 O cabo normal tem uma potência máxima de 5kW. Para máquinas de corrente mais alta, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
       <Key>StructureCableStraight</Key>
       <Value>Cabo (Reto)</Value>
-      <Description>Transportando energia e dados da mesma forma, o cabo passou a simbolizar a inovação, independência e flexibilidade da vida de {LINK:Stationeers;Stationeer} - tão essencial que a {LINK:ODA;ODA} a designou como uma {LINK:ToolPage;'tool'} durante a 3ª Conferência Solar de Estacionários de Decaanual.
+      <Description>Transportando energia e dados da mesma forma, o cabo passou a simbolizar a inovação, independência e flexibilidade da vida de {LINK:Stationeers;Stationeer} - tão essencial que a {LINK:ODA;ODA} a designou como uma {LINK:ToolPage;'tool'} durante a 3ª Conferência Solar de Stationeers de Decaanual.
 O cabo normal tem uma potência máxima de 5kW. Para máquinas de corrente mais alta, use {THING:ItemCableCoilHeavy}.</Description>
     </RecordThing>
     <RecordThing>
@@ -8708,7 +8708,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayer</Key>
-      <Value>Configurações Multijogador</Value>
+      <Value>Configurações Multiplayer</Value>
     </Record>
     <Record>
       <Key>SettingsUpdatePort</Key>
@@ -8860,7 +8860,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>SettingsInvertMouseWheelInventory</Key>
-      <Value>Inverter Rolagem do Inventrio</Value>
+      <Value>Inverter Rolagem do Inventário</Value>
     </Record>
     <Record>
       <Key>SettingsTitleMultiplayerAdvanced</Key>
@@ -9213,6 +9213,14 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
       <Key>WorkshopSubscribedModsTitle</Key>
       <Value>Mods inscritos</Value>
     </Record>
+	<Record>
+      <Key>MainMenuChangeAppearance</Key>
+      <Value>Mudar Aparência</Value>
+    </Record>
+	<Record>
+      <Key>MainMenuScenarios</Key>
+      <Value>Cenários</Value>
+    </Record>
     <Record>
       <Key>WorkshopPageButton</Key>
       <Value>Oficina</Value>
@@ -9524,11 +9532,11 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>NewWorldVenusShortDesc</Key>
-      <Value>Temperaturas extremas invariáveis ​​e pressões ultra-altas fazem de Vênus um lugar para os fracos de coração. Apenas os Estacionários mais talentosos sobreviverão em nosso planeta outrora irmão, agora uma rocha estéril. Cave fundo ou vá para casa.</Value>
+      <Value>Temperaturas extremas invariáveis ​​e pressões ultra-altas fazem de Vênus um lugar para os fracos de coração. Apenas os Stationeers mais talentosos sobreviverão em nosso planeta outrora irmão, agora uma rocha estéril. Cave fundo ou vá para casa.</Value>
     </Record>
     <Record>
       <Key>NewWorldEuropaShortDesc</Key>
-      <Value>O derretimento de parte do gelo neste mundo frio finalmente lhe deu uma atmosfera, mas seu ambiente extremamente frio apresenta um sério desafio para os estacionários. O frio extremo fará com que as baterias percam energia rapidamente, então obter uma fonte de energia estável e um local quente suas prioridades.</Value>
+      <Value>O derretimento de parte do gelo neste mundo frio finalmente lhe deu uma atmosfera, mas seu ambiente extremamente frio apresenta um sério desafio para os Stationeers. O frio extremo fará com que as baterias percam energia rapidamente, então obter uma fonte de energia estável e um local quente suas prioridades.</Value>
     </Record>
     <Record>
       <Key>NewWorldVulcanShortDesc</Key>
@@ -11745,7 +11753,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>SettingsResearch</Key>
-      <Value>Seleção Grupo Pesquisa</Value>
+      <Value>Seleção de Pesquisa</Value>
     </Record>
     <Record>
       <Key>DialogConfirmResearchUnlock</Key>
