@@ -84,211 +84,207 @@
     </StationpediaPage>
     <StationpediaPage>
       <Key>DevicePage</Key>
-      <Title>Devices</Title>
-      <Text>These are Structures, typically powered, that have specialist functions including Logic, Atmospherics, and more. They are constructed in the same way as other structures.
+      <Title>Dispositivos</Title>
+      <Text>Estas são Estruturas, normalmente alimentadas, que possuem funções especializadas, incluindo Lógica, Atmosférica e muito mais. Eles são construídos da mesma maneira que outras estruturas.
         {LIST_OF_DEVICES}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>ImportExportPage</Key>
-      <Title>Import/Export and Chutes</Title>
-      <Text>These are structures, typically powered, that are able to receive and output other items, or assist this. Most have specialist functions including {LINK:LogicUnitPage;logic}, {LINK:AtmosphericPage;atmospherics}, and more. They are constructed in the same way as other structures.
+      <Title>Importação/Exportação e Chutes</Title>
+      <Text>São estruturas, normalmente energizadas, que são capazes de receber e emitir outros itens, ou auxiliar nisso. A maioria tem funções especializadas, incluindo {LINK:LogicUnitPage;logic}, {LINK:AtmosphericPage;atmospherics} e muito mais. Eles são construídos da mesma maneira que outras estruturas.
         {LIST_OF_IMPORTEXPORT}
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>SmeltingPage</Key>
-      <Title>Smelting</Title>
-      <Text>Once you have {LINK:OrePage;ore}, you need to turn it into {LINK:IngotPage;ingots} so you can use their {LINK:ReagentPage;reagents}. Smelting will often produce {LINK:GasPage;gases}. This occurs in either the {THING:StructureArcFurnace} (for simple recipes) and the {THING:StructureFurnace} for more complicated {LINK:AlloyPage;Alloys}, and finally the {THING:StructureAdvancedFurnace} for very complicated {LINK:SuperAlloyPage;Superalloys}. For the complex alloys, you will need to achieve mixtures at perfect ratios, {LINK:TemperaturePage;Temperature}, and {LINK:PressurePage;Pressure}. 
+      <Title>Fundição</Title>
+      <Text>Depois de ter {LINK:OrePage;ore}, você precisa transformá-lo em {LINK:IngotPage;lingotes} para poder usar seus {LINK:ReagentPage;reagentes}. A fundição geralmente produz {LINK:GasPage;gases}. Isso ocorre em {THING:StructureArcFurnace} (para receitas simples) e em {THING:StructureFurnace} para {LINK:AlloyPage;Alloys} mais complicados e, finalmente, em {THING:StructureAdvancedFurnace} para {LINK:SuperAlloyPage;Superalloys} muito complicados }. Para as ligas complexas, você precisará obter misturas em proporções perfeitas, {LINK:TemperaturePage;Temperature} e {LINK:PressurePage;Pressure}.
       </Text>
     </StationpediaPage>
     <StationpediaPage>
       <Key>MiningPage</Key>
-      <Title>Mining</Title>
-      <Text>You can mine {LINK:OrePage;ore} using a {THING:ItemMiningDrill}. If you wear a {THING:ItemMiningBelt} the {LINK:OrePage;ore} will automatically be placed within it.
+      <Title>Mineração</Title>
+      <Text>Você pode minerar {LINK:OrePage;ore} usando um {THING:ItemMiningDrill}. Se você usar um {THING:ItemMiningBelt}, o {LINK:OrePage;ore} será colocado automaticamente dentro dele.
       </Text>
     </StationpediaPage>
 <StationpediaPage>
       <Key>TradingPage</Key>
-      <Title>Trading</Title>
+      <Title>Negociação</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Trading is an essential part of a {LINK:Stationeers;Stationeers} existence, especially on more extreme worlds, where new cadets may be challenged at first to survive without assistance.
+      <Text>Negociar é uma parte essencial da existência de {LINK:Stationeers;Stationeers}, especialmente em mundos mais extremos, onde novos cadetes podem ser desafiados a sobreviver sem assistência.
 
-{HEADER:Getting started}
+{HEADER:Primeiros passos}
 
-To contact a trader you need to establish a communications system. This requires the following:
+Para entrar em contato com um trader, você precisa estabelecer um sistema de comunicação. Isso requer o seguinte:
 
-- A powered {THING:StructureVendingMachine} to store and trade items with.
-- An operational {THING:StructureSatelliteDish} to locate and identify prospective traders.
-- A working {THING:StructureComputer} with a {THING:MotherboardComms} running.
-- A powered {THING:StructureShuttleLandingPad} for the Trader to land on.
+- Uma {THING:StructureVendingMachine} alimentada para armazenar e trocar itens.
+- Um {THING:StructureSatelliteDish} operacional para localizar e identificar potenciais comerciantes.
+- Um {THING:StructureComputer} funcionando com um {THING:MotherboardComms} em execução.
+- Um {THING:StructureShuttleLandingPad} energizado para o Trader pousar.
 
-When your system is up and running, you will see an empty screen on the computer terminal. Adjust the satellite dish's position until it registers one or more traders. These will appear on screen with a rating from 1-100%. This is your signal strenght. A Trader can only be summoned when signal strength is above 95%. Once a Trader has been contacted, it will subsequently provide a name. Different traders provide different categories of items.
+Quando seu sistema estiver funcionando, você verá uma tela vazia no terminal do computador. Ajuste a posição da antena parabólica até que ela registre um ou mais comerciantes. Estes aparecerão na tela com uma classificação de 1-100%. Esta é a força do seu sinal. Um Trader só pode ser invocado quando a intensidade do sinal estiver acima de 95%. Assim que um Trader for contatado, ele fornecerá um nome. Diferentes comerciantes fornecem diferentes categorias de itens.
 
-{HEADER:Traders}
+{HEADER: Comerciantes}
 
-Electronics      TechTree Electronics
-Organics         Organicon
-Basic            Spes'mall Basics
-Hydraulic        HydrauliKit
-Ore              MineRiteOres
-Microwave        Microwares
-Chemistry        ChemLab
-Exotics          ExoTech
-Paint            Color Corp Paints
-Tools            Tool Corp
-Security         Hall Corp Security
-Other            Kolders' Assorted Goods
-Gas              GasTrade
-Custom           Spes'mall
-      </Text>
+Eletrônica TechTree Eletrônica
+Orgânicos Orgânicos
+Noções básicas de Spe'mall
+Kit Hidráulico Hidráulico
+Minério MinérioRiteOres
+Microondas Microondas
+Laboratório de Química
+Exóticos ExoTech
+Tintas Paint Color Corp
+Ferramentas Tool Corp
+Segurança Hall Corp Segurança
+Outros produtos variados de Kolders
+Gás Gás Comércio
+Spes'mall personalizado</Text>
 </StationpediaPage>
 <StationpediaPage>
       <Key>ConstructionPage</Key>
-      <Title>Construction</Title>
+      <Title>Construção</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>{HEADER:Getting Started}
-Typically you will use {LINK:KitPage;kits} to initiate construction and then a variety of {LINK:ToolPage;tools} and {LINK:ResourcePage;resources} to complete. Pay close attention to how many of your kit are required to construct what you have selected, as some structures require more than one of the stack to be consumed. For some kits you will have multiple options, use the {COLORRED:Scroll Wheel} to change the current option you are looking to build.
+      <Text>{HEADER:Começando}
+Normalmente, você usará {LINK:KitPage;kits} para iniciar a construção e, em seguida, uma variedade de {LINK:ToolPage;tools} e {LINK:ResourcePage;resources} para concluir. Preste muita atenção em quantos do seu kit são necessários para construir o que você selecionou, pois algumas estruturas exigem que mais de uma pilha seja consumida. Para alguns kits, você terá várias opções, use a {COLORRED:Scroll Wheel} para alterar a opção atual que você deseja construir.
 
-{HEADER:Build States}
-Some structures will have multiple build states that require different combinations to complete. Your tooltip will advise you of what combination you need to complete the structure. Sometimes you will need to have two objects, one in each hand, to complete a build state. Some tools will need to be turned on first, which can done by pressing {KEY:ToggleHandPower} while it's in your active hand.
+{HEADER:Construir Estados}
+Algumas estruturas terão vários estados de compilação que exigem combinações diferentes para serem concluídas. Sua dica de ferramenta irá aconselhá-lo sobre qual combinação você precisa para completar a estrutura. Às vezes, você precisará ter dois objetos, um em cada mão, para concluir um estado de construção. Algumas ferramentas precisarão ser ativadas primeiro, o que pode ser feito pressionando {KEY:ToggleHandPower} enquanto estiver em sua mão ativa.
 
-{HEADER:Tooltips}
-If you look directly at a structure that is incomplete you will get information about what you need to do to complete it. If you have a {LINK:ToolPage;tool} in your hand and its not the right {LINK:ToolPage;tool}, a tooltip will appear telling you what you would need to use to deconstruct it.
+{HEADER:Dicas de ferramenta}
+Se você olhar diretamente para uma estrutura incompleta, obterá informações sobre o que precisa fazer para completá-la. Se você tiver uma {LINK:ToolPage;tool} em sua mão e não for a {LINK:ToolPage;tool} correta, uma dica de ferramenta aparecerá informando o que você precisaria usar para desconstruí-la.
 
-{HEADER:Pressure}
-When building, it's important to note that pressure is measured as a differential. Most structures have a 200kPa pressure limit: if the difference between inside and outside is greater than that, you've got problems.
-      </Text>
+{HEADER: Pressão}
+Ao construir, é importante observar que a pressão é medida como um diferencial. A maioria das estruturas tem um limite de pressão de 200 kPa: se a diferença entre dentro e fora for maior que isso, você tem problemas.</Text>
     </StationpediaPage>
 
     <StationpediaPage>
       <Key>ReagentPage</Key>
-      <Title>Reagents</Title>
-      <Text>These are chemical quantities of certain types. 
+      <Title>Reagentes</Title>
+      <Text>Estas são quantidades químicas de certos tipos. 
       {LIST_OF_REAGENTS}
       </Text>
     </StationpediaPage>
 
 <StationpediaPage>
       <Key>MusicPage</Key>
-      <Title>Making Music</Title>
+      <Title>Fazendo música</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>The {LINK:ODA;ODA} does not approve of soundtracks or other distractions.
-As such, {LINK:Stationeers;Stationeers} have had to create their own musical accompaniment to the demanding labor of building and maintaining off-world infrastructure.
-Central to this pasttime is the step sequencer, which allows Stationeers to sequence short musical patterns or loops. 
+      <Text>O {LINK:ODA;ODA} não aprova trilhas sonoras ou outras distrações.
+Como tal, {LINK:Stationeers;Stationeers} tiveram que criar seu próprio acompanhamento musical para o exigente trabalho de construção e manutenção de infraestruturas fora do mundo.
+Central para este passatempo é o sequenciador de passos, que permite aos Stationeers sequenciar padrões musicais curtos ou loops.
 
-{HEADER:DIY MUSIC - GETTING STARTED}
+{HEADER:DIY MUSIC - PRIMEIROS PASSOS}
 
-1: Connect 8 {THING:DeviceStepUnit}s to your step sequencer via the data port on the lefthand side.
+1: Conecte 8 {THING:DeviceStepUnit}s ao seu sequenciador de passos através da porta de dados no lado esquerdo.
 
-2: Label each step unit, then assign step units 1 through 8 on the step sequencer using the screwdiver.
+2: Rotule cada unidade de passo e, em seguida, atribua as unidades de passo de 1 a 8 no sequenciador de passos usando a chave de fenda.
 
-3: Select the output speaker (eg {THING:PassiveSpeaker}) where the sequencer will play the sounds. This needs to be connected to the logic network on the righthand side of the sequencer.
+3: Selecione o alto-falante de saída (por exemplo, {THING:PassiveSpeaker}) onde o sequenciador tocará os sons. Isso precisa ser conectado à rede lógica no lado direito do sequenciador.
 
-4: Place a {THING:StopWatch} and use a {THING:StructureLogicReader} and {THING:StructureLogicWriter} to write the time to the time variable on the sequencer.
+4: Coloque um {THING:StopWatch} e use um {THING:StructureLogicReader} e {THING:StructureLogicWriter} para gravar a hora na variável time no sequenciador.
 
-5: Set the BPM on the sequencer using a {THING:StructureLogicDial} and a {THING:StructureLogicWriter} to write to the sequencer's BPM variable. A higher bpm will play the sequence faster. 
+5: Defina o BPM no sequenciador usando um {THING:StructureLogicDial} e um {THING:StructureLogicWriter} para gravar na variável BPM do sequenciador. Um bpm mais alto reproduzirá a sequência mais rapidamente.
 
-6: Insert a sound cartridge of your chosing and select which variant of sound you wish to play by pushing the arrow buttons located above and below the sound cartidge slot.
+6: Insira um cartucho de som de sua escolha e selecione qual variante de som você deseja tocar pressionando os botões de seta localizados acima e abaixo do slot do cartucho de som.
 
-7: Choose the pitch of the sounds to play by setting the dial on each of your 8 step units to the desired note. With drums, each note is a different drum sounds. You can trial your sounds by pushing the activate button on each step unit (with the sequencer inactive).
+7: Escolha o tom dos sons a serem tocados ajustando o dial em cada uma das suas 8 unidades de passo para a nota desejada. Com bateria, cada nota é um som de bateria diferente. Você pode testar seus sons pressionando o botão de ativação em cada unidade de passo (com o sequenciador inativo).
 
-8: Get freaky with the {THING:DeviceLfoVolume}.
+8: Fique louco com o {THING:DeviceLfoVolume}.
 
-9: Finally, activate the sequencer, Vibeoneer.
-      </Text>
+9: Por fim, ative o sequenciador, Vibeoneer.</Text>
     </StationpediaPage>
 
 
     <StationpediaPage>
       <Key>TemperatureControlPage</Key>
-      <Title>Temperature Control</Title>
+      <Title>Controle de temperatura</Title>
       <DisplayFilter>Guides</DisplayFilter>
-<Text>In order to control the temperature of a system, we have to either add heat to it thus increasing its temperature or remove heat from it thus cooling it down, that's the basic idea of temperature control. Devices that achieve this goal for you are {THING:ItemWallHeater}, {THING:ItemWallCooler}, {THING:StructurePipeRadiator}, and {THING:StructureAirConditioner}.
+<Text>Para controlar a temperatura de um sistema, temos que adicionar calor a ele, aumentando sua temperatura, ou remover calor dele, resfriando-o, essa é a ideia básica do controle de temperatura. Os dispositivos que atingem esse objetivo para você são {THING:ItemWallHeater}, {THING:ItemWallCooler}, {THING:StructurePipeRadiator} e {THING:StructureAirConditioner}.
 
-NOTE: There are many methods of temperature control. Some involve none of the devices mentioned. Here, we are covering the basics.
+NOTA: Existem muitos métodos de controle de temperatura. Alguns não envolvem nenhum dos dispositivos mencionados. Aqui, estamos cobrindo o básico.
 
-It is important to understand your environment before you install any type of temperature control. The gas or liquid volume is an important factor to when choosing your method of temperature control. A {THING:StructureTankSmall} can hold up to 6000L, while a {THING:StructureTankBig} can hold up to 50,000L, which means that if both are full, the small tank will react faster to temperature changes. A room is a space that can hold a certain amount of gas. The bigger it is the more volume it will be able to hold, so the same rules generally apply to tanks and rooms.
+É importante entender seu ambiente antes de instalar qualquer tipo de controle de temperatura. O volume de gás ou líquido é um fator importante ao escolher seu método de controle de temperatura. Um {THING:StructureTankSmall} pode conter até 6.000 L, enquanto um {THING:StructureTankBig} pode conter até 50.000 L, o que significa que, se ambos estiverem cheios, o tanque pequeno reagirá mais rapidamente às mudanças de temperatura. Uma sala é um espaço que pode conter uma certa quantidade de gás. Quanto maior, mais volume será capaz de conter, então as mesmas regras geralmente se aplicam a tanques e salas.
 
-{HEADER:PIPE NETWORKS}
-A pipe network is one or more pipe segments connected to each other with no separation at any point. A pipe network shares the same atmosphere everywhere along the pipe, no matter how large it is. If you change the temperature or pressure at one end of the network, the furthest end will experience the same change immediately with no delay.
+{HEADER: REDES DE PIPE}
+Uma rede de tubulação é um ou mais segmentos de tubulação conectados entre si sem separação em nenhum ponto. Uma rede de tubos compartilha a mesma atmosfera em todos os lugares ao longo do tubo, não importa quão grande seja. Se você alterar a temperatura ou a pressão em uma extremidade da rede, a extremidade mais distante experimentará a mesma alteração imediatamente, sem atrasos.
 
-Adding devices to a network may split it into two different networks. For instance, adding a {THING:StructureVolumePump} to a pipe network will split the network into two networks: one before the pump, and one after it.
+Adicionar dispositivos a uma rede pode dividi-la em duas redes diferentes. Por exemplo, adicionar um {THING:StructureVolumePump} a uma rede de tubulação dividirá a rede em duas redes: uma antes da bomba e outra depois dela.
 
-Use the {THING:ItemTablet} with the {THING:CartridgeAtmosAnalyser} installed to see information about the contents of any pipe network.
+Use o {THING:ItemTablet} com o {THING:CartridgeAtmosAnalyser} instalado para ver informações sobre o conteúdo de qualquer rede de tubulação.
 
-{HEADER:RADIATORS}
-Manufactured in the pipe bender, a {THING:StructurePipeRadiator} will help you exchange heat between pipes and their surrounding environment. They work on both insulated pipes and pipes, as well as having liquid variants. 
+{HEADER:RADIADORES}
+Fabricado no dobrador de tubos, um {THING:StructurePipeRadiator} ajudará você a trocar calor entre os tubos e o ambiente ao redor. Eles funcionam tanto em tubos isolados quanto em tubos, além de ter variantes de líquidos.
 
-In normal conditions a pipe segment will exchange heat with its surrounding environment, but adding a radiator to that pipe segment will speed up the process greatly. A pipe segment will keep exchanging heat with the surrounding atmosphere until both equalize in temperature.
+Em condições normais, um segmento de tubo trocará calor com o ambiente circundante, mas adicionar um radiador a esse segmento de tubo acelerará muito o processo. Um segmento de tubo continuará trocando calor com a atmosfera circundante até que ambos se igualem em temperatura.
 
-{HEADER:PASSIVE COOLING}
-You can cool or heat any environment by using a {THING:StructurePipeRadiator} to exchange heat between two atmospheres. An example of this would be to place a pipe on the wall, fill it with gas, and place radiators on the pipe. Now the two atmospheres of the pipe and the room will exchange temperature until their environments equalize.
+{HEADER: REFRIGERAÇÃO PASSIVO}
+Você pode resfriar ou aquecer qualquer ambiente usando um {THING:StructurePipeRadiator} para trocar calor entre duas atmosferas. Um exemplo disso seria colocar um cano na parede, enchê-lo com gás e colocar radiadores no cano. Agora as duas atmosferas do tubo e da sala irão trocar de temperatura até que seus ambientes se equalizem.
 
-{HEADER:WALL HEATER}
-The {THING:ItemWallHeater} is a simple device that can be installed on a wall or a frame and connected to power. When switched on, it will start heating the surrounding environment. It consumes 1010W of power and can be controlled by logic chips to run when the temperature hits a certain level.
+{HEADER: AQUECEDOR DE PAREDE}
+O {THING:ItemWallHeater} é um dispositivo simples que pode ser instalado em uma parede ou moldura e conectado à energia. Quando ligado, ele começará a aquecer o ambiente ao redor. Ele consome 1010W de potência e pode ser controlado por chips lógicos para funcionar quando a temperatura atingir um determinado nível.
 
-{HEADER:WALL COOLER}
-The {THING:ItemWallCooler} complements the wall heater, which can only raise the temperature. The wall cooler functions by drawing heat from the surrounding atmosphere and adding that heat into its pipe network. In order to run the wall cooler properly, you will need to connect pipes to the wall cooler and fill the connected pipe network with any type of gas. The gas's heat capacity and volume will determine how fast it reacts to temperature changes. 
+{HEADER: REFRIGERADOR DE PAREDE}
+O {THING:ItemWallCooler} complementa o aquecedor de parede, que só pode aumentar a temperatura. O refrigerador de parede funciona extraindo calor da atmosfera circundante e adicionando esse calor à sua rede de tubos. Para operar o refrigerador de parede corretamente, você precisará conectar os tubos ao refrigerador de parede e encher a rede de tubos conectada com qualquer tipo de gás. A capacidade de calor e o volume do gás determinarão a rapidez com que ele reage às mudanças de temperatura.
 
-The higher the difference in temperature between the gas stored in the pipes and the room, the less efficient the wall cooler will be. So to keep the wall cooler running at an acceptable efficiency you will need to get rid of the heat that accumulates in the pipes connected to it. A common practice would be to run the pipes to the outside and use radiators on the outside section of the pipes to get rid of the heat.
+Quanto maior a diferença de temperatura entre o gás armazenado nas tubulações e a sala, menos eficiente será o refrigerador de parede. Portanto, para manter o refrigerador de parede funcionando com uma eficiência aceitável, você precisará se livrar do calor que se acumula nos tubos conectados a ele. Uma prática comum seria passar os tubos para o exterior e usar radiadores na seção externa dos tubos para se livrar do calor.
 
-The less efficient the wall cooler, the less power it consumes. It will consume 1010W at max efficiency. The wall cooler can be controlled by logic chips to run when the temperature hits a certain degree.
+Quanto menos eficiente for o refrigerador de parede, menos energia ele consumirá. Ele consumirá 1010W com eficiência máxima. O refrigerador de parede pode ser controlado por chips lógicos para funcionar quando a temperatura atinge um certo grau.
 
-If the wall cooler is flashing an error then it is missing one of the following:
-- Pipe connection to the wall cooler.
-- Gas in the connected pipes, or pressure is too low.
-- Atmosphere in the surrounding environment or pressure is too low.
+Se o cooler de parede estiver piscando um erro, está faltando um dos seguintes:
+- Ligação da tubagem ao refrigerador de parede.
+- Gás nas tubagens ligadas ou pressão demasiado baixa.
+- A atmosfera no ambiente circundante ou a pressão é muito baixa.
 
-{HEADER:AIR CONDITIONER}
-The {THING:StructureAirConditioner} in its basic form works just like the wall cooler and can benefit from the same designs. However it is more powerful. It cools faster and uses considerably more power depending on the situation, thus making it more suitable to deal with large volumes and large areas. It can heat or cool depending on the setting.
+{HEADER: AR CONDICIONADO}
+O {THING:StructureAirConditioner} em sua forma básica funciona exatamente como o refrigerador de parede e pode se beneficiar dos mesmos designs. No entanto, é mais poderoso. Ele esfria mais rápido e usa consideravelmente mais energia dependendo da situação, tornando-o mais adequado para lidar com grandes volumes e grandes áreas. Pode aquecer ou resfriar dependendo da configuração.
 
-AIR CONDITIONER: HOW IT WORKS
-The air conditioner has 3 pipe connections (Input, Output, Waste). Gas goes in through the input side, then, depending on the setting, heat is added or removed from the incoming gas, and added to the waste pipe. The output gas will then exit through the output connection, cooler or hotter depending on the setting.
-You can connect the input pipe to the output pipes (you can see if they are connected if they both have the same network number): this will give you more control over the temperature, since the gas won't reach the target temperature after the first pass. It will take time and energy to remove or add heat from any gas.
+AR CONDICIONADO: COMO FUNCIONA
+O ar condicionado tem 3 ligações de tubos (Entrada, Saída, Resíduos). O gás entra pelo lado de entrada e, dependendo da configuração, o calor é adicionado ou removido do gás de entrada e adicionado ao tubo de esgoto. O gás de saída sairá pela conexão de saída, mais frio ou mais quente, dependendo da configuração.
+Você pode conectar o tubo de entrada aos tubos de saída (você pode ver se eles estão conectados se ambos tiverem o mesmo número de rede): isso lhe dará mais controle sobre a temperatura, pois o gás não atingirá a temperatura alvo após o primeira passagem. Levará tempo e energia para remover ou adicionar calor de qualquer gás.
 
-The way you install and set up your air conditioner depends on what you are trying to cool or heat up. For a room, you will need a passive vent inside the room connected to the air conditioner's input and output, while the waste pipe has to be filled with a coolant gas. 
+A maneira como você instala e configura seu ar condicionado depende do que você está tentando resfriar ou aquecer. Para uma sala, você precisará de uma ventilação passiva dentro da sala conectada à entrada e saída do ar condicionado, enquanto o cano de esgoto deve ser preenchido com um gás refrigerante.
 
-The air conditioner does not have to be inside the room. The only part of this setup that has to be in the room is the passive vent which will circle the room's atmosphere through to the air conditioner to be cooled or heated. 
+O ar condicionado não precisa estar dentro do quarto. A única parte desta configuração que precisa estar na sala é a ventilação passiva que circulará a atmosfera da sala até o ar condicionado para ser resfriado ou aquecido.
 
-You can use a single air conditioner to do both heating and cooling. You just need to change the target temperature setting on the panel. However, if you want to automate cooling and heating at the same time you will need one air conditioner for cooling and another one for heating, because the setting on the panel can only be changed manually.
+Você pode usar um único ar condicionado para fazer aquecimento e resfriamento. Você só precisa alterar a configuração de temperatura alvo no painel. No entanto, se você quiser automatizar o resfriamento e o aquecimento ao mesmo tempo, precisará de um ar condicionado para resfriamento e outro para aquecimento, pois a configuração no painel só pode ser alterada manualmente.
 
-Setting up more than one air conditioner on the same pipe network can be useful if you need things to go faster or if you need to use some for heating and others for cooling. Do this by connecting the inputs and the outputs of the air conditioners together and having them all share the same pipe network for their inputs and outputs. The waste pipe network can also be shared between them, but it has to be separate from the input/output pipe network. The same idea applies when using the air conditioner to control the temperature of tanks. However, instead of using a passive vent, you will need to connect the tank to the air conditioner directly.
+Configurar mais de um ar condicionado na mesma rede de tubulação pode ser útil se você precisar que as coisas sejam mais rápidas ou se precisar usar alguns para aquecimento e outros para resfriamento. Faça isso conectando as entradas e as saídas dos condicionadores de ar e fazendo com que todos compartilhem a mesma rede de tubos para suas entradas e saídas. A rede de tubos de esgoto também pode ser compartilhada entre eles, mas deve ser separada da rede de tubos de entrada/saída. A mesma ideia se aplica ao usar o ar condicionado para controlar a temperatura dos tanques. No entanto, em vez de usar uma ventilação passiva, você precisará conectar o tanque diretamente ao ar condicionado.
 
-AIR CONDITIONER: KEEP IN MIND
-- The greater the difference in temperature between the input pipe and the waste pipe, the more power the air conditioner will use
-- The power consumed by the air conditioner can exceed 5kW, therefore using heavy cables to power up air conditioners is recommended.
-- Running the waste pipe outside and equalizing it with the outside atmosphere isn't always the best option: the gas you put inside of it can be applied somewhere else in your base.
+AR CONDICIONADO: TENHA EM MENTE
+- Quanto maior a diferença de temperatura entre o tubo de entrada e o tubo de esgoto, mais energia o ar condicionado usará
+- A potência consumida pelo condicionador de ar pode ultrapassar 5kW, portanto, recomenda-se o uso de cabos pesados ​​para ligar os condicionadores de ar.
+- Correr o cano de esgoto para fora e equalizá-lo com a atmosfera externa nem sempre é a melhor opção: o gás que você coloca dentro dele pode ser aplicado em outro lugar da sua base.
 
-AIR CONDITIONER: BASE TEMPERATURE CONTROL
-There are many ways to control the temperature of your base using air conditioners - this is one way of achieving this goal:
-Step 1: Run a single pipe network around your base, and install passive vents connected to this pipe in every room you wish to be controlled by this setup. This is 'Network A'
-Step 2: Connect 'Network A' to an air conditioner's input and output.
-Step 3: Connect the waste pipe to a different network, and run it to the outside. Install radiators on this network.
-This is the basic setup. To automate it you will need a pipe analyzer on Network A, then read the temperature and run your air conditioner(s) accordingly.
-Good luck, Cadet!
-      </Text>
+AR CONDICIONADO: CONTROLE DE TEMPERATURA BASE
+Existem muitas maneiras de controlar a temperatura da sua base usando condicionadores de ar - esta é uma maneira de atingir esse objetivo:
+Etapa 1: execute uma única rede de tubulação em torno de sua base e instale aberturas passivas conectadas a essa tubulação em todos os cômodos que você deseja que sejam controlados por esta configuração. Esta é a 'Rede A'
+Etapa 2: Conecte a 'Rede A' à entrada e saída de um ar condicionado.
+Etapa 3: Conecte o cano de esgoto a uma rede diferente e execute-o para o exterior. Instale radiadores nesta rede.
+Esta é a configuração básica. Para automatizá-lo, você precisará de um analisador de tubos na Rede A, depois leia a temperatura e execute seu(s) ar condicionado(s) de acordo.
+Boa sorte, Cadete!</Text>
     </StationpediaPage>
 
     <StationpediaPage>
       <Key>GasPage</Key>
       <Title>Gases</Title>
-      <Text>These are chemical gases of certain types.{LIST_OF_GASES}
+      <Text>Estes são gases químicos de certos tipos.{LIST_OF_GASES}
       </Text>
     </StationpediaPage>
 
     <StationpediaPage>
       <Key>OrePage</Key>
-      <Title>Ores</Title>
-      <Text>These are items that are {LINK:MiningPage;mined} and can often be {LINK:SmeltingPage;smelted}. You can also get mixed ore by recycling items in the {THING:StructureRecycler} and then passing it through the {THING:StructureCentrifuge} which will break it into {LINK:OrePage;ore} for {LINK:SmeltingPage;smelting}.
-        There are some ores that will melt when exposed to sunlight or heat and produce {LINK:GasPage;gases}. For example {THING:ItemIce} melts into {GAS:Water} and {GAS:Oxygen}. Be careful to keep these out of heat or sunlight until you actually want them to melt.{LIST_OF_ORES}
+      <Title>Minérios</Title>
+      <Text>Esses são itens que são {LINK:MiningPage;mined} e geralmente podem ser {LINK:SmeltingPage;smelted}. Você também pode obter minério misto reciclando itens no {THING:StructureRecycler} e, em seguida, passando-o pelo {THING:StructureCentrifuge} que o dividirá em {LINK:OrePage;ore} para {LINK:SmeltingPage;smelting}.
+        Existem alguns minérios que derreterão quando expostos à luz solar ou calor e produzirão {LINK:GasPage;gases}. Por exemplo, {THING:ItemIce} derrete em {GAS:Water} e {GAS:Oxygen}. Tenha cuidado para mantê-los fora do calor ou da luz solar até que você realmente queira que eles derreta.{LIST_OF_ORES}
       </Text>
     </StationpediaPage>
     
     <StationpediaPage>
       <Key>IngotPage</Key>
-      <Title>Ingots</Title>
-      <Text>These are items that are typically made from {LINK:SmeltingPage;Smelting} {LINK:OrePage;ores} for use in {LINK:FabricatorPage;fabricators}.
+      <Title>Lingotes</Title>
+      <Text>Estes são itens que normalmente são feitos de {LINK:SmeltingPage;Smelting} {LINK:OrePage;ores} para uso em {LINK:FabricatorPage;fabricators}.
 
 {LIST_OF_INGOTS}
       </Text>
@@ -296,8 +292,8 @@ Good luck, Cadet!
     
     <StationpediaPage>
       <Key>ToolPage</Key>
-      <Title>Tools</Title>
-      <Text>These are items that can fit in a specialist tool slot, and are used for {LINK:ConstructionPage;Construction} and other tasks.
+      <Title>Ferramentas</Title>
+      <Text>Esses são itens que podem caber em um slot de ferramenta especializada e são usados ​​para {LINK:ConstructionPage;Construction} e outras tarefas.
 
 {LIST_OF_TOOLS}
       </Text>
@@ -306,7 +302,7 @@ Good luck, Cadet!
     <StationpediaPage>
       <Key>ResourcePage</Key>
       <Title>Resources</Title>
-      <Text>These are Items that are consumed during {LINK:ConstructionPage;Construction} and other tasks.
+      <Text>Estes são itens consumidos durante {LINK:ConstructionPage;Construction} e outras tarefas.
 {LIST_OF_RESOURCES}
       </Text>
     </StationpediaPage>
@@ -314,157 +310,154 @@ Good luck, Cadet!
     <StationpediaPage>
       <Key>KitPage</Key>
       <Title>Kits</Title>
-      <Text>These are Items that are consumed during {LINK:ConstructionPage;Construction} and other tasks.
+      <Text>Estes são itens consumidos durante {LINK:ConstructionPage;Construction} e outras tarefas.
 {LIST_OF_KITS}
       </Text>
     </StationpediaPage>
 
     <StationpediaPage>
       <Key>AutomatedRocketPage</Key>
-      <Title>Automated Rocket Modules (A.R.M.)</Title>
+      <Title>Módulos de foguetes automatizados (M.F.A.)</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Automated rockets are uncrewed vehicles that can be dispatched offworld to retrieve a range of resources. The rocket can be controlled by {LINK:LogicUnitPage;logic} or {LINK:LogicUnitPage;IC} or a mixture of these systems.
+      <Text>Foguetes automatizados são veículos não tripulados que podem ser despachados para fora do mundo para recuperar uma série de recursos. O foguete pode ser controlado por {LINK:LogicUnitPage;logic} ou {LINK:LogicUnitPage;IC} ou uma mistura desses sistemas.
       
-Once launched, automated rockets seek out planets or asteroids with mineable resources, depending on which MODULES they have been constructed with. Rockets can be programmed to mine all available resources, then move to another planet, or return home. Their range - and therefore the amount of resources they can collect - is determined by their available fuel. If they run out of fuel, they are lost to the void forever.
+Uma vez lançados, os foguetes automatizados procuram planetas ou asteróides com recursos mineráveis, dependendo de quais MÓDULOS foram construídos. Os foguetes podem ser programados para minerar todos os recursos disponíveis, depois se mudar para outro planeta ou voltar para casa. Seu alcance - e, portanto, a quantidade de recursos que podem coletar - é determinado pelo combustível disponível. Se eles ficarem sem combustível, eles serão perdidos no vazio para sempre.
       
 
-{HEADER:MODULES}
-Automated rocket system is composed of four fundamental modules, plus an engine and fuel tank(s):
+{HEADER:MÓDULOS}
+O sistema de foguete automatizado é composto por quatro módulos fundamentais, mais um motor e tanque(s) de combustível:
 
-* AUTOMATION MODULE - the {THING:StructureModularRocketAutomation} is the control system, passing data to the various modules.
+* MÓDULO DE AUTOMAÇÃO - o {THING:StructureModularRocketAutomation} é o sistema de controle, passando dados para os diversos módulos.
 
-* MINING MODULE - this performs the mining operation. Currently these are {THING:StructureRocketModuleMiningOre}, {THING:StructureModularRocketIceMining}, {THING:StructureRocketModuleMiningJunk} and {THING:StructureModularRocketGasMining}.
+* MÓDULO DE MINERAÇÃO - realiza a operação de mineração. Atualmente, eles são {THING:StructureRocketModuleMiningOre}, {THING:StructureModularRocketIceMining}, {THING:StructureRocketModuleMiningJunk} e {THING:StructureModularRocketGasMining}.
 
-* COUPLER - this connects mining modules to storage modules, by passing material from one to the other. Specifically, the {THING:StructureModularRocketCouplingDown} passes resources to a storage module BENEATH it. The {THING:StructureModularRocketCouplingUp} passes resources to a storage module ABOVE it. The rocket will not collect resources without this element.
+* ACOPLADOR - conecta os módulos de mineração aos módulos de armazenamento, passando o material de um para o outro. Especificamente, o {THING:StructureModularRocketCouplingDown} passa recursos para um módulo de armazenamento ABAIXO dele. O {THING:StructureModularRocketCouplingUp} passa recursos para um módulo de armazenamento ACIMA dele. O foguete não coletará recursos sem este elemento.
 
-* STORAGE MODULE - this module receives resources from a mining module via a coupler and stores them until the rocket returns. This currently includes {THING:StructureRocketModuleSilo} for ores and {THING:StructureModularRocketFueltank01} for gas. Storage modules can be connected to an {LINK:ImportExportPage;chute network}, but are closed by default. Use {LINK:LogicUnitPage;logic} to set it to 'open'.
-
-
-{HEADER:LAUNCH CONDITIONS}
-* POWER - all modules of the rocket must be powered. Note that modules are created ‘On’ by default, but can be turned off and on using {LINK:LogicUnitPage;logic} connections.
-
-* FUEL - the rocket must have at least one fuel tank and sufficient fuel for takeoff (at least 500 mols). Note that the rocket also requires 500mols to land AND consumes 5 mols per tick during travel phase of operation.
-
-* CONSTRUCTION - The rocket must be correctly assembled (see MODULES above)
-
-* PROGRAMMING - The rocket is controlled by the {LINK:LogicUnitPage;IC system} (see below)
+* MÓDULO DE ARMAZENAMENTO - este módulo recebe recursos de um módulo de mineração através de um acoplador e os armazena até o retorno do foguete. Atualmente, isso inclui {THING:StructureRocketModuleSilo} para minérios e {THING:StructureModularRocketFueltank01} para gás. Os módulos de armazenamento podem ser conectados a uma {LINK:ImportExportPage;chute network}, mas são fechados por padrão. Use {LINK:LogicUnitPage;logic} para defini-lo como 'aberto'.
 
 
-{HEADER:ROCKET MODES}
-The rocket's mode is set via the device's 'activate' value. The mode determines the current behaviour:
+{HEADER:CONDIÇÕES DE LANÇAMENTO}
+* POWER - todos os módulos do foguete devem ser alimentados. Observe que os módulos são criados 'On' por padrão, mas podem ser desativados e ativados usando conexões {LINK:LogicUnitPage;logic}.
 
-0: Idle (at base)
-1: Launching
-2: Traveling
-3: Arrived
-4: Idle at destination (ready to activate mining modules).
-5: Returning home
-6: Returned
-7: Lost
+* COMBUSTÍVEL - o foguete deve ter pelo menos um tanque de combustível e combustível suficiente para decolar (no mínimo 500 mols). Observe que o foguete também requer 500 mols para pousar E consome 5 mols por carrapato durante a fase de viagem da operação.
+
+* CONSTRUÇÃO - O foguete deve ser montado corretamente (ver MÓDULOS acima)
+
+* PROGRAMAÇÃO - O foguete é controlado pelo {LINK:LogicUnitPage;IC system} (veja abaixo)
 
 
-{HEADER:UNIQUE ROCKET COMMANDS}
-* FUEL IN TANK REMAINING - Gets the fuel remaining in your rocket's fuel tank.
-* FUEL RETURN COST - Gets the cost of fuel to return the rocket to your current world.
-* ROCKET MODE - Gets the current RocketMode value (0-7).
-* COLLECTABLE GOODS - Returns 0 or 1 based on whether or not the current rocket system has the ability to collect resources on the planet.
+{HEADER:MODOS DE FOGUETE}
+O modo do foguete é definido através do valor 'ativar' do dispositivo. O modo determina o comportamento atual:
+
+0: Inativo (na base)
+1: Lançamento
+2: Viajar
+3: Chegou
+4: Ocioso no destino (pronto para ativar os módulos de mineração).
+5: Voltando para casa
+6: Devolvido
+7: Perdido
 
 
-      </Text>
+{HEADER: COMANDOS ÚNICOS DE FOGUETE}
+* COMBUSTÍVEL NO TANQUE RESTANTE - Obtém o combustível restante no tanque de combustível do seu foguete.
+* CUSTO DE RETORNO DE COMBUSTÍVEL - Obtém o custo do combustível para devolver o foguete ao seu mundo atual.
+* ROCKET MODE - Obtém o valor atual do RocketMode (0-7).
+* BENS COLECIONÁVEIS - Retorna 0 ou 1 com base no fato de o sistema de foguetes atual ter ou não a capacidade de coletar recursos no planeta.</Text>
     </StationpediaPage>
 
 
     <StationpediaPage>
       <Key>FoodPage</Key>
-      <Title>Food</Title>
-      <Text>These are Items that are consumed to provide nutrition.
+      <Title>Comida</Title>
+      <Text>Estes são itens que são consumidos para fornecer nutrição.
         {LIST_OF_FOOD}
       </Text>
     </StationpediaPage>
         
     <StationpediaPage>
       <Key>ClothingPage</Key>
-      <Title>Clothing</Title>
-      <Text>These are Items that can be worn by entities in slots.
+      <Title>Confecções</Title>
+      <Text>Estes são itens que podem ser usados ​​por stationeers em slots.
 {LIST_OF_CLOTHING}
       </Text>
     </StationpediaPage>
         
     <StationpediaPage>
       <Key>AppliancePage</Key>
-      <Title>Appliances</Title>
-      <Text>These are Items that can be placed on Benches. You have to place them on a Bench by sitting them on a Bench and using a Wrench.
+      <Title>Eletrodomésticos</Title>
+      <Text>Estes são itens que podem ser colocados em mesas. Você tem que colocá-los em uma mesa fixando-os em uma mesa e usando uma chave inglesa.
 {LIST_OF_APPLIANCES}
       </Text>
     </StationpediaPage>
 
  <StationpediaPage>
       <Key>TravelPage</Key>
-      <Title>Travelling to Other Planets</Title>
+      <Title>Viajando para outros planetas</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Wait! Don't close me yet! The following conditions must be met for launch:
+      <Text>Espere! Não me feche ainda! As seguintes condições devem ser atendidas para o lançamento:
 
-- Fully built rocket: at least 3 core modules
-- Fully fueled {THING:StructureModularRocketFueltank01}
-- Fuel mix ratio correct - a 2:1 mixture of {GAS:Volatiles} and {GAS:Oxygen}.
-- Power supplied to the {THING:StructureLaunchPad}
-- All players seated in {THING:StructureModularRocketCommand01}
+- Foguete totalmente construído: pelo menos 3 módulos principais
+- Totalmente abastecido {THING:StructureModularRocketFueltank01}
+- Relação de mistura de combustível correta - uma mistura 2:1 de {GAS:Volatiles} e {GAS:Oxygen}.
+- Energia fornecida ao {THING:StructureLaunchPad}
+- Todos os jogadores sentados em {THING:StructureModularRocketCommand01}
 
-Below are the WORLD TRAVEL IDs. You can use them to travel to specific planets, when combined with a completed {LINK:RocketShuttlePage;Rocket Shuttle} and {LINK:LogicUnitPage;Logic Units}.
+Abaixo estão os IDs WORLD TRAVEL. Você pode usá-los para viajar para planetas específicos, quando combinados com um {LINK:RocketShuttlePage;Rocket Shuttle} e {LINK:LogicUnitPage;Logic Units} concluídos.
        
-Simply write the hash to the setting variable on {THING:StructureLaunchPad} with a {THING:StructureLogicWriter} and a {THING:StructureLogicMemory}. Note: You can click on a hash to copy it to the clipboard.
+Basta escrever o hash na variável de configuração em {THING:StructureLaunchPad} com um {THING:StructureLogicWriter} e um {THING:StructureLogicMemory}. Nota: Você pode clicar em um hash para copiá-lo para a área de transferência.
 {LIST}{WORLD_HASHES}{/LIST}
       </Text>
     </StationpediaPage>
 <StationpediaPage>
           <Key>RocketShuttleModulesHelpPage</Key>
-          <Title>Rocket Shuttle Modules</Title>
+          <Title>Módulos de ônibus espacial</Title>
           <DisplayFilter>Guides</DisplayFilter>
-          <Text>{HEADER:Modular Rocket Cargo}
+          <Text>{HEADER: Carga de foguete modular}
 
-The {THING:StructureModularRocketCargo01} has capacity for two ten-slot crates. You can have multiple cargo modules on your rocket. The rocket can lift up to seven modules in total.
+O {THING:StructureModularRocketCargo01} tem capacidade para duas caixas de dez slots. Você pode ter vários módulos de carga em seu foguete. O foguete pode levantar até sete módulos no total.
 
-{HEADER:Modular Rocket Command}
+{HEADER: Comando de Foguete Modular}
 
-The {THING:StructureModularRocketCommand01} must be placed on top of the rocket. It will assess the rocket’s readiness for flight. Once all conditions are met, the rocket can be launched when all players are seated in the module by pressing ‘IGNITION’ on the console.
+O {THING:StructureModularRocketCommand01} deve ser colocado na parte superior do foguete. Ele avaliará a prontidão do foguete para o voo. Quando todas as condições forem atendidas, o foguete poderá ser lançado quando todos os jogadores estiverem sentados no módulo pressionando 'IGNITION' no console.
 
-The following conditions must be met for launch:
+As seguintes condições devem ser atendidas para o lançamento:
 
-Fuel full
-Fuel mix ratio correct
-All players seated
-Power supplied to the launch pad
-Fully built rocket
+Combustível cheio
+Relação de mistura de combustível correta
+Todos os jogadores sentados
+Alimentação fornecida à plataforma de lançamento
+Foguete totalmente construído
 
-The {THING:StructureModularRocketCommand01} console displays the current state of these conditions. It does not require an atmosphere for lift off - your suit’s atmosphere is sufficient.
+O console {THING:StructureModularRocketCommand01} exibe o estado atual dessas condições. Não requer uma atmosfera para decolar - a atmosfera do seu traje é suficiente.
 
-{HEADER:Modular Rocket Engine}
+{HEADER:Motor de foguete modular}
 
-The {THING:StructureModularRocketEngine01} is capable of lifting up to seven modules (including itself).
+O {THING:StructureModularRocketEngine01} é capaz de levantar até sete módulos (incluindo ele mesmo).
 
-{HEADER:Modular Rocket Fuel Tank}
+{CABEÇALHO:Tanque de combustível de foguete modular}
 
-The {THING:StructureModularRocketFueltank01} requires a 2:1 mixture of {GAS:Volatiles} and {GAS:Oxygen}. If the mixture exceeds these proportions, or you place other gases in the tank, the {THING:StructureModularRocketCommand01} console will display an ‘Invalid’ error.
+O {THING:StructureModularRocketFueltank01} requer uma mistura 2:1 de {GAS:Volatiles} e {GAS:Oxygen}. Se a mistura exceder essas proporções ou você colocar outros gases no tanque, o console {THING:StructureModularRocketCommand01} exibirá um erro "Invalid".
 
           </Text>
         </StationpediaPage>
         <StationpediaPage>
       <Key>RocketShuttlePage</Key>
-      <Title>Rocket Shuttle</Title>
-      <Text>These are the Rocket Shuttle Modules, used to travel between worlds. {THING:StructureLaunchPad} is required.
-{HEADER:List of Rocket Shuttle Modules}
+      <Title>Ônibus espacial</Title>
+      <Text>Estes são os Módulos Rocket Shuttle, usados ​​para viajar entre mundos. {THING:StructureLaunchPad} é obrigatório.
+{HEADER:Lista dos Módulos do Ônibus Espacial}
 {LIST_OF_ROCKET_SHUTTLE}
       </Text>
    </StationpediaPage>
 
     <StationpediaPage>
       <Key>WeatherPage</Key>
-      <Title>Weather</Title>
+      <Title>Clima</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>The Solar System's planets are not as calm as they may seem. After seven days on any world with an atmosphere, the inscrutable forces of nature swing into action – hitting unwary Stationeers with blizzards, dust storms and volcanic events.
-As such, the {LINK:ODA;ODA} recommends that freshly deployed Stationeers create an airtight base within 7 days of landing.
-Any dynamic objects left outside in a storm – on Mars, Loulan, Vulcan or Europa – risks being blown far, far away, including your lander.
-Likewise, be aware that solar panels are fragile and may have their glass shattered, or occasionally even be destroyed by a sufficiently ferocious storm. During storms, their output is also drastically reduced.
+      <Text>Os planetas do Sistema Solar não são tão calmos quanto parecem. Após sete dias em qualquer mundo com atmosfera, as forças inescrutáveis ​​da natureza entram em ação – atingindo Stationeers desavisados ​​com nevascas, tempestades de poeira e eventos vulcânicos.
+Como tal, o {LINK:ODA;ODA} recomenda que os Stationeers recém-implantados criem uma base hermética dentro de 7 dias após o pouso.
+Quaisquer objetos dinâmicos deixados do lado de fora em uma tempestade – em Marte, Loulan, Vulcano ou Europa – correm o risco de serem levados para longe, incluindo seu módulo de pouso.
+Da mesma forma, esteja ciente de que os painéis solares são frágeis e podem ter seus vidros quebrados ou, ocasionalmente, até serem destruídos por uma tempestade suficientemente feroz. Durante as tempestades, sua produção também é drasticamente reduzida.
       </Text>
    </StationpediaPage>
     
@@ -485,10 +478,10 @@ Paintable {POS:300}{2}{3}{/LIST}</Text>
     
     <StationpediaPage>
       <Key>ThingThermalTemplate</Key>
-      <Text>{HEADER:Thermal Limits}
+      <Text>{HEADER:Limites térmicos}
 {LIST}Shatter {POS:300}{0}
-Flashpoint{POS:300}{1}
-Autoignition{POS:300}{2}{3}{/LIST}</Text>
+Ponto de inflamação{POS:300}{1}
+Autoignição{POS:300}{2}{3}{/LIST}</Text>
     </StationpediaPage>
     
     
@@ -515,7 +508,7 @@ Autoignition{POS:300}{2}{3}{/LIST}</Text>
 
     <StationpediaPage>
       <Key>ThingTransmissibleTemplate</Key>
-      <Text>Connects to {POS:300}{THING:StructureLogicTransmitter}</Text>
+      <Text>Conecta a {POS:300}{THING:StructureLogicTransmitter}</Text>
     </StationpediaPage>
     
     <StationpediaPage>
@@ -525,8 +518,8 @@ Autoignition{POS:300}{2}{3}{/LIST}</Text>
     
     <StationpediaPage>
       <Key>IceMeltingTemplate</Key>
-      <Text>Melt Temperature {1}
-Melt Pressure {0}</Text>
+      <Text>Temperatura de fusão {1}
+Pressão de fusão {0}</Text>
     </StationpediaPage>
 
     <StationpediaPage>
@@ -637,7 +630,7 @@ Melt Pressure {0}</Text>
     
     <StationpediaPage>
       <Key>ReagentPageTemplate</Key>
-      <Text>A {LINK:ReagentPage;reagent}, often usable when in {LINK:IngotPage;Ingots} form.
+      <Text>Um {LINK:ReagentPage;reagent}, geralmente utilizável quando no formato {LINK:IngotPage;Ingots}.
 
 
 {LIST}Unit {1}{/LIST}
@@ -648,10 +641,10 @@ Melt Pressure {0}</Text>
     
     <StationpediaPage>
       <Key>GasPageTemplate</Key>
-      <Text>A {LINK:GasPage;gas}, often produced when {LINK:SmeltingPage;smelting}.
+      <Text>Um {LINK:GasPage;gas}, geralmente produzido quando {LINK:SmeltingPage;smelting}.
 
 
-{LIST}Specific Heat {1}{2}{/LIST}
+{LIST}Calor Específico {1}{2}{/LIST}
 
 
 {LIST}{0}{/LIST}</Text>
@@ -659,79 +652,78 @@ Melt Pressure {0}</Text>
     
     <StationpediaPage>
       <Key>GasPageFlamableTemplate</Key>
-      <Text>Flamable Limit {0} to {1}</Text>
+      <Text>Limites Inflamáveis {0} para {1}</Text>
     </StationpediaPage>
 
     <StationpediaPage>
       <Key>NutritionPage</Key>
-      <Title>Hunger and nutrition</Title>
+      <Title>Fome e Nutrição</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>{HEADER:HUNGER}
+      <Text>{HEADER: FOME}
 
-Stationeers get hungry eventually, but not all food is created equal. Also, your hunger rate varies depending on settings and difficulty. Eating will only consume that part of an item adequate to restoring your hunger to 100%.
+Os Stationeers eventualmente ficam com fome, mas nem todos os alimentos são criados iguais. Além disso, sua taxa de fome varia dependendo das configurações e da dificuldade. Comer apenas consumirá a parte de um item adequada para restaurar sua fome em 100%.
 
-Stationeers receive supplies of food such as {LINK:Agrizero;Agrizero} {THING:ItemCerealBar} in their lander upon arriving on a new world. When these are exhausted, you must find new sources of sustenance - such as growing your own, from the seeds supplied, or contacting a {LINK:TradingPage;Trader}. 
+Os Stationeers recebem suprimentos de comida como {LINK:Agrizero;Agrizero} {THING:ItemCerealBar} em seu módulo de pouso ao chegar em um novo mundo. Quando estes se esgotarem, você deve encontrar novas fontes de sustento - como cultivar o seu próprio, a partir das sementes fornecidas ou entrar em contato com um {LINK:TradingPage;Trader}.
 
-{HEADER:NUTRITION}
+{HEADER:NUTRIÇÃO}
 
-Eating raw ingredients will satisfy hunger less than meals, ie will replace a smaller proportion of your hunger. The basic elements of food are created using {LINK:OrganicPage;hydroponics} systems. These can be processed into recipe ingredients using the {THING:ApplianceReagentProcessor}, then turned into meals using a {THING:ApplianceMicrowave} or {THING:StructureAutomatedOven}.
+Comer ingredientes crus saciará menos a fome do que as refeições, ou seja, substituirá uma proporção menor de sua fome. Os elementos básicos dos alimentos são criados usando sistemas {LINK:OrganicPage;hidroponia}. Eles podem ser processados ​​em ingredientes de receitas usando o {THING:ApplianceReagentProcessor} e, em seguida, transformados em refeições usando um {THING:ApplianceMicrowave} ou {THING:StructureAutomatedOven}.
 
-Your hunger rate can be adjusted set in the main settings menu by adjusting the Hunger/Hydration rate slider in the settings. Note that the hunger slider also governs your {LINK:HydrationPage;Thirst}.
-</Text>
+Sua taxa de fome pode ser ajustada no menu de configurações principais, ajustando o controle deslizante de taxa de fome/hidratação nas configurações. Observe que o controle deslizante de fome também controla seu {LINK:HydrationPage;Thirst}.</Text>
     </StationpediaPage>
 
 <StationpediaPage>
       <Key>FarmingPage</Key>
-      <Title>Growing Food</Title>
+      <Title>O cultivo de alimentos</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>To survive on alien worlds, the {LINK:ODA;ODA} expects all {LINK:Stationeers;Stationeers} to set up viable {LINK:OrganicPage;hydroponic} systems, or contact registered local resource {LINK:TradingPage;traders}.
+      <Text>Para sobreviver em mundos alienígenas, o {LINK:ODA;ODA} espera que todos os {LINK:Stationeers;Stationeers} estabeleçam sistemas {LINK:OrganicPage;hydroponic} viáveis, ou entrem em contato com o recurso local registrado {LINK:TradingPage;traders}.
 
-{HEADER:SETTING UP}
+{HEADER:CONFIGURANDO}
 
-When setting up your hydroponic system, you will need {LINK:OrganicPage;seeds}. Alternatively, you can plant the food itself.
+Ao configurar seu sistema hidropônico, você precisará de {LINK:OrganicPage;seeds}. Alternativamente, você pode plantar o próprio alimento.
 
-Common Stationeer hydroponic equipment includes:
+O equipamento hidropônico comum da Stationeer inclui:
 
 - {THING:DynamicHydroponics}
 - {THING:ItemHydroponicTray}
 - {THING:ItemKitHydroponicStation}
-- {THING:StructureHarvie}
+- {THING:EstruturaHarvie}
 
-All hydroponics systems require water, sunlight and the correct gas mixture - plants require {GAS:CarbonDioxide} and produce oxygen (except for {THING:ItemAlienMushroom}). PLants will not grow in the wrong atmosphere. If plants do not have enough light, you will need to build a {THING:StructureGrowLight}.
+Todos os sistemas hidropônicos requerem água, luz solar e a mistura correta de gases - as plantas requerem {GAS:CarbonDioxide} e produzem oxigênio (exceto {THING:ItemAlienMushroom}). As plantas não crescerão na atmosfera errada. Se as plantas não tiverem luz suficiente, você precisará construir um {THING:StructureGrowLight}.
 
-Your system will depend on available resources and time, but a well-designed farming system can be almost fully automated given sufficient time and resources.
+Seu sistema dependerá dos recursos e do tempo disponíveis, mas um sistema agrícola bem projetado pode ser quase totalmente automatizado com tempo e recursos suficientes.
 
-{HEADER:HARVESTING}
+{HEADER: COLHEITA}
 
-Most plants have several growth stages. The first stages are the plant growing through its lifecycle. During the third phase, seeds may be harvested from the plant. In the fourth phase, the plant will yield fruit. After that, unless cleared, the plant will die.
+A maioria das plantas tem vários estágios de crescimento. Os primeiros estágios são a planta crescendo ao longo de seu ciclo de vida. Durante a terceira fase, as sementes podem ser colhidas da planta. Na quarta fase, a planta dará frutos. Depois disso, a menos que seja desmatada, a planta morrerá.
 
-{HEADER:FERTILIZER}
+{HEADER:FERTILIZANTE}
 
-Fertilizer alters plant growth processes, and is created by the {THING:PortableComposter} and the {THING:StructureAdvancedComposter} using {LINK:OrganicPage;organic} matter.
+O fertilizante altera os processos de crescimento das plantas e é criado pelo {THING:PortableComposter} e pelo {THING:StructureAdvancedComposter} usando matéria {LINK:OrganicPage;organic}.
 
-Fertilizer's affects depend on its ingredients:
+Os efeitos do fertilizante dependem de seus ingredientes:
 
-- {LINK:OrganicPage;Food} increases individual PLANT YIELD by up to 3 items
-- {THING:DecayedFood} increases plant GROWTH SPEED up to 3 times
-- {THING:ItemBiomass} increases the NUMBER OF GROWTH CYCLES the fertilizer lasts for to a maximum of 5
+- {LINK:OrganicPage;Food} aumenta o RENDIMENTO DE PLANTAS individual em até 3 itens
+- {THING:DecayedFood} aumenta a VELOCIDADE DE CRESCIMENTO da planta em até 3 vezes
+- {THING:ItemBiomass} aumenta o NÚMERO DE CICLOS DE CRESCIMENTO que o fertilizante dura até um máximo de 5
 
-The effect of these ingredients depends on their respective proportions in the composter when processing is activated. Fertilizer is produced at a 1:3 ratio of fertilizer to ingredients. When processing, {GAS:Nitrogen} and {GAS:Volatiles} is released, as well a small amount of heat.
+O efeito desses ingredientes depende de suas respectivas proporções na composteira quando o processamento é ativado. O fertilizante é produzido na proporção de 1:3 de fertilizante para ingredientes. Durante o processamento, {GAS:Nitrogen} e {GAS:Volatiles} são liberados, bem como uma pequena quantidade de calor.
 </Text>
     </StationpediaPage>
 
  <StationpediaPage>
       <Key>DecayPage</Key>
-      <Title>Food Decay</Title>
+      <Title>Deterioração dos Alimentos</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Food decays over time into {THING:DecayedFood}, unless refrigerated in a sutable atmosphere. The exact speed of decay varies individually by:
+      <Text>Os alimentos se decompõem com o tempo em {THING:DecayedFood}, a menos que sejam refrigerados em uma atmosfera adequada. A velocidade exata de decaimento varia individualmente por:
 
-- TEMPERATURE - Refrigeration will slow decay, but many foods will be damaged by exposure to extreme low pressure, as well as extreme heat. The optimum temperature is 0 kelvin (-272 C).
+- TEMPERATURA - A refrigeração retardará a decomposição, mas muitos alimentos serão danificados pela exposição a pressões extremamente baixas, bem como ao calor extremo. A temperatura ideal é 0 kelvin (-272 C).
 
-- FOOD TYPE - Each {LINK:OrganicPage;food} type has its own decay properties. {THING:ItemTomatoSoup} lasts a lot longer than a {THING:ItemTomato}, for instance.
+- FOOD TYPE - Cada tipo {LINK:OrganicPage;food} tem suas próprias propriedades de decaimento. {THING:ItemTomatoSoup} dura muito mais do que um {THING:ItemTomato}, por exemplo.
 
-- PRESSURE - Food decays faster when the pressure drops below 1 atmosphere (101kPa). Decay happens exponentially more quickly as the atmosphere approaches a perfect vacuum. There is no effect from higher pressures. 
+- PRESSÃO - Os alimentos deterioram-se mais rapidamente quando a pressão cai abaixo de 1 atmosfera (101kPa). A decadência acontece exponencialmente mais rapidamente à medida que a atmosfera se aproxima de um vácuo perfeito. Não há efeito de pressões mais altas.
 
-- ATMOSPHERE - Different gases can slow and accelerate the decay process. The process will take account of respective gas ratios in mixed atmospheres in calculating the decay modifier. The following rates apply across all foods:
+- ATMOSFERA - Diferentes gases podem retardar e acelerar o processo de decomposição. O processo levará em conta as respectivas proporções de gás em atmosferas mistas no cálculo do modificador de decaimento. As seguintes taxas se aplicam a todos os alimentos:
 
 > {GAS:Oxygen} x 1.3
 > {GAS:Nitrogen} x 0.6
@@ -740,54 +732,53 @@ The effect of these ingredients depends on their respective proportions in the c
 > {GAS:Pollutant} x 3
 > {GAS:NitrousOxide} x 1.5
 > {GAS:Water} x 2
-> Vacuum - see PRESSURE (above).
+> Vacuum - veja pressão (acima).
 </Text>
     </StationpediaPage>
 
     <StationpediaPage>
       <Key>HydrationPage</Key>
-      <Title>Thirst + hydration</Title>
+      <Title>Sede + hidratação</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Your average Stationeer needs to drink water regularly. However, arcane and possibly misguided {LINK:ODA;ODA} health and safety regulations have long denied Stationeers the right to in-suit hydration mechanisms. Instead, they must take regular drink breaks to open their helmet, and imbibe water. Doing so in an unpressurized environment is unadvised.
+      <Text>Seu Stationerer médio precisa beber água regularmente. No entanto, regulamentos de saúde e segurança {LINK:ODA;ODA} misteriosos e possivelmente equivocados há muito negam aos Stationeers o direito de usar mecanismos de hidratação dentro do traje. Em vez disso, eles devem fazer pausas regulares para beber para abrir o capacete e beber água. Não é aconselhável fazê-lo em um ambiente não pressurizado.
 
-How often to drink? This is determined by your difficulty level, the heat of the planet and how much you like to move your body.
+Com que frequência beber? Isso é determinado pelo seu nível de dificuldade, o calor do planeta e o quanto você gosta de mover seu corpo.
 
-Water comes in many forms. At least one {THING:ItemWaterBottle} is supplied to Stationeers as part of their rations when landing on new planets, with more in your lander crates. These can be refilled using a {THING:ItemWaterBottleFiller}, which must itself be connected to a liquid pipe network. The network itself can be filled using a {THING:StructureIceCrusher} with a suitable supply of ice.
+A água vem em muitas formas. Pelo menos um {THING:ItemWaterBottle} é fornecido aos Stationeers como parte de suas rações ao aterrissar em novos planetas, com mais em suas caixas de aterrissagem. Eles podem ser recarregados usando um {THING:ItemWaterBottleFiller}, que deve ser conectado a uma rede de tubulação de líquido. A própria rede pode ser preenchida usando um {THING:StructureIceCrusher} com um suprimento adequado de gelo.
 
-Your thirst rate can be adjusted set on the main settings menu by adjusting your Hunger/Hydration rate slider.
-</Text>
+Sua taxa de sede pode ser ajustada no menu de configurações principais, ajustando o controle deslizante de taxa de fome/hidratação.</Text>
     </StationpediaPage>
 
     <StationpediaPage>
       <Key>EVAPage</Key>
-      <Title>EVA Suits</Title>
+      <Title>Trajes EVA</Title>
       <DisplayFilter>Guides</DisplayFilter>
-      <Text>Your spacesuit provides you with a portable atmosphere, with adjustable pressure and air conditioning (temperature) settings, as well as an warning system that will alert you should the atmosphere inside the suit become hazardous. It functions in conjunction with a suitable helmet to function properly, as well as suitable gas canisters and filters in the suit's various slots. These will need to be changed regularly, and can also be recharged (or drained) using a {THING:StructureSuitStorage}.
+      <Text>Seu traje espacial fornece uma atmosfera portátil, com ajustes de pressão e ar condicionado (temperatura) ajustáveis, bem como um sistema de alerta que o alertará caso a atmosfera dentro do traje se torne perigosa. Ele funciona em conjunto com um capacete adequado para funcionar corretamente, bem como botijões de gás e filtros adequados nos vários slots do traje. Eles precisarão ser trocados regularmente e também podem ser recarregados (ou drenados) usando um {THING:StructureSuitStorage}.
 
-There are several suits, including the {THING:ItemEvaSuit} and the more pressure- and temperature-resistant {THING:ItemHardSuit}.
+Existem vários trajes, incluindo o {THING:ItemEvaSuit} e o {THING:ItemHardSuit}, mais resistente à pressão e à temperatura.
 
-Your suit various readouts are at the bottom-right of the screen. Pressing the appropriate numeric key (2will bring up a panel showing its slots and settings. These include:
+As várias leituras do seu traje estão no canto inferior direito da tela. Pressionar a tecla numérica apropriada (2 abrirá um painel mostrando seus slots e configurações. Estes incluem:
 
-- A/C On / Off (i.e. Temperature control on/off)
-- Filters On / Off
-- Air On / Off
-- Pressure Up / Down (with a range of 0kPA to 202kPa, or 0-2 Earth atmospheres)
-- Temperature Up / Down (with a range of 0°C to 60°C)
+- A/C Ligado/Desligado (ou seja, controle de temperatura ligado/desligado)
+- Filtros Liga/Desliga
+- Ar ligado/desligado
+- Pressão para cima / para baixo (com uma faixa de 0kPA a 202kPa, ou 0-2 atmosferas terrestres)
+- Temperatura Up / Down (com uma faixa de 0°C a 60°C)
 
-Suits contains 6-8 slots:
-- Air tank (x1) - insert a canister or smart canister containing a breathable gas mix, eg {GAS:Oxygen} or {GAS:Nitrogen}/{GAS:Oxygen} 35/65.
-- Waste tank (x1) - collects gases removed by the filters
-- Life support (x1) - holds one battery, which powers your A/C, lights, etc.
-- {SLOT:GasFilter} (x3) - requires at least one {SLOT:ItemGasFilterCarbonDioxide} (if human), depending on your breathable gas mix. Note that a {THING:ItemHardSuit} has 4 filter slots.
-- IC - {THING:ItemHardSuit} only.
+Ternos contém 6-8 slots:
+- Tanque de ar (x1) - insira um recipiente ou recipiente inteligente contendo uma mistura de gás respirável, por exemplo, {GAS:Oxygen} ou {GAS:Nitrogen}/{GAS:Oxygen} 35/65.
+- Tanque de resíduos (x1) - coleta os gases removidos pelos filtros
+- Suporte de vida (x1) - contém uma bateria, que alimenta seu A/C, luzes, etc.
+- {SLOT:GasFilter} (x3) - requer pelo menos um {SLOT:ItemGasFilterCarbonDioxide} (se humano), dependendo da sua mistura de gás respirável. Observe que um {THING:ItemHardSuit} tem 4 slots de filtro.
+- IC - apenas {THING:ItemHardSuit}.
 
-Pressure: should be set to 50-100 KPa (0.5 to 1 Earth atmospheres). Humans in-game tolerate up to ~250kPa and can survive up to ~300kPA.
+Pressão: deve ser ajustada para 50-100 KPa (0,5 a 1 atmosfera terrestre). Os humanos no jogo toleram até ~250kPa e podem sobreviver até ~300kPA.
 
-Temperature: normally set to 18-21°C, with humans in-game preferring 10-29°C, tolerating 0-39°C and surviving around up to 49°C. In higher temperatures, your A/C will consume more battery power to maintain internal temperature.
+Temperatura: normalmente definida para 18-21°C, com humanos no jogo preferindo 10-29°C, tolerando 0-39°C e sobrevivendo em torno de 49°C. Em temperaturas mais altas, seu A/C consumirá mais energia da bateria para manter a temperatura interna.
 
-Filters: the default filter is the {GAS:CarbonDioxide} filter, which captures the gas generated by humans when breathing out. If you are not using 100% {GAS:Oxygen} in your breathing gas, add additional filters, eg if you mix 25% {GAS:Oxygen} + 75% {GAS:Nitrogen}, the nitrogen will accumulate in your suit over time and suffocate you, unless you have a nitrogen filter. If you have the correct filters and breathable gas, but are still experiencing problems, use the 'Flush' function on your Space Helmet. Low/critical oxygen warnings will sound as your filters cease to function.
+Filtros: o filtro padrão é o filtro {GAS:CarbonDioxide}, que captura o gás gerado por humanos ao expirar. Se você não estiver usando 100% {GAS:Oxygen} em seu gás respiratório, adicione filtros adicionais, por exemplo, se você misturar 25% {GAS:Oxygen} + 75% {GAS:Nitrogen}, o nitrogênio se acumulará em seu traje ao longo do tempo e sufocá-lo, a menos que você tenha um filtro de nitrogênio. Se você tiver os filtros corretos e gás respirável, mas ainda estiver com problemas, use a função 'Flush' em seu capacete espacial. Os avisos de oxigênio baixo/crítico soarão quando seus filtros deixarem de funcionar.
 
-If damaged, your suit can be patched by holding duct tape in your hand and using 'activate' button.
+Se estiver danificado, seu traje pode ser remendado segurando fita adesiva na mão e usando o botão 'ativar'.
 </Text>
     </StationpediaPage>
 
