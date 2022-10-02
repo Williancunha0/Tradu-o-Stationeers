@@ -9884,416 +9884,416 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenInput2</Key>
-      <Value>The ratio of nitrogen in device's Input2 network</Value>
+      <Value>A proporção de nitrogênio na rede Entrada 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantInput2</Key>
-      <Value>The ratio of pollutant in device's Input2 network</Value>
+      <Value>A proporção de poluente na rede de entrada 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesInput2</Key>
-      <Value>The ratio of volatiles in device's Input2 network</Value>
+      <Value>A proporção de voláteis na rede de entrada 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterInput2</Key>
-      <Value>The ratio of water in device's Input2 network</Value>
+      <Value>A proporção de água na rede de entrada 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideInput2</Key>
-      <Value>The ratio of {GAS:NitrousOxide} in device's Input2 network</Value>
+      <Value>A proporção de {GAS:NitrousOxide} na rede de entrada 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionInput2</Key>
-      <Value>The assess atmosphere is on fire. Returns 1 if device's Input2 network is on fire, 0 if not.</Value>
+      <Value>A atmosfera de avaliação está em chamas. Retorna 1 se a rede de Entrada 2 do dispositivo estiver pegando fogo, 0 se não estiver.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenOutput</Key>
-      <Value>The ratio of oxygen in device's Output network</Value>
+      <Value>A proporção de oxigênio na rede de saída do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideOutput</Key>
-      <Value>The ratio of {GAS:CarbonDioxide} in device's Output network</Value>
+      <Value>A proporção de {GAS:CarbonDioxide} na rede de saída do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenOutput</Key>
-      <Value>The ratio of nitrogen in device's Output network</Value>
+      <Value>A proporção de nitrogênio na rede de saída do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput</Key>
-      <Value>The ratio of pollutant in device's Output network</Value>
+      <Value>A proporção de poluente na rede de saída do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesOutput</Key>
-      <Value>The ratio of volatiles in device's Output network</Value>
+      <Value>A proporção de voláteis na rede de saída do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterOutput</Key>
-      <Value>The ratio of water in device's Output network</Value>
+      <Value>A proporção de água na rede de saída do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideOutput</Key>
-      <Value>The ratio of {GAS:NitrousOxide} in device's Output network</Value>
+      <Value>A proporção de {GAS:NitrousOxide} na rede de saída do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionOutput</Key>
-      <Value>The assess atmosphere is on fire. Returns 1 if device's Output network is on fire, 0 if not.</Value>
+      <Value>A atmosfera de avaliação está em chamas. Retorna 1 se a rede de saída do dispositivo estiver pegando fogo, 0 se não estiver.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioOxygenOutput2</Key>
-      <Value>The ratio of oxygen in device's Output2 network</Value>
+      <Value>A proporção de oxigênio na rede de saída 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioCarbonDioxideOutput2</Key>
-      <Value>The ratio of {GAS:CarbonDioxide} in device's Output2 network</Value>
+      <Value>A proporção de {GAS:CarbonDioxide} na rede de saída 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrogenOutput2</Key>
-      <Value>The ratio of nitrogen in device's Output2 network</Value>
+      <Value>A proporção de nitrogênio na rede de saída 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioPollutantOutput2</Key>
-      <Value>The ratio of pollutant in device's Output2 network</Value>
+      <Value>A proporção de poluente na rede de saída 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioVolatilesOutput2</Key>
-      <Value>The ratio of volatiles in device's Output2 network</Value>
+      <Value>A proporção de voláteis na rede de saída 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioWaterOutput2</Key>
-      <Value>The ratio of water in device's Output2 network</Value>
+      <Value>A proporção de água na rede de saída 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatioNitrousOxideOutput2</Key>
-      <Value>The ratio of {GAS:NitrousOxide} in device's Output2 network</Value>
+      <Value>A proporção de {GAS:NitrousOxide} na rede de saída 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionOutput2</Key>
-      <Value>The assess atmosphere is on fire. Returns 1 if device's Output2 network is on fire, 0 if not.</Value>
+      <Value>A atmosfera de avaliação está em chamas. Retorna 1 se a rede de Saída 2 do dispositivo estiver pegando fogo, 0 se não estiver.</Value>
     </Record>
     <Record>
       <Key>LogicTypeHorizontal</Key>
-      <Value>Horizontal setting of the device</Value>
+      <Value>Ajuste horizontal do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeVertical</Key>
-      <Value>Vertical setting of the device</Value>
+      <Value>Ajuste vertical do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeSolarAngle</Key>
-      <Value>Solar angle of the device</Value>
+      <Value>Ângulo solar do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeMaximum</Key>
-      <Value>Maximum setting of the device</Value>
+      <Value>Configuração máxima do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeRatio</Key>
-      <Value>Context specific value depending on device, 0 to 1 based ratio</Value>
+      <Value>Valor específico do contexto dependendo do dispositivo, proporção baseada em 0 para 1</Value>
     </Record>
     <Record>
       <Key>LogicTypePowerPotential</Key>
-      <Value>How much energy the device or network potentially provides</Value>
+      <Value>Quanta energia o dispositivo ou rede potencialmente fornece</Value>
     </Record>
     <Record>
       <Key>LogicTypePowerActual</Key>
-      <Value>How much energy the device or network is actually using</Value>
+      <Value>Quanta energia o dispositivo ou a rede está realmente usando</Value>
     </Record>
     <Record>
       <Key>LogicTypeQuantity</Key>
-      <Value>Total quantity on the device</Value>
+      <Value>Quantidade total no dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeOn</Key>
-      <Value>The current state of the device, 0 for off, 1 for on</Value>
+      <Value>O estado atual do dispositivo, 0 para desligado, 1 para ligado</Value>
     </Record>
     <Record>
       <Key>LogicTypeImportQuantity</Key>
-      <Value>Total quantity of items imported by the device</Value>
+      <Value>Quantidade total de itens importados pelo dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeImportSlotOccupant</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypeExportQuantity</Key>
-      <Value>Total quantity of items exported by the device</Value>
+      <Value>Quantidade total de itens exportados pelo dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeExportSlotOccupant</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypeRequiredPower</Key>
-      <Value>Idle operating power quantity, does not necessarily include extra demand power</Value>
+      <Value>Quantidade de energia operacional ociosa, não inclui necessariamente energia de demanda extra</Value>
     </Record>
     <Record>
       <Key>LogicTypeHorizontalRatio</Key>
-      <Value>Radio of horizontal setting for device</Value>
+      <Value>Relação de configuração horizontal para dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeVerticalRatio</Key>
-      <Value>Radio of vertical setting for device</Value>
+      <Value>Relação de configuração vertical para dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypePowerRequired</Key>
-      <Value>Power requested from the device and/or network</Value>
+      <Value>Energia solicitada do dispositivo e/ou rede</Value>
     </Record>
     <Record>
       <Key>LogicTypeIdle</Key>
-      <Value>Returns 1 if the device is currently idle, otherwise 0</Value>
+      <Value>Retorna 1 se o dispositivo estiver ocioso no momento, caso contrário, 0</Value>
     </Record>
     <Record>
       <Key>LogicTypeColor</Key>
       <Value>
-        Whether driven by concerns for clarity, safety or simple aesthetics, {LINK:Stationeers;Stationeers} have access to a small rainbow of colors for their constructions. These are the color setting for devices, represented as an integer.
+        Seja por preocupações com clareza, segurança ou estética simples, {LINK:Stationeers;Stationeers} têm acesso a um pequeno arco-íris de cores para suas construções. Essas são as configurações de cores para dispositivos, representadas como um número inteiro.
 
-0: Blue
-1: Grey
-2: Green
-3: Orange
-4: Red
-5: Yellow
-6: White
-7: Black
-8: Brown
-9: Khaki
-10: Pink
-11: Purple
+0: Azul
+1: Cinza
+2: Verde
+3: Laranja
+4: Vermelho
+5: Amarelo
+6: Branco
+7: Preto
+8: Marrom
+9: cáqui
+10: Rosa
+11: Roxo
 
-        It is an unwavering universal law that anything higher than 11 will be purple. The {LINK:ODA;ODA} is powerless to change this. Similarly, anything lower than 0 will be Blue.
+        É uma lei universal inabalável que qualquer coisa acima de 11 será roxa. O {LINK:ODA;ODA} não tem poder para mudar isso. Da mesma forma, qualquer coisa menor que 0 será Azul.
       </Value>
     </Record>
     <Record>
       <Key>LogicTypeElevatorSpeed</Key>
-      <Value>Current speed of the elevator</Value>
+      <Value>Velocidade atual do elevador</Value>
     </Record>
     <Record>
       <Key>LogicTypeElevatorLevel</Key>
-      <Value>Level the elevator is currently at</Value>
+      <Value>Nível em que o elevador está atualmente</Value>
     </Record>
     <Record>
       <Key>LogicTypeRecipeHash</Key>
-      <Value>Current hash of the recipe the device is set to produce</Value>
+      <Value>Hash atual da receita que o dispositivo está configurado para produzir</Value>
     </Record>
     <Record>
       <Key>LogicTypeExportSlotHash</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypeImportSlotHash</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHealth1</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHealth2</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHealth3</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHealth4</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantGrowth1</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantGrowth2</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantGrowth3</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantGrowth4</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantEfficiency1</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantEfficiency2</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantEfficiency3</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantEfficiency4</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHash1</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHash2</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHash3</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypePlantHash4</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
-      <Value>When set to the unique identifier, re quests an item of the provided type from the device</Value>
+      <Value>Quando definido para o identificador exclusivo, solicita um item do tipo fornecido do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeCompletionRatio</Key>
-      <Value>How complete the current production is for this device, between 0 and 1</Value>
+      <Value>Quão completa é a produção atual para este dispositivo, entre 0 e 1</Value>
     </Record>
     <Record>
       <Key>LogicTypeClearMemory</Key>
-      <Value>When set to 1, clears the counter memory (e.g. ExportCount). Will set itself back to 0 when actioned</Value>
+      <Value>Quando definido como 1, limpa a memória do contador (por exemplo, ExportCount). Irá se definir de volta para 0 quando acionado</Value>
     </Record>
     <Record>
       <Key>LogicTypeExportCount</Key>
-      <Value>How many items exported since last ClearMemory</Value>
+      <Value>Quantos itens exportados desde o último ClearMemory</Value>
     </Record>
     <Record>
       <Key>LogicTypeImportCount</Key>
-      <Value>How many items imported since last ClearMemory</Value>
+      <Value>Quantos itens importados desde o último ClearMemory</Value>
     </Record>
     <Record>
       <Key>LogicTypePowerGeneration</Key>
-      <Value>Returns how much power is being generated</Value>
+      <Value>Retorna quanta energia está sendo gerada</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMoles</Key>
-      <Value>Returns the total moles of the device</Value>
+      <Value>Retorna o total de mols do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesInput</Key>
-      <Value>Returns the total moles of the device's Input Network</Value>
+      <Value>Retorna o total de mols da rede de entrada do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesInput2</Key>
-      <Value>Returns the total moles of the device's Input2 Network</Value>
+      <Value>Retorna o total de mols da Rede de Entrada 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesOutput</Key>
-      <Value>Returns the total moles of the device's Output Network</Value>
+      <Value>Retorna o total de mols da rede de saída do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeTotalMolesOutput2</Key>
-      <Value>Returns the total moles of the device's Output2 Network</Value>
+      <Value>Retorna o total de mols da rede de saída 2 do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeVolume</Key>
-      <Value>Returns the device atmosphere volume</Value>
+      <Value>Retorna o volume da atmosfera do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypePlant</Key>
-      <Value>Performs the planting action for any plant based machinery</Value>
+      <Value>Executa a ação de plantio para qualquer maquinário baseado em plantas</Value>
     </Record>
     <Record>
       <Key>LogicTypeHarvest</Key>
-      <Value>Performs the harvesting action for any plant based machinery</Value>
+      <Value>Executa a ação de colheita para qualquer maquinário baseado em plantas</Value>
     </Record>
     <Record>
       <Key>LogicTypeOutput</Key>
-      <Value>The output operation for a sort handling device, such as a stacker or sorter, when in logic mode the device will only action one repetition when set zero or above and then back to -1 and await further instructions</Value>
+      <Value>A operação de saída para um dispositivo de manuseio de classificação, como um empilhador ou classificador, quando no modo lógico, o dispositivo só executará uma repetição quando definido como zero ou acima e, em seguida, voltará para -1 e aguardará mais instruções</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureSetting</Key>
-      <Value>The current setting for the internal pressure of the object (e.g. the Hardsuit Air release), in KPa</Value>
+      <Value>A configuração atual para a pressão interna do objeto (por exemplo, a liberação do Hardsuit Air), em KPa</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureSetting</Key>
-      <Value>The current setting for the internal temperature of the object (e.g. the Hardsuit A/C)</Value>
+      <Value>A configuração atual para a temperatura interna do objeto (por exemplo, o Hardsuit A/C)</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureExternal</Key>
-      <Value>The temperature of the outside of the device, usually the world atmosphere surrounding it</Value>
+      <Value>A temperatura do lado de fora do dispositivo, geralmente a atmosfera do mundo ao seu redor</Value>
     </Record>
     <Record>
       <Key>LogicTypeFiltration</Key>
-      <Value>The current state of the filtration system, for example Filtration = 1 for a Hardsuit sets filtration to On</Value>
+      <Value>O estado atual do sistema de filtragem, por exemplo Filtragem = 1 para um Hardsuit, define a filtragem como On</Value>
     </Record>
     <Record>
       <Key>LogicTypeAirRelease</Key>
-      <Value>The current state of the air release system, for example AirRelease = 1 for a Hardsuit sets Air Release to On</Value>
+      <Value>O estado atual do sistema de liberação de ar, por exemplo, Liberação de Ar = 1 para um Hardsuit, define a liberação de ar para On</Value>
     </Record>
     <Record>
       <Key>LogicTypePositionX</Key>
-      <Value>The current position in X dimension in world coordinates</Value>
+      <Value>A posição atual na dimensão X em coordenadas mundiais</Value>
     </Record>
     <Record>
       <Key>LogicTypePositionY</Key>
-      <Value>The current position in Y dimension in world coordinates</Value>
+      <Value>A posição atual na dimensão Y em coordenadas mundiais</Value>
     </Record>
     <Record>
       <Key>LogicTypePositionZ</Key>
-      <Value>The current position in Z dimension in world coordinates</Value>
+      <Value>A posição atual na dimensão Z em coordenadas mundiais</Value>
     </Record>
     <Record>
       <Key>LogicTypeVelocityMagnitude</Key>
-      <Value>The current magnitude of the velocity vector</Value>
+      <Value>A magnitude atual do vetor velocidade</Value>
     </Record>
     <Record>
       <Key>LogicTypeVelocityRelativeX</Key>
-      <Value>The current velocity X relative to the forward vector of this</Value>
+      <Value>A velocidade atual X em relação ao vetor direto deste</Value>
     </Record>
     <Record>
       <Key>LogicTypeVelocityRelativeY</Key>
-      <Value>The current velocity Y relative to the forward vector of this</Value>
+      <Value>A velocidade atual Y em relação ao vetor direto deste</Value>
     </Record>
     <Record>
       <Key>LogicTypeVelocityRelativeZ</Key>
-      <Value>The current velocity Z relative to the forward vector of this</Value>
+      <Value>A velocidade atual Z em relação ao vetor direto deste</Value>
     </Record>
     <Record>
       <Key>LogicTypePrefabHash</Key>
-      <Value>The hash of the structure</Value>
+      <Value>O hash da estrutura</Value>
     </Record>
     <Record>
       <Key>LogicTypeForceWrite</Key>
-      <Value>Forces Logic Writer devices to rewrite value</Value>
+      <Value>Forçar os dispositivos de escrita lógica a reescrever o valor</Value>
     </Record>
     <Record>
       <Key>LogicTypeSignalStrength</Key>
-      <Value>Returns the strength of the strongest signal received from this Satellite</Value>
+      <Value>Retorna a intensidade do sinal mais forte recebido deste Satélite</Value>
     </Record>
     <Record>
       <Key>LogicTypeSignalID</Key>
-      <Value>Returns the contact ID of the strongest signal from this Satellite</Value>
+      <Value>Retorna o ID de contato do sinal mais forte deste Satélite</Value>
     </Record>
     <Record>
       <Key>LogicTypeOperationalTemperatureEfficiency</Key>
-      <Value>How the input pipe's temperature effects the machines efficency</Value>
+      <Value>Como a temperatura do tubo de entrada afeta a eficiência das máquinas</Value>
     </Record>
     <Record>
       <Key>LogicTypeTemperatureDifferentialEfficiency</Key>
-      <Value>How the difference between the input pipe and waste pipe temperatures effect the machines efficiency</Value>
+      <Value>Como a diferença entre as temperaturas do tubo de entrada e do tubo de esgoto afeta a eficiência das máquinas</Value>
     </Record>
     <Record>
       <Key>LogicTypeCombustionLimiter</Key>
-      <Value>Retards the rate of combustion inside the machine (range: 0-100), with 0 being the slowest rate of combustion and 100 being the fastest</Value>
+      <Value>Retarda a taxa de combustão dentro da máquina (intervalo: 0-100), sendo 0 a taxa de combustão mais lenta e 100 a mais rápida</Value>
     </Record>
     <Record>
       <Key>LogicTypeThrottle</Key>
-      <Value>Increases the rate at which the machine works (range: 0-100)</Value>
+      <Value>Aumenta a taxa de funcionamento da máquina (intervalo: 0-100)</Value>
     </Record>
     <Record>
       <Key>LogicTypeRpm</Key>
-      <Value>The number of revolutions per minute that the device's spinning machanism is doing</Value>
+      <Value>O número de revoluções por minuto que o mecanismo giratório do dispositivo está fazendo</Value>
     </Record>
     <Record>
       <Key>LogicTypeStress</Key>
-      <Value>Machines get stressed when working hard. When Stress reaches 100 the machine will automatically shut down</Value>
+      <Value>As máquinas ficam estressadas quando trabalham duro. Quando o Stress atinge 100, a máquina será desligada automaticamente</Value>
     </Record>
     <Record>
       <Key>LogicTypePressureEfficiency</Key>
@@ -10301,111 +10301,111 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>LogicSlotTypeNone</Key>
-      <Value>No description</Value>
+      <Value>Sem descrição</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeOccupied</Key>
-      <Value>returns 0 when slot is not occupied, 1 when it is</Value>
+      <Value>retorna 0 quando o slot não está ocupado, 1 quando está</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeOccupantHash</Key>
-      <Value>returns the has of the current occupant, the unique identifier of the thing</Value>
+      <Value>retorna o hash do ocupante atual, o identificador único da coisa</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeQuantity</Key>
-      <Value>returns the current quantity, such as stack size, of the item in the slot</Value>
+      <Value>retorna a quantidade atual, como o tamanho da pilha, do item no slot</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeDamage</Key>
-      <Value>returns the damage state of the item in the slot</Value>
+      <Value>retorna o estado de dano do item no slot</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeEfficiency</Key>
-      <Value>returns the growth efficiency of the plant in the slot</Value>
+      <Value>retorna a eficiência de crescimento da planta no slot</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeMature</Key>
-      <Value>returns 1 if the plant in this slot is mature, 0 when it isn't</Value>
+      <Value>retorna 1 se a planta neste slot estiver madura, 0 quando não estiver</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeHealth</Key>
-      <Value>returns the health of the plant in the slot</Value>
+      <Value>retorna a saúde da planta no slot</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeGrowth</Key>
-      <Value>returns the current growth state of the plant in the slot</Value>
+      <Value>retorna o estado de crescimento atual da planta no slot</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypePressure</Key>
-      <Value>returns pressure of the slot occupants internal atmosphere</Value>
+      <Value>retorna a pressão da atmosfera interna dos ocupantes do slot</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeTemperature</Key>
-      <Value>returns temperature of the slot occupants internal atmosphere</Value>
+      <Value>retorna a temperatura da atmosfera interna dos ocupantes do slot</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeCharge</Key>
-      <Value>returns current energy charge the slot occupant is holding</Value>
+      <Value>retorna a carga de energia atual que o ocupante do slot está segurando</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeChargeRatio</Key>
-      <Value>returns current energy charge the slot occupant is holding as a ratio between 0 and 1 of its maximum</Value>
+      <Value>retorna a carga de energia atual que o ocupante do slot está mantendo como uma proporção entre 0 e 1 de seu máximo</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeClass</Key>
-      <Value>returns integer representing the class of object</Value>
+      <Value>retorna inteiro representando a classe do objeto</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypePressureWaste</Key>
-      <Value>returns pressure in the waste tank of the jetpack in this slot</Value>
+      <Value>retorna a pressão no tanque de resíduos do jetpack neste slot</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypePressureAir</Key>
-      <Value>returns pressure in the air tank of the jetpack in this slot</Value>
+      <Value>retorna a pressão no tanque de ar do jetpack neste slot</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypeMaxQuantity</Key>
-      <Value>returns the max stack size of the item in the slot</Value>
+      <Value>retorna o tamanho máximo da pilha do item no slot</Value>
     </Record>
     <Record>
       <Key>FuelInTankRemaining</Key>
-      <Value>Gets the fuel remaining in your rocket's fuel tank.</Value>
+      <Value>Obtém o combustível restante no tanque de combustível do seu foguete.</Value>
     </Record>
     <Record>
       <Key>FuelReturnCost</Key>
-      <Value>Gets the cost of fuel to return the rocket to your current world.</Value>
+      <Value>Obtém o custo do combustível para devolver o foguete ao seu mundo atual.</Value>
     </Record>
     <Record>
       <Key>RocketMode</Key>
-      <Value>Deprecated</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>CollectableGoods</Key>
-      <Value>Returns 0 or 1 based on whether or not the current rocket system has the ability to collect resources on the planet.</Value>
+      <Value>Retorna 0 ou 1 com base no fato de o sistema de foguetes atual ter ou não a capacidade de coletar recursos no planeta.</Value>
     </Record>
     <Record>
       <Key>LogicTypeRequestHash</Key>
-      <Value>When set to the unique identifier, requests an item of the provided type from the device</Value>
+      <Value>Quando definido para o identificador exclusivo, solicita um item do tipo fornecido do dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicSlotTypePrefabHash</Key>
-      <Value>returns the hash of the structure in the slot</Value>
+      <Value>retorna o hash da estrutura no slot</Value>
     </Record>
     <Record>
       <Key>AppearanceButtonRandomize</Key>
-      <Value>Randomize</Value>
+      <Value>Aleatório</Value>
     </Record>
     <Record>
       <Key>SettingsP2PHostEnabled</Key>
-      <Value>Enable P2PHost</Value>
+      <Value>Habilitar P2PHost</Value>
     </Record>
     <Record>
       <Key>SettingsP2PHostNote</Key>
-      <Value>If P2PHost is enabled, Stationeers will use steam's packet relay so that you can play with your friend under NAT or VPN. It's not compatible with TCP/IP and force not to advertise server.</Value>
+      <Value>Se o P2PHost estiver ativado, o Stationeers usará o retransmissor de pacotes do steam para que você possa jogar com seu amigo sob NAT ou VPN. Não é compatível com TCP/IP e força a não anunciar o servidor.</Value>
     </Record>
     <Record>
       <Key>SettingsSavePath</Key>
-      <Value>Path</Value>
+      <Value>Caminho</Value>
     </Record>
     <Record>
       <Key>ButtonFolderBrowse</Key>
@@ -10413,83 +10413,83 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>AppearanceTitleSpecies</Key>
-      <Value>Species</Value>
+      <Value>Espécies</Value>
     </Record>
     <Record>
       <Key>SpinnerPannelSaving</Key>
-      <Value>Saving</Value>
+      <Value>Salvando</Value>
     </Record>
     <Record>
       <Key>SpinnerPannelDone</Key>
-      <Value>Done</Value>
+      <Value>Feito</Value>
     </Record>
     <Record>
       <Key>IncidentsTitle</Key>
-      <Value>Incidents</Value>
+      <Value>Incidentes</Value>
     </Record>
     <Record>
       <Key>OpenIncidentUI</Key>
-      <Value>Open Incidents</Value>
+      <Value>Incidentes abertos</Value>
     </Record>
     <Record>
       <Key>ContactsTrading</Key>
-      <Value>Contacts</Value>
+      <Value>Contatos</Value>
     </Record>
     <Record>
       <Key>TraderGoneMissing</Key>
-      <Value>Seems the contact has moved on.</Value>
+      <Value>Parece que o contato mudou.</Value>
     </Record>
     <Record>
       <Key>Trade</Key>
-      <Value>Trade</Value>
+      <Value>Troca</Value>
     </Record>
     <Record>
       <Key>Locked</Key>
-      <Value>Locked</Value>
+      <Value>Bloqueado</Value>
     </Record>
     <Record>
       <Key>ContactEventDefault</Key>
-      <Value>There was no response.</Value>
+      <Value>Não houve resposta.</Value>
     </Record>
     <Record>
       <Key>ContactTradeRequest</Key>
-      <Value>A trader has requested permission for landing.</Value>
+      <Value>Um comerciante solicitou permissão para desembarque.</Value>
     </Record>
     <Record>
       <Key>TraderInUse</Key>
-      <Value>This contact is already interacting with someone, try again soon.</Value>
+      <Value>Este contato já está interagindo com alguém, tente novamente em breve.</Value>
     </Record>
     <Record>
       <Key>ContactNoResponse</Key>
-      <Value>There was no response.</Value>
+      <Value>Não houve resposta.</Value>
     </Record>
     <Record>
       <Key>ContactTradeRequestFail</Key>
-      <Value>Trader requesting safe landing. A powered landing pad is required to continue.</Value>
+      <Value>Trader solicitando pouso seguro. Uma plataforma de pouso motorizada é necessária para continuar.</Value>
     </Record>
     <Record>
       <Key>ContactTradeRequestFailInUse</Key>
-      <Value>Somebody is already interacting with this Trader, try again soon.</Value>
+      <Value>Alguém já está interagindo com este Trader, tente novamente em breve.</Value>
     </Record>
     <Record>
       <Key>ContactLandingRequestFailVendingMachine</Key>
-      <Value>You need a powered Vending Machine on the network to interact with this trader.</Value>
+      <Value>Você precisa de uma máquina de venda automática na rede para interagir com este comerciante.</Value>
     </Record>
     <Record>
       <Key>ContactLandingRequestFailSatellite</Key>
-      <Value>There is an issue with your satellite. Check it's connected to the network and powered.</Value>
+      <Value>Há um problema com o seu satélite. Verifique se está conectado à rede e alimentado.</Value>
     </Record>
     <Record>
       <Key>ContactLandingRequestFailStorm</Key>
-      <Value>Trader is unable to travel in this storm.</Value>
+      <Value>O comerciante não pode viajar nesta tempestade.</Value>
     </Record>
     <Record>
       <Key>InputTextTradingTitle</Key>
-      <Value>Trading Terminal</Value>
+      <Value>Terminal de Negociação</Value>
     </Record>
     <Record>
       <Key>TraderElectronics</Key>
-      <Value>TechTree Electronics</Value>
+      <Value>TechTree Electrônicos</Value>
     </Record>
     <Record>
       <Key>TraderOrganics</Key>
@@ -10497,7 +10497,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>TraderBasic</Key>
-      <Value>Spes'mall Basics</Value>
+      <Value>Spes'mall Básicos</Value>
     </Record>
     <Record>
       <Key>TraderHydraulic</Key>
@@ -10505,7 +10505,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>TraderOre</Key>
-      <Value>MineRiteOres</Value>
+      <Value>Minérios MineRite</Value>
     </Record>
     <Record>
       <Key>TraderMicrowave</Key>
@@ -10513,27 +10513,27 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>TraderChemistry</Key>
-      <Value>Chem Lab</Value>
+      <Value>Lab. Quim.</Value>
     </Record>
     <Record>
       <Key>TraderExotics</Key>
-      <Value>ExoTech</Value>
+      <Value>ExóticosTech</Value>
     </Record>
     <Record>
       <Key>TraderPaint</Key>
-      <Value>Color Corp Paints</Value>
+      <Value>Color Corp Tintas</Value>
     </Record>
     <Record>
       <Key>TraderTool</Key>
-      <Value>Tool Corp</Value>
+      <Value>Ferramentas Corp</Value>
     </Record>
     <Record>
       <Key>TraderSecurity</Key>
-      <Value>Hall Corp Security</Value>
+      <Value>Segurança Hall Corp</Value>
     </Record>
     <Record>
       <Key>TraderOther</Key>
-      <Value>Kolders' Assorted Goods</Value>
+      <Value>Kolders' Outros</Value>
     </Record>
     <Record>
       <Key>TraderGas</Key>
@@ -10541,15 +10541,15 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>TraderCustom</Key>
-      <Value>Spes'mall</Value>
+      <Value>Custom Mall</Value>
     </Record>
     <Record>
       <Key>ButtonContact</Key>
-      <Value>Contact</Value>
+      <Value>Contato</Value>
     </Record>
     <Record>
       <Key>LoadBackupsTitle</Key>
-      <Value>Load Backup</Value>
+      <Value>Carregar backup</Value>
     </Record>
     <Record>
       <Key>BackupMenuFileListTitle</Key>
@@ -10557,7 +10557,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>Experiments</Key>
-      <Value>Experiments</Value>
+      <Value>Experimentos</Value>
     </Record>
     <Record>
       <Key>OcclusionTickSpeed</Key>
@@ -10569,31 +10569,31 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>LogicTypeTargetX</Key>
-      <Value>The target position in X dimension in world coordinates</Value>
+      <Value>A posição alvo na dimensão X em coordenadas mundiais</Value>
     </Record>
     <Record>
       <Key>LogicTypeTargetY</Key>
-      <Value>The target position in Y dimension in world coordinates</Value>
+      <Value>A posição alvo na dimensão Y em coordenadas mundiais</Value>
     </Record>
     <Record>
       <Key>LogicTypeTargetZ</Key>
-      <Value>The target position in Z dimension in world coordinates</Value>
+      <Value>A posição alvo na dimensão Z em coordenadas mundiais</Value>
     </Record>
     <Record>
       <Key>LogicTypeSettingInputHash</Key>
-      <Value>The input setting for the device</Value>
+      <Value>A configuração de entrada para o dispositivo</Value>
     </Record>
     <Record>
       <Key>LogicTypeSettingOutputHash</Key>
-      <Value>The output setting for the device</Value>
+      <Value>A configuração de saída para o dispositivo</Value>
     </Record>
     <Record>
       <Key>ButtonDepart</Key>
-      <Value>Depart</Value>
+      <Value>Partir</Value>
     </Record>
     <Record>
       <Key>SettingsShowSlotTooltips</Key>
-      <Value>Show Slot Tooltips</Value>
+      <Value>Mostrar dicas de ferramentas de slot</Value>
     </Record>
     <Record>
       <Key>SettingsWorldOrigin</Key>
@@ -10601,31 +10601,31 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>GameMenuButtonPause</Key>
-      <Value>Pause</Value>
+      <Value>Pausar</Value>
     </Record>
     <Record>
       <Key>PromptPauseTitle</Key>
-      <Value>Pause</Value>
+      <Value>Pausar</Value>
     </Record>
     <Record>
       <Key>PromptPauseBody</Key>
-      <Value>Paused game play</Value>
+      <Value>Jogo pausado</Value>
     </Record>
     <Record>
       <Key>PromptButtonLeave</Key>
-      <Value>Leave Session</Value>
+      <Value>Sair da sessão</Value>
     </Record>
     <Record>
       <Key>PromptResumeButton</Key>
-      <Value>Resume</Value>
+      <Value>Continuar</Value>
     </Record>
     <Record>
       <Key>BuildTimeMultiplier</Key>
-      <Value>Build Time Mulitplier</Value>
+      <Value>Multiplicador de tempo de construção</Value>
     </Record>
     <Record>
       <Key>MaterialCostMultiplier</Key>
-      <Value>Material Cost Multiplier</Value>
+      <Value>Multiplicador de custo de material</Value>
     </Record>
     <Record>
       <Key>EnergyCostMultiplier</Key>
@@ -11669,7 +11669,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>ScriptCommandLabel</Key>
-      <Value>DEPRECATED</Value>
+      <Value>DESCONTINUADO</Value>
     </Record>
     <Record>
       <Key>ScriptCommandPeek</Key>
