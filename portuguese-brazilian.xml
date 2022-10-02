@@ -292,7 +292,7 @@
     </Record>
     <Record>
       <Key>Take</Key>
-      <Value>Levar</Value>
+      <Value>Pegar</Value>
     </Record>
     <Record>
       <Key>Build</Key>
@@ -1195,7 +1195,7 @@ Cuidado para não pressurizar além de 10MPa ou pode fazer 'kabum'.</Description
     </RecordThing>
     <RecordThing>
       <Key>ItemLiquidTankStorage</Key>
-      <Value>Kit (Armazenador de Cilindros de Líquidos)</Value>
+      <Value>Kit (Armazenador de Cilindros - Líquidos)</Value>
       <Description>Este kit produz um {THING:ItemLiquidTankStorage} para reabastecer um {THING:ItemLiquidCanisterEmpty}.</Description>
     </RecordThing>
     <RecordThing>
@@ -2072,7 +2072,7 @@ O dispositivo, no entanto, provou ser indispensável para sistemas atmosféricos
     </RecordThing>
     <RecordThing>
       <Key>StructureFlashingLight</Key>
-      <Value>Luz Piscante</Value>
+      <Value>Luz Rotativa</Value>
       <Description>Poucos objetos ou ideias são nomeados de forma tão clara e transparente quanto a Flashing Light, embora os fãs de precisão escrupulosa sejam conhecidos por se referirem a ela por seu título oficial completo: 'Default Yellow Flashing Light'.</Description>
     </RecordThing>
     <RecordThing>
@@ -2528,7 +2528,7 @@ Ao contrário do mais avançado {THING:StructureFornace}, o forno a arco não po
     </RecordThing>
     <RecordThing>
       <Key>ItemKitPipe</Key>
-      <Value>Kit (Tubo)</Value>
+      <Value>Kit (Tubos)</Value>
     </RecordThing>
     <RecordThing>
       <Key>CartridgeElectronicReader</Key>
@@ -2637,7 +2637,7 @@ Ao contrário do mais avançado {THING:StructureFornace}, o forno a arco não po
     <RecordThing>
       <Key>StructureElectronicsPrinter</Key>
       <Value>Impressora de Componenetes Eletrônico</Value>
-      <Description>A impressora de componentes eletrônico criará qualquer peça {LINK:ElectronicPage;electronic} que você precisar. De placas de circuito e dispositivos eletrônicos a painéis solares. A escolha é sua. Atualize o dispositivo usando um {THING:ElectronicPrinterMod} para obter receitas adicionais e velocidades de processamento mais rápidas.</Description>
+      <Description>A impressora de componentes eletrônicos criará qualquer peça {LINK:ElectronicPage;electronic} que você precisar. De placas de circuito e dispositivos eletrônicos a painéis solares. A escolha é sua. Atualize o dispositivo usando um {THING:ElectronicPrinterMod} para obter receitas adicionais e velocidades de processamento mais rápidas.</Description>
     </RecordThing>
     <RecordThing>
       <Key>ItemVolatiles</Key>
@@ -2708,7 +2708,7 @@ Altamente sensível à temperatura, o oxite começará a derreter assim que for 
     </RecordThing>
     <RecordThing>
       <Key>ItemKitElectronicsPrinter</Key>
-      <Value>Kit (Impressora de Componentes Eletrônico)</Value>
+      <Value>Kit (Impressora de Componentes Eletrônicos)</Value>
     </RecordThing>
     <RecordThing>
       <Key>ItemKitDoor</Key>
@@ -7594,7 +7594,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>Importar</Value>
+      <Value>Inserir</Value>
     </Record>
     <Record>
       <Key>PressureUp</Key>
