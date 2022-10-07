@@ -7260,7 +7260,7 @@ A ejeção de minério da Centrífuga de Combustão enquanto ela está em altas 
     </Record>
     <Record>
       <Key>LifeSupport</Key>
-      <Value>Suporte a Vida</Value>
+      <Value>Bateria</Value>
     </Record>
     <Record>
       <Key>Filter</Key>
@@ -13000,11 +13000,11 @@ Nota: {GAS:Water} foi anteriormente tratado como um gás, mas um novo sistema pa
     </Record>
     <Record>
       <Key>Backspace</Key>
-      <Value>Retrocesso</Value>
+      <Value>Backspace</Value>
     </Record>
     <Record>
       <Key>Tab</Key>
-      <Value>Tabulação</Value>
+      <Value>Tab</Value>
     </Record>
     <Record>
       <Key>Clear</Key>
@@ -13020,7 +13020,7 @@ Nota: {GAS:Water} foi anteriormente tratado como um gás, mas um novo sistema pa
     </Record>
     <Record>
       <Key>Space</Key>
-      <Value>Barra de espaços</Value>
+      <Value>Barra de Espaço</Value>
     </Record>
     <Record>
       <Key>Exclaim</Key>
